@@ -1,0 +1,3223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- citynames_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:29:32 AM -->
+<GameData>
+	<LocalizedText>
+
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BLANK">
+			<Text>Горад|горада|гораду|горад|горадом|горадзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!--America-->
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_WASHINGTON">
+			<Text>Вашынгтон|Вашынгтона|Вашынгтону|Вашынгтон|Вашынгтонам|Вашынгтоне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NEW_YORK">
+			<Text>Нью-Ёрк|Нью-Ёрка|Нью-Ёрку|Нью-Ёрк|Нью-Ёркам|Нью-Ёрку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PHILADELPHIA">
+			<Text>Філадэльфія|Філадэльфіі|Філадэльфіі|Філадэльфію|Філадельфяй|Філадэльфіі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BOSTON">
+			<Text>Бостан|Бостана|Бостану|Бостан|Бостанам|Бостане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BALTIMORE">
+			<Text>Балтымор|Балтымора|Балтымору|Балтымор|Балтыморам|Балтыморы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CHARLESTON">
+			<Text>Чарльстон|Чарльстона|Чарльстону|Чарльстон|Чарльстонам|Чарльстоне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NEW_ORLEANS">
+			<Text>Новы Арлеан|Новага Арлеана|Новаму Арлеану|Новы Арлеан|Новым Арлеанам|Новым Арлеане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CINCINNATI">
+			<Text>Сынцынаці|Сынцынаці|Сынцынаці|Сынцынаці|Сынцынаці|Сынцынаці</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LOS_ANGELES">
+			<Text>Лос Анджэлес|Лос Анджэлеса|Лос Анджэлесу|Лос Анджэлес|Лос Анджэлесам|Лос Анджэлесе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ST_LOUIS">
+			<Text>Сэнт Луіс|Сэнт Луіса|Сэнт Луісу|Сэнт Луіс|Сэнт Луісам|Сэнт Луісу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CHICAGO">
+			<Text>Чыкага|Чыкага|Чыкага|Чыкага|Чыкага|Чыкага</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BUFFALO">
+			<Text>Бафало|Бафала|Бафалу|Бафало|Бафалом|Бафале</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SAN_FRANCISCO">
+			<Text>Сан Францыско|Сан Францыска|Сан Францыску|Сан Францыско|Сан Францыском|Сан-Францыске</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CLEVELAND">
+			<Text>Кліўлэнд|Кліўлэнда|Кліўлэнду|Кліўлэнд|Кліўлэндам|Кліўлэндзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_DETROIT">
+			<Text>Дэтройт|Дэтройта|Дэтройту|Дэтройт|Дэтройтам|Дэтройце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HOUSTON">
+			<Text>Х'юстан|Х'юстана|Х'юстану|Х'юстан|Х'юстанам|Х'юстане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ATLANTA">
+			<Text>Атланта|Атланты|Атланце|Атланту|Атлантай|Атланце</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_DALLAS">
+			<Text>Далас|Даласа|Даласу|Далас|Даласам|Даласе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SAN_DIEGO">
+			<Text>Сан Дыего|Сан Дыега|Сан Дыегу|Сан Дыего|Сан Дыегом|Сан Дыеге</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PHOENIX">
+			<Text>Фенікс|Фенікса|Феніксу|Фенікса|Феніксам|Феніксу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SAN_ANTONIO">
+			<Text>Сан Антоніо|Сан Антонія|Сан Антонію|Сан Антоніо|Сан Антоніем|Сан Антоніі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SAN_JOSE">
+			<Text>Сан Хосэ|Сан Хосэ|Сан Хосэ|Сан Хосэ|Сан Хосэ|Сан Хосэ</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SEATTLE">
+			<Text>Сіэтл|Сіэтла|Сіэтлу|Сіэтл|Сіэтлам|Сіэтле</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PORTLAND">
+			<Text>Портлэнд|Портлэнда|Портлэнду|Портлэнд|Портлэндам|Портлэндзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MIAMI">
+			<Text>Маямі|Маямі|Маямі|Маямі|Маямі|Маямі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_DENVER">
+			<Text>Дэнвер|Дэнвера|Дэнверу|Дэнвер|Дэнверам|Дэнверы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_JACKSONVILLE">
+			<Text>Джэксанвіль|Джэксанвіля|Джэксанвілю|Джэксанвіль|Джэксанвілем|Джэксанвілю</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KANSAS_CITY">
+			<Text>Канзас Сіці|Канзаса Сіці|Канзасу Сіці|Канзас Сіці|Канзасам Сіці|Канзасе Сіці</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_RICHMOND">
+			<Text>Рычмонд|Рычмонда|Рычмонду|Рычмонд|Рычмондом|Рычмондзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PITTSBURGH">
+			<Text>Пітсбург|Пітсбурга|Пітсбургу|Пітсбург|Пітсбургам|Пітсбургу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LAS_VEGAS">
+			<Text>Лас Вегас|Лас Вегаса|Лас Вегасу|Лас Вегас|Лас Вегасам|Лас Вегасе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ALBUQUERQUE">
+			<Text>Альбукёкі|Альбукёкі|Альбукёкі|Альбукёкі|Альбукёкі|Альбукёкі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MINNEAPOLIS">
+			<Text>Мінеаполіс|Мінеаполіса|Мінеаполісу|Мінеаполіс|Мінеаполісам|Мінеаполісе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SPARKS">
+			<Text>Спаркс|Спаркса|Спарксу|Спаркс|Спарксам|Спарксе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NASHVILLE">
+			<Text>Нэшвіль|Нэшвіля|Нэшвілю|Нэшвіль|Нэшвілем|Нэшвілю</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SAN_JUAN">
+			<Text>Сан Хуан|Сан Хуана|Сан Хуану|Сан Хуан|Сан Хуанам|Сан Хуане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PROVIDENCE">
+			<Text>Провідэнс|Провідэнса|Провідэнсу|Провідэнс|Провідэнсам|Провідэнсе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SPRINGFIELD">
+			<Text>Спрынгфілд|Спрынгфілда|Спрынгфілду|Спрынгфілд|Спрынгфілдам|Спрынгфілдзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BOISE">
+			<Text>Бойзі|Бойзі|Бойзі|Бойзі|Бойзі|Бойзі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CENTRALIA">
+			<Text>Цэнтралія|Цэнтраліі|Цэнтраліі|Цэнтралію|Цэнтраліяй|Цэнтраліі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!-- Arabia -->
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CAIRO">
+			<Text>Каір|Каіра|Каіру|Каір|Каірам|Каіры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MECCA">
+			<Text>Мека|Мекі|Мецы|Меку|Мекай|Мецы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MEDINA">
+			<Text>Медына|Медыны|Медыне|Медыну|Медынай|Медыне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_DAMASCUS">
+			<Text>Дамаск|Дамаска|Дамаску|Дамаск|Дамаскам|Дамаску</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BAGHDAD">
+			<Text>Багдад|Багдада|Багдаду|Багдад|Багдадам|Багдадзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ALEPPO">
+			<Text>Алепо|Алепо|Алепо|Алепо|Алепо|Алепо</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SANAA">
+			<Text>Сана|Сана|Сана|Сана|Сана|Сана</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HATTIN">
+			<Text>Хацін|Хаціна|Хаціну|Хацін|Хацінам|Хаціну</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_DAMIETTA">
+			<Text>Дум'ят|Дум'ята|Дум'яту|Дум'ят|Дум'ятам|Дум'яце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HOMS">
+			<Text>Хомс|Хомса|Хомсу|Хомс|Хомсам|Хомсе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_JEDDAH">
+			<Text>Джэда|Джэды|Джэдзе|Джэду|Джэдай|Джэдзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HALAB">
+			<Text>Халаб|Халаба|Халабу|Халаб|Халабам|Халабе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ADEN">
+			<Text>Адэн|Адэна|Адэну|Адэн|Адэнам|Адэне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BARQAH">
+			<Text>Барка|Баркі|Барцы|Барку|Баркай|Барцы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_AR_RAQQAH">
+			<Text>Ар-Рака|Ар-Ракі|Эр-Раке|Эр-Раку|Эр-Ракай|Эр-Раке</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TRIPOLI">
+			<Text>Трыпалі|Трыпалі|Трыпалі|Трыпалі|Трыпалі|Трыпалі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_AYDHAB">
+			<Text>Айтаб|Айтаба|Айтабу|Айтаб|Айтабам|Айтабе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TAIF">
+			<Text>Таіф|Таіфа|Таіфу|Таіф|Таіфом|Таіфе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TABUK">
+			<Text>Тубук|Тубука|Тубуку|Тубук|Тубуком|Тубуке</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HAMA">
+			<Text>Хама|Хамы|Хаме|Хаму|Хамой|Хаме</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_AL_BAB">
+			<Text>Аль-Баб|Аль-Баба|Аль-Бабу|Аль-Баб|Аль-Бабам|Аль-Бабе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SUEZ">
+			<Text>Суэз|Суэза|Суэзу|Суэз|Суэзам|Суэзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_AQABA">
+			<Text>Акаба|Акабы|Акабе|Акабу|Акабай|Акабе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TAIZZ">
+			<Text>Таіз|Таіза|Таізу|Таіз|Таізам|Таізе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_AL_QUNFUDHAH">
+			<Text>Аль Куфуда|Аль Куфуды|Аль Куфудзе|Аль Куфуду|Аль Куфудай|Аль Куфудзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ZABID">
+			<Text>Забід|Забіда|Забіду|Забід|Забідам|Забідзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BILBEIS">
+			<Text>Більбэйс|Більбэйса|Більбэйсу|Більбэйс|Більбэйсам|Більбэйсе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_AL_KARAK">
+			<Text>Аль Карак|Аль Карака|Аль Караку|Аль Карак|Аль Караком|Аль Караке</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_AYLA">
+			<Text>Эйла|Эйлы|Эйле|Эйлу|Эйлай|Эйле</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_IRBID">
+			<Text>Ірбід|Ірбіда|Ірбіду|Ірбід|Ірбідам|Ірбідзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!-- Brazil -->
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_RIO_DE_JANEIRO">
+			<Text>Рыа дэ Жанэйра|Рыа дэ Жанэйра|Рыа дэ Жанэйра|Рыа дэ Жанэйра|Рыа дэ Жанэйра|Рыа дэ Жанэйра</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SAO_PAULO">
+			<Text>Сан Паўло|Сан Паўла|Сан Паўлу|Сан Паўло|Сан Паўлом|Сан Паўле</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SALVADOR">
+			<Text>Сальвадор дэ Байа|Сальвадора дэ Байі|Сальвадору дэ Байе|Сальвадора дэ Байю|Сальвадорам дэ Байай|Сальвадоре дэ Байе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BRASILIA">
+			<Text>Бразілія|Бразіліі|Бразіліі|Бразілію|Бразіліяй|Бразіліі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_FORTALEZA">
+			<Text>Фарталеза|Фарталезы|Фарталезе|Фарталезу|Фарталезай|Фарталезе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MANAUS">
+			<Text>Манаўс|Манаўса|Манаўсу|Манаўса|Манаўсам|Манаўсе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CURITIBA">
+			<Text>Курыціба|Курыцібы|Курыцібе|Курыцібу|Курыцібай|Курыцібе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_RECIFE">
+			<Text>Рэсіфэ|Рэсіфэ|Рэсіфэ|Рэсіфэ|Рэсіфэ|Рэсіфэ</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PORTO_ALEGRE">
+			<Text>Порто Алегра|Порто Алегра|Порто Алегра|Порто Алегра|Порто Алегра|Порто Алегра</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BELEM">
+			<Text>Белем|Белема|Белему|Белем|Белемом|Белеме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_GUARULHOS">
+			<Text>Гарулоўс|Гарулоўса|Гарулоўсу|Гарулоўс|Гарулоўсам|Гарулоўсе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NATAL">
+			<Text>Нэтал|Нэтала|Нэталу|Нэтал|Нэталам|Нэтале</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CAMPINAS">
+			<Text>Кампінас|Кампінаса|Кампінасу|Кампінаса|Кампінасам|Кампінасе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SAO_LUIS">
+			<Text>Сан Луіс|Сан Луіса|Сан Луісу|Сан Луіса|Сан Луісом|Сан Луісе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MACEIO">
+			<Text>Мэйсіо|Мэйсіо|Мэйсіо|Мэйсіо|Мэйсіо|Мэйсіо</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_VICTORIA">
+			<Text>Вікторыя|Вікторыі|Вікторыі|Вікторыю|Вікторыяй|Вікторыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BELO_HORIZONTE">
+			<Text>Бела Арізонта|Бела Арізонты|Бела Арізонце|Бела Арізонту|Бела Арізонтай|Бела Арізонце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_GOIANIA">
+			<Text>Гояніо|Гояніа|Гоянію|Гояніо|Гояніей|Гояніі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_DUQUE_DE_CAXIAS">
+			<Text>Дюк дэ Каксіас|Дюка дэ Каксіаса|Дюку дэ Каксіасу|Дюка дэ Каксіаса|Дюкам дэ Каксіасам|Дюке дэ Каксіасе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CAMPO_GRANDE">
+			<Text>Кампо Грандэ|Кампо Грандэ|Кампо Грандэ|Кампо Грандэ|Кампо Грандэ|Кампо Грандэ</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PARNAIBA">
+			<Text>Панаіба|Панаібы|Панаібе|Панаібу|Панаібай|Панаібе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_FLORIANOPOLIS">
+			<Text>Флоріанополіс|Флоріанополіса|Флоріанополісу|Флоріанополіс|Флоріанополісом|Флоріанополісе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NOVA_IGUACU">
+			<Text>Нова Ігуаку|Нова Ігуаку|Нова Ігуаку|Нова Ігуаку|Нова Ігуаку|Нова Ігуаку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SAO_BERNARDO_DO_CAMPO">
+			<Text>Сан Бернардо ду Кампо|Сан Бернардо ду Кампо|Сан Бернардо ду Кампо|Сан Бернардо ду Кампо|Сан Бернардо ду Кампо|Сан Бернардо ду Кампо</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_JOAO_PESSOA">
+			<Text>Жуа Песоа|Жуа Песоа|Жуа Песоа|Жуа Песоа|Жуа Песоа|Жуа Песоа</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_OSASCO">
+			<Text>Озаску|Озаску|Озаску|Озаску|Озаску|Озаску</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_JABOATAO_DOS_GUARARAPES">
+			<Text>Джабуато дос Гарарэйпс|Джабуато дос Гарарэйпса|Джабуато дос Гарарэйпсу|Джабуато дос Гарарэйпса|Джабуато дос Гарарэйпсом|Джабуато дос Гарарэйпсе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SAO_JOSE_DOS_CAMPOS">
+			<Text>Сан Хосэ дос Кампос|Сан Хосэ дос Кампоса|Сан Хосэ дос Кампосу|Сан Хосэ дос Кампоса|Сан Хосэ дос Кампосом|Сан Хосэ дос Кампосе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CONTAGEM">
+			<Text>Контагем|Контагема|Контагему|Контагем|Контагемам|Контагеме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_UBERLANDIA">
+			<Text>Уберландзія|Уберландзіі|Уберландзіі|Уберландзію|Уберландзіяй|Уберландзіі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ARACAJU">
+			<Text>Аракажу|Аракажу|Аракажу|Аракажу|Аракажу|Аракажу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CUIABA">
+			<Text>Куяба|Куябы|Куябе|Куябу|Куябой|Куябе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_FEIRA_DE_SANTANA">
+			<Text>Фэйра дэ Сантана|Фэйры дэ Сантаны|Фэйре дэ Сантане|Фэйру дэ Сантану|Фэйрай дэ Сантанай|Фэйре дэ Сантане</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_JUIZ_DE_FORA">
+			<Text>Джуіз дэ Фора|Джуіза дэ Форы|Джуізу дэ Форе|Джуіза дэ Фору|Джуізом дэ Форой|Джуізе дэ Форе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_JOINVILLE">
+			<Text>Джоінвіль|Джоінвіля|Джоінвілю|Джоінвіль|Джоінвілем|Джоінвіле</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MACAPA">
+			<Text>Макапа|Макапы|Макапе|Макапу|Макапай|Макапе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_JUNDIAI">
+			<Text>Джондуай|Джондуая|Джондуаю|Джондуая|Джондуаем|Джондуае</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!-- China-->
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_XIAN">
+			<Text>Сіань|Сіаня|Сіаню|Сіань|Сіанем|Сіаню</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BEIJING">
+			<Text>Пекін|Пекіна|Пекіну|Пекін|Пекіном|Пекіне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TAIYUAN">
+			<Text>Тайюань|Тайюаня|Тайюаню|Тайюаня|Тайюанем|Тайюаню</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CHENGDU">
+			<Text>Чэнду|Чэнду|Чэнду|Чэнду|Чэнду|Чэнду</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_JIAODONG">
+			<Text>Джаодонг|Джаодонга|Джаодонгу|Джаодонг|Джаодонгом|Джаодонге</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CHANGSHA">
+			<Text>Чанша|Чаншы|Чанше|Чаншу|Чаншой|Чанше</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LONGXI">
+			<Text>Лонгшы|Лонгшы|Лонгшы|Лонгшы|Лонгшы|Лонгшы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_GUANGZHOU">
+			<Text>Гуангдзоў|Гуангдзоў|Гуангдзоў|Гуангдзоў|Гуангдзоў|Гуангдзоў</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HANDAN">
+			<Text>Хандан|Хандана|Хандану|Хандан|Ханданом|Хандане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SHENYANG">
+			<Text>Шэньян|Шэньяна|Шэньяну|Шэньян|Шэньяном|Шэньяне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SHANGHAI">
+			<Text>Шанхай|Шанхая|Шанхаю|Шанхая|Шанхаем|Шанхае</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_WUHAN">
+			<Text>Вухан|Вухана|Вухану|Вухан|Вуханам|Вухане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_YIYANG">
+			<Text>Іянг|Іянга|Іянгу|Іянг|Іянгом|Іянге</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_XIURONG">
+			<Text>Зіюрон|Зіюрона|Зіюрону|Зіюрон|Зіюроном|Зіюроне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CHEN">
+			<Text>Чэн|Чэна|Чэну|Чэн|Чэном|Чэне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_XINGZHOU">
+			<Text>Зінгзоў|Зінгзоў|Зінгзоў|Зінгзоў|Зінгзоў|Зінгзоў</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_QUXIAN">
+			<Text>Кьюжан|Кьюжана|Кьюжану|Кьюжан|Кьюжаном|Кьюжане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NANJING">
+			<Text>Нанджін|Нанджіна|Нанджіну|Нанджін|Нанджіном|Нанджіне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LANGFANG">
+			<Text>Лангфан|Лангфана|Лангфану|Лангфан|Лангфаном|Лангфане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LINZI">
+			<Text>Лінзі|Лінзі|Лінзі|Лінзі|Лінзі|Лінзі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_JIUJIANG">
+			<Text>Джіюджанг|Джіюджанга|Джіюджангу|Джіюджанг|Джіюджангам|Джіюджанге</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KAIFENG">
+			<Text>Кайфэн|Кайфэна|Кайфэну|Кайфэн|Кайфэном|Кайфэне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_XUZHOU">
+			<Text>Зюджоў|Зюджоў|Зюджоў|Зюджоў|Зюджоў|Зюджоў</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HEFEI">
+			<Text>Хэфэй|Хэфэя|Хэфэю|Хэфэя|Хэфэем|Хэфэе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_XINZHENG">
+			<Text>Шунджэн|Шунджэна|Шунджэну|Шунджэн|Шунджэном|Шунджэне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LUAN">
+			<Text>Люан|Люана|Люану|Люан|Люаном|Люане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_QUFU">
+			<Text>Куфу|Куфу|Куфу|Куфу|Куфу|Куфу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_JIANGZHOU">
+			<Text>Джангзоў|Джангзоў|Джангзоў|Джангзоў|Джангзоў|Джангзоў</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LUOYANG">
+			<Text>Луаўян|Луаўяна|Луаўяну|Луаўян|Луаўянам|Луаўяне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_YINGCHUAN">
+			<Text>Енчуан|Енчуана|Енчуану|Енчуан|Енчуанам|Енчуане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!-- Egypt-->
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_RA_KEDET">
+			<Text>Александрыя|Александрыі|Александрыі|Александрыю|Александрыяй|Александрыі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_THEBES">
+			<Text>Фівы|Фівы|Фівы|Фівы|Фівы|Фівы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MEMPHIS">
+			<Text>Мэмфіс|Мэмфіса|Мэмфісу|Мэмфіс|Мэмфісам|Мэмфісе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_AKHETATEN">
+			<Text>Акхетатэн|Акхетатэна|Акхетатэну|Акхетатэн|Акхетатэном|Акхетатэне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SHEDET">
+			<Text>Шэдэт|Шэдэта|Шэдэту|Шэдэт|Шэдэтам|Шэдэце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_IWNW">
+			<Text>Іўн|Іўна|Іўну|Іўн|Іўнам|Іўне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SWENETT">
+			<Text>Свінэт|Свінэта|Свінэту|Свінэт|Свінэтам|Свінэце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NEKHEN">
+			<Text>Нэкхэн|Нэкхэна|Нэкхэну|Нэкхэн|Нэкхэнам|Нэкхэне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SAIS">
+			<Text>Сэйс|Сэйса|Сэйсу|Сэйс|Сэйсам|Сэйсе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ABYDOS">
+			<Text>Абідос|Абідоса|Абідосу|Абідос|Абідосам|Абідосе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_APU">
+			<Text>Апу|Апу|Апу|Апу|Апу|Апу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_EDFU">
+			<Text>Эдфу|Эдфу|Эдфу|Эдфу|Эдфу|Эдфу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MENDES">
+			<Text>Мэндэс|Мэндэса|Мэндэсу|Мэндэс|Мэндэсам|Мэндэсе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SENA">
+			<Text>Сэна|Сэны|Сэне|Сэну|Сэнай|Сэне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CYRENE">
+			<Text>Кірэна|Кірэны|Кірэне|Кірэну|Кірэнай|Кірэне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BUTO">
+			<Text>Буто|Бута|Буту|Буто|Бутом|Буце</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_GIZA">
+			<Text>Гіза|Гізы|Гізе|Гізу|Гізай|Гізе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KHMUN">
+			<Text>Кхмун|Кхмуна|Кхмуну|Кхмун|Кхмунам|Кхмуне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ASYUT">
+			<Text>Асайут|Асайута|Асайуту|Асайут|Асайутам|Асайуце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PITHOM">
+			<Text>Піфом|Піфома|Піфому|Піфом|Піфомам|Піфоме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BUSIRIS">
+			<Text>Бусірыс|Бусірыса|Бусірысу|Бусірыс|Бусірысам|Бусірысе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PIEMRO">
+			<Text>П'емра|П'емры|П'емре|П'емру|П'емрай|П'емре</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ORYX">
+			<Text>Орыкс|Орыкса|Орыксу|Орыкс|Орыксам|Орыксе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HUT_HERYIB">
+			<Text>Хат-Херыб|Хат-Херыба|Хат-Херыбу|Хат-Херыб|Хат-Херыбам|Хат-Херыбе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TANIS">
+			<Text>Таніс|Таніса|Танісу|Таніс|Танісам|Танісе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PER_BAST">
+			<Text>Пер-Баст|Пер-Баста|Пер-Басту|Пер-Баст|Пер-Бастам|Пер-Басце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_THIS">
+			<Text>Зіс|Зіса|Зісу|Зіс|Зісам|Зісе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ARSINOE">
+			<Text>Арсіноя|Арсіноі|Арсіноі|Арсіною|Арсінояй|Арсіноі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TJEBNUTJER">
+			<Text>Тэбнутэр|Тэбнутэра|Тэбнутэру|Тэбнутэр|Тэбнутэрам|Тэбнутэры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_AKHMIM">
+			<Text>Акхмім|Акхміма|Акхміму|Акхмім|Акхмімам|Акхміме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KARNAK">
+			<Text>Карнак|Карнака|Карнаку|Карнак|Карнакам|Карнаке</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!-- England-->
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LONDON">
+			<Text>Лондан|Лондана|Лондану|Лондан|Лонданом|Лондане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LIVERPOOL">
+			<Text>Ліверпуль|Ліверпуля|Ліверпулю|Ліверпуля|Ліверпулем|Ліверпулю</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MANCHESTER">
+			<Text>Манчэстар|Манчэстара|Манчэстару|Манчэстар|Манчэстарам|Манчэстары</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BIRMINGHAM">
+			<Text>Бірмінгем|Бірмінгема|Бірмінгему|Бірмінгем|Бірмінгемам|Бірмінгеме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LEEDS">
+			<Text>Лідс|Лідса|Лідсу|Лідс|Лідсам|Лідсе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SHEFFIELD">
+			<Text>Шэфілд|Шэфілда|Шэфілду|Шэфілд|Шэфілдам|Шэфілдзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BRISTOL">
+			<Text>Брыстал|Брыстала|Брысталу|Брыстал|Брысталам|Брыстале</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PLYMOUTH">
+			<Text>Плімут|Плімута|Плімуту|Плімут|Плімутам|Плімуце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NEWCASTLE_UPON_TYNE">
+			<Text>Ньюкасл на Тайне|Ньюкасла на Тайне|Ньюкаслу на Тайне|Ньюкасл на Тайне|Ньюкаслам на Тайне|Ньюкасле на Тайне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BRADFORD">
+			<Text>Брэдфорд|Брэдфорда|Брэдфорду|Брэдфорд|Брэдфордам|Брэдфордзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_STOKE_UPON_TRENT">
+			<Text>Сток на Трэнце|Стока на Трэнце|Стоку на Трэнце|Сток на Трэнце|Стокам на Трэнце|Стоке на Трэнце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HULL">
+			<Text>Хал|Хала|Халу|Хал|Халам|Хале</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PORTSMOUTH">
+			<Text>Портсмут|Портсмута|Портсмуту|Портсмут|Портсмутам|Портсмуце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PRESTON">
+			<Text>Прэстан|Прэстана|Прэстану|Прэстан|Прэстанам|Прэстане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SUNDERLAND">
+			<Text>Сандэрленд|Сандэрленда|Сандэрленду|Сандэрленд|Сандэрлендам|Сандэрлендзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BRIGHTON">
+			<Text>Брайтан|Брайтана|Брайтану|Брайтан|Брайтанам|Брайтане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NORWICH">
+			<Text>Норвіч|Норвіча|Норвічу|Норвіч|Норвічам|Норвічы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NOTTINGHAM">
+			<Text>Нотынгем|Нотынгема|Нотынгему|Нотынгем|Нотынгемам|Нотынгеме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_YORK">
+			<Text>Ёрк|Ёрка|Ёрку|Ёрк|Ёркам|Ёрку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LEICESTER">
+			<Text>Лестэр|Лестэра|Лестэру|Лестэра|Лестэрам|Лестэры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BLACKBURN">
+			<Text>Блэкбёрн|Блэкбёрна|Блэкбёрну|Блэкбёрн|Блэкбёрнам|Блэкбёрне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_WOLVERHAMPTON">
+			<Text>Вульверхэмптон|Вульверхэмптона|Вульверхэмптону|Вульверхэмптон|Вульверхэмптонам|Вульверхэмптоне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BATH">
+			<Text>Баз|База|Базу|Баз|Базам|Базе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_COVENTRY">
+			<Text>Ковентры|Ковентры|Ковентры|Ковентры|Ковентры|Ковентры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_EXETER">
+			<Text>Эксэтар|Эксэтара|Эксэтару|Эксэтар|Эксэтарам|Эксэтары</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LINCOLN">
+			<Text>Лінкольн|Лінкольна|Лінкольну|Лінкольна|Лінкольнам|Лінкольне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CANTERBURY">
+			<Text>Кентэрберы|Кентэрберы|Кентэрберы|Кентэрберы|Кентэрберы|Кентэрберы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_IPSWICH">
+			<Text>Іпсвіч|Іпсвіча|Іпсвічу|Іпсвіча|Іпсвічам|Іпсвічы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_DOVER">
+			<Text>Дуўр|Дуўра|Дуўру|Дуўр|Дуўрам|Дуўры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HASTINGS">
+			<Text>Гастынгс|Гастынгса|Гастынгсу|Гастынгс|Гастынгсам|Гастынгсе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_OXFORD">
+			<Text>Оксфард|Оксфарда|Оксфарду|Оксфард|Оксфардам|Оксфардзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SHREWSBURY">
+			<Text>Шрусберы|Шрусберы|Шрусберы|Шрусберы|Шрусберы|Шрусберы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CAMBRIDGE">
+			<Text>Кембрыдж|Кембрыджа|Кембрыджу|Кембрыдж|Кембрыджам|Кембрыджы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NEWCASTLE">
+			<Text>Ньюкасл|Ньюкасла|Ньюкаслу|Ньюкасл|Ньюкаслам|Ньюкасле</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!--France-->
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PARIS">
+			<Text>Парыж|Парыжа|Парыжу|Парыж|Парыжам|Парыжы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LYON">
+			<Text>Ліён|Ліёна|Ліёну|Ліён|Ліёнам|Ліёне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ROUEN">
+			<Text>Руан|Руана|Руану|Руан|Руанам|Руане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BORDEAUX">
+			<Text>Бордо|Бордо|Бордо|Бордо|Бордо|Бордо</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MARSEILLE">
+			<Text>Марсэль|Марсэля|Марсэлю|Марсэля|Марсэлем|Марсэлю</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TOULOUSE">
+			<Text>Тулуза|Тулузы|Тулузе|Тулуза|Тулузай|Тулузе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LA_ROCHELLE">
+			<Text>Ля-Рашэль|Ля-Рашэля|Ля-Рашэлю|Ля-Рашэля|Ля-Рашэлем|Ля-Рашэлю</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_AMBOISE">
+			<Text>Амбуаз|Амбуаза|Амбуазу|Амбуаз|Амбуазам|Амбуазе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NANTES">
+			<Text>Нант|Нанта|Нанту|Нант|Нантам|Нанце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_RENNES">
+			<Text>Рэн|Рэна|Рэну|Рэн|Рэнам|Рэне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CALAIS">
+			<Text>Кэле|Кэле|Кэле|Кэле|Кэле|Кэле</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_RHEIMS">
+			<Text>Рэймс|Рэймса|Рэймсу|Рэймс|Рэймсам|Рэймсе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_AVIGNON">
+			<Text>Авіньён|Авіньёна|Авіньёну|Авіньён|Авіньёнам|Авіньёне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BOULOGNE">
+			<Text>Булёнь|Булёня|Булёню|Булёня|Булёнем|Булёне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_DIJON">
+			<Text>Діжён|Діжёна|Діжёну|Діжён|Діжёнам|Діжёне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MONTPELLIER">
+			<Text>Мунпулье|Мунпулье|Мунпулье|Мунпулье|Мунпулье|Мунпулье</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LIMOGES">
+			<Text>Лімож|Ліможа|Ліможу|Лімож|Ліможам|Ліможы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CHARTRES">
+			<Text>Шартр|Шартра|Шартру|Шартр|Шартрам|Шартры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BLOIS">
+			<Text>Блуа|Блуа|Блуа|Блуа|Блуа|Блуа</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TOURS">
+			<Text>Тур|Тура|Туру|Тур|Турам|Туры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_VERDUN">
+			<Text>Вердан|Вердана|Вердану|Вердан|Верданам|Вердане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_GRENOBLE">
+			<Text>Грунобль|Грунобля|Груноблю|Грунобля|Груноблем|Груноблю</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_JARNAC">
+			<Text>Жарнак|Жарнака|Жарнаку|Жарнак|Жарнакам|Жарнаке</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_AMIENS">
+			<Text>Амьён|Амьёна|Амьёну|Амьён|Амьёнам|Амьёне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TROYES">
+			<Text>Труа|Труа|Труа|Труа|Труа|Труа</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_DIEPPE">
+			<Text>Дзьеп|Дзьепа|Дзьепу|Дзьеп|Дзьепам|Дзьепе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TOUL">
+			<Text>Туль|Туля|Тулю|Туль|Тулем|Туле</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BRIANCON">
+			<Text>Бріянсон|Бріянсона|Бріянсону|Бріянсон|Бріянсонам|Бріянсоне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_METZ">
+			<Text>Мэс|Мэса|Мэсу|Мэс|Мэсам|Мэсе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MONTELIMAR">
+			<Text>Мунтельмар|Мунтельмара|Мунтельмару|Мунтельмар|Мунтельмарам|Мунтельмары</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CARCASSONNE">
+			<Text>Каркасон|Каркасона|Каркасону|Каркасон|Каркасонам|Каркасоне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_GAP">
+			<Text>Гэп|Гэпа|Гэпу|Гэп|Гэпам|Гэпе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ALBA_LA_ROMAINE">
+			<Text>Альбэ-ля-Ромэн|Альбэ-ля-Ромэна|Альбэ-ля-Ромэну|Альбэ-ля-Ромэн|Альбэ-ля-Ромэнам|Альбэ-ля-Ромэне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!--Germany-->
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_AACHEN">
+			<Text>Ахен|Ахена|Ахену|Ахен|Ахенам|Ахене</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_COLOGNE">
+			<Text>Кёльн|Кёльна|Кёльну|Кёльн|Кёльнам|Кёльне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_FRANKFURT">
+			<Text>Франкфурт|Франкфурта|Франкфурту|Франкфурт|Франкфуртам|Франкфурце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MAGDEBURG">
+			<Text>Магдэбург|Магдэбурга|Магдэбургу|Магдэбург|Магдэбургам|Магдэбургу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MAINZ">
+			<Text>Майнц|Майнца|Майнцу|Майнц|Майнцам|Майнцы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HEIDELBERG">
+			<Text>Гейдэльберг|Гейдэльберга|Гейдэльбергу|Гейдэльберг|Гейдэльбергам|Гейдэльбергу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TRIER">
+			<Text>Трыер|Трыера|Трыеру|Трыер|Трыерам|Трыеры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BERLIN">
+			<Text>Берлін|Берліна|Берліну|Берлін|Берлінам|Берліне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ULM">
+			<Text>Ульм|Ульма|Ульму|Ульм|Ульмам|Ульме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HAMBURG">
+			<Text>Гамбург|Гамбурга|Гамбургу|Гамбург|Гамбургам|Гамбургу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_DORTMUND">
+			<Text>Дортмунд|Дортмунда|Дортмунду|Дортмунд|Дортмундам|Дортмундзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NUREMBERG">
+			<Text>Нюрнберг|Нюрнберга|Нюрнбергу|Нюрнберг|Нюрнбергам|Нюрнбергу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BREMEN">
+			<Text>Брэмен|Брэмена|Брэмену|Брэмен|Брэменам|Брэмене</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_AUGSBURG">
+			<Text>Аўгсбург|Аўгсбурга|Аўгсбургу|Аўгсбург|Аўгсбургам|Аўгсбургу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MUNSTER">
+			<Text>Мюнстар|Мюнстара|Мюнстару|Мюнстар|Мюнстарам|Мюнстары</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_REGENSBURG">
+			<Text>Рэгенсбург|Рэгенсбурга|Рэгенсбургу|Рэгенсбург|Рэгенсбургам|Рэгенсбургу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ERFURT">
+			<Text>Эрфурт|Эрфурта|Эрфурту|Эрфурт|Эрфуртам|Эрфурце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LUBECK">
+			<Text>Любек|Любека|Любеку|Любек|Любекам|Любеке</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_FREIBURG">
+			<Text>Фрайбург|Фрайбурга|Фрайбургу|Фрайбург|Фрайбургам|Фрайбургу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_WURZBURG">
+			<Text>Вюрцбург|Вюрцбурга|Вюрцбургу|Вюрцбург|Вюрцбургам|Вюрцбургу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HANOVER">
+			<Text>Гановер|Гановера|Гановеру|Гановер|Гановерам|Гановеры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ROSTOCK">
+			<Text>Росток|Ростока|Ростоку|Росток|Ростокам|Ростоке</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SCHWERIN">
+			<Text>Шверын|Шверына|Шверыну|Шверын|Шверынам|Шверыне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LEIPZIG">
+			<Text>Лейпцыг|Лейпцыга|Лейпцыгу|Лейпцыг|Лейпцыгам|Лейпцыгу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BONN">
+			<Text>Бон|Бона|Бону|Бон|Бонам|Боне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ESSEN">
+			<Text>Эсен|Эсена|Эсену|Эсен|Эсенам|Эсене</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_STUTTGART">
+			<Text>Штутгарт|Штутгарта|Штутгарту|Штутгарт|Штутгартам|Штутгарце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_DRESDEN">
+			<Text>Дрэздэн|Дрэздэна|Дрэздэну|Дрэздэн|Дрэздэнам|Дрэздэне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_DUSSELDORF">
+			<Text>Дзюсельдорф|Дзюсельдорфа|Дзюсельдорфу|Дзюсельдорф|Дзюсельдорфам|Дзюсельдорфе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_WORMS">
+			<Text>Вормс|Вормса|Вормсу|Вормс|Вормсам|Вормсе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_POTSDAM">
+			<Text>Патсдам|Патсдама|Патсдаму|Патсдам|Патсдамам|Патсдаме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!--Greece-->
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ATHENS">
+			<Text>Афіны|Афін|Афінам|Афіны|Афінамі|Афінах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SPARTA">
+			<Text>Спарта|Спарты|Спарце|Спарту|Спартай|Спарце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CORINTH">
+			<Text>Карынф|Карынфа|Карынфу|Карынф|Карынфам|Карынфе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_EPHESUS">
+			<Text>Эфес|Эфеса|Эфесу|Эфес|Эфесам|Эфесе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ARGOS">
+			<Text>Аргос|Аргоса|Аргосу|Аргос|Аргосам|Аргосе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KNOSSOS">
+			<Text>Кнос|Кноса|Кносу|Кнос|Кносам|Кносе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MYCENAE">
+			<Text>Мікены|Мікенаў|Мікенам|Мікены|Мікенамі|Мікенах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PHARSALOS">
+			<Text>Фарсала|Фарсалы|Фарсале|Фарсалу|Фарсалай|Фарсале</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_RHODES">
+			<Text>Родас|Родаса|Родасу|Родас|Родасам|Родасее</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_OLYMPIA">
+			<Text>Алімпія|Алімпіі|Алімпіі|Алімпію|Алімпіяй|Алімпіі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ERETRIA">
+			<Text>Эрэтрыя|Эрэтрыі|Эрэтрыі|Эрэтрыю|Эрэтрыяй|Эрэтрыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PERGAMON">
+			<Text>Пергам|Пергама|Пергаму|Пергам|Пергамам|Пергаме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MILETOS">
+			<Text>Мілет|Мілета|Мілету|Мілет|Мілетам|Мілету</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MEGARA">
+			<Text>Мегара|Мегары|Мегары|Мегару|Мегарай|Мегары</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PHOCAEA">
+			<Text>Фокея|Фокеі|Фокеі|Фокею|Фокеяй|Фокеі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SICYON">
+			<Text>Сікіён|Сікіёна|Сікіёну|Сікіён|Сікіёнам|Сікіёне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TIRYNS">
+			<Text>Тырынф|Тырынфа|Тырынфу|Тырынф|Тырынфам|Тырынфе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SAMOS">
+			<Text>Самос|Самоса|Самосу|Самос|Самосам|Самосе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MYTILENE">
+			<Text>Мітылена|Мітылены|Мітылене|Мітылену|Мітыленай|Мітылене</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CHIOS">
+			<Text>Хіяс|Хіяса|Хіясу|Хіяс|Хіясам|Хіясе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PAROS">
+			<Text>Парас|Параса|Парасу|Парас|Парасам|Парасе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TEGEA">
+			<Text>Тэгея|Тэгеі|Тэгеі|Тэгею|Тэгеяй|Тэгеі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SYRACUSE">
+			<Text>Сіракузы|Сіракузаў|Сіракузам|Сіракузы|Сіракузамі|Сіракузах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_DELPHI">
+			<Text>Дэльфы|Дэльфаў|Дэльфам|Дэльфы|Дэльфамі|Дэльфах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_GORTYN">
+			<Text>Гортуна|Гортуны|Гортуне|Гортуну|Гортунай|Гортуне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CHALKIS">
+			<Text>Халкіда|Халкіды|Халкідзе|Халкіду|Халкідай|Халкідзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PYLOS">
+			<Text>Пілас|Піласа|Піласу|Пілас|Піласам|Піласе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NAXOS">
+			<Text>Наксас|Наксаса|Наксасу|Наксас|Наксасам|Наксасе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LARISSA">
+			<Text>Ларыса|Ларысы|Ларысе|Ларысу|Ларысай|Ларысе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PATRAS">
+			<Text>Патры|Патраў|Патрам|Патры|Патрамі|Патрах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LAMIA">
+			<Text>Ламія|Ламіі|Ламіі|Ламію|Ламіяй|Ламіі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MARATHON">
+			<Text>Марафон|Марафона|Марафону|Марафон|Марафонам|Марафоне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NAFPLION">
+			<Text>Нафпліон|Нафпліона|Нафпліону|Нафпліон|Нафпліонам|Нафпліоне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_APOLYTON">
+			<Text>Апалітон|Апалітона|Апалітону|Апалітон|Апалітонам|Апалітоне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!--India-->
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_DELHI">
+			<Text>Дэлі|Дэлі|Дэлі|Дэлі|Дэлі|Дэлі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MUMBAI">
+			<Text>Мумбай|Мумбаю|Мумбаю|Мумбай|Мумбаем|Мумбаі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CALCUTTA">
+			<Text>Калькута|Калькуты|Калькуце|Калькуту|Калькутай|Калькуце</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_AGRA">
+			<Text>Агра|Агры|Агры|Агру|Аграй|Агры</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MADURAI">
+			<Text>Мадурай|Мадураю|Мадураю|Мадурай|Мадураем|Мадураі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CHENNAI">
+			<Text>Чэнай|Чэнаю|Чэнаю|Чэнай|Чэнаем|Чэнаі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PATNA">
+			<Text>Патна|Патны|Патне|Патну|Патнай|Патне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HYDERABAD">
+			<Text>Хайдарабад|Хайдарабада|Хайдарабаду|Хайдарабад|Хайдарабадам|Хайдарабадзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_JABALPUR">
+			<Text>Джабалпур|Джабалпура|Джабалпуру|Джабалпур|Джабалпурам|Джабалпуры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MYSORE">
+			<Text>Майсур|Майсура|Майсуру|Майсур|Майсурам|Майсуры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SRINAGAR">
+			<Text>Шрынагар|Шрынагара|Шрынагару|Шрынагар|Шрынагарам|Шрынагары</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_AHMADABAD">
+			<Text>Ахмадабад|Ахмадабада|Ахмадабаду|Ахмадабад|Ахмадабадам|Ахмадабадзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BANGALORE">
+			<Text>Бангалор|Бангалора|Бангалору|Бангалор|Бангалорам|Бангалоры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TRIVANDRUM">
+			<Text>Трывандрум|Трывандрума|Трывандруму|Трывандрум|Трывандрумам|Трывандруме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KOLAR">
+			<Text>Колар|Колара|Колару|Колар|Коларам|Колары</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KOZHIKODE">
+			<Text>Кажыкод|Кажыкода|Кажыкоду|Кажыкод|Кажыкодам|Кажыкодзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_RANCHI">
+			<Text>Ранчы|Ранчы|Ранчы|Ранчы|Ранчы|Ранчы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_WARANGAL">
+			<Text>Варангал|Варангала|Варангалу|Варангал|Варангалам|Варангале</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LUCKNOW">
+			<Text>Лакнаў|Лакнава|Лакнаву|Лакнаў|Лакнавам|Лакнаве</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NAGPUR">
+			<Text>Нагпур|Нагпура|Нагпуру|Нагпур|Нагпурам|Нагпуры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MATHURA">
+			<Text>Матхура|Матхуры|Матхуры|Матхуру|Матхурай|Матхуры</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_RAJAHMUNDRY">
+			<Text>Раджамандры|Раджамандры|Раджамандры|Раджамандры|Раджамандры|Раджамандры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CUTTACK">
+			<Text>Катак|Катака|Катаку|Катак|Катакам|Катаке</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_THANJAVUR">
+			<Text>Танджавур|Танджавура|Танджавуру|Танджавур|Танджавурам|Танджавуры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_VARANASI">
+			<Text>Варанасі|Варанасі|Варанасі|Варанасі|Варанасі|Варанасі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ALLAHABAD">
+			<Text>Алахабад|Алахабада|Алахабаду|Алахабад|Алахабадам|Алахабадзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_AMRITSAR">
+			<Text>Амрытсар|Амрытсара|Амрытсару|Амрытсар|Амрытсарам|Амрытсары</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KOLHAPUR">
+			<Text>Колхапур|Колхапура|Колхапуру|Колхапур|Колхапурам|Колхапуры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PUNE">
+			<Text>Пуна|Пуны|Пуне|Пуну|Пунай|Пуне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_IMPHAL">
+			<Text>Імпхал|Імпхала|Імпхалу|Імпхал|Імпхалам|Імпхале</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!--Japan-->
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KYOTO">
+			<Text>Кіёта|Кіёта|Кіёта|Кіёта|Кіёта|Кіёта</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TOKYO">
+			<Text>Токіё|Токіё|Токіё|Токіё|Токіё|Токіё</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_OSAKA">
+			<Text>Асака|Асакі|Асаке|Асаку|Асакай|Асаке</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NAGOYA">
+			<Text>Нагоя|Нагоі|Нагоі|Нагою|Нагояй|Нагоі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_FUKUOKA">
+			<Text>Фукуока|Фукуокі|Фукуоцы|Фукуоку|Фукуокай|Фукуоцы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SENDAI">
+			<Text>Сэндай|Сэндая|Сэндаю|Сэндай|Сэндаем|Сэндаі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SHIZUOKA">
+			<Text>Сідзуока|Сідзуокі|Сідзуоцы|Сідзуоку|Сідзуокай|Сідзуоцы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_OKAYAMA">
+			<Text>Акаяма|Акаямы|Акаяме|Акаяму|Акаямай|Акаяме</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TAKAMATSU">
+			<Text>Такамацу|Такамацу|Такамацу|Такамацу|Такамацу|Такамацу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_YOKOHAMA">
+			<Text>Ёкахама|Ёкахамы|Ёкахаме|Ёкахаму|Ёкахамай|Ёкахаме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_GIFU">
+			<Text>Гіфу|Гіфу|Гіфу|Гіфу|Гіфу|Гіфу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NAGANO">
+			<Text>Нагано|Нагано|Нагано|Нагано|Нагано|Нагано</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TAKASAKI">
+			<Text>Такасакі|Такасакі|Такасакі|Такасакі|Такасакі|Такасакі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_OTSU">
+			<Text>Оцу|Оцу|Оцу|Оцу|Оцу|Оцу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_AOMORI">
+			<Text>Аомары|Аомары|Аомары|Аомары|Аомары|Аомары</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_FUKUSHIMA">
+			<Text>Фукусіма|Фукусімы|Фукусіме|Фукусіму|Фукусімай|Фукусіме</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MORIOKA">
+			<Text>Марыока|Марыокі|Марыоцы|Марыоку|Марыокай|Марыоцы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HAKODATE">
+			<Text>Хакадатэ|Хакадатэ|Хакадатэ|Хакадатэ|Хакадатэ|Хакадатэ</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KOBE">
+			<Text>Кобэ|Кобэ|Кобэ|Кобэ|Кобэ|Кобэ</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HAMAMATSU">
+			<Text>Хамамацу|Хамамацу|Хамамацу|Хамамацу|Хамамацу|Хамамацу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_OKAZAKI">
+			<Text>Акадзакі|Акадзакі|Акадзакі|Акадзакі|Акадзакі|Акадзакі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_FUKUI">
+			<Text>Фукуі|Фукуі|Фукуі|Фукуі|Фукуі|Фукуі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_YAMAGATA">
+			<Text>Ямагата|Ямагаты|Ямагаце|Ямагату|Ямагатай|Ямагаце</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KAGOSHIMA">
+			<Text>Кагасіма|Кагасімы|Кагасіме|Кагасіму|Кагасімай|Кагасіме</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HIROSHIMA">
+			<Text>Хірасіма|Хірасімы|Хірасіме|Хірасіму|Хірасімай|Хірасіме</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HIMEJI">
+			<Text>Хімэдзі|Хімэдзі|Хімэдзі|Хімэдзі|Хімэдзі|Хімэдзі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MATSUMOTO">
+			<Text>Мацумота|Мацумота|Мацумота|Мацумота|Мацумота|Мацумота</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_OTA">
+			<Text>Ота|Оты|Оце|Оту|Оай|Оце</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NUMAZU">
+			<Text>Нумадзу|Нумадзу|Нумадзу|Нумадзу|Нумадзу|Нумадзу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SAPPORO">
+			<Text>Сапара|Сапара|Сапара|Сапара|Сапара|Сапара</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NAGASAKI">
+			<Text>Нагасакі|Нагасакі|Нагасакі|Нагасакі|Нагасакі|Нагасакі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TOTTORI">
+			<Text>Таторы|Таторы|Таторы|Таторы|Таторы|Таторы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NAGAHAMA">
+			<Text>Нагахама|Нагахамы|Нагахаме|Нагахаму|Нагахамай|Нагахаме</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!--Kongo-->
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MBANZA_KONGO">
+			<Text>Мабанза Конга|Мабанза Конга|Мабанза Конга|Мабанза Конга|Мабанза Конга|Мабанза Конга</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MBUMBI">
+			<Text>Мабумбі|Мабумбі|Мабумбі|Мабумбі|Мабумбі|Мабумбі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MBAMBA">
+			<Text>Мабамба|Мабамбы|Мабамбе|Мабамбу|Мабамбай|Мабамбе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MBANZA_NSUNDI">
+			<Text>Мабанза Насундзі|Мабанза Насундзі|Мабанза Насундзі|Мабанза Насундзі|Мабанза Насундзі|Мабанза Насундзі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MBWILA">
+			<Text>Мабвіла|Мабвілы|Мабвіле|Мабвілу|Мабвілай|Мабвіле</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MPINDA">
+			<Text>Мапінда|Мапінды|Мапіндзе|Мапінду|Мапіндай|Мапіндзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KWILA">
+			<Text>Квіла|Квілы|Квіле|Квілу|Квілай|Квіле</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MBANZA_MBATA">
+			<Text>Мабанза Мабата|Мабанза Мабаты|Мабанза Мабаце|Мабанза Мабату|Мабанза Мабатай|Мабанза Мабаце</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KINCHASSA">
+			<Text>Кіншаса|Кіншасы|Кіншасе|Кіншасу|Кіншасай|Кіншасе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KWANGO">
+			<Text>Кванго|Кванго|Кванго|Кванго|Кванго|Кванго</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MBUJI_MAYI">
+			<Text>Мабуджы Майі|Мабуджы Майі|Мабуджы Майі|Мабуджы Майі|Мабуджы Майі|Мабуджы Майі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MBANZA_MPANGU">
+			<Text>Мабанза Мапангу|Мабанза Мапангу|Мабанза Мапангу|Мабанза Мапангу|Мабанза Мапангу|Мабанза Мапангу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BAKAVU">
+			<Text>Бакаву|Бакаву|Бакаву|Бакаву|Бакаву|Бакаву</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SANGA">
+			<Text>Санга|Сангі|Санге|Сангу|Сангай|Санге</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KATANGO">
+			<Text>Катанго|Катанго|Катанго|Катанго|Катанго|Катанго</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MBANZA_WEMBO">
+			<Text>Мабанза Вембо|Мабанза Вембо|Мабанза Вембо|Мабанза Вембо|Мабанза Вембо|Мабанза Вембо</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MBAMBA_LOVATA">
+			<Text>Мабамба Ловата|Мабамба Ловаты|Мабамба Ловаце|Мабамба Ловату|Мабамба Ловатай|Мабамба Ловаце</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NKUNGA">
+			<Text>Накунга|Накунгі|Накунге|Накунгу|Накунгай|Накунге</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NKONDO">
+			<Text>Наконда|Наконды|Накондзе|Наконду|Накондай|Накондзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LEMBA_BULA">
+			<Text>Лемба Була|Лемба Булы|Лемба Буле|Лемба Булу|Лемба Булай|Лемба Буле</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KIBANGU">
+			<Text>Кібангу|Кібангу|Кібангу|Кібангу|Кібангу|Кібангу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MANGA">
+			<Text>Манга|Мангі|Манге|Мангу|Мангай|Манге</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MBANZA_MPEMBA">
+			<Text>Мабанза Мапемба|Мабанза Мапембы|Мабанза Мапембе|Мабанза Мапембу|Мабанза Мапембай|Мабанза Мапембе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MULUMBI">
+			<Text>Мулумбі|Мулумбі|Мулумбі|Мулумбі|Мулумбі|Мулумбі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MAKUTA">
+			<Text>Макута|Макуты|Макуце|Макуту|Макутай|Макуце</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ZOMBO">
+			<Text>Зомба|Зомба|Зомба|Зомба|Зомба|Зомба</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BANZA">
+			<Text>Банза|Банзы|Банзе|Банзу|Банзай|Банзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_UMPUKA">
+			<Text>Умпука|Умпукі|Умпуке|Умпуку|Умпукай|Умпуке</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MATADI">
+			<Text>Матадзі|Матадзі|Матадзі|Матадзі|Матадзі|Матадзі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MBANDAKA">
+			<Text>Мабандака|Мабандакі|Мабандаке|Мабандаку|Мабандакай|Мабандаке</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LUBUMBASHI">
+			<Text>Лубумбашы|Лубумбашы|Лубумбашы|Лубумбашы|Лубумбашы|Лубумбашы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MBANZA_SOYO">
+			<Text>Мабанза Сойа|Мабанза Сойа|Мабанза Сойа|Мабанза Сойа|Мабанза Сойа|Мабанза Сойа</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KINDU">
+			<Text>Кінду|Кінду|Кінду|Кінду|Кінду|Кінду</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KALEMIE">
+			<Text>Калемі|Калемі|Калемі|Калемі|Калемі|Калемі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KIKWIT">
+			<Text>Кіквіт|Кіквіта|Кіквіту|Кіквіт|Кіквітам|Кіквіце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_POPOKABAKA">
+			<Text>Папакабака|Папакабакі|Папакабаке|Папакабаку|Папакабакай|Папакабаке</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!--Norway-->
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NIDAROS">
+			<Text>Нідарос|Нідароса|Нідаросу|Нідарос|Нідаросам|Нідаросе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_OSLO">
+			<Text>Осла|Осла|Осла|Осла|Осла|Осла</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BERGEN">
+			<Text>Берген|Бергена|Бергену|Берген|Бергенам|Бергене</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_STAVANGER">
+			<Text>Ставангір|Ставангіра|Ставангіру|Ставангір|Ставангірам|Ставангіры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KRISTIANSAND">
+			<Text>Крысціансанд|Крысціансанда|Крысціансанду|Крысціансанд|Крысціансандам|Крысціансандзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SKEDSMO">
+			<Text>Шэдсмо|Шэдсмо|Шэдсмо|Шэдсмо|Шэдсмо|Шэдсмо</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SARPSBORG">
+			<Text>Сашборг|Сашборга|Сашборгу|Сашборг|Сашборгам|Сашборге</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TROMSO">
+			<Text>Тромса|Тромса|Тромса|Тромса|Тромса|Тромса</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ALESUND">
+			<Text>Олсун|Олсуна|Олсуну|Олсун|Олсунам|Олсуне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HAMAR">
+			<Text>Хамар|Хамара|Хамару|Хамар|Хамарам|Хамары</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SKIEN">
+			<Text>Шыін|Шыіна|Шыіну|Шыін|Шыінам|Шыіне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BJARKOY">
+			<Text>Б'яркей|Б'яркея|Б'яркею|Б'яркея|Б'яркеем|Б'яркею</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_DRAMMEN">
+			<Text>Драмун|Драмуна|Драмуну|Драмун|Драмунам|Драмуне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NAMSOS">
+			<Text>Намсус|Намсуса|Намсусу|Намсус|Намсусам|Намсусе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_AVALDSNES">
+			<Text>Авалдснэс|Авалдснэса|Авалдснэсу|Авалдснэс|Авалдснэсам|Авалдснэсе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SOGNDAL">
+			<Text>Сондал|Сондала|Сондалу|Сондал|Сондалам|Сондале</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TONSBERG">
+			<Text>Тонсберг|Тонсберга|Тонсбергу|Тонсберг|Тонсбергам|Тонсберге</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KARMOY">
+			<Text>Кармой|Кармоя|Кармою|Кармоя|Кармоем|Кармою</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_FROSTA">
+			<Text>Фроста|Фросты|Фросце|Фросту|Фростай|Фросце</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KVITSOY">
+			<Text>Квітсой|Квітсоя|Квітсою|Квітсоя|Квітсоем|Квітсою</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_STIKLESTAD">
+			<Text>Сцікліста|Сціклісты|Сціклісце|Сціклісту|Сціклістай|Сціклісце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HUNDORP">
+			<Text>Хандор|Хандора|Хандору|Хандор|Хандорам|Хандоры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_STANGE">
+			<Text>Станге|Станге|Станге|Станге|Станге|Станге</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_REYKJAVIK">
+			<Text>Рэйк'явік|Рэйк'явіка|Рэйк'явіку|Рэйк'явік|Рэйк'явікам|Рэйк'явіке</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TJOTTA">
+			<Text>Хьёта|Хьёты|Хьёце|Хьёту|Хьётай|Хьёце</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_VERDAL">
+			<Text>Вардал|Вардала|Вардалу|Вардал|Вардалам|Вардале</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BRATTAHLID">
+			<Text>Браталід|Браталіда|Браталіду|Браталід|Браталідам|Браталідзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BRATTAHLID">
+			<Text>Браталід|Браталіда|Браталіду|Браталід|Браталідам|Браталідзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KRISTIANSUND">
+			<Text>Крысціансунд|Крысціансунда|Крысціансунду|Крысціансунд|Крысціансундам|Крысціансундзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_RINGERIKE">
+			<Text>Рінгеріке|Рінгеріке|Рінгеріке|Рінгеріке|Рінгеріке|Рінгеріке</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SANDNAES">
+			<Text>Санднэс|Санднэса|Санднэсу|Санднэс|Санднэсам|Санднэсе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MOSTER">
+			<Text>Мустэр|Мустэра|Мустэру|Мустэр|Мустэрам|Мустэры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_VINLAND">
+			<Text>Вінланд|Вінланда|Вінланду|Вінланд|Вінландам|Вінландзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!--Rome-->
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ROME">
+			<Text>Рым|Рыма|Рыму|Рым|Рымам|Рыме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_OSTIA">
+			<Text>Осція|Осціі|Осціі|Осцію|Осціяй|Осціі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ANTIUM">
+			<Text>Анціум|Анціума|Анціуму|Анціум|Анціумам|Анціуме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CUMAE">
+			<Text>Кумай|Кумая|Кумаю|Кумай|Кумаем|Кумаі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_AQUILEIA">
+			<Text>Аквілея|Аквілеі|Аквілеі|Аквілею|Аквілеяй|Аквілеі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_RAVENNA">
+			<Text>Равэна|Равэны|Равэне|Равэну|Равэнай|Равэне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PUTEOLI">
+			<Text>Пуцеолі|Пуцеолі|Пуцеолі|Пуцеолі|Пуцеолі|Пуцеолі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ARRETIUM">
+			<Text>Арэціум|Арэціума|Арэціуму|Арэціум|Арэціумам|Арэціуме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MEDIOLANUM">
+			<Text>Медзіоланум|Медзіоланума|Медзіолануму|Медзіоланум|Медзіоланумам|Медзіолануме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LUGDUNUM">
+			<Text>Лугдунум|Лугдунума|Лугдунуму|Лугдунум|Лугдунумам|Лугдунуме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ARPINUM">
+			<Text>Арпінум|Арпінума|Арпінуму|Арпінум|Арпінумам|Арпінуме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SETIA">
+			<Text>Сеція|Сеціі|Сеціі|Сецію|Сеціяй|Сеціі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_VELITRAE">
+			<Text>Велітрай|Велітрая|Велітраю|Велірай|Велітраем|Велітраі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_DUROCORTORUM">
+			<Text>Дурукурторум|Дурукурторума|Дурукурторуму|Дурукурторум|Дурукурторумам|Дурукурторуме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BRUNDISIUM">
+			<Text>Брундзізіум|Брундзізіума|Брундзізіуму|Брундзізіум|Брундзізіумам|Брундзізіуме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CAESARAUGUSTA">
+			<Text>Цэзараўгуста|Цэзараўгусты|Цэзараўгусце|Цэзараўгусту|Цэзараўгустай|Цэзараўгусце</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PALMYRA">
+			<Text>Пальміра|Пальміры|Пальміры|Пальміру|Пальмірай|Пальміры</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HISPALIS">
+			<Text>Хіспаліс|Хіспаліса|Хіспалісу|Хіспаліс|Хіспалісам|Хіспалісе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CAESAREA">
+			<Text>Цэзарыя|Цэзарыі|Цэзарыі|Цэзарыю|Цэзарыяй|Цэзарыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ARTAXATA">
+			<Text>Артаксата|Артаксаты|Артаксаце|Артаксату|Артаксатай|Артаксаце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PAPHOS">
+			<Text>Парфос|Парфоса|Парфосу|Парфос|Парфосам|Парсфосе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SALONAE">
+			<Text>Салонай|Салоная|Салонаю|Салонай|Салонаем|Салонае</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_EBURACUM">
+			<Text>Ібуракум|Ібуракума|Ібуракуму|Ібуракум|Ібуракумам|Ібуракуме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LAURIACUM">
+			<Text>Лаўрыякум|Лаўрыякума|Лаўрыякуму|Лаўрыякум|Лаўрыякумам|Лаўрыякуме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_VERONA">
+			<Text>Верона|Вероны|Вероне|Верону|Веронай|Вероне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_COLONIA_AGRIPPINA">
+			<Text>Калонія Агрыпіна|Калоніі Агрыпіны|Калоніі Агрыпіне|Калонію Агрыпіну|Калоніяй Агрыпінай|Калоніі Агрыпіне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NARBO">
+			<Text>Нарбо|Нарбо|Нарбо|Нарбо|Нарбо|Нарбо</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TINGI">
+			<Text>Цінджы|Цінджы|Цінджы|Цінджы|Цінджы|Цінджы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SARMIZEGETUSA">
+			<Text>Сармізаджэтуса|Сармізаджэтусы|Сармізаджэтусе|Сармізаджэтусу|Сармізаджэтусай|Сармізаджэтусе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SIRMIUM">
+			<Text>Сірміум|Сірміума|Сірміуму|Сірміум|Сірміумам|Сірміуме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!--Russia-->
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ST_PETERSBURG">
+			<Text>Санкт-Пецярбург|Санкт-Пецярбурга|Санкт-Пецярбургу|Санкт-Пецярбург|Санкт-Пецярбургам|Санкт-Пецярбургу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MOSCOW">
+			<Text>Масква|Масквы|Маскве|Маскву|Масквой|Маскве</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NOVGOROD">
+			<Text>Ноўгарад|Ноўгарада|Ноўгараду|Ноўгарад|Ноўгарадам|Ноўгарадзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KAZAN">
+			<Text>Казань|Казані|Казані|Казань|Казанню|Казані</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ASTRAKHAN">
+			<Text>Астрахань|Астрахані|Астрахані|Астрахань|Астраханню|Астрахані</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_YAROSLAVL">
+			<Text>Яраслаўль|Яраслаўля|Яраслаўлю|Яраслаўль|Яраслаўлем|Яраслаўлі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SMOLENSK">
+			<Text>Смаленск|Смаленска|Смаленску|Смаленск|Смаленскам|Смаленску</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_VORONEZH">
+			<Text>Варонеж|Варонежа|Варонежу|Варонеж|Варонежам|Варонежы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TULA">
+			<Text>Тула|Тулы|Туле|Тулу|Тулай|Туле</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SOLIKAMSK">
+			<Text>Салікамск|Салікамска|Салікамску|Салікамск|Салікамскам|Салікамску</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TVER">
+			<Text>Цвер|Цверы|Цверы|Цвер|Цверру|Цверы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NIZHNIY_NOVGOROD">
+			<Text>Ніжні Ноўгарад|Ніжняга Ноўгарада|Ніжняму Ноўгараду|Ніжні Ноўгарад|Ніжнім Ноўгарадам|Ніжнім Ноўгарадзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ARKHANGELSK">
+			<Text>
+				Архангельск|Архангельска|Архангельску|Архангельск|Архангельскам|Архангельску/Text>
+				<Gender>masculine</Gender>
+				<Plurality>1</Plurality>
+			</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_VOLOGDA">
+			<Text>Волагда|Волагды|Волагдзе|Волагду|Волагдай|Волагдзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_OLONETS">
+			<Text>Алонец|Алонца|Алонцу|Алонец|Алонцам|Алонцы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SARATOV">
+			<Text>Саратаў|Саратава|Саратаву|Саратаў|Саратавам|Саратаве</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TAMBOV">
+			<Text>Тамбоў|Тамбова|Тамбову|Тамбоў|Тамбовам|Тамбове</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PSKOV">
+			<Text>Пскоў|Пскова|Пскову|Пскоў|Псковам|Пскове</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KRASNOYARSK">
+			<Text>Краснаярск|Краснаярска|Краснаярску|Краснаярск|Краснаярскам|Краснаярску</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_IRKUTSK">
+			<Text>Іркуцк|Іркуцка|Іркуцку|Іркуцк|Іркуцкам|Іркуцку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_YEKATERINBURG">
+			<Text>Екацярынбург|Екацярынбурга|Екацярынбургу|Екацярынбург|Екацярынбургам|Екацярынбургу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ROSTOV">
+			<Text>Растоў|Растова|Растову|Растоў|Роставам|Растову</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BRYANSK">
+			<Text>Бранск|Бранска|Бранску|Бранск|Бранскам|Бранску</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_YAKUTSK">
+			<Text>Якуцк|Якуцка|Якуцку|Якуцк|Якуцкам|Якуцку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_STARAYA_RUSSA">
+			<Text>Старая Руса|Старой Русы|Старой Русе|Старую Русу|Старой Русай|Старой Русе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PERM">
+			<Text>Пермь|Пермі|Пермі|Пермь|Перм'ю|Пермі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PETROZAVODSK">
+			<Text>Петразаводск|Петразаводска|Петразаводску|Петразаводск|Петразаводскам|Петразаводску</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_OKHOTSK">
+			<Text>Ахоцк|Ахоцка|Ахоцку|Ахоцк|Ахоцкам|Ахоцку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KOSTROMA">
+			<Text>Кастрама|Кастрамы|Кастраме|Кастраму|Кастрамой|Кастраме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NIZHNEKOLYMSK">
+			<Text>Ніжнекалымск|Ніжнекалымска|Ніжнекалымску|Ніжнекалымск|Ніжнекалымскам|Ніжнекалымску</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SERGIYEV_POSAD">
+			<Text>Сергіеў Пасад|Сергіева Пасада|Сергіеву Пасаду|Сергіеў Пасад|Сергіевым Пасадам|Сергіевым Пасадзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_OMSK">
+			<Text>Омск|Омска|Омску|Омск|Омскам|Омску</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!--Scythia-->
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_POKROVKA">
+			<Text>Пакроўка|Пакроўкі|Пакроўцы|Пакроўку|Пакроўкай|Пакроўцы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ISSYK">
+			<Text>Ісык|Ісыка|Ісыку|Ісык|Ісыкам|Ісыке</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KUL_OBA">
+			<Text>Куль Оба|Куль Обы|Куль Обе|Куль Обу|Куль Обай|Куль Обе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_GELONUS">
+			<Text>Гелонус|Гелонуса|Гелонусу|Гелонус|Гелонусам|Гелонусе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PAZYRYK">
+			<Text>Пазырык|Пазырыка|Пазырыку|Пазырык|Пазырыкам|Пазырыку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CHERTOMLYK">
+			<Text>Чертомлык|Чертомлыка|Чертомлыку|Чертомлык|Чертомлыкам|Чертомлыке</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NEAPOLIS">
+			<Text>Неаполіс|Неаполіса|Неаполісу|Неаполіс|Неаполісам|Неаполісе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KOSTROMSKAYA">
+			<Text>Кастрамская|Кастрамской|Кастрамской|Кастрамскую|Кастрамскім|Кастрамской</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MYRIV">
+			<Text>Міраў|Мірава|Міраву|Міраў|Міравам|Міраве</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SOLOKHA">
+			<Text>Салоха|Салохі|Салохе|Салоху|Салохай|Салохе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MAIKOP">
+			<Text>Майкоп|Майкопа|Майкопу|Майкоп|Майкопам|Майкопе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KAMIANKA_DNIPROVSKA">
+			<Text>Каменка-Днепроўская|Каменкі-Днепроўскай|Каменке-Днепроўскай|Каменку-Днепроўскую|Каменкай-Днепроўскай|Каменке-Днепроўскай</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TOLSTAYA">
+			<Text>Тоўстая|Тоўстай|Тоўстай|Тоўстую|Тоўстай|Тоўстай</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SEVEN_BROTHERS">
+			<Text>Сэвэн Бразэрс|Сэвэн Бразэрс|Сэвэн Бразэрс|Сэвэн Бразэрс|Сэвэн Бразэрс|Сэвэн Бразэрс</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_OLBIA">
+			<Text>Ольвія|Ольвіі|Ольвіі|Ольвію|Ольвіяй|Ольвіі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KELERMES">
+			<Text>Келермес|Келермеса|Келермесу|Келермес|Келермесам|Келермесе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SOLOCHA">
+			<Text>Салотча|Салотчы|Салотчы|Салотчу|Салотчай|Салотчы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ULSKI">
+			<Text>Ульскі|Ульскага|Ульскаму|Ульскага|Ульскім|Ульскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ARZHAN">
+			<Text>Аржан|Аржана|Аржану|Аржан|Аржанам|Аржане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ELIZAVETOVSKAYA">
+			<Text>Елізаветаўская|Елізаветаўскай|Елізаветаўскай|Елізаветаўскую|Елізаветаўскай|Елізаветаўскай</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MELGUNOV">
+			<Text>Мельгуноў|Мельгунова|Мельгунову|Мельгунова|Мельгуновым|Мельгунове</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PANTICAPAEUM">
+			<Text>Пантыкапей|Пантыкапея|Пантыкапею|Пантыкапей|Пантыкапеем|Пантыкапеі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TSARSKAYA">
+			<Text>Царская|Царскай|Царскай|Царскую|Царскай|Царскай</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_OGUZ">
+			<Text>Огюз|Огюза|Огюзу|Огюз|Огюзам|Огюзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TANAIS">
+			<Text>Танаіс|Танаіса|Танаісу|Танаіс|Танаісам|Танаісе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ALEXANDROPOL">
+			<Text>Александропаль|Александропаля|Александропалю|Александропаль|Александропалем|Александропалі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KURDZHIPS">
+			<Text>Курджыпс|Курджыпса|Курджыпсу|Курджыпс|Курджыпсам|Курджыпсе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TSYMBALKA">
+			<Text>Цымбалка|Цымбалкі|Цымбалке|Цымбалку|Цымбалкай|Цымбалке</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_THEODOSIA">
+			<Text>Феадосія|Феадосіі|Феадосіі|Феадосію|Феадосіяй|Феадосіі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KOZEL">
+			<Text>Казел|Казела|Казелу|Казел|Казелам|Казеле</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!--Spain-->
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MADRID">
+			<Text>Мадрыд|Мадрыду|Мадрыду|Мадрыд|Мадрыдам|Мадрыдзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SEVILLE">
+			<Text>Севілья|Севільі|Севільі|Севілью|Севільяй|Севільі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BARCELONA">
+			<Text>Барселона|Барселоны|Барселоне|Барселону|Барселонай|Барселоне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TOLEDO">
+			<Text>Таледа|Таледы|Таледзе|Таледу|Таледай|Таледзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CORDOBA">
+			<Text>Кордава|Кордавы|Кордаве|Кордаву|Кордавай|Кордаве</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_VALENCIA">
+			<Text>Валенсія|Валенсіі|Валенсіі|Валенсію|Валенсіяй|Валенсіі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ZARAGOZA">
+			<Text>Сарагоса|Сарагосы|Сарагосе|Сарагосу|Сарагосай|Сарагосе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_VALLADOLID">
+			<Text>Вальядалід|Вальядаліда|Вальядаліду|Вальядалід|Вальядалідам|Вальядалідзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BILBAO">
+			<Text>Більбао|Більбао|Більбао|Більбао|Більбао|Більбао</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_A_CORUNA">
+			<Text>А Карунья|А Каруньі|А Каруньі|А Карунью|А Каруньяй|А Каруньі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CARTAGENA">
+			<Text>Картахена|Картахены|Картахене|Картахену|Картахенай|Картахене</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CADIZ">
+			<Text>Кадыс|Кадыса|Кадысу|Кадыс|Кадысам|Кадысе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SALAMANCA">
+			<Text>Саламанка|Саламанкі|Саламанцы|Саламанку|Саламанкай|Саламанцы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LAS_PALMAS">
+			<Text>Лас Пальмас|Лас Пальмаса|Лас Пальмасу|Лас Пальмас|Лас Пальмасам|Лас Пальмасе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MURCIA">
+			<Text>Мурсія|Мурсіі|Мурсіі|Мурсію|Мурсіяй|Мурсіі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PAMPLONA">
+			<Text>Памплона|Памплоны|Памплоне|Памплону|Памплонай|Памплоне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_VIGO">
+			<Text>Віга|Вігы|Віге|Вігу|Вігай|Віге</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ORAN">
+			<Text>Аран|Арана|Арану|Аран|Аранам|Аране</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_VITORIA_GASTEIZ">
+			<Text>Віторыя-Гастэйс|Віторыі-Гастэйс|Віторыі-Гастэйс|Віторыю-Гастэйс|Віторыяй-Гастэйс|Віторыі-Гастэйс</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_OVIEDO">
+			<Text>Аўеда|Аўеды|Аўедзе|Аўеду|Аўедай|Аўедзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MALAGA">
+			<Text>Малага|Малагі|Малазе|Малагу|Малагай|Малазе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HAVANA">
+			<Text>Гавана|Гаваны|Гаване|Гавану|Гаванай|Гаване</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_JAEN">
+			<Text>
+				Хаэн|Хаэна|Хаэну|Хаэн|Хаэнам|Хаэне/Text>
+				<Gender>masculine</Gender>
+				<Plurality>1</Plurality>
+			</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MANILA">
+			<Text>Маніла|Манілы|Маніле|Манілу|Манілай|Маніле</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SANTANDER">
+			<Text>Сантандэр|Сантандэра|Сантандэру|Сантандэр|Сантандэрам|Сантандэры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ALMERIA">
+			<Text>Альмерыя|Альмерыі|Альмерыі|Альмерыю|Альмерыяй|Альмерыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ALICANTE">
+			<Text>Алікантэ|Алікантэ|Алікантэ|Алікантэ|Алікантэ|Алікантэ</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BADALONA">
+			<Text>Бадалона|Бадалоны|Бадалоне|Бадалону|Бадалонай|Бадалоне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BURGOS">
+			<Text>Бургас|Бургаса|Бургасу|Бургас|Бургасам|Бургасе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_GIJON">
+			<Text>Хіхон|Хіхона|Хіхону|Хіхон|Хіхонам|Хіхоне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!--Sumeria-->
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_URUK">
+			<Text>Урук|Урука|Уруку|Урук|Урукам|Уруку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ERIDU">
+			<Text>Эрыду|Эрыду|Эрыду|Эрыду|Эрыду|Эрыду</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KISH">
+			<Text>Кіш|Кіша|Кішу|Кіш|Кішам|Кішы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_UR">
+			<Text>Ур|Ура|Уру|Ур|Урам|Уры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LAGASH">
+			<Text>Лагаш|Лагаша|Лагашу|Лагаш|Лагашам|Лагашы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NIPPUR">
+			<Text>Ніпур|Ніпура|Ніпуру|Ніпур|Ніпурам|Ніпуры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BAD_TIBIRA">
+			<Text>Бад-Цібіра|Бад-Цібіры|Бад-Цібіры|Бад-Цібіру|Бад-Цібірай|Бад-Цібіры</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SIPPAR">
+			<Text>Сіпар|Сіпара|Сіпару|Сіпар|Сіпарам|Сіпары</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SHURUPPAK">
+			<Text>Шурупак|Шурупака|Шурупаку|Шурупак|Шурупакам|Шурупаку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ADAB">
+			<Text>Адаб|Адаба|Адабу|Адаб|Адабам|Адабе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ISIN">
+			<Text>Ісін|Ісіна|Ісіну|Ісін|Ісінам|Ісіне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LARAK">
+			<Text>Ларак|Ларака|Лараку|Ларак|Ларакам|Лараке</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ABU_SALABIKH">
+			<Text>Абу Салабіх|Абу Салабіха|Абу Салабіху|Абу Салабіх|Абу Салабіхам|Абу Салабіхе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_AKSHAK">
+			<Text>Акшак|Акшака|Акшаку|Акшак|Акшакам|Акшаку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_UMMA">
+			<Text>Ума|Умы|Уме|Уму|Умай|Уме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LARSA">
+			<Text>Ларса|Ларсы|Ларсе|Ларсу|Ларсай|Ларсе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HAMAZI">
+			<Text>Хамазі|Хамазі|Хамазі|Хамазі|Хамазі|Хамазі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_GIRSU">
+			<Text>
+				Гірсу|Гірсу|Гірсу|Гірсу|Гірсу|Гірсу<</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_JEMDET_NASR">
+			<Text>Джэмдэт Наср|Джэмдэта Насра|Джэмдэту Насру|Джэмдэт Наср|Джэмдэтам Насрам|Джэмдэце Насры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NINA">
+			<Text>Ніна|Ніны|Ніне|Ніну|Нінай|Ніне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KUARA">
+			<Text>Куара|Куары|Куары|Куару|Куарай|Куары</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_DILBAT">
+			<Text>Дзілбат|Дзілбата|Дзілбату|Дзілбат|Дзілбатам|Дзілбаце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KUTHA">
+			<Text>Кува|Кувы|Куве|Куву|Кувай|Куве</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MARAD">
+			<Text>Марад|Марада|Мараду|Марад|Марадам|Марадзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ZABALAM">
+			<Text>Забалам|Забалама|Забаламу|Забалам|Забаламам|Забаламе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KISURRA">
+			<Text>Кісура|Кісуры|Кісуры|Кісуру|Кісурай|Кісуры</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PAZURISH_DAGAN">
+			<Text>Пазурыш-Даган|Пазурыш-Дагана|Пазурыш-Дагану|Пазурыш-Даган|Пазурыш-Даганам|Пазурыш-Дагане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HARBIDUM">
+			<Text>Харбідум|Харбідума|Харбідуму|Харбідум|Харбідумам|Харбідуме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KESH">
+			<Text>Кэш|Кэша|Кэшу|Кэш|Кэшам|Кэшы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_FAILAKA">
+			<Text>Файлака|Файлакі|Файлаке|Файлаку|Файлакай|Файлаке</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!--City-States-->
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_AMSTERDAM_1">
+			<Text>Амстэрдам|Амстэрдама|Амстэрдаму|Амстэрдам|Амстэрдамам|Амстэрдаме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_AMSTERDAM">
+			<Text>Амстэрдам|Амстэрдама|Амстэрдаму|Амстэрдам|Амстэрдамам|Амстэрдаме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BANDAR_BRUNEI">
+			<Text>Бандар Брунэй|Бандара Брунэя|Бандару Брунэю|Бандар Брунэй|Бандарам Брунэем|Бандары Брунэі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BRUSSELS_1">
+			<Text>Брусэль|Брусэля|Брусэлю|Брусэль|Брусэлем|Брусэлі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BRUSSELS">
+			<Text>Брусэль|Брусэля|Брусэлю|Брусэль|Брусэлем|Брусэлі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BUENOS_AIRES_1">
+			<Text>Буэнас Айрэс|Буэнас Айрэса|Буэнас Айрэсу|Буэнас Айрэс|Буэнас Айрэсам|Буэнас Айрэсе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BUENOS_AIRES">
+			<Text>Буэнас Айрэс|Буэнас Айрэса|Буэнас Айрэсу|Буэнас Айрэс|Буэнас Айрэсам|Буэнас Айрэсе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CARTHAGE_1">
+			<Text>Карфаген|Карфагена|Карфагену|Карфаген|Карфагенам|Карфагене</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CARTHAGE">
+			<Text>Карфаген|Карфагена|Карфагену|Карфаген|Карфагенам|Карфагене</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_GENEVA_1">
+			<Text>Жэнева|Жэневы|Жэневе|Жэневу|Жэневай|Жэневе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_GENEVA">
+			<Text>Жэнева|Жэневы|Жэневе|Жэневу|Жэневай|Жэневе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HATTUSA_1">
+			<Text>Хатуса|Хатусы|Хатусе|Хатусу|Хатусай|Хатусе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HATTUSA">
+			<Text>Хатуса|Хатусы|Хатусе|Хатусу|Хатусай|Хатусе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HONG_KONG_1">
+			<Text>Ганконг|Ганконга|Ганконгу|Ганконг|Ганконгам|Ганконгу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HONG_KONG">
+			<Text>Ганконг|Ганконга|Ганконгу|Ганконг|Ганконгам|Ганконгу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_JAKARTA_1">
+			<Text>Джакарта|Джакарты|Джакарце|Джакарту|Джакартай|Джакарце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_JAKARTA">
+			<Text>Джакарта|Джакарты|Джакарце|Джакарту|Джакартай|Джакарце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_JERUSALEM_1">
+			<Text>Ерусалім|Ерусаліма|Ерусаліму|Ерусалім|Ерусалімам|Ерусаліме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_JERUSALEM">
+			<Text>Ерусалім|Ерусаліма|Ерусаліму|Ерусалім|Ерусалімам|Ерусаліме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KABUL_1">
+			<Text>Кабул|Кабула|Кабулу|Кабул|Кабулам|Кабуле</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KABUL">
+			<Text>Кабул|Кабула|Кабулу|Кабул|Кабулам|Кабуле</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KANDY_1">
+			<Text>Канды|Канды|Канды|Канды|Канды|Канды</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KANDY">
+			<Text>Канды|Канды|Канды|Канды|Канды|Канды</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KUMASI_1">
+			<Text>Кумасі|Кумасі|Кумасі|Кумасі|Кумасі|Кумасі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KUMASI">
+			<Text>Кумасі|Кумасі|Кумасі|Кумасі|Кумасі|Кумасі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LA_VENTA">
+			<Text>Ла Вента|Ла Венты|Ла Венце|Ла Венту|Ла Вентай|Ла Венце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LA_VENTA_1">
+			<Text>Ла Вента|Ла Венты|Ла Венце|Ла Венту|Ла Вентай|Ла Венце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LISBON_1">
+			<Text>Лісабон|Лісабона|Лісабону|Лісабон|Лісабонам|Лісабоне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LISBON">
+			<Text>Лісабон|Лісабона|Лісабону|Лісабон|Лісабонам|Лісабоне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MOHENJO_DARO_1">
+			<Text>Махенджа-Даро|Махенджа-Даро|Махенджа-Даро|Махенджа-Даро|Махенджа-Даро|Махенджа-Даро</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MOHENJO_DARO">
+			<Text>Махенджа-Даро|Махенджа-Даро|Махенджа-Даро|Махенджа-Даро|Махенджа-Даро|Махенджа-Даро</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PRESLAV_1">
+			<Text>Праслаў|Праслава|Праславу|Праслаў|Праславам|Праславе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PRESLAV">
+			<Text>Праслаў|Праслава|Праславу|Праслаў|Праславам|Праславе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NAN_MADOL_1">
+			<Text>Нан Мадол|Нан Мадола|Нан Мадолу|Нан Мадол|Нан Мадолам|Нан Мадоле</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NAN_MADOL">
+			<Text>Нан Мадол|Нан Мадола|Нан Мадолу|Нан Мадол|Нан Мадолам|Нан Мадоле</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SEOUL_1">
+			<Text>Сеул|Сеула|Сеулу|Сеул|Сеулам|Сеуле</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SEOUL">
+			<Text>Сеул|Сеула|Сеулу|Сеул|Сеулам|Сеуле</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_STOCKHOLM_1">
+			<Text>Стакгольм|Стакгольма|Стакгольму|Стакгольм|Стакгольмам|Стакгольме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_STOCKHOLM">
+			<Text>Стакгольм|Стакгольма|Стакгольму|Стакгольм|Стакгольмам|Стакгольме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TORONTO_1">
+			<Text>Таронта|Таронта|Таронта|Таронта|Таронта|Таронта</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TORONTO">
+			<Text>Таронта|Таронта|Таронта|Таронта|Таронта|Таронта</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_VALLETTA_1">
+			<Text>Валета|Валеты|Валеце|Валету|Валетай|Валеце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_VALLETTA">
+			<Text>Валета|Валеты|Валеце|Валету|Валетай|Валеце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_VILNIUS_1">
+			<Text>Вільня|Вільні|Вільне|Вільню|Вільняй|Вільне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_VILNIUS">
+			<Text>Вільня|Вільні|Вільне|Вільню|Вільняй|Вільне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_YEREVAN_1">
+			<Text>Ерэван|Ерэвана|Ерэвану|Ерэван|Ерэванам|Ерэване</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_YEREVAN">
+			<Text>Ерэван|Ерэвана|Ерэвану|Ерэван|Ерэванам|Ерэване</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ZANZIBAR_1">
+			<Text>Занзібар|Занзібара|Занзібару|Занзібар|Занзібарам|Занзібары</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ZANZIBAR">
+			<Text>Занзібар|Занзібара|Занзібару|Занзібар|Занзібарам|Занзібары</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+
+
+	</LocalizedText>
+</GameData>

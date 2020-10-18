@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- aztec_montezuma_packagetext -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:28:03 AM -->
+<GameData>
+	<LocalizedText>
+
+		<Replace Language="en_US" Tag="LOC_AZTEC_MONTEZUMA_MOD_TITLE">
+			<Text>DLC «Цывілізацыя Ацтэкаў»</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AZTEC_MONTEZUMA_MOD_TEASER">
+			<Text>Новая цывілізацыя ацтэкаў і яе валадар Мантэсума</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AZTEC_MONTEZUMA_MOD_DESCRIPTION">
+			<Text>Дадае новую цывілізацыю з валадаром ды новае цуда света.</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

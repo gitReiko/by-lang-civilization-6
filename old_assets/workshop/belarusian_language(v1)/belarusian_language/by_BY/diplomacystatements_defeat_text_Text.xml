@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- diplomacystatements_defeat_text_Text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:37:13 AM -->
+<GameData>
+	<LocalizedText>
+
+		<!-- AI is Defeated -->
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_ANY_ANY">
+			<Text>Ніколі не думаў, што ўбачу свой канец так хутка!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Ты ўсяго толькі знакаміты варвар, жорсткі ды бязлітасны...</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Я прожыла досыць доўга, каб разумець, што прайграю. Працягвайце...</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Егіпет знішчаны. Я лічыла, што абдымаю каханка, але я прыгрэла змяю за пазухай.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Мы былі славутымі ды найсвятлейшымі... але, не надавайце гэтаму ўвагі. Вы перамаглі. Няхай ваша кіраванне будзе больш мірным, чым маё.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Вы можаце закаваць мяне ў ланцугі, альбо здзекавацца нада мною, ці нават забіць маё цела, але вы ніколі не зможаце перамагчы мой розум.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Шануючы якому здрадніку вы перамаглі? Ці сама Іштар дапамагала вам?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Арэс пакінуў нас. Спарта пераможана.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Што ж, я буду баляваць з эйнхэр'ерамі ў Валгале, а ты далей будзеш надрывацца ў гэтым свеце.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Калі ласка, спыніце ганьбу маёй сям'і... і майго народа.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Божа, выканай мае апошнія жаданні: даруй мір і квітненне Бразіліі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Хоць ты і перамог нас, але мы пакінулі спадчыну, якую людзі ніколі не забудуць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Параза... Жыццё пражыць - не поле перайсці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Мая зямля... Маё каралеўства... Божа чаму? Чаму ты пакінуў мяне?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_QIN_ANY">
+			<Text>Гэтага не павінна была здарыцца... Толькі не гэтак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Гэта не перамога. Перамога - гэта падначаленнасць сярдэц вашых ворагаў вашай мяккасці і дабрыні.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Віншую. Зараз вашу нацыю, а не Злучаныя Штаты Амерыкі, чакае вялікая будучыня.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Імператрыца прайграла... Але мяне будуць памятаць! А вас?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Дабрабыт пераможаных складаецца ў тым, каб болей не спадзявацца на дабрабыт.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Гэта балючая і цяжкая параза не ўціхамірыць нас! Дзякуючы провіду, Ангельшчына зноў адрадзіцца.</Text>
+		</Replace>
+
+		<!-- Human is Defeated (will see this in hotseat) -->
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_ANY_ANY">
+			<Text>Ніколі не думаў, што ўбачу свой канец так хутка!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Ты ўсяго толькі знакаміты варвар, жорсткі ды бязлітасны...</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Я прожыла досыць доўга, каб разумець, што прайграю. Працягвайце.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Егіпет знішчаны. Я лічыла, што абдымаю каханка, але я прыгрэла змяю за пазухай.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Мы былі славутымі ды найсвятлейшымі... але, не надавайце гэтаму ўвагі. Вы перамаглі. Няхай ваша кіраванне будзе больш мірным, чым маё.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Вы можаце закаваць мяне ў ланцугі, альбо здзекавацца нада мною, ці нават забіць маё цела, але вы ніколі не зможаце перамагчы мой розум.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Шануючы якому здрадніку вы перамаглі? Ці сама Іштар дапамагала вам? </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Арэс пакінуў нас. Спарта пераможана.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Што ж, я буду баляваць з эйнхэр'ерамі ў Валгале, а ты далей будзеш надрывацца ў гэтым свеце.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Калі ласка, спыніце ганьбу маёй сям'і... і майго народа.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+			<Text>Ўіцылапочтлі прабач нашу слабасць... маю слабасць. Мне не хапіла сілы, каб служыць табе.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>Божа, выканай мае апошнія жаданні: даруй мір і квітненне Бразіліі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Хоць ты і перамог нас, але мы пакінулі спадчыну, якую людзі ніколі не забудуць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Параза... Жыццё пражыць - не поле перайсці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Мая зямля... Маё каралеўства... Божа чаму? Чаму ты пакінуў мяне?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Гэтага не павінна была здарыцца... Толькі не гэтак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Гэта не перамога. Перамога - гэта падначаленнасць сярдэц вашых ворагаў вашай мяккасці і дабрыні.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>Віншую. Зараз вашу нацыю, а не Злучаныя Штаты Амерыкі, чакае вялікая будучыня.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Імператрыца прайграла... Але мяне будуць памятаць! А вас?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Дабрабыт пераможаных складаецца ў тым, каб болей не спадзявацца на дабрабыт.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Гэта балючая і цяжкая параза не ўціхамірыць нас! Дзякуючы провіду, Ангельшчына зноў адрадзіцца.</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

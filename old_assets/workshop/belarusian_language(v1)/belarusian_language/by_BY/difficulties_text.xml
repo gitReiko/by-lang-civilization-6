@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- difficulties_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:31:16 AM -->
+<GameData>
+	<LocalizedText>
+
+		<Replace Language="en_US" Tag="LOC_DIFFICULTY_SETTLER_NAME">
+			<Text>Пасяленец|пасяленца|пасяленцу|пасяленца|пасяленцам|пасяленцу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIFFICULTY_CHIEFTAIN_NAME">
+			<Text>Правадыр|правадыра|правадыру|правадыра|правадыром|правадыру</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIFFICULTY_WARLORD_NAME">
+			<Text>Вайскавод|вайскавода|вайскаводу|вайскавода|вайскаводам|вайскаводу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIFFICULTY_PRINCE_NAME">
+			<Text>Князь|князя|князю|князь|князя|князю</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIFFICULTY_KING_NAME">
+			<Text>Кароль|караля|каралю|караля|каралём|каралю</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIFFICULTY_EMPEROR_NAME">
+			<Text>Імператар|імператара|імператару|імператара|імператарам|імператару</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIFFICULTY_IMMORTAL_NAME">
+			<Text>Бяссмертны|бяссмертнага|бяссмертнаму|бяссмертнага|бяссмертным|бяссмертным</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIFFICULTY_DEITY_NAME">
+			<Text>Богападобны|богападобнага|багападобнаму|богападобны|богападобным|богападобным</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+
+	</LocalizedText>
+</GameData>

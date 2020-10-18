@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- diplomacystatements_firstmeet_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:40:04 AM -->
+<GameData>
+	<LocalizedText>
+
+		<!-- First AI line -->
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_MVEMBA_ANY">
+			<Text>Сябар, мяне клічуць Мвемба Нзінга. Я ведаю, што Бог благаславіў цябе. Ты прыйшоў да нас, каб падзяліцца сваёй асветай?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Вітаю вас у сваім каралеўстве. Я - Кацярына, каралева-маці Францыі. З нецярпеннем чакаю магчымасці лепей спазнаць вас.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_CLEOPATRA_ANY">
+			<Text>Я - перараджэнне Ісіды ды ўвасабленне нілу. Мяне клічуць Клеапатра. Калі ты годны, то я буду тваім хаўруснікам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_BARBAROSSA_ANY">
+			<Text>Вітаю. Я - Фрыдрых, імператар Святой Рымскай Імперыі, кароль Германіі, Італіі, Бургундыі і многіх іншых земляў. Спадзяюсь, што вы будзеце кіраваць сваімі землямі гэтак жа, як і я: дзякуючы сіле.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_GANDHI_ANY">
+			<Text>Вітаю, я - Махандас Гандзі. Мой народ кліча мяне Бапу, але, калі ласка, завіце мяне сябрам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_GILGAMESH_ANY">
+			<Text>Я Гільгамеш - Цар Урука. Не палохайцесь... Я не крыўджу сваіх сябраў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_GORGO_ANY">
+			<Text>Я - Гарго Царыца Спарты і валадарыня грэкаў. А хто ты? Пра якія перамогі можаш паведаміць?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_HARDRADA_ANY">
+			<Text>Перад табой стаіць Харальд Сігурдсон - вікінг, якому не падабаюцца моры, у якіх ён ужо бываў. Ха, страшна?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_HOJO_ANY">
+			<Text>Вітаю. Я - Хадзё Такімунэ сціплы прыхільнік Бусідо.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_PEDRO_ANY">
+			<Text>Дабры дзень. Для мяне вялікі гонар сустрэцца з вамі асабіста. Напэўна, выдатныя розумы сапраўды прыцягваюць адзін аднаго.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_PERICLES_ANY">
+			<Text>Перыкл вітае цябе ад імя Дэмакратыі. Спадзяюсь, што вы дазволіце мне ўзаемадзейнічаць з нейтральнымі партыямі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_PETER_GREAT_ANY">
+			<Text>Добры дзень, я - цар Пётр. Годны валадар, падобны вам, павінен шанаваць усё самае вытанчанае. Ці падабаюцца вам мастацтвы гэтак жа, як мне?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_PHILIP_II_ANY">
+			<Text>Я - кароль Гішпаніі, Партугаліі, Сардзініі, Сіцыліі ды Неапаля, герцаг Мілана і гэтак далей. Але самае галоўнае, што я набожны паслядоўнік сапраўднай рэлігіі. Спадзяюсь, што вы таксама.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_QIN_ANY">
+			<Text>Навошта вы прыйшлі да вялікага Цыня Шыхуандзі - несмяротнага сына нябёс?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_SALADIN_ANY">
+			<Text>Літасцю магутнага, перамаганоснага ды вечнага Бога чыё царства не ведае канца ды пачатка, я вітаю цябе мой шчыры сябар.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_T_ROOSEVELT_ANY">
+			<Text>Сардэчна запрашаем у Злучаныя Штаты Амерыкі. Калі вы будзеце паводзіць сябе добра, то можаце лічыць нас сваімі сябрамі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_TOMYRIS_ANY">
+			<Text>Ведайце, за здраду вам прыйдзецца заплаціць сваёй крывёй! Але з сапраўднымі сябрамі я жыву ў міры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_TRAJAN_ANY">
+			<Text>Вітаю цябе незнаёмец. Я - Траян імператар вялікага Рыма. А хто ты? Якімі землямі валодаеш?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_VICTORIA_ANY">
+			<Text>Вітаю. Дзякуючы багаслаўленню Боскаму, я - Вікторыя каралева Аб'яднанага Каралеўства ды Ірландыі. А хутка, адважусь сказаць, імперыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_ANY_ANY">
+			<Text>Вітаю цябе падарожнік. Ты павінен ведаць, што бачыш увасабленне велічы!</Text>
+		</Replace>
+
+		<!-- Human Responses -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_FIRST_MEET_NEAR_RECIPIENT_POSITIVE">
+			<Text>Для мяне гонар сустрэць вас.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_FIRST_MEET_NEAR_RECIPIENT_BUSY">
+			<Text>Добры дзень, іншаземец. Баюсь, што я занадта заняты і не магу пагаварыць з табой.</Text>
+		</Replace>
+
+		<!-- AI invitation to visit nearby City -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MVEMBA_ANY">
+			<Text>Давайце спачатку памолімся у найблізкім горадзе, а потым пакаштуем кураняці моамбэ.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Калі не паспрабуеце нашы далікатэсы, то жыццё дарма пражывёце. Я навучу вас карыстацца відэльцам, зразумела калі вы пажадаеце гэтага.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CLEOPATRA_ANY">
+			<Text>Непадалёку знаходзіцца наш горад. Запрашаю, я навучу вас гуляць у настольную гульню сэнэт.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_BARBAROSSA_ANY">
+			<Text>Я вітаю вас на сваёй зямлі, як імператар Святой Рымскай Імперыі. Паглядзіце на веліч майго найблізкага горада. Зразумела, калі ён ізноў не паўстаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GANDHI_ANY">
+			<Text>Запрашаю вас ў найблізкі горад. Паслухаем мудрасць ведычнай паэзіі ды, магчыма, навучымся нечаму.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GILGAMESH_ANY">
+			<Text>Калі вы пажадаеце, то сможаце ўбачыць магутнасць шумераў: старажытныя традыцыі мастацтва і навукі, ды Зігураты, занадта вялікія для сузірання.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GORGO_ANY">
+			<Text>Недалёка знаходзіцца наш горад. Жадаеце зайсці ды пакаштаваць наш сытны чорны булён?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_HARDRADA_ANY">
+			<Text>Скажы мне сябар: не жадаешь лі ты зазірнуць у наш найблізкі горад? Безумоўна, гэта не Білскірнір, але ён не дужа горшы за яго.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_HOJO_ANY">
+			<Text>Для мяне будзе гонарам, калі вы складзёце мне кампанію на обане ў нашым найблізкім горадзе. Вам жа падабаюцца медузы аэмона?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_PEDRO_ANY">
+			<Text>Запрашаю ў Бразілію! Вы ўмееце танчыць самбу? Хаця не істотна ўсё адно вам спадабаецца карнавал.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_PERICLES_ANY">
+			<Text>Калі ласка наведайце наш найблізкі поліс. Абмяркуем палітыку і атрымаем асалоду ад тэатра.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_PETER_GREAT_ANY">
+			<Text>Дазвольце паказаць вам найблізкі горад. Пасля можам паехаць на баль у прыгожы загарадны маёнтак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_PHILIP_II_ANY">
+			<Text>Жадаеце ўбачыць змаганне бугаёў? Не існуе нічога больш відовішчнага! Запрашаю ў найблізкі горад. Пераканаецесь ў гэтым самі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_QIN_ANY">
+			<Text>Побач знаходзіцца наш горад. Прыходзьце ды паглядзіце, як мае скульптары працуюць над теракотавым палацам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SALADIN_ANY">
+			<Text>З гонарам жадаю прапанаваць вам гасціннасць нашых гарадоў. У іх вас чакаюць мелодыі адхана, якія разліваюцца паўсюль, ды самыя лепшыя вырабы майстэрстваў і файныя фэсты. Жадаеце пагасціць?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_T_ROOSEVELT_ANY">
+			<Text>Запрашаю вас у горад, які знаходзіцца недалёка адсюль. Жадаеце пакаштаваць фаршаваных мядзведзяў, якія зараз так папулярны.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_TOMYRIS_ANY">
+			<Text>Побач знаходзіцца наш горад. Жадаеце зайсці? Мы падарым вам адзін з нашых востраканцовых шаломаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_TRAJAN_ANY">
+			<Text>Бясспрэчна, побач знаходзіцца імперскі горад. Прыходзьце, паглядзіце і будзьце захоплены яго прыгажосцю.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_VICTORIA_ANY">
+			<Text>Гэта наша асаблівая прывілея: запрашаць вас наведаць наша валадарства, якое, як мы думаем, з'яўляюцца ўсяго толькі адной з нашых калоній.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_ANY_ANY">
+			<Text>Запрашаем вас на свята ў наш найблізкі горад. Вы прыйдзёце?</Text>
+		</Replace>
+
+		<!-- Human Responses -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_FIRST_MEET_VISIT">
+			<Text>Мы рады вашай гасціннасці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_FIRST_MEET_DECLINE_VISIT">
+			<Text>Прабачце, але не ў гэты момант.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_FIRST_MEET_NEAR_INITIATOR_POSITIVE">
+			<Text>Запрашаем вас ў наш найблізкі горад. Ацаніце нашу гасціннасць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_FIRST_MEET_NEAR_INITIATOR_NO_HOSPITALITY">
+			<Text>Дзякуй за ветласць, але зараз у нас няма часу для забаў.</Text>
+		</Replace>
+
+		<!-- AI accepts Human invitation -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_ANY_ANY">
+			<Text>Ва ўсіх сэнсах. Будзе прыемна ўбачыць ваш квітнеючы горад.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MVEMBA_ANY">
+			<Text>Так, так. Мы абодва атрымаем з гэтага карысць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Ва ўсіх сэнсах. Будзе прыемна ўбачыць ваш квітнеючы горад.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CLEOPATRA_ANY">
+			<Text>Цудоўна.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_BARBAROSSA_ANY">
+			<Text>Дзякуй, сябар.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GANDHI_ANY">
+			<Text>Дзякуй, сябар.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GILGAMESH_ANY">
+			<Text>Так, мне падабаецца ваша прапанова.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GORGO_ANY">
+			<Text>Добра.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_HARDRADA_ANY">
+			<Text>Дзякуй, сябар.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_HOJO_ANY">
+			<Text>Дзякуй, сябар.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PEDRO_ANY">
+			<Text>Так, прыйміце маю падзяку.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PERICLES_ANY">
+			<Text>Ад імя народа я гавару: «Так».</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PETER_GREAT_ANY">
+			<Text>Так, добра.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PHILIP_II_ANY">
+			<Text>Хай Бог багаславіць вас.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_QIN_ANY">
+			<Text>Дапушчальна.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SALADIN_ANY">
+			<Text>Плённая прапанова. Няхай Алах багаславіць цябе.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_T_ROOSEVELT_ANY">
+			<Text>Не магу адказаць «не».</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_TOMYRIS_ANY">
+			<Text>Цудоўна.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_TRAJAN_ANY">
+			<Text>Прымальна.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_VICTORIA_ANY">
+			<Text>Мы лічым гэта прымальным.</Text>
+		</Replace>
+
+		<!-- Human responses -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_NO_MANS_POSITIVE">
+			<Text>Сустрэць вас - гонар.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_NO_MANS_NO_EXCHANGE">
+			<Text>Вітаю цябе незнаёмец. На жаль, мы заняты ды не маем часу на размовы.</Text>
+		</Replace>
+
+		<!-- AI invitation to exchange Capital Information -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_ANY_ANY">
+			<Text>Нашы селішчы знаходзяцца занадта далёка. Давайце адзначым іх месцаванне на нашых картах.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MVEMBA_ANY">
+			<Text>Давайце абмяняемся ведамі гэтак жа, як мы абменьваемся мудрасцю. Дзе знаходзіцца ваша сталіца? Гэта святы горад?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Я закахана ў архітэктуру. Паведайце, ёсць лі ў вашай сталіцы трыумфальныя аркі? А велізарныя металічныя вежы?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CLEOPATRA_ANY">
+			<Text>Александрыя - гэта дом фараонаў, мой дом. Я раскажу табе болей, калі ты раскажаш мне пра сваю сталіцу.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_BARBAROSSA_ANY">
+			<Text>Я пакажу вам нашу вялікасную сталіцу, калі вы раскажыце мне пра сваю. Ці можа яна параўнацца з магутнасцю Нямеччыны?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GANDHI_ANY">
+			<Text>Мне падабаецца падарожнічаць, магчыма, калі-небудзь я прыеду і ў вашу сталіцу. Яна далёка? Раскажыце мне пра яе.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GILGAMESH_ANY">
+			<Text>Ніхто не зможа прайсці праз муры Урука без майго дазволу, але я раскажу вам пра яго, калі вы раскажыце мне пра сваю сталіцу.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GORGO_ANY">
+			<Text>На што падобна ваша сталіца? Раскажыце мне, а я раскажу вам пра Спарту.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_HARDRADA_ANY">
+			<Text>Я падарожнічаў па ўсім свеце, але ніколі не бачыў тваёй сталіцы. Раскажы мне пра яе.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_HOJO_ANY">
+			<Text>Я жадаю абмяняцца ведамі пра нашы сталіцы. Мая падобна на бездакорны дом. На што падобна ваша?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PEDRO_ANY">
+			<Text>Давайце прытрымлівацца дыпламатычнага этыкету. Раскажыце мне пра сваю сталіцу, а я раскажу вам пра сваю.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PERICLES_ANY">
+			<Text>Афіны - гэта цудоўны горад. А на што падобна ваша сталіца? Давайце абмяняемся ведамі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PETER_GREAT_ANY">
+			<Text>Давайце абмяняемся ведамі пра нашы сталіцы. Мая - гэта маяк прагрэсу, але я нічога не ведаю пра тваю.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PHILIP_II_ANY">
+			<Text>Жадаеце болей даведацца пра маю сталіцу? Мадрыд - адзін з самых прыгожых гарадоў у свеце. Ваша сталіца таксама прыгожая?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_QIN_ANY">
+			<Text>Вы ўбачылі маленькую частку нашай магутнасці. Ці валодае ваша сталіца хоць бы паловай яе грандыёзнасці?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SALADIN_ANY">
+			<Text>Запрашаю, давайце абмяняемся ведамі пра нашы сталіцы. Раскажыце мне пра свой народ, а я з радасцю раскажу вам пра свой.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_T_ROOSEVELT_ANY">
+			<Text>Жадаю абмяняцца ведамі пра нашы сталіцы. Гэта паспрыяе вольнаму гандлю ды ўсяму астатняму паміж нашымі нацыямі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_TOMYRIS_ANY">
+			<Text>Вядома, што мой народ качэўнікі, але ў нас ёсць цудоўная сталіца. А ў вас?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_TRAJAN_ANY">
+			<Text>Раскажы мне пра сваю сталіцу. Яе пабудавалі знікшыя траянцы? Альбо дзеці выгадаваныя ваўкамі?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_VICTORIA_ANY">
+			<Text>У зацікаўленасцях нашых палітычных стасункаў мы жадаем даведацца болей пра вашу сталіцу ... у памен на веды пра нашу, зразумела.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_FIRST_MEET_EXCHANGE_INFO">
+			<Text>Абмен ведамі пра нашы сталіцы - гэта выдатная ідэя. Яна паспрыяе гандлю паміж намі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_FIRST_MEET_DECLINE_INFO">
+			<Text>Прабачце, але зараз мы не можам падзяліцца гэтымі ведамі.</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

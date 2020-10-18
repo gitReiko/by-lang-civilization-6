@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- quests_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:50:49 AM -->
+<GameData>
+	<LocalizedText>
+
+		<!--Instance Names-->
+		<Replace Language="en_US" Tag="LOC_QUEST_TRAIN_UNIT_TYPE_INSTANCE_NAME">
+			<Text>Падрыхтуйце {1_UnitName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_QUEST_ZONE_DISTRICT_TYPE_INSTANCE_NAME">
+			<Text>Пабудуйце {1_DistrictName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_QUEST_TRIGGER_TECH_BOOST_INSTANCE_NAME">
+			<Text>Атрымайце [ICON_TechBoosted] эўрыку {1_TechName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_INSTANCE_NAME">
+			<Text>Атрымайце [ICON_CivicBoosted] натхненне {1_CivicName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_INSTANCE_NAME">
+			<Text>Найміце {1_GreatPersonClassName[2]}.</Text>
+		</Replace>
+
+		<!--Descriptions-->
+		<Replace Language="en_US" Tag="LOC_QUEST_CONVERT_CAPITAL_TO_RELIGION_DESCRIPTION">
+			<Text>Звярніце горад-дзяржаву ў вашу [ICON_Religion] рэлігію.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_QUEST_SEND_TRADE_ROUTE_DESCRIPTION">
+			<Text>Накіруйце [ICON_TradeRoute] гандлёвы шлях у город-дзяржаву.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_QUEST_CLEAR_BARBARIAN_CAMP_DESCRIPTION">
+			<Text>Знішчыце адзін [ICON_Barbarian] варварскі лагер у межах 5 гексаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_QUEST_TRAIN_UNIT_TYPE_DESCRIPTION">
+			<Text>Падрыхтуйце выпадкова абраную горадам-дзяржавай [ICON_Unit] адзінку.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_QUEST_ZONE_DISTRICT_TYPE_DESCRIPTION">
+			<Text>Пабудуйце выпадкова абранае горадам-дзяржавай [ICON_District] мястэчка.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_QUEST_TRIGGER_TECH_BOOST_DESCRIPTION">
+			<Text>Атрымайце выпадкова абраную горадам-дзяржавай [ICON_TechBoosted] эўрыку.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_DESCRIPTION">
+			<Text>Атрымайце выпадкова абранае горадам-дзяржавай [ICON_CivicBoosted] натхненне.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_DESCRIPTION">
+			<Text>Найміце выпадкова абранага горадам-дзяржавай [ICON_GreatPerson] Выдатнага Дзеяча.</Text>
+		</Replace>
+
+		<!--Instance Descriptions-->
+		<Replace Language="en_US" Tag="LOC_QUEST_TRAIN_UNIT_TYPE_INSTANCE_DESCRIPTION">
+			<Text>Падрыхтуйце {1_UnitName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_QUEST_ZONE_DISTRICT_TYPE_INSTANCE_DESCRIPTION">
+			<Text>Пабудуйце {1_DistrictName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_QUEST_TRIGGER_TECH_BOOST_INSTANCE_DESCRIPTION">
+			<Text>Атрымайце эўрыку {1_TechName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_INSTANCE_DESCRIPTION">
+			<Text>Атрымайце натхненне {1_CivicName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_INSTANCE_DESCRIPTION">
+			<Text>Найміце {1_GreatPersonClassName[2]}.</Text>
+		</Replace>
+
+		<!--Rewards-->
+		<Replace Language="en_US" Tag="LOC_QUEST_REWARD_ENVOYS">
+			<Text>[ICON_Envoy] Амбасадары</Text>
+		</Replace>
+
+		<!--Instance Rewards-->
+		<Replace Language="en_US" Tag="LOC_TECH_POTTERY_DESCRIPTION">
+			<Text>Вы атрымалі [ICON_Envoy] {1_Amount} {1_Amount : plural 1?амбасадара; other?амбасадараў;}</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>
+

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- religiouscombatscenario_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:51:51 AM -->
+<GameData>
+	<LocalizedText>
+
+		<!-- Ruleset -->
+		<Replace Language="en_US" Tag="LOC_RELIGIOUS_COMBAT_RULESET_TITLE">
+			<Text>Святая зямля</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RELIGIOUS_COMBAT_RULESET_TEASER">
+			<Text>Гэты збор правіл сфакусаваны на бітве за рэлігійнае дамінаванне ў сярэднявеччы.[NEWLINE]Умовы перамогі[NEWLINE][ICON_Bullet] Святая перамога - збярыце найвялікую колькасць рэлігійных паслядоўнікаў да пачатка прамысловай эры (да першай тэхналогіі ці палітыкі прамысловай эры).[NEWLINE]Змененыя правілы[NEWLINE][ICON_Bullet]Першае святое мястэчка дае дармовага выдатнага прарока.</Text>
+		</Replace>
+
+		<!-- Victories  -->
+		<Replace Language="en_US" Tag="LOC_RELIGIOUS_COMBAT_VICTORY_TITLE">
+			<Text>Святая перамога</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RELIGIOUS_COMBAT_VICTORY_DESC">
+			<Text>Збярыце найвялікую колькасць рэлігійных паслядоўнікаў да пачатка прамысловай эры (да першай тэхналогіі ці палітыкі прамысловай эры).</Text>
+		</Replace>
+
+		<!-- Mod Package Text -->
+		<Replace Language="en_US" Tag="LOC_RELIGIOUS_COMBAT_MOD_TITLE">
+			<Text>Сеткавы збор правіл: Святая зямля</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RELIGIOUS_COMBAT_MOD_TEASER">
+			<Text>Змагайцесь за рэлігійнае дамінаванне ў сярэднявеччы да пачатку прамысловай эры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RELIGIOUS_COMBAT_MOD_DESCRIPTION">
+			<Text>Умовы перамогі[NEWLINE]Збярыце найвялікую колькасць рэлігійных паслядоўнікаў да пачатка прамысловай эры (да першай тэхналогіі ці палітыкі прамысловай эры).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_VICTORY_RELIGIOUS_HAVE_MOST_FOLLOWERS_PROGRESS">
+			<Text>Рэлігійныя паслядоўнікі {NumFollowers} {StatusIcon}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RC_GAME_ERA_LIMIT_REACHED_PROGRESS">
+			<Text>Дасягнута прамысловая эра {StatusIcon}</Text>
+		</Replace>
+
+
+	</LocalizedText>
+</GameData>
+

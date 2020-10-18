@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- diplomacystatements_denounce_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:38:53 AM -->
+<GameData>
+	<LocalizedText>
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_ANY_ANY">
+			<Text>Замест таго каб палепшыць нашы стасункі, вы іх пагоршылі...</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Я не прычыніў вам ніякага зла, і таму мой народ - Конга не заслужыў гэтага паклёпу.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Гонар і магутнасць Францыі не будуць заплямлены такой відавочнай хлуснёй.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Вы адважылісь абразіць новую Ісіду?!? Вы яшчэ пашкадуеце!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Я мушу адказаць вам сваім мячом... бадай, я павінен зрабіць гэта.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Мудрацы не павераць вашай хлусне, толькі дурням прыйдзецца вывучыць гэты ўрок.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Ха! Гільгамеш мацней вашых ілжывых прамоў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>У параўнанні з нашымі справамі вашы прамовы бессэнсоўны.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Я знішчаў каралеўствы за меншыя абразы. Вы заплаціце за гэта!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Пустыя прамовы не ўяўляюць ніякай пагрозы. Пакажыце мне ваша дзеянні, мэты і дысцыпліну!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>Замест таго каб палепшыць нашы стасункі, вы іх пагоршылі...</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Усіх наватараў крытыкуюць і ненавідзяць... Паколькі я імкнусь да вялікай мэты, то я прыйму гэты прыгнёт зайздросці!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Мой народ выжывае ў зімах больш небяспечных за ваша войска. Няўжо вы думаеце, што мы баімся вас?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Вы ўчынілі самы вялікі грэх: кінулі выклік памазанцу Божаму. За гэта прыйдзецца дорага заплаціць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Казурка адважылася абразіць цмока?!? Якая недарэчнасць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Усё бачаць чужыя заганы, але не бачаць сваі!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>Да як вы адважылісь!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Ніхто не паверыць вашай пустой хлусне. Тамірыс шаноўны сябар для іншых валадароў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Значыць, гэта праўда: той, хто перапоўнены зайздросццю, зневажае ўсё добрае і дрэннае.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Каралёва жадае папярэдзіць усіх, хто непаважліва ставіцца да яе народа і кароны, аб тым, што ў будучыні іх чакаюць шматлікія турботы.</Text>
+		</Replace>
+
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_ANY_ANY">
+			<Text>Хай увесь свет ведае пра вашы злачынствы! (зганіў вас)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Вы - зло. Хай ваша імя будзе праклята назаўсёды! (зганіў вас)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Мне не падабаецца тое, што вы задумваеце. Як гэтыя планы спадабаюцца вашым сябрам? (зганіла вас)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Вы горшы за разам узятых Брута і Касія. Хай усе ведаюць праўду! (зганіла вас)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Увесь свет даведаецца пра вашу здраду. І вас будуць судзіць. (зганіў вас)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Вам нельга давяраць. Няшчырасць - горшы від гвалту. (зганіў вас)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Хай свет пачуе мае словы: «Вашай крывадушнасці пазайздросціць сама Іштар!» (зганіў вас)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Вы горшы за сафістаў. Хай увесь свет ведае гэта. (зганіла вас)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Для цябе болей не знойдзецца месца за сталом Одзіна. Я цябе зняславіў! (зганіў вас)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Хай ваш народ ведаець, што вы дурны прастак. (зганіў вас)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Хай увесь свет ведае пра вашы злачынствы! (зганіў вас)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Тыраны падобныя вам агідныя. Ваш народ пачуе праўду ў маіх словах! (зганіў вас)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Я шмат усяго бачыў у сваім жыцці, але я нідзе не сустракаў такога занядбалага валадара. Вам павінна быць саромна! І вам будзе саромна! (зганіў вас)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Вы - Іуда, і вы прыйшлі для таго, каб яшчэ раз здрадзіць Богу! (зганіў вас)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_QIN_ANY">
+			<Text>Ваша імя заплямлена назаўжды! (зганіў вас)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Мой народ кажа, што хата тырана заўсёды руйнуецца... І я бачу, як вакол вас усё гіне! (зганіў вас)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Я болей не магу трываць такога нявартага валадара. Хай увесь свет ведае гэта. (зганіў вас)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Вы нікчэмны лгун, якому нельга давяраць! Горшага за вас валадара не існуе. (зганіла вас)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Я вас зганьбую! Я раскажу ўсяму свету, хто вы насамрэч. (зганіў вас)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Мы болей не будзем мець спраў з вашым урадам. Такім чынам, мы вас асуджаем. (зганіла вас)</Text>
+		</Replace>
+
+		<!-- Diplomatic rationales for denouncement -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_OPPORTUNITY">
+			<Text>(Магчыма, яны плануюць пачаць з вамі вайну.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_ARCHAEOLOGY">
+			<Text>(Ваші археолагі выкралі іх культурную спадчыну.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_BROKEN_PROMISE">
+			<Text>(Вы не выканалі сваі абяцанні.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_NO_PROMISE">
+			<Text>(Вы праігнаравалі іх просьбу.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_CONVERTED_CITY">
+			<Text>(Вы звярнулі іх горад у сваю рэлігію без дазволу.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_CULTURE_BOMB">
+			<Text>(Вы культурна асімілявалі частку іх тэрыторыі.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_DEMAND">
+			<Text>(Вы запатрабавалі ад іх даніну.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_DENOUNCED">
+			<Text>(Вы зганілі іх.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_ESPIONAGE">
+			<Text>(Вы выкарыстоўвалі супраць іх сваіх шпіёнаў.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_GOVERNMENT_DIFFERENT">
+			<Text>(Палітычны ўрад вашай цывілізацыі адрозніваецца ад палітычнага ўрада іх цывілізацыі.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_INCURSION">
+			<Text>(Яны лічаць, што ваша войска пагражае іх цывілізацыі.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_NEAR_BORDER_WARNING">
+			<Text>(Ваша войска месцавалась каля іх межы.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_OCCUPIED_CITY">
+			<Text>(Вы акупавалі іх горад.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_OCCUPIED_FRIENDLY_CITY">
+			<Text>(Вы акупавалі горад іх хаўруснікаў.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMACY_RANDOM">
+			<Text>(Проста вы ім не падабаецесь.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMACY_RAZED_MY_CITY">
+			<Text>(Вы зруйнавалі іх горад.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMACY_SETTLED_CITIES">
+			<Text>(Яны лічаць, што вы пабудавалі свой горад на іх зямле.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_WARMONGER">
+			<Text>(Яны лічаць вас шалёным вайскоўцэм.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_3RD_PARTY_DECLARED_SURPRISE_WAR_ON_FRIEND">
+			<Text>(Вы ваявалі з яго сябрам.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_3RD_PARTY_DENOUNCED_FRIEND">
+			<Text>(Вы зганілі яго сябра.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_3RD_PARTY_DECLARED_FRIENDSHIP_WITH_ENEMY">
+			<Text>(Вы пасябравалі з яго ворагам.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_3RD_PARTY_ALLIED_WITH_ENEMY">
+			<Text>(Вы з'яўляецеся хаўруснікам яго ворага.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_ALLY_OF_ENKIDU_DENOUNCED_FRIEND">
+			<Text>(Вы зганілі іх сябра.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_AYYUBID_DYNASTY">
+			<Text>(У вашым горадзе не пабудаваны рэлігійны будынак іх рэлігіі.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_BACKSTAB_AVERSE_SURPRISE_WAR">
+			<Text>(Вы з кімсьці нечакана пачалі вайну.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_BLACK_QUEEN">
+			<Text>(Ваша цывілізація недастаткова выкарыстоўвае шпіёнаў.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_BUSHIDO">
+			<Text>(Культура і рэлігія вашай цывілізацыі занадта прымітыўныя.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_CONTINENT_ATTACKED">
+			<Text>(Вы пачалі вайну з цывілізацыяй на іх кантыненце.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_HAS_DESIRED_LUXURY">
+			<Text>(Вы валодаеце рэсурсамі асалоды, якіх ў ніх няма.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LAST_VIKING_KING">
+			<Text>(Флот вашай цывілізацыі занадта слабы.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_LEADS_GREAT_PEOPLE">
+			<Text>(Ваша цывілізацыя прывабіла болей выдатных дзеячаў, чым іхняя.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_LAGS_PROGRESS">
+			<Text>(Культура і навука вашай цывілізацыі занадта прымітыўныя.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_LEADS_WONDERS">
+			<Text>(Ваша цывілізацыя пабудавалі болей цудаў свету, чым іхняя.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_NEVER_AT_WAR">
+			<Text>(Вы ніколі не ваявалі.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_PAID_FOR_PEACE">
+			<Text>(Вы выплацілі даніну за мірную дамову.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_WARMONGER">
+			<Text>(Вы шалёны вайсковец.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_ENCROACHING_RELIGION">
+			<Text>(Вы зварачваеце іх гарады ў сваю рэлігію без дазволу.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_COMPETING_MINORS">
+			<Text>(Вы канкуруеце з імі за васалітэт горада-дзяржавы.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_RELIGION_NOT_RECEIVED">
+			<Text>(Вы не распаўсюдзілі сваю рэлігію ў іх цывілізацыі.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_CONQUERING_ALLYING_MINORS">
+			<Text>(Вы валодаеце большай колькасцю амбасадараў у гарадах-дзяржавах.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_OPTIMUS_PRINCEPS">
+			<Text>(Ваша цывілізацыя кантралюе занадта маленькую тэрыторыю.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_QUEEN_OF_NILE">
+			<Text>(Ваша цывілізацыя валодае занадта слабым вайскам.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SUN_SETS_NEW_CONTINENT">
+			<Text>(Вы пабудавалі горад на кантыненце, які месцаваўся ў іх сферы зацікаўленасцяў.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_CULTURE">
+			<Text>(Культура вашай цывілізацыі занадта прымітыўная.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_INDUSTRY">
+			<Text>(Прамысловасць вашай цывілізацыі занадта прымітыўная.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_HAPPINESS">
+			<Text>(Дабрабыт насельніцтва вашай цывілізацыя занадта нізкі.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_INCOME">
+			<Text>(Грашовы заробак вашай цывілізацыя занадта нізкі.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_POPULATION">
+			<Text>(Насельніцтва вашай цывілізацыі занадта маленькае.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_SCIENCE">
+			<Text>(Навуковы патэнцыял вашай цывілізацыі занадта нізкі.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_STANDING_ARMY">
+			<Text>(Войска вашай цывілізацыі занадта маленькае.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_PARANOID">
+			<Text>(Яны баяцца вас.)</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

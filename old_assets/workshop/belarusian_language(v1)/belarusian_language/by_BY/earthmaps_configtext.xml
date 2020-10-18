@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- earthmaps_configtext -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:46:21 AM -->
+<GameData>
+	<LocalizedText>
+
+
+		<Replace Language="en_US" Tag="LOC_TSLEARTH_NAME">
+			<Text>Гістарычная Карта Землі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TSLEARTH_DESCRIPTION">
+			<Text>Цывілізацыі пачынаюць гульню на карце Землі з гістарычным размяшчэннем сталіц.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_EARTH_MAP_STANDARD_NAME">
+			<Text>Карта Землі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_EARTH_MAP_STANDARD_DESCRIPTION">
+			<Text>Карта мае абрыс падобны на Землю з адпаведным месцаваннем кантынентаў і рэсурсаў.</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

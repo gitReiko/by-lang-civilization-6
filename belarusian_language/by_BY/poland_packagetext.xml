@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- poland_packagetext -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:48:54 AM -->
+<GameData>
+	<LocalizedText>
+
+		<Replace Language="en_US" Tag="LOC_POLAND_JADWIGA_MOD_TITLE">
+			<Text>DLC «Польская цывілізацыя»</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLAND_JADWIGA_MOD_TEASER">
+			<Text>Новая цывілізацыя Польшча і яе кароль Ядзвіга</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLAND_JADWIGA_MOD_DESCRIPTION">
+			<Text>Дадае новую цывілізацыю з яе валадарыняй.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOD_POLAND_SCENARIO_TITLE">
+			<Text>Сцэнарый: «Спадчына Ядзвігі»</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOD_POLAND_SCENARIO_TEASER">
+			<Text>Разам з двума іншымі валадарамі бараніце Польшчу ад іншаземных захопнікаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOD_POLAND_SCENARIO_DESCRIPTION">
+			<Text>У гэтым 60-ці крокавым сцэнарыі вы знаходзіцесь на скрыжаванні Еўропы і бароніце ўрадлівыя польскія землі ад бясконцых нападаў ворагаў з усіх накірункаў. Згуртуйце сваіх Крылатых Гусар ды перамажыце Тэўтонскіх Рыцараў і Асманскіх Туркаў.[NEWLINE][NEWLINE]У канцы гульні перамагае той валадар, які набярэ болей ачкоў па стандартнай сістэме адліку.</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

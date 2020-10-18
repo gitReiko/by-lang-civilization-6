@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ui_mods_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:55:02 AM -->
+<GameData>
+	<LocalizedText>
+
+		<Replace Language="en_US" Tag="LOC_MODS_TITLE">
+			<Text>ДАДАТКОВЫ КАНТЭНТ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_INSTALLED">
+			<Text>УСТАЛЯВАНЫЯ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_SUBSCRIPTIONS">
+			<Text>ПАДПІСКІ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_BROWSE_WORKSHOP">
+			<Text>ПРАГЛЯДЗЕЦЬ МАЙСТЭРНЮ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_WORLD_BUILDER">
+			<Text>РЭДАКТАР СВЕТУ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_NONE_INSTALLED">
+			<Text>Дадаткі не ўсталяваны.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_NONE_SELECTED">
+			<Text>Абярыце дадатак, каб праглядзець падрабязнасці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_NO_SUBSCRIPTIONS">
+			<Text>Няма падпісак на дадаткі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_SUBSCRIPTION_DOWNLOAD_INSTALLED">
+			<Text>Усталяваныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_SUBSCRIPTION_DOWNLOAD_PENDING">
+			<Text>Пачакайце, ідзе загрузка...</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_SUBSCRIPTION_SUBSCRIBED">
+			<Text>Падпіска аформлена, але дадатак не ўсталяваны.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_SUBSCRIPTION_DOWNLOADING">
+			<Text>Загрузка... ({1 : number} з {2 : number} )</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_ENABLE_MOD">
+			<Text>Уключыць дадатак</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_DOWNLOADING">
+			<Text>Дадатак загружаецца...</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_SUBSCRIPTION_NAME_PENDING">
+			<Text>Загрузка назвы падпіскі...</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_UPDATE">
+			<Text>Абнавіць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_VIEW">
+			<Text>Праглядзець</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_GROUP_DEFAULT_NAME">
+			<Text>(Стандартныя)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_GROUP_ADD_NAME">
+			<Text>+</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_GROUP_ADD_DESCRIPTION">
+			<Text>Стварыць новы гурт дадаткаў. Групы дадаткаў можна ўжываць для хуткага ўключэння патрэбных дадаткаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_GROUP_DELETE_NAME">
+			<Text>-</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_GROUP_ENTER_NAME">
+			<Text>Дайце назву новаму гурту дадаткаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_GROUP_DELETE_DESCRIPTION">
+			<Text>Выдаліць абраны гурт дадаткаў. Дадзенае дзеянне не выдаляе дадаткі, толькі гурт. Стандартны гурт нельга выдаліць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_SEARCH_NAME">
+			<Text>Пошук...</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_SEARCH_DESCRIPTION">
+			<Text>Пошук дадаткаў па назве і тызеру.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_SORTBY">
+			<Text>Сартаванне:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_SORTBY_NAME">
+			<Text>Сартаванне па назве</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_SORTBY_ENABLED">
+			<Text>Сартаванне ўключана</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_LAST_UPDATED">
+			<Text>Апошняе абнаўленне: {1_Time: datetime}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_FILTER">
+			<Text>Фільтр</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_FIRAXIAN_CONTENT">
+			<Text>Афіцыйныя дадаткі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_USER_CONTENT">
+			<Text>Дадаткі супольнасці</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_ENABLE_ALL">
+			<Text>Уключыць усё</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_DISABLE_ALL">
+			<Text>Вымкнуць усё</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_ENABLE">
+			<Text>Уключыць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_ENABLED">
+			<Text>Уключаны</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_ENABLE_INCLUDE">
+			<Text>Уключэнне гэтага дадатку патрабуе наступныя дадаткі:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_ENABLE_ERROR">
+			<Text>Нельга ўключыць, таму што:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_DISABLE">
+			<Text>Вымкнуць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_DISABLED">
+			<Text>Вымкнуты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_DISABLE_ERROR">
+			<Text>Нельга вымкнуць, таму што:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_DISABLE_ERROR_DEPENDS">
+			<Text>Нельга вымкнуць, таму што наступныя дадаткі залежаць ад яго:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_YES">
+			<Text>Так</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_NO">
+			<Text>Не</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_DETAILS_VERSION">
+			<Text>Версія:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_DETAILS_AUTHOR">
+			<Text>Аўтар:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_DETAILS_SPECIAL_THANKS">
+			<Text>Падзякі:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_DETAILS_DLC_STORE">
+			<Text>Націсніце тут, каб перайсці на старонку крамы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_DETAILS_SINGLEPLAYER">
+			<Text>Адзіночная гульня?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_DETAILS_MULTIPLAYER">
+			<Text>Сеткавая гульня?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_DETAILS_AFFECTS_SAVED_GAMES">
+			<Text>Уплывае на захаванні:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_DETAILS_OWNERSHIP">
+			<Text>Гаспадар:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_DETAILS_TAGS">
+			<Text>Тэгі:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_DETAILS_OWNERSHIP_YES">
+			<Text>Гэты дадатак прыналежыць вам</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_DETAILS_OWNERSHIP_NO">
+			<Text>Гэты дадатак не прыналежыць вам</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_DETAILS_DESCRIPTION">
+			<Text>Апісанне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_DETAILS_REFERENCES">
+			<Text>Спасылкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_DETAILS_REFERENCES_DEPENDENCY">
+			<Text>Залежыць ад</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_DETAILS_REFERENCES_REFERENCE">
+			<Text>Спасылкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_DETAILS_REFERENCES_BLOCK">
+			<Text>Блакуе</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_EXCLUSIVE">
+			<Text>Гэты дадатак не з'яўляецца эксклюзівам</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_PARTIALLY_EXCLUSIVE">
+			<Text>Гэты дадатак часткова з'яўляецца эксклюзівам</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_ERROR_SAVE_INCOMPATIBLE_MODS">
+			<Text>Уключаныя дадаткі не сумяшчальныя з захаваннямі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_ERROR_SAVE_MISSING_MODS">
+			<Text>Усталяваны не ўсе патрэбныя дадаткі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_ERROR_MOD_VERSION_ALREADY_ENABLED">
+			<Text>Іншая версія гэтага дадатку ўжо ўключана.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_ERROR_MOD_BLOCKED_BY_OTHER_MOD">
+			<Text>Гэты мод заблакаваны іншым.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_ERROR_MOD_MISSING_DEPENDENCIES">
+			<Text>Адсутнічаюць дадаткі, патрэбныя для гэтага дадатку.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_ERROR_MOD_HAS_EXCLUSIVITY_CONFLICTS">
+			<Text>Гэты дадатак заблакаваны, бо з'яўляецца эксклюзівам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODS_ERROR_BAD_GAMEVERSION">
+			<Text>Дадзеная версія гульні не сумяшчальна з гэтым дадаткам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOD_AUTHORS_FIRAXIS">
+			<Text>Firaxis</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>
+

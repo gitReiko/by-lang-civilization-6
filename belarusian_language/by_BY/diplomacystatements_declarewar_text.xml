@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- diplomacystatements_declarewar_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:36:27 AM -->
+<GameData>
+	<LocalizedText>
+
+		<!-- Human Declares War -->
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_ANY_ANY">
+			<Text>Да як вы адважылісь! Я звярну ў пыл усё, што вам люба!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Нам не прывыкаць да вайны... Вы збілісь са шляху Боскага, але мы выправім гэта.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Вы адважылісь напасць на маю дзяржаву? Не магу паверыць, што нават Настрадамус не змог прадказаць гэтага.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Ха! Асірыс будзе рады душам маіх ворагаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Я ўжо дзесяць разоў перамагаў магутных ворагаў. Здаецца гісторыкі прылічаць мне яшчэ адну перамогу.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Мае спробы пазбегнуць гвалту правалілісь. Прынцып вока за вока аслепіць гэты свет!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Пасля таго як я знішчу ваш народ, я буду цешыцца вашымі апошнімі ўздыхамі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Вы пэўна не ведаеце, што спартанцы вяртаюцца альбо са шчытом, альбо на шчыце.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Пра наша змаганне складуць вялікую сагу! Скальды будуць спяваць аб маёй мужнасці!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Боскі вецер абароніць нас, і вы падзёце, гэтак жа, як і ўсе мінулыя ворагі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>Хутка вы зразумееце: наколькі бескарысна ваша спроба нашкодзіць нам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Вашы жаўнеры не расліны. І вы не зможаце хутка аднавіць сілы пасля іх смерці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Ваша вайна безнадзейна. Хіба вы не ведаеце гісторыю? Заваяваць Расею немагчыма. Хто з мячом да нас прыйдзе, той ад мяча і загіне!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Няўжо вы думаеце, што ваша войска льга параўнаць з маёй армадай... з магутнасццю маёй імперыі? Вы сур'ёзна памылілісь!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Вы жадалі вайну і вы яе атрымалі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Я папярэджваў вас, што не трэба праліваць кроў. Яна ніколі не засынае.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>Калі трэба выбіраць паміж мірам і справядлівасцю, я абіраю справядлівасць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Вы страцілі давер'е Тамірыс і зараз заплаціце за гэта!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Ваша ганарыстасць згубіла вас. Не існуе сілы здольнай перамагчы Рым.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Вайна? Мы абураны.</Text>
+		</Replace>
+
+		<!-- AI Declares War -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_ANY_ANY">
+			<Text>У вас ёсць тое, што мне патрэбна. І я забяру гэта!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Вы сапраўды думалі, што з маім народам не трэба лічыцца? Я спыню гэта! Толькі не з Конга, толькі не з маім народам!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Прыкідвацца вашым сябрам была цікава, ці не? На жаль, прыйшоў час зняць маску ды асабіста расправіцца з вамі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Я доўга трывала вас. Надакучыла! Хай Амун-Ра вядзе мяне ў бой!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Няхай з гэтага моманта усім будзе вядома, што вы вораг Нямеччыны і я знішчу вас. Хай Бог памілуе вас, таму што я не пашкадую!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Гэта вайна не парушае мае маральныя прынцыпы. Не пытайце мяне чаму, ўсё адно не зразумееце.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Чаму я на вас напаў? Таму што я магу... таму што Іштар патрабуе гэтага. Зараз вы адчуеце магутнасць шумерскага царства.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Зараз мы праверым тваю магутнасць! Рыхтуйся!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Да вас набліжаецца бура, якой нельга пазбегнуць. Можаце спадзявацца толькі на хуткую смерць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Я больш не дазволю Імперыі трываць вас. Прыйшоў час спыніць гэты фарс.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Я раблю гэта дзеля прагрэсу і нічога больш. Бараніцесь.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Часам вайна прыносіць болей карысці, чым дыпламатыя. Вы зразумееце гэта... з часам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Сім я аб'яўляю вас ворагам Расеі, нашых хаўруснікаў, і Бога. Магчыма ён памілуе вашы душы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Вы парушылі божыя наказы і законы майго каралеўства... вам прыйдзецца адказаць за свае грахі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_QIN_ANY">
+			<Text>Вы насенне зла. Вас трэба знішчыць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Тое, што мы павінны звярнуцца да гвалту, для нас ганьба. Валадары не павінны забіваць валадароў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Я жадаў пазбегнуць гэтага, як вы ведаеце, але ваша стаўленне да міру не пакінула мне выбара.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Імператрыцы патрэбна ваша галава. Вы захлыняцеся ва ўласнай крыві.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Рыхтуйцесь да вайны. Нашы легіёны не спыняцца ні перад чым, а наш флот спусташыць вашы ўзбярэжжы, у славу Рыма.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Паколькі вы ігнаруеце нашыя пратэсты, мы пачынаем вайну.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_CHOICE_NEGATIVE">
+			<Text>Вы адкажыце за гэта!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_CHOICE_POSITIVE">
+			<Text>Вельмі дрэнна. Я лічыў вас сваім сябрам.</Text>
+		</Replace>
+
+		<!-- Reasons - specialized per war type -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_SURPRISE_WAR">
+			<Text>(Пачаў нечаканую вайну.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_FORMAL_WAR">
+			<Text>(Пачаў афіцыйную вайну.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_HOLY_WAR">
+			<Text>(Пачаў святую вайну.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_RECONQUEST_WAR">
+			<Text>(Пачаў рэканкісту.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_LIBERATION_WAR">
+			<Text>(Пачаў вызваленчую вайну.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_PROTECTORATE_WAR">
+			<Text>(Пачаў вайну за пратэктарат.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_COLONIAL_WAR">
+			<Text>(Пачаў каланіяльную вайну.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_TERRITORIAL_WAR">
+			<Text>(Пачаў вайну, каб пашырыць межы своёй імперыі.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_FORMAL_WAR">
+			<Text>(Пачаў супольную афіцыйную вайну.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_HOLY_WAR">
+			<Text>(Пачаў супольную святую вайну.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_RECONQUEST_WAR">
+			<Text>(Пачаў супольную рэканкісту.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_LIBERATION_WAR">
+			<Text>(Пачаў супольную вызваленчую вайну.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_PROTECTORATE_WAR">
+			<Text>(Пачаў супольную вайну за пратэктарат.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_COLONIAL_WAR">
+			<Text>(Пачаў супольную каланіяльную вайну.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_TERRITORIAL_WAR">
+			<Text>(Пачаў супольную вайну, каб пашырыць межы своёй імперыі.)</Text>
+		</Replace>
+
+
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- vikings_packagetext -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:58:33 AM -->
+<GameData>
+	<LocalizedText>
+
+		<Replace Language="en_US" Tag="LOC_MOD_VIKINGS_SCENARIO_TITLE">
+			<Text>Сцэнарый: Вікінгі, Гандляры і Грабежнікі!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOD_VIKINGS_SCENARIO_TEASER">
+			<Text>Станьце каралём вікінгаў ды паспрабуйце накапіць самую вялікую скарбніцу за 60 крокаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOD_VIKINGS_SCENARIO_DESCRIPTION">
+			<Text>Станьце самым магутным каралём вікінгаў і падначальце сабе Еўропу гэтым ў 60 крокавым сцэнарыі. Абярыце аднаго з трох унікальных валадароў вікінгаў, якія кіруюць у Даніі, Нарвегіі ды Швецыі, і разграбце ўсё, што стане на вашам шляху. Пачніце марское нашэсце на Англію, заваюйце Парыж, альбо плавайце вакол Гібралтара і ажыццяўляйце набегі на міжземным мора. [NEWLINE][NEWLINE]Калі знойдзеце самыя прыбытковыя гандлёвыя шляхі, вярніцесь дадому і пабудуйце гандлёвую імперыю. Распаўсюджвайце добрае слова і генеруйце [ICON_Faith] веру для вашага народа, калі станеце прыхільнікам новай рэлігіі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOD_VIKINGSLANDMARKS_TITLE">
+			<Text>DLC «Вікінгі»</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOD_VIKINGSLANDMARKS_TEASER">
+			<Text>Тры новых дзіва прыроды і шэсць новых гарадоў-дзяржаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOD_VIKINGSLANDMARKS_DESCRIPTION">
+			<Text>Дадае новыя дзівы прыроды і шэсць новых гарадоў-дзяржаў, якія дазваляюць будаваць новыя паляпшэнні мясцовасці.</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

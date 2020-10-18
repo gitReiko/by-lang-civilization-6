@@ -1,0 +1,1242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ui_options_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:55:36 AM -->
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_TITLE">
+			<Text>НАЛАДЫ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_TEXT">
+			<Text>Скінуць усе налады да пачатковых параметраў?[NEWLINE][NEWLINE][COLOR_RED]Некаторыя змяненні набудуць моц толькі пасля перазагрузкі праграмы.[ENDCOLOR][NEWLINE][NEWLINE]Скінуць усе налады?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_CHANGES_REQUIRE_APP_RESTART">
+			<Text>Некаторыя змяненні не могуць набыць моц да перазапуску праграмы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_CHANGES_REQUIRE_GAME_RESTART">
+			<Text>Некаторыя змяненні не могуць набыць моц да перазапуску дадзенай гульні.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_RESOLUTION_OK">
+			<Text>Жадаеце захаваць новую адрознівальную здольнасць экрана?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_OK">
+			<Text>Добра</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_YES">
+			<Text>Так</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_NO">
+			<Text>Не</Text>
+		</Replace>
+
+		<!-- Option Enums -->
+		<Replace Language="en_US" Tag="LOC_OPTIONS_ENABLED">
+			<Text>Уключыць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_DISABLED">
+			<Text>Вымкнуць</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_OPTIONS_MINIMUM">
+			<Text>Мінімальныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_LOW">
+			<Text>Нізкія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_MEDIUM">
+			<Text>Сярэднія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HIGH">
+			<Text>Высокія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_ULTRA">
+			<Text>Найвысокія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_CUSTOM">
+			<Text>Уласныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_TOD_NONE">
+			<Text>Ніякія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_TOD_REAL_LIFE">
+			<Text>Выкарыстоўваць мясцовы час</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_TOD_X_TURNS">
+			<Text>{1_Turns : plural 1?Кожны; other?Кожныя;} {1_Turns : plural 1?крок; 2? {1_num} крокі; 3? {1_num} крокі; 4? {1_num} крокі; other? {1_num} крокаў;}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_TOD_10_TURNS">
+			<Text>Кожныя 10 крокаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_TOD_ERA_PROGRESSION">
+			<Text>Падчас змены эры</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_NEVER">
+			<Text>Ніколі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_ALWAYS">
+			<Text>Заўсёды</Text>
+		</Replace>
+
+		<!-- Gameplay Panel -->
+		<Replace Language="en_US" Tag="LOC_OPTIONS_TUTORIAL_EXPERIENCED_PLAYER">
+			<Text>Дасведчаны гулец</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_TUTORIAL_NEW_TO_XP1">
+			<Text>Пачатковец для Civilization VI - Rise and Fall</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_TUTORIAL_FAMILIAR_CIVILIZATION">
+			<Text>Няма досведу гульні ў Civilization VI</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_TUTORIAL_FAMILIAR_STRATEGY">
+			<Text>Няма досведу гульні ў Civilization</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_TUTORIAL_NEWBIE">
+			<Text>Няма досведу гульні ў пакрокавыя стратэгіі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_TIME_OF_DAY_TEXT">
+			<Text>Анімацыя часу дня:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HISTORIC_MOMENT_ANIMATION">
+			<Text>Адлюстраванне анімацыі гістарычных момантаў</Text>
+		</Replace>
+
+		<!-- Graphics Panel - Option Enums -->
+		<Replace Language="en_US" Tag="LOC_OPTIONS_TICK_INTERVAL_30_FPS">
+			<Text>30 FPS</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_TICK_INTERVAL_20_FPS">
+			<Text>20 FPS</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_TICK_INTERVAL_60_FPS">
+			<Text>60 FPS</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_OPTIONS_WINDOW_MODE_WINDOWED">
+			<Text>У акне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_WINDOW_MODE_FULLSCREEN">
+			<Text>Увесь экран</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_WINDOW_MODE_BORDERLESS">
+			<Text>Акно без рамкі</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_OPTIONS_MSAA_2X">
+			<Text>MSAA 2X</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_MSAA_4X">
+			<Text>MSAA 4X</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_MSAA_8X">
+			<Text>MSAA 8X</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_MSAA_16X">
+			<Text>MSAA 16X</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_MSAA_32X">
+			<Text>MSAA 32X</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_MSAA_FULL">
+			<Text>MSAA Full</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_OPTIONS_CSAA_2X">
+			<Text>CSAA 2X / 4X</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_CSAA_4X">
+			<Text>CSAA 4X / 8X</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_CSAA_8X">
+			<Text>CSAA 8X / 16X</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_CSAA_16X">
+			<Text>CSAA 16X / 32X</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_CSAA_32X">
+			<Text>CSAA 32X / 64X</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_CSAA_FULL">
+			<Text>CSAA Full</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_OPTIONS_EQAA_2X">
+			<Text>EQAA 2X / 4X</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_EQAA_4X">
+			<Text>EQAA 4X / 8X</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_EQAA_8X">
+			<Text>EQAA 8X / 16X</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_EQAA_16X">
+			<Text>EQAA 16X / 32X</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_EQAA_32X">
+			<Text>EQAA 32X / 64X</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_EQAA_FULL">
+			<Text>EQAA Full</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_OPTIONS_LOW_MEMORY_OPTIMIZED">
+			<Text>Нізкія (аптымізацыя памяці)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_LOW_PERFORMANCE_OPTIMIZED">
+			<Text>Нізкія (аптымізацыя прадукцыйнасці)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_MEDIUM_MEMORY_OPTIMIZED">
+			<Text>Сярэднія (аптымізацыя памяці)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_MEDIUM_PERFORMANCE_OPTIMIZED">
+			<Text>Сярэднія (аптымізацыя прадукцыйнасці)</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_OPTIONS_REFLECTION_1PASS">
+			<Text>1 адбітак</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_REFLECTION_2PASSES">
+			<Text>2 адбітка</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_REFLECTION_3PASSES">
+			<Text>3 адбітка</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_REFLECTION_4PASSES">
+			<Text>4 адбітка</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_OPTIONS_100_PERCENT">
+			<Text>100%</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_150_PERCENT">
+			<Text>150%</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_200_PERCENT">
+			<Text>200%</Text>
+		</Replace>
+
+		<!-- Graphics Panel - Main -->
+		<Replace Language="en_US" Tag="LOC_OPTIONS_VIDEO_ADAPTER_TEXT">
+			<Text>Відэакарта:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_VIDEO_ADAPTER_TOOLTIP">
+			<Text>Выберыце відэакарту, якую жадайце выкарыстоўваць.[NEWLINE][NEWLINE][COLOR_RED]Патрабуе перазагрузкі гульні.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_VIDEO_MULTI_GPU_TEXT">
+			<Text>Выкарыставаць некалькі відэакарт</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_VIDEO_MULTI_GPU_TOOLTIP">
+			<Text>Гэты рэжым патрабуе DX12 з адпаведнымі наладамі.[NEWLINE][NEWLINE][COLOR_RED]Патрабуе перазагрузкі гульні.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_VIDEO_RESOLUTION_TEXT">
+			<Text>Адрознівальная здольнасць:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_VIDEO_RESOLUTION_TOOLTIP">
+			<Text>Выберыце адрознівальную здольнасць гульні.[NEWLINE][NEWLINE]Меншая адрознівальная здольнасць [COLOR_Civ6DarkRed] забяспечвае лепшую прадукцыйнасць[ENDCOLOR].</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_VIDEO_UI_UPSCALE_TEXT">
+			<Text>Маштабаванне інтэрфэйсу:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_VIDEO_UI_UPSCALE_TOOLTIP">
+			<Text>Выберыце патрэбную велічыню інтэрфэйсу.[NEWLINE](Дасяжна толькі для пэўных адрознівальных здольнасцяй)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_VIDEO_WINDOW_MODE_TEXT">
+			<Text>Налады акна:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_VIDEO_WINDOW_MODE_TOOLTIP">
+			<Text>Абярыце рэжым адлюстравання акна гульні.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_VIDEO_PERFORMANCE_TEXT">
+			<Text>Уплыў на прадукцыйнасць:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_VIDEO_PERFORMANCE_TOOLTIP">
+			<Text>Змяніце дадатковыя налады для таго, каб дамагчыся жаданай прадукцыйнасці.[NEWLINE][NEWLINE]Ніжэйшыя налады пагаршаюць якасць выявы, але [COLOR_Civ6DarkRed] паляпшаюць прадукцыйнасць[ENDCOLOR].</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_VIDEO_MEMORY_TEXT">
+			<Text>Уплыў на памяць:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_VIDEO_MEMORY_TOOLTIP">
+			<Text>Змяніце дадатковыя налады для таго, каб дамагчыся жаданага выдатку памяці.[NEWLINE][NEWLINE]Ніжэйшыя налады пагаршаюць якасць выявы ды [COLOR_Civ6DarkRed] зменшваюць выдатак памяці[ENDCOLOR].</Text>
+		</Replace>
+
+		<!-- Graphics Panel - Advanced -->
+		<Replace Language="en_US" Tag="LOC_OPTIONS_SHOW_ADVANCED_GRAPHICS">
+			<Text>Паказаць дадатковыя налады</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HIDE_ADVANCED_GRAPHICS">
+			<Text>Схаваць дадатковыя налады</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_OPTIONS_ADVANCED_GRAPHICS">
+			<Text>Дадатковыя налады выявы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_VIDEO_VSYNC_ENABLED_TEXT">
+			<Text>Вертыкальная сінхранізацыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_VIDEO_VSYNC_ENABLED_TOOLTIP">
+			<Text>Выдаляе разрывы выявы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_PERFORMANCE_TICK_INTERVAL_TEXT">
+			<Text>Абмежаваць колькасць кадраў:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_PERFORMANCE_TICK_INTERVAL_TOOLTIP">
+			<Text>Абмяжоўвае колькасць кадраў у секунду.[NEWLINE][NEWLINE]Можа павялічыць час аўтаномнай працы партатыўных прылад.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_VIDEO_MSAA_TEXT">
+			<Text>Згладжванне:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_VIDEO_MSAA_TOOLTIP">
+			<Text>Згладжвае зубчастыя краі. [NEWLINE] [NEWLINE] Ніжэйшыя значэнні [COLOR_Civ6DarkRed] павялічваюць прадукцыйнасць [ENDCOLOR] ды [COLOR_Blue] зменшваюць выдатак памяці[ENDCOLOR].</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_VIDEO_HIGH_RESOLUTION_ASSET_TEXTURES_TEXT">
+			<Text>Тэкстуры з высокім адрозненнем</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_VIDEO_HIGH_RESOLUTION_ASSET_TEXTURES_TOOLTIP">
+			<Text>Ужывае тэкстуры з высокім адрозненнем.[NEWLINE][NEWLINE]Адключэнне налады [COLOR_Blue] зменшвае выдатак памяці[ENDCOLOR].</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_VIDEO_VFX_DETAIL_LEVEL_TEXT">
+			<Text>Высокаякасныя эфекты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_VIDEO_VFX_DETAIL_LEVEL_TOOLTIP">
+			<Text>Павялічвае колькасць часціц, з якіх складаюцца эфекты.[NEWLINE][NEWLINE]Адключэнне налады[COLOR_Civ6DarkRed] паляпшае прадукцыйнасць[ENDCOLOR].</Text>
+		</Replace>
+
+		<!-- Graphics Panel - Lighting -->
+		<Replace Language="en_US" Tag="LOC_OPTIONS_LIGHTING">
+			<Text>Асвятленне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_LIGHTING_AO_ENABLED_TEXT">
+			<Text>Аб'ёмнае асвятленне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_LIGHTING_AO_ENABLED_TOOLTIP">
+			<Text>Зацямняе вобласці аб'ектаў, на якія трапляе меней святла.[NEWLINE][NEWLINE]Ніжэйшыя значэнні налады[COLOR_Civ6DarkRed] палепшаюць прадукцыйнасць[ENDCOLOR].</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_LIGHTING_AO_DEPTH_RESOLUTION_TEXT">
+			<Text>Глыбіня рэзкасці аб'ёмнага асвятлення:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_LIGHTING_AO_DEPTH_RESOLUTION_TOOLTIP">
+			<Text>Зменьвае дэталізацыю аб'ёмнага асвятлення.[NEWLINE][NEWLINE]Ніжэйшыя значэнні налады[COLOR_Blue] зменшваюць выдатак памяці[ENDCOLOR].</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_LIGHTING_AO_RENDER_RESOLUTION_TEXT">
+			<Text>Адрознівальная здольнасць аб'ёмнага асвятлення:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_LIGHTING_AO_RENDER_RESOLUTION_TOOLTIP">
+			<Text>Зменьвае адрознівальную здольнасць аб'ёмнага асвятлення.[NEWLINE][NEWLINE]Ніжэйшыя значэнні налады[COLOR_Blue] зменшваюць выдатак памяці[ENDCOLOR].</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_LIGHTING_BLOOM_ENABLED_TEXT">
+			<Text>Свячэнне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_LIGHTING_BLOOM_ENABLED_TOOLTIP">
+			<Text>Узмацняе яркасць праменяў святла ды адбіткаў.[NEWLINE][NEWLINE]Адключэнне налады[COLOR_Civ6DarkRed] паляпшае прадукцыйнасць[ENDCOLOR].</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_LIGHTING_DYNAMIC_LIGHTING_ENABLED_TEXT">
+			<Text>Дынамічнае асвятленне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_LIGHTING_DYNAMIC_LIGHTING_ENABLED_TOOLTIP">
+			<Text>Сонца перастае быць адзінай крыніцай святла.[NEWLINE][NEWLINE]Адключэнне налады[COLOR_Civ6DarkRed] паляпшае прадукцыйнасць[ENDCOLOR].</Text>
+		</Replace>
+
+		<!-- Graphics Panel - Shadows -->
+		<Replace Language="en_US" Tag="LOC_OPTIONS_SHADOWS">
+			<Text>Цені</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_SHADOWS_ENABLED_TEXT">
+			<Text>Цені</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_SHADOWS_ENABLED_TOOLTIP">
+			<Text>Дадае цёмныя ўчасткі, у якіх святло блакуецца чым-небудзь.[NEWLINE][NEWLINE]Адключэнне налады[COLOR_Civ6DarkRed] паляпшае прадукцыйнасць[ENDCOLOR].</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_SHADOWS_RESOLUTION_TEXT">
+			<Text>Адрознівальная здольнасць ценяў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_SHADOWS_RESOLUTION_TOOLTIP">
+			<Text>Змяняе дэталізацыю ценяў.[NEWLINE][NEWLINE]Ніжэйшыя значэнні налады[COLOR_Blue] зменшваюць выдатак памяці[ENDCOLOR].</Text>
+		</Replace>
+
+		<!-- Graphics Panel - Overlay -->
+		<Replace Language="en_US" Tag="LOC_OPTIONS_OVERLAY">
+			<Text>Накладванні</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_OVERLAY_RESOLUTION_TEXT">
+			<Text>Адрознівальная здольнасць накладванняў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_OVERLAY_RESOLUTION_TOOLTIP">
+			<Text>Змяняе дэталізацыю накладванняў.[NEWLINE][NEWLINE]Ніжэйшыя значэнні налады[COLOR_Blue] зменшваюць выдатак памяці[ENDCOLOR].</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_SSOVERLAY_ENABLED_TEXT">
+			<Text>Поўнаэкраннае накладванне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_SSOVERLAY_ENABLED_TOOLTIP">
+			<Text>Малюе накладванні не толькі на карце свету, але і на ўсіх паверхнях.[NEWLINE][NEWLINE]Адключэнне налады[COLOR_Civ6DarkRed] паляпшае прадукцыйнасць[ENDCOLOR].</Text>
+		</Replace>
+
+		<!-- Graphics Panel - Terrain -->
+		<Replace Language="en_US" Tag="LOC_OPTIONS_TERRAIN">
+			<Text>Карта свету</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_TERRAIN_QUALITY_TEXT">
+			<Text>Якасць:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_TERRAIN_QUALITY_TOOLTIP">
+			<Text>Змяняе дэталізацыю карты свету.[NEWLINE][NEWLINE]Ніжэйшыя значэнні налады[COLOR_Blue] паляпшаюць прадукцыйнасць[ENDCOLOR] і/або [COLOR_Blue]зменшваюць выдатак памяці[ENDCOLOR].</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_TERRAIN_HIGH_RESOLUTION_TEXT">
+			<Text>Высокая адрознівальная здольнасць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_TERRAIN_HIGH_RESOLUTION_TOOLTIP">
+			<Text>Карта свету робіцца больш дэталізаванай.[NEWLINE][NEWLINE]Адключэнне налады[COLOR_Civ6DarkRed] паляпшае прадукцыйнасць[ENDCOLOR].</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_TERRAIN_HIGH_QUALITY_SHADER_TEXT">
+			<Text>Высокаякасны шэйдар</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_TERRAIN_HIGH_QUALITY_SHADER_TOOLTIP">
+			<Text>Паляпшае асветленасць карты свету.[NEWLINE][NEWLINE]Адключэнне налады[COLOR_Civ6DarkRed] паляпшае прадукцыйнасць[ENDCOLOR] ды зменшвае выдатак памяці[ENDCOLOR]..</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_TERRAIN_HIGH_DETAIL_CLUTTER_TEXT">
+			<Text>Краявід высокай якасці</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_TERRAIN_HIGH_DETAIL_CLUTTER_TOOLTIP">
+			<Text>Павялічвае колькасць дрэў ды айсбергаў.[NEWLINE][NEWLINE]Адключэнне налады[COLOR_Civ6DarkRed] паляпшае прадукцыйнасць[ENDCOLOR].</Text>
+		</Replace>
+
+		<!-- Graphics Panel - Water -->
+		<Replace Language="en_US" Tag="LOC_OPTIONS_WATER">
+			<Text>Вада</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_WATER_HIGH_RESOLUTION_TEXT">
+			<Text>Высокаякасная вада</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_WATER_HIGH_RESOLUTION_TOOLTIP">
+			<Text>Хвалі і блікі робяцца больш дэталізаванымі.[NEWLINE][NEWLINE]Адключэнне налады[COLOR_Blue] зменшвае выдатак памяці[ENDCOLOR].</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_WATER_HIGH_QUALITY_SHADER_TEXT">
+			<Text>Высокаякасны шэйдар</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_WATER_HIGH_QUALITY_SHADER_TOOLTIP">
+			<Text>Паляпшае асветленасць вады.[NEWLINE][NEWLINE]Адключэнне налады[COLOR_Civ6DarkRed] паляпшае прадукцыйнасць[ENDCOLOR].</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_WATER_REFLECTION_PASSES_TEXT">
+			<Text>Адбіткі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_WATER_REFLECTION_PASSES_TOOLTIP">
+			<Text>Кіруе якасцю вадзяных адбіткаў.</Text>
+		</Replace>
+
+		<!-- Graphics Panel - Leaders -->
+		<Replace Language="en_US" Tag="LOC_OPTIONS_LEADERS">
+			<Text>Анімаваныя валадары</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_LEADER_QUALITY_TEXT">
+			<Text>Якасць:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_LEADER_QUALITY_TOOLTIP">
+			<Text>Змяняе выгляд валадароў.[NEWLINE][NEWLINE]Адключэнне налады[COLOR_Civ6DarkRed] паляпшае прадукцыйнасць[ENDCOLOR], а ніжэйшыя значэнні налады[COLOR_Blue] зменшваюць выдатак памяці[ENDCOLOR].</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_LEADER_MOTIONBLUR_TEXT">
+			<Text>Размыццё руху</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_LEADER_MOTIONBLUR_TOOLTIP">
+			<Text>Уключыць размыццё руху для валадароў</Text>
+		</Replace>
+
+		<!-- Application Panel -->
+		<Replace Language="en_US" Tag="LOC_OPTIONS_APP_SHOW_MOVIE">
+			<Text>Паказаць уступнае відэа:</Text>
+		</Replace>
+
+		<!-- Interface Panel -->
+		<Replace Language="en_US" Tag="LOC_OPTIONS_INTERFACE_GRAB_MOUSE">
+			<Text>Прывязаць мыш да акна:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_INTERFACE_EDGE_SCROLL">
+			<Text>Прагорваць калі мыш знаходзіцца на краі акна</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_OPTIONS_INTERFACE_CLOCK_FORMAT">
+			<Text>Фармат часу:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_12HOUR">
+			<Text>12 гадзін</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_24HOUR">
+			<Text>24 гадзіны</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_INTERFACE_TIME_OF_DAY">
+			<Text>Час дня:</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_OPTIONS_AUTO_UNIT_CYCLING">
+			<Text>Аўтаматычная змена адзінак:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_INTERFACE_MINIMAP_SIZE">
+			<Text>Памер карты:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_PLOT_TOOLTIP_DELAY">
+			<Text>Затрымка падказкі:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_PLOT_TOOLTIP_DELAY_VALUE">
+			<Text>{1_Value : number #.##}с</Text>
+		</Replace>
+
+		<!-- Hotkeys Panel -->
+		<!-- Expansion 1 - Additional Hotkeys-->
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UI_GOVERNORS">
+			<Text>Панэль губернатараў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UI_GOVERNORS_HELP">
+			<Text>Робіць панэль губернатараў бачнай</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UI_TIMELINE">
+			<Text>Панель часовай стужкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UI_TIMELINE_HELP">
+			<Text>Робіць панэль часовай стужкі бачнай</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UI_ERA_PROGRESS">
+			<Text>Панэль дасягненняў эры</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UI_ERA_PROGRESS_HELP">
+			<Text>Робіць панэль дасягненняў эры бачнай</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_CAPITALCITY">
+			<Text>Сталіца</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_CAPITALCITY_HELP">
+			<Text>Перамкнуцца да сталіцы</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_CATEGORY_UI_XP1">
+			<Text>Карыстальніцкі інтэрфейс (Rise and Fall):</Text>
+		</Replace>
+
+		<!-- Base Game Hot Keys-->
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_CATEGORY_UI">
+			<Text>Карыстальніцкі інтэрфейс:</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UI_TECH">
+			<Text>Дрэва тэхналогій</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UI_CIVICS">
+			<Text>Дрэва палітык</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UI_GOV">
+			<Text>Акно ўрада</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UI_RELIGION">
+			<Text>Акно рэлігій</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UI_GPEOPLE">
+			<Text>Акно выдатных дзеячаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UI_GWORKS">
+			<Text>Акно вялікіх вырабаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UI_RANKINGS">
+			<Text>Акно рангавання</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UI_CITYSTATES">
+			<Text>Акно гарадоў-дзяржаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UI_ESPIONAGE">
+			<Text>Акно шпіянажу</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UI_TRADEROUTES">
+			<Text>Акно гандлёвых шляхаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UI_CIVILOPEDIA">
+			<Text>Адчыніць цывілапедыю</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_CATEGORY_UNIT">
+			<Text>Дзеянні адзінак:</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UNIT_FOUNDCITY">
+			<Text>Пабудаваць горад</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UNIT_MOVETO">
+			<Text>Рухацца ў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UNIT_FORTIFY">
+			<Text>Умацаваць пазіцыю</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UNIT_DELETE">
+			<Text>Выдаліць адзінку</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UNIT_ATTACK">
+			<Text>Атакаваць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UNIT_RANGED">
+			<Text>Атакаваць з далёка</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UNIT_AUTOEXP">
+			<Text>Аўтаматычная выведка</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UNIT_SKIPTURN">
+			<Text>Прапусціць крок</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UNIT_SLEEP">
+			<Text>Заснуць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UNIT_ALERT">
+			<Text>Вартаваць</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UNIT_FOUNDCITY_HELP">
+			<Text>Загад пасяленцу пабудаваць горад.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UNIT_MOVETO_HELP">
+			<Text>Загад адзінцы рухацца ў азначаны пункт.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UNIT_FORTIFY_HELP">
+			<Text>Загад адзінцы ўмацаваць занятую пазіцыю.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UNIT_DELETE_HELP">
+			<Text>Выдаліць абраную адзінку.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UNIT_ATTACK_HELP">
+			<Text>Загад абранай адзінцы атакаваць пазіцыю.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UNIT_RANGED_HELP">
+			<Text>Загад абранай адзінцы дыстанцыйна атакаваць пазіцыю.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UNIT_AUTOEXP_HELP">
+			<Text>Загад абранай адзінцы аўтаматычна выведваць карту свету.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UNIT_SKIPTURN_HELP">
+			<Text>Абраная адзінка прапускае крок.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UNIT_SLEEP_HELP">
+			<Text>Загад абранай адзінцы заснуць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_UNIT_ALERT_HELP">
+			<Text>Загад абранай адзінцы вартаваць занятую пазіцыю.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_CATEGORY_GLOBAL">
+			<Text>Агульныя дзеянні:</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_ENDTURN">
+			<Text>Наступны крок</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLEGRID">
+			<Text>Уключыць сетку</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PAUSEMENU">
+			<Text>Адчыніць меню</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_QUICKSAVE">
+			<Text>Хуткае захаванне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_QUICKLOAD">
+			<Text>Хуткая загрузка</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_NEXTUNIT">
+			<Text>Наступная адзінка</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PREVUNIT">
+			<Text>Папярэдняя адзінка</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLEYIELD">
+			<Text>Уключыць малюнкі прыбытка</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANUP">
+			<Text>Прагартаць карту свету ўверх</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANDOWN">
+			<Text>Прагартаць карту свету ўніз</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANLEFT">
+			<Text>Прагартаць карту свету налева</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANRIGHT">
+			<Text>Прагартаць карту свету направа</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_ZOOMIN">
+			<Text>Наблізіць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_ZOOMOUT">
+			<Text>Аддаліць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_NEXTCITY">
+			<Text>Наступны горад</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PREVCITY">
+			<Text>Папярэдні горад</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLERESOURCES">
+			<Text>Уключыць малюнкі рэсурсаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLE2DVIEW">
+			<Text>Уключыць стратэгічны выгляд</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_ENDTURN_HELP">
+			<Text>Скончвае крок, калі гэта магчыма.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLEGRID_HELP">
+			<Text>Уключыць сетку на карце свету.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PAUSEMENU_HELP">
+			<Text>Адчыняе меню.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_QUICKSAVE_HELP">
+			<Text>Выконвае хуткае захаванне.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_QUICKLOAD_HELP">
+			<Text>Загружае апошняе хуткае захаванне, калі яно існуе.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_NEXTUNIT_HELP">
+			<Text>Выбірае наступную адзінку.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PREVUNIT_HELP">
+			<Text>Выбірае папярэднюю адзінку.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLEYIELD_HELP">
+			<Text>Адлюстроўвае малюнкі прыбытку на карце свету.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANUP_HELP">
+			<Text>Перамяшчае карту свету ўверх.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANDOWN_HELP">
+			<Text>Перамяшчае карту свету ўніз.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANLEFT_HELP">
+			<Text>Перамяшчае карту свету налева.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANRIGHT_HELP">
+			<Text>Перамяшчае карту свету направа.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_NEXTCITY_HELP">
+			<Text>Выбірае наступны горад.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PREVCITY_HELP">
+			<Text>Выбірае папярэдні горад.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLERESOURCES_HELP">
+			<Text>Адлюстроўвае малюнкі рэсурсаў на карце свету.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLE2DVIEW_HELP">
+			<Text>Перамыкач паміж стандартным і стратэгічным (2D) выглядам.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_CATEGORY_ONLINE">
+			<Text>Сеткавыя дзеянні:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_ONLINE_PAUSE">
+			<Text>Перапынак</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_ONLINE_PAUSE_HELP">
+			<Text>Спыняе сеткавую гульню.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_CATEGORY_LENSES">
+			<Text>Лінзы:</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_LENSES_RELIGION">
+			<Text>Рэлігія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_LENSES_CONTINENT">
+			<Text>Кантыненты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_LENSES_APPEAL">
+			<Text>Прэстыж</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_LENSES_SETTLER">
+			<Text>Селішчы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_LENSES_GOVERNMENT">
+			<Text>Урад</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_LENSES_POLITICAL">
+			<Text>Палітыка</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_LENSES_TOURISM">
+			<Text>Турызм</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_LENSES_LOYALTY">
+			<Text>Лаяльнасць</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_LENSES_RELIGION_HELP">
+			<Text>Лінза, якая адлюстроўвае рэлігію.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_LENSES_CONTINENT_HELP">
+			<Text>Лінза, якая адлюстроўвае кантыненты.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_LENSES_APPEAL_HELP">
+			<Text>Лінза, якая адлюстроўвае прэстыж гексаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_LENSES_SETTLER_HELP">
+			<Text>Лінза, якая адлюстроўвае магчымыя селішчы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_LENSES_POLITICAL_HELP">
+			<Text>Адлюстроўвае палітычную лінзу.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_LENSES_TOURISM_HELP">
+			<Text>Лінза, якая адлюстроўвае турызм.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_HOTKEY_LENSES_LOYALTY_HELP">
+			<Text>Лінза, якая адлюстроўвае лаяльнасць.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_UNDERSCORE">
+			<Text>_</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_A">
+			<Text>A</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_B">
+			<Text>B</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_C">
+			<Text>C</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_D">
+			<Text>D</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_E">
+			<Text>E</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_F">
+			<Text>F</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_G">
+			<Text>G</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_H">
+			<Text>H</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_I">
+			<Text>I</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_J">
+			<Text>J</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_K">
+			<Text>K</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_L">
+			<Text>L</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_M">
+			<Text>M</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_N">
+			<Text>N</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_O">
+			<Text>O</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_P">
+			<Text>P</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_Q">
+			<Text>Q</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_R">
+			<Text>R</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_S">
+			<Text>S</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_T">
+			<Text>T</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_U">
+			<Text>U</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_V">
+			<Text>V</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_W">
+			<Text>W</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_X">
+			<Text>X</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_Y">
+			<Text>Y</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_Z">
+			<Text>Z</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_0">
+			<Text>0</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_1">
+			<Text>1</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_2">
+			<Text>2</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_3">
+			<Text>3</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_4">
+			<Text>4</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_5">
+			<Text>5</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_6">
+			<Text>6</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_7">
+			<Text>7</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_8">
+			<Text>8</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_9">
+			<Text>9</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_NP_0">
+			<Text>0 (Number Pad)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_NP_1">
+			<Text>1 (Number Pad)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_NP_2">
+			<Text>2 (Number Pad)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_NP_3">
+			<Text>3 (Number Pad)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_NP_4">
+			<Text>4 (Number Pad)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_NP_5">
+			<Text>5 (Number Pad)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_NP_6">
+			<Text>6 (Number Pad)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_NP_7">
+			<Text>7 (Number Pad)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_NP_8">
+			<Text>8 (Number Pad)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_NP_9">
+			<Text>9 (Number Pad)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_NP_MULTIPLY">
+			<Text>* (Number Pad)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_NP_PLUS">
+			<Text>+ (Number Pad)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_NP_MINUS">
+			<Text>- (Number Pad)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_NP_DECIMAL">
+			<Text>. (Number Pad)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_NP_DIVIDE">
+			<Text>/ (Number Pad)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_NP_CENTER">
+			<Text>Center (Number Pad</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_F1">
+			<Text>F1</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_F2">
+			<Text>F2</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_F3">
+			<Text>F3</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_F4">
+			<Text>F4</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_F5">
+			<Text>F5</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_F6">
+			<Text>F6</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_F7">
+			<Text>F7</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_F8">
+			<Text>F8</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_F9">
+			<Text>F9</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_F10">
+			<Text>F10</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_F11">
+			<Text>F11</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_F12">
+			<Text>F12</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_F13">
+			<Text>F13</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_F14">
+			<Text>F14</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_F15">
+			<Text>F15</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_F16">
+			<Text>F16</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_F17">
+			<Text>F17</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_F18">
+			<Text>F18</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_F19">
+			<Text>F19</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_F20">
+			<Text>F20</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_F21">
+			<Text>F21</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_F22">
+			<Text>F22</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_F23">
+			<Text>F23</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_F24">
+			<Text>F24</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_INSERT">
+			<Text>Insert</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_HOME">
+			<Text>Home</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_PAGEUP">
+			<Text>Page Up</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_DELETE">
+			<Text>Delete</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_END">
+			<Text>End</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_PAGEDOWN">
+			<Text>Page Down</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_LEFT">
+			<Text>Left Arrow</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_UP">
+			<Text>Up Arrow</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_RIGHT">
+			<Text>Right Arrow</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_DOWN">
+			<Text>Down Arrow</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_SEMICOLON">
+			<Text>;</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_PLUS">
+			<Text>=</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_COMMA">
+			<Text>,</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_MINUS">
+			<Text>-</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_PERIOD">
+			<Text>.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_SLASH">
+			<Text>/</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_TILDE">
+			<Text>~</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_LBRACKET">
+			<Text>[</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_BACKSLASH">
+			<Text>\</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_RBRACKET">
+			<Text>]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_QUOTE">
+			<Text>"</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_PRINTSCREEN">
+			<Text>Print Scrn</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_PAUSE">
+			<Text>Pause</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_SPACE">
+			<Text>Space</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_TAB">
+			<Text>Tab</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_RETURN">
+			<Text>Return</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_ESCAPE">
+			<Text>Esc</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_BACKSPACE">
+			<Text>Backspace</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_CANCEL">
+			<Text>Cancel</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_SHIFT">
+			<Text>Shift</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_CONTROL">
+			<Text>Ctrl</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_ALT">
+			<Text>Alt</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_LSHIFT">
+			<Text>Left Shift</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_LCONTROL">
+			<Text>Left Ctrl</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_LALT">
+			<Text>Left Alt</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_RSHIFT">
+			<Text>Right Shift</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_RCONTROL">
+			<Text>Right Ctrl</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_RALT">
+			<Text>Right Alt</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_LBUTTON">
+			<Text>Left Mouse Button</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_RBUTTON">
+			<Text>Right Mouse Button</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_MBUTTON">
+			<Text>Middle Mouse Button</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_CAPSLOCK">
+			<Text>Caps Lock</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_NUMLOCK">
+			<Text>Num Lock</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_SCROLLLOCK">
+			<Text>Scroll Lock</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_LWIN">
+			<Text>Left Win</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_RWIN">
+			<Text>Right Win</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_APPS">
+			<Text>Apps</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_DANOMITE">
+			<Text></Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_IGNORE">
+			<Text></Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_PAD_A">
+			<Text>Pad A</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_PAD_B">
+			<Text>Pad B</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_PAD_X">
+			<Text>Pad X</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_PAD_Y">
+			<Text>Pad Y</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_PAD_RSHOULDER">
+			<Text>Pad RB</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_PAD_LSHOULDER">
+			<Text>Pad LB</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_PAD_LTRIGGER">
+			<Text>Pad LT</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_PAD_RTRIGGER">
+			<Text>Pad RT</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_PAD_DPAD_UP">
+			<Text>Pad Dpad Up</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_PAD_DPAD_DOWN">
+			<Text>Pad Dpad Down</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_PAD_DPAD_LEFT">
+			<Text>Pad Dpad Left</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_PAD_DPAD_RIGHT">
+			<Text>Pad Dpad Right</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_PAD_START">
+			<Text>Pad Start</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_PAD_BACK">
+			<Text>Pad Back</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_PAD_LTHUMB_PRESS">
+			<Text>Pad LStick</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_PAD_RTHUMB_PRESS">
+			<Text>Pad RStick</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_VOLUME_MUTE">
+			<Text>Mute</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_VOLUME_DOWN">
+			<Text>Vol. Down</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_VOLUME_UP">
+			<Text>Vol. Up</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_MEDIA_NEXT_TRACK">
+			<Text>Next Track</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_MEDIA_PREV_TRACK">
+			<Text>Prev Track</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_MEDIA_STOP">
+			<Text>Stop</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_MEDIA_PLAY_PAUSE">
+			<Text>Play / Pause</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_NUM_KEYS">
+			<Text>Num Keys</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_SUBTITLES">
+			<Text>Cinematic Subtitles:</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>
+

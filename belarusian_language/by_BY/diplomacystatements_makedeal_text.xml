@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- diplomacystatements_makedeal_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:42:57 AM -->
+<GameData>
+	<LocalizedText>
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_DEAL_AI_ACCEPT_DEAL_ANY_ANY">
+			<Text>Так, я шчаслів скласці гэтую дамову.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_DEAL_AI_REFUSE_DEAL_ANY_ANY">
+			<Text>Не магу пагадзіцца на гэтую дамову.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_ANY_ANY">
+			<Text>Дзякуй. Я лічу, што гэтая дамова прынясе карысць кожнаму з нас.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_ANY_ANY">
+			<Text>Мушу сказаць, я трохі расчараваны.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_DEAL_AI_ADJUST_DEAL_ANY_ANY">
+			<Text>Гэтая дамова мне падабаецца болей.</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

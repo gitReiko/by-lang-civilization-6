@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+   <LocalizedText>
+ 
+    <!-- Main menu text --> 
+     <Replace Language="by_BY" Tag="LOC_BENCHMARK_GRAPHICS">
+      <Text>Тэставанне відэакарты</Text>
+    </Replace>
+     <Replace Language="by_BY" Tag="LOC_BENCHMARK_AI">
+      <Text>Тэставанне працэсара</Text>
+    </Replace>
+     <Replace Language="by_BY" Tag="LOC_BENCHMARK_GRAPHICS_TT">
+      <Text>Ацэньвае прадукцыйнасць вашай відэакарты.</Text>
+    </Replace>
+	<Replace Language="by_BY" Tag="LOC_BENCHMARK_AI_TT">
+      <Text>Ацэньвае прадукцыйнасць вашага працэсара з дапамогай ШІ(штучнага інтэлекту).</Text>
+    </Replace>
+	
+    <!-- Benchmarking UI text -->	
+	
+     <Replace Language="by_BY" Tag="LOC_BENCHMARK_TIME">
+      <Text>Час:</Text>
+    </Replace>
+     <Replace Language="by_BY" Tag="LOC_BENCHMARK_TURN">
+      <Text>Крок:</Text>
+    </Replace>
+     <Replace Language="by_BY" Tag="LOC_BENCHMARK_AVG_TURN_TIME">
+      <Text>Сярэдні ч/к:</Text>
+    </Replace>
+
+ 
+   </LocalizedText>
+</GameData>

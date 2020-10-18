@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- religion_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:51:18 AM -->
+<GameData>
+	<LocalizedText>
+
+		<!--RELIGIONS-->
+		<Replace Language="en_US" Tag="LOC_RELIGION_PANTHEON">
+			<Text>Пантэон|пантэона|пантэону|пантэон|пантэонам|пантэоне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RELIGION_BUDDHISM">
+			<Text>Будызм|будызма|будызму|будызм|будызмам|будызме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RELIGION_CATHOLICISM">
+			<Text>Каталіцтва|каталіцтва|каталіцтву|каталіцтва|каталіцтвам|каталіцтве</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RELIGION_CONFUCIANISM">
+			<Text>Канфуцыянства|канфуцыянства|канфуцыянству|канфуцыянства|канфуцыянствам|канфуцыянстве</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RELIGION_HINDUISM">
+			<Text>Індуізм|індуізма|індуізму|індуізм|індуізмам|індуізме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RELIGION_ISLAM">
+			<Text>Іслам|іслама|ісламу|іслам|ісламам|ісламе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RELIGION_JUDAISM">
+			<Text>Іудаізм|іудаізма|іудаізму|іудаізм|іудаізмам|іудаізме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RELIGION_ORTHODOXY">
+			<Text>Праваслаўе|праваслаўя|праваслаўю|праваслаўе|праваслаўем|праваслаўі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RELIGION_PROTESTANTISM">
+			<Text>Пратэстантызм|пратэстантызма|пратэстантызму|пратэстантызм|пратэстантызмам|пратэстантызме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RELIGION_SHINTO">
+			<Text>Сінтаізм|сінтаізма|сінтаізму|сінтаізм|сінтаізмам|сінтаізме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RELIGION_SIKHISM">
+			<Text>Сікхізм|сікхізма|сікхізму|сікхізм|сікхізмам|сікхізме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RELIGION_TAOISM">
+			<Text>Даасізм|даасізма|даасізму|даасізм|даасізмам|даасізме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RELIGION_ZOROASTRIANISM">
+			<Text>Зораастрызм|зораастрызма|зораастрызму|зораастрызм|зораастрызмам|зораастрызме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!--BELIEF CLASSES-->
+		<Replace Language="en_US" Tag="LOC_BELIEF_CLASS_PANTHEON_NAME">
+			<Text>Пантэон|пантэона|пантэону|пантэон|пантэонам|пантэоне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_CLASS_FOLLOWER_NAME">
+			<Text>Паслядоўнік|паслядоўніка|паслядоўніку|паслядоўніка|паслядоўнікам|паслядоўніку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_CLASS_WORSHIP_NAME">
+			<Text>Культ|культа|культу|культ|культам|кульце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_CLASS_FOUNDER_NAME">
+			<Text>Заснавальнік|заснавальніка|заснавальніку|заснавальніка|заснавальнікам|заснавальніку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_CLASS_ENHANCER_NAME">
+			<Text>Узмацняльнік|узмацняльніка|узмацняльніку|узмацняльніка|узмацняльнікам|узмацняльніку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!--MISCELLANEOUS-->
+		<Replace Language="en_US" Tag="LOC_RELIGION_MARTYRED_APOSTLE">
+			<Text>Апостал-пакутнік|апостала-пакутніка|апосталу-пакутніку|апостала-пакутніка|апосталам-пакутнікам|апосталу-пакутніку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!--PANTHEON NAMES-->
+		<!--1. PANTHEON BELIEFS-->
+		<!--Pantheon - Adjacency Bonuses-->
+		<Replace Language="en_US" Tag="LOC_BELIEF_DANCE_OF_THE_AURORA_NAME">
+			<Text>Танец Аўроры|танца Аўроры|танцу Аўроры|танец Аўроры|танцам Аўроры|танцы Аўроры</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_DESERT_FOLKLORE_NAME">
+			<Text>Пустэльны фальклор|пустэльнага фальклора|пустэльнаму фальклору|пустэльны фальклор|пустэльным фальклорам|пустэльным фальклоры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_SACRED_PATH_NAME">
+			<Text>Запаведны шлях|запаведнага шляха|запаведнаму шляху|запаведны шлях|запаведным шляхам|запаведным шляхе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!--Pantheon - Amenity Bonuses-->
+		<Replace Language="en_US" Tag="LOC_BELIEF_RIVER_GODDESS_NAME">
+			<Text>Рачная багіня|рачной багіні|рачной багіні|рачную багіню|рачной багіняй|рачной багіні</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!--Pantheon - Gameplay Race Bonuses-->
+		<Replace Language="en_US" Tag="LOC_BELIEF_MONUMENT_TO_THE_GODS_NAME">
+			<Text>Помнік багам|помніка багам|помніку багам|помнік багам|помнікам багам|помніку багам</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_DIVINE_SPARK_NAME">
+			<Text>Боская іскра|боскай іскры|боскай іскры|боскую іскру|боскай іскрай|боскай іскры</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!--Pantheon - Local Feature Bonuses-->
+		<Replace Language="en_US" Tag="LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_NAME">
+			<Text>Багіня багнаў і дрыгвы|багіні багнаў і дрыгвы|багіні багнаў і дрыгвы|багіню багнаў і дрыгвы|багіняй багнаў і дрыгвы|багіні багнаў і дрыгвы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!--Pantheon - Local Resource Bonuses-->
+		<Replace Language="en_US" Tag="LOC_BELIEF_GOD_OF_THE_SEA_NAME">
+			<Text>Бог мора|бога мора|богу мора|бога мора|богам мора|богу мора</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_GOD_OF_THE_OPEN_SKY_NAME">
+			<Text>Бог неба|бога неба|богу неба|бога неба|богам неба|богу неба</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_GODDESS_OF_THE_HUNT_NAME">
+			<Text>Багіня палявання|багіні палявання|багіні палявання|багіню палявання|багіняй палявання|багіні палявання</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_STONE_CIRCLES_NAME">
+			<Text>Каменныя колы|каменных колаў|каменным колам|каменныя колы|каменнымі коламі|каменных колах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_RELIGIOUS_IDOLS_NAME">
+			<Text>Паганскія ідалы|паганскіх ідалаў|паганскім ідалам|паганскія ідалы|паганскімі ідаламі|паганскіх ідалах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_NAME">
+			<Text>Бог рамеснікаў|бога рамеснікаў|богу рамеснікаў|бога рамеснікаў|богам рамеснікаў|богу рамеснікаўе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_NAME">
+			<Text>Багіня фэстаў|багіні фэстаў|багіні фэстаў|багіню фэстаў|багіняй фэстаў|багіні фэстаў</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_ORAL_TRADITION_NAME">
+			<Text>Вусныя паданні|вусных паданняў|вусным паданням|вусныя паданні|вуснымі паданнямі|вусных паданнях</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!--Pantheon - Military -->
+		<Replace Language="en_US" Tag="LOC_BELIEF_GOD_OF_THE_FORGE_NAME">
+			<Text>Бог кузні|бога кузні|богу кузні|бога кузні|богам кузні|богу кузні</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_GOD_OF_WAR_NAME">
+			<Text>Бог вайны|бога вайны|богу вайны|бога вайны|богам вайны|богу вайны</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_INITIATION_RITES_NAME">
+			<Text>Абрады пасвячэння|абрадаў пасвячэння|абрадам пасвячэння|абрады пасвячэння|абрадамі пасвячэння|абрадах пасвячэння</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_GOD_OF_HEALING_NAME">
+			<Text>Бог лекар|бога лекара|богу лекару|бога лекара|богам лекарам|богу лекару</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!--Pantheon - General Purpose-->
+		<Replace Language="en_US" Tag="LOC_BELIEF_FERTILITY_RITES_NAME">
+			<Text>Абрады ўрадлівасці|абрадаў урадлівасці|абрадам урадлівасці|абрады ўрадлівасці|абрадамі ўрадлівасці|абрадах урадлівасці</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_RELIGIOUS_SETTLEMENTS_NAME">
+			<Text>Набожныя перасяленцы|набожных перасяленцаў|набожным перасяленцам|набожных перасяленцаў|набожнымі перасяленцамі|набожных перасяленцах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_GODDESS_OF_THE_HARVEST_NAME">
+			<Text>Багіня жніва|багіні жніва|багіні жніва|багіню жніва|багіняй жніва|багіні жніва</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_CITY_PATRON_GODDESS_NAME">
+			<Text>Багіня заступніца|багіні заступніцы|багіні заступніцы|багіню заступніцу|багіняй заступніцай|багіні заступніцы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_EARTH_GODDESS_NAME">
+			<Text>Багіня зямлі|багіні зямлі|багіні зямлі|багіню зямлі|багіняй зямлі|багіні зямлі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!--2. WORSHIP BELIEFS-->
+		<Replace Language="en_US" Tag="LOC_BELIEF_CATHEDRAL_NAME">
+			<Text>Сабор|сабора|сабору|сабор|саборам|саборы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_DAR_E_MEHR_NAME">
+			<Text>Храм агня|Храма агня|Храму агня|Храм агня|Храмам агня|Храме агня</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_GURDWARA_NAME">
+			<Text>Гурдвара|гурдвары|гурдвары|гурдвару|гурдварай|гурдвары</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_MEETING_HOUSE_NAME">
+			<Text>Малітоўня|малітоўні|малітоўне|малітоўню|малітоўняй|малітоўні</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_MOSQUE_NAME">
+			<Text>Мячэць|мячэці|мячэці|мячэць|мячэццю|мячэці</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_PAGODA_NAME">
+			<Text>Пагода|пагоды|пагодзе|пагоду|пагодай|пагодзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_STUPA_NAME">
+			<Text>Ступа|ступы|ступе|ступу|ступай|ступе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_SYNAGOGUE_NAME">
+			<Text>Сінагога|сінагогі|сінагозе|сінагогу|сінагогай|сінагозе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_WAT_NAME">
+			<Text>Ват|вата|вату|ват|ватам|ваце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!--3. FOLLOWER BELIEFS-->
+		<Replace Language="en_US" Tag="LOC_BELIEF_CHORAL_MUSIC_NAME">
+			<Text>Харавая музыка|харавой музыкі|харавой музыцы|харавую музыку|харавой музыкай|харавой музыцы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_DIVINE_INSPIRATION_NAME">
+			<Text>Боскае натхненне|боскага натхнення|боскаму натхненню|боскае натхненне|боскім натхненнем|боскім натхненні</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_FEED_THE_WORLD_NAME">
+			<Text>Накармі свет|накармі свет|накармі свет|накармі свет|накармі свет|накармі свет</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_JESUIT_EDUCATION_NAME">
+			<Text>Езуіцкая адукацыя|езуіцкай адукацыі|езуіцкай адукацыі|езуіцкая адукацыя|езуіцкай адукацыяй|езуіцкай адукацыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_RELIQUARIES_NAME">
+			<Text>Машчавікі|машчавікоў|машчавікам|машчавікоў|машчавікамі|машчавіках</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_NAME">
+			<Text>Набожная супольнасць|набожнай супольнасці|набожнай супольнасці|набожную супольнасць|набожнай супольнасцю|набожнай супольнасці</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_WARRIOR_MONKS_NAME">
+			<Text>Ваяры-манахі|ваяроў-манахаў|ваярам-манахам|ваяроў-манахаў|ваярамі-манахамі|ваярах-манахах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_WORK_ETHIC_NAME">
+			<Text>Працоўная этыка|працоўнай этыкі|працоўнай этыкі|працоўную этыку|працоўнай этыкай|працоўнай этыкі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_ZEN_MEDITATION_NAME">
+			<Text>Дзэн-медытацыя|дзэн-медытацыі|дзэн-медытацыі|дзэн-медытацыю|дзэн-медытацыяй|дзэн-медытацыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!--4. FOUNDER BELIEFS-->
+		<Replace Language="en_US" Tag="LOC_BELIEF_CHURCH_PROPERTY_NAME">
+			<Text>Царкоўная маёмасць|царкоўнай маёмасці|царкоўнай маёмасці|царкоўную маёмасць|царкоўнай маёмасцю|царкоўнай маёмасці</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_CROSS_CULTURAL_DIALOGUE_NAME">
+			<Text>Міжкультурныя стасункі|міжкультурных стасункаў|міжкультурным стасункам|міжкультурныя стасункі|міжкультурнымі стасункамі|міжкультурных стасунках</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_LAY_MINISTRY_NAME">
+			<Text>Свецкае духавенства|свецкага духавенства|свецкаму духавенству|свецкае духавенства|свецкім духавенствам|свецкім духавенстве</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_PAPAL_PRIMACY_NAME">
+			<Text>Першасць папства|першасці папства|першасці папства|першасць папства|першасцю папства|першасці папства</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_PILGRIMAGE_NAME">
+			<Text>Паломніцтва|паломніцтва|паломніцтву|паломніцтва|паломніцтвам|паломніцтве</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_RELIGIOUS_UNITY_NAME">
+			<Text>Рэлігійнае адзінства|рэлігійнага адзінства|рэлігійнаму адзінству|рэлігійнае адзінства|рэлігійным адзінствам|рэлігійным адзінстве</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_STEWARDSHIP_NAME">
+			<Text>Папячыцельства|папячыцельства|папячыцельству|папячыцельства|папячыцельствам|папячыцельстве</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_TITHE_NAME">
+			<Text>Царкоўная дзесяціна|царкоўнай дзесяціны|царкоўнай дзесяціне|царкоўную дзесяціну|царкоўнай дзесяцінай|царкоўнай дзесяціне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_WORLD_CHURCH_NAME">
+			<Text>Сусветная царква|Сусветнай царквы|Сусветнай царквы|Сусветную царкву|Сусветнай царквой|Сусветнай царквы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!--5. ENHANCER BELIEFS-->
+		<Replace Language="en_US" Tag="LOC_BELIEF_BURIAL_GROUNDS_NAME">
+			<Text>Курганы|курганаў|курганам|курганы|курганамі|курганах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_DEFENDER_OF_FAITH_NAME">
+			<Text>Абаронца веры|абаронцы веры|абаронцу веры|абаронцы веры|абаронцам веры|абаронцу веры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_HOLY_ORDER_NAME">
+			<Text>Святы ордэн|святога ордэна|святому ордэну|святы ордэн|святым ордэнам|святым ордэне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_ITINERANT_PREACHERS_NAME">
+			<Text>Вандроўныя прапаведнікі|вандроўных прапаведнікаў|вандроўным прапаведнікам|вандроўных прапаведнікаў|вандроўнымі прапаведнікамі|вандроўных прапаведніках</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_JUST_WAR_NAME">
+			<Text>Крыжовыя паходы|крыжовых паходаў|крыжовымі паходамі|крыжовыя паходы|крыжовымі паходамі|крыжовых паходах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_MISSIONARY_ZEAL_NAME">
+			<Text>Фанатычныя прапаведнікі|фанатычных прапаведнікаў|фанатычным прапаведнікам|фанатычных прапаведнікаў|фанатычнымі прапаведнікамі|фанатычных прапаведніках</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_MONASTIC_ISOLATION_NAME">
+			<Text>Манаскае адасабленне|манаскага адасаблення|манаскаму адасабленню|манаскае адасабленне|манаскім адасабленнем|манаскім адасабленні</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_RELIGIOUS_COLONIZATION_NAME">
+			<Text>Набожныя каланісты|набожных каланістаў|набожным каланістам|набожных каланістаў|набожнымі каланістамі|набожных каланістах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_SCRIPTURE_NAME">
+			<Text>Свяшчэннае пісанне|свяшчэннага пісання|свяшчэннаму пісанню|свяшчэннае пісанне|свяшчэнным пісаннем|свяшчэнным пісанні</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!--PANTHEON DESCRIPTIONS-->
+		<!--1. PANTHEON BELIEFS-->
+		<!--Pantheon - Adjacency Bonuses-->
+		<Replace Language="en_US" Tag="LOC_BELIEF_DANCE_OF_THE_AURORA_DESCRIPTION">
+			<Text>Святыя мястэчкі атрымліваюць +1 [ICON_Faith] веру за прылеглыя гексы тундры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_DESERT_FOLKLORE_DESCRIPTION">
+			<Text>>Святыя мястэчкі атрымліваюць +1 [ICON_Faith] веру за прылеглыя гексы пустэльняў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_SACRED_PATH_DESCRIPTION">
+			<Text>>Святыя мястэчкі атрымліваюць +1 [ICON_Faith] веру за прылеглыя гексы джунгляў.</Text>
+		</Replace>
+
+		<!--Pantheon - Amenity Bonuses-->
+		<Replace Language="en_US" Tag="LOC_BELIEF_RIVER_GODDESS_DESCRIPTION">
+			<Text>Гарады, якія маюць святое мястэчка каля ракі, атрымліваюць +1 дабрабыт [ICON_Amenities].</Text>
+		</Replace>
+
+		<!--Pantheon - Gameplay Race Bonuses-->
+		<Replace Language="en_US" Tag="LOC_BELIEF_MONUMENT_TO_THE_GODS_DESCRIPTION">
+			<Text>+15% да [ICON_Production] вытворчасці цудаў свету старажытнай ды антычнай эры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_DIVINE_SPARK_DESCRIPTION">
+			<Text>Тэатральныя скверы, святыя ды навуковыя мястэчкі даюць +1 ачко [ICON_GreatPerson] выдатнага дзеяча.</Text>
+		</Replace>
+
+		<!--Pantheon - Local Feature Bonuses-->
+		<Replace Language="en_US" Tag="LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_DESCRIPTION">
+			<Text>Багны, аазісы і поплавы прыносяць +1 [ICON_Production] вытворчасць.</Text>
+		</Replace>
+
+		<!--Pantheon - Local Resource Bonuses-->
+		<Replace Language="en_US" Tag="LOC_BELIEF_GOD_OF_THE_SEA_DESCRIPTION">
+			<Text>Рыбацкія чоўны прыносяць +1 [ICON_Production] вытворчасць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_GOD_OF_THE_OPEN_SKY_DESCRIPTION">
+			<Text>Пашы прыносяць +1 [ICON_Culture] культуру.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_GODDESS_OF_THE_HUNT_DESCRIPTION">
+			<Text>Паляўнічыя лагеры прыносяць +1 [ICON_Food] ежу.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_STONE_CIRCLES_DESCRIPTION">
+			<Text>Каменяломні прыносяць +2 [ICON_Faith] веры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_RELIGIOUS_IDOLS_DESCRIPTION">
+			<Text>Рудні, якія вырабляюць рэсурсы асалоды, прыносяць +2 [ICON_Faith] веры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_DESCRIPTION">
+			<Text>Рудні, якія вырабляюць стратэгічныя рэсурсы, прыносяць +1 [ICON_Production] вытворчасць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_DESCRIPTION">
+			<Text>[ICON_RESOURCE_WINE] віно, [ICON_RESOURCE_INCENSE] ладан, [ICON_RESOURCE_COCOA] какава, [ICON_RESOURCE_TOBACCO] тытунь, [ICON_RESOURCE_COFFEE] кава і [ICON_RESOURCE_TEA] гарбата прыносяць +1 [ICON_Food] ежу..</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_ORAL_TRADITION_DESCRIPTION">
+			<Text>[ICON_RESOURCE_BANANAS] бананы, [ICON_RESOURCE_CITRUS] цытрусы, [ICON_RESOURCE_COTTON] бавоўна, [ICON_RESOURCE_DYES] фарбавальнікі, [ICON_RESOURCE_SILK] шоўк, [ICON_RESOURCE_SPICES] спецыі і [ICON_RESOURCE_SUGAR] цукар прыносяць +1 [ICON_Culture] культуру.</Text>
+		</Replace>
+
+		<!--Pantheon - Military -->
+		<Replace Language="en_US" Tag="LOC_BELIEF_GOD_OF_THE_FORGE_DESCRIPTION">
+			<Text>+25% да [ICON_Production] вытворчасці вайсковых адзінак старажытнай ды антычнай эры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_GOD_OF_HEALING_DESCRIPTION">
+			<Text>Святое мястэчка і прылеглыя гексы павялічваюць лячэнне на +30.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_GOD_OF_WAR_DESCRIPTION">
+			<Text>Адзінкі забітыя ў радыусе 8 гексаў ад святога мястэчка даюць [ICON_Faith] веру роўную 50% моцы адзінкі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_INITIATION_RITES_DESCRIPTION">
+			<Text>Кожны знішчаны лагер варвараў дае 50 [ICON_Faith] веры.</Text>
+		</Replace>
+
+		<!--Pantheon - General Purpose-->
+		<Replace Language="en_US" Tag="LOC_BELIEF_FERTILITY_RITES_DESCRIPTION">
+			<Text>Гарады растуць на 10% хутчэй.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_RELIGIOUS_SETTLEMENTS_DESCRIPTION">
+			<Text>Межы пашыраюцца на 15% хутчэй.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_GODDESS_OF_THE_HARVEST_DESCRIPTION">
+			<Text>Збор рэсурсаў альбо ачыстка мясцовых асаблівасцяў дае [ICON_Faith] веру роўную колькасці сабранага ўраджаю.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_CITY_PATRON_GODDESS_DESCRIPTION">
+			<Text>Гарады без мястэчак атрымліваюць +25% да [ICON_Production] вытворчасці мястэчак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_EARTH_GODDESS_DESCRIPTION">
+			<Text>Гексы з чароўнай і больш высокай прывабнасцю даюць +1 [ICON_Faith] веру.</Text>
+		</Replace>
+
+		<!--2. WORSHIP BELIEFS-->
+		<Replace Language="en_US" Tag="LOC_BELIEF_CATHEDRAL_DESCRIPTION">
+			<Text>Дазваляе будаваць саборы (+3 [ICON_Faith] веры, 1 месца для ікон).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_DAR_E_MEHR_DESCRIPTION">
+			<Text>Дазваляе будаваць храмы агня (+3 [ICON_Faith] веры, +1 дадатковая вера за кожную эры з моманта будаўніцтва альбо рамонту).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_GURDWARA_DESCRIPTION">
+			<Text>Дазваляе будаваць гурдвары (+3 [ICON_Faith] веры, +2 [ICON_Food] ежы).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_MEETING_HOUSE_DESCRIPTION">
+			<Text>Дазваляе будаваць малітоўні (+3 [ICON_Faith] веры, +2 [ICON_Production] вытворчасці).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_MOSQUE_DESCRIPTION">
+			<Text>Дазваляе будаваць мячэці (+3 [ICON_Faith] веры, місіянеры ды апосталы атрымліваюць дадатковае распаўсюджванне).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_PAGODA_DESCRIPTION">
+			<Text>Дазваляе будаваць пагоды (+3 [ICON_Faith] веры, +1 [ICON_Housing] жыллё).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_STUPA_DESCRIPTION">
+			<Text>Дазваляе будаваць ступы (+3 [ICON_Faith] веры, +1 [ICON_Amenities] дабрабыт).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_SYNAGOGUE_DESCRIPTION">
+			<Text>Дазваляе будаваць сінагогі (+5 [ICON_Faith] веры).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_WAT_DESCRIPTION">
+			<Text>Дазваляе будаваць ваты (+3 [ICON_Faith] веры, +2 [ICON_Science] навукі).</Text>
+		</Replace>
+
+		<!--3. FOLLOWER BELIEFS-->
+		<Replace Language="en_US" Tag="LOC_BELIEF_CHORAL_MUSIC_DESCRIPTION">
+			<Text>Свяцілішчы і храмы даюць [ICON_Culture] культуру роўную вырабленай [ICON_Faith] веры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_DIVINE_INSPIRATION_DESCRIPTION">
+			<Text>Усе цуды свету даюць +4 [ICON_Faith] веры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_FEED_THE_WORLD_DESCRIPTION">
+			<Text>Свяцілішчы і храмы даюць [ICON_Food] ежу роўную вырабленай [ICON_Faith] веры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_JESUIT_EDUCATION_DESCRIPTION">
+			<Text>Дазваляе набываць навуковыя мястэчкі і тэатральныя скверы за [ICON_Faith] веру.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_RELIQUARIES_DESCRIPTION">
+			<Text>[ICON_GreatWork_Relic] рэліквіі даюць трайны прыбытак [ICON_Faith] веры і [ICON_Tourism] турызму.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_DESCRIPTION">
+			<Text>Свяцілішчы і храмы даюць +1 [ICON_Housing] жыллё.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_WARRIOR_MONKS_DESCRIPTION">
+			<Text>Дазваляе набываць ваяроў-манахаў за [ICON_Faith] веру, якія з'яўляюцца сярэднявечнымі адзінкамі блізкага бою з унікальным дрэвам паляпшэнняў. Іх можна набываць толькі ў гарадах са святым мястэчкам і храмам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_WORK_ETHIC_DESCRIPTION">
+			<Text>+1% да [ICON_Production] вытворчасці за кожнага жыхара, які вызнае гэту рэлігію.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_ZEN_MEDITATION_DESCRIPTION">
+			<Text>Гарады з двума мястэчкамі атрымліваюць +1 [ICON_Amenities] дабрабыт.</Text>
+		</Replace>
+
+		<!--4. FOUNDER BELIEFS-->
+		<Replace Language="en_US" Tag="LOC_BELIEF_CHURCH_PROPERTY_DESCRIPTION">
+			<Text>+2 [ICON_Gold] золата за кожны горад, які спавядае гэтую рэлігію.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_CROSS_CULTURAL_DIALOGUE_DESCRIPTION">
+			<Text>+1 [ICON_Science] навука за кожных пяць паслядоўнікаў у іншых цывілізацыях.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_LAY_MINISTRY_DESCRIPTION">
+			<Text>Кожны тэатральныя сквер і святое мястэчка ў гарадах, якія спавядаюць гэтую рэлігію, адпаведна даюць +1 [ICON_Culture] культуру ды +1 [ICON_Faith] веру.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_PAPAL_PRIMACY_DESCRIPTION">
+			<Text>Гарады-дзяржавы, якія спавядаюць гэтую рэлігію, даюць на 50% магутнейшыя бонусы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_PILGRIMAGE_DESCRIPTION">
+			<Text>Кожны горад іншай цывілізацыі або горада-дзяржавы, які спавядае гэтую рэлігію, дае +2 [ICON_Faith] веры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_RELIGIOUS_UNITY_DESCRIPTION">
+			<Text>+1 [ICON_Envoy] амбасадар гораду-дзяржаве, які прыймае гэтую рэлігію. Апроч таго дае дадатковага амбасадара за выкананне задання гэтага горада-дзяржавы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_STEWARDSHIP_DESCRIPTION">
+			<Text>Кожнае гандлёвае і навуковае мястэчкі ў гарадах, якія спавядаюць гэтую рэлігію, адпаведна даюць +1 [ICON_Science] навуку ды +1 [ICON_Gold]] золата.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_TITHE_DESCRIPTION">
+			<Text>+1 [ICON_Gold] золата за кожныя чатыры паслядоўнікаў у іншых цывілізацыях.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_WORLD_CHURCH_DESCRIPTION">
+			<Text>+1 [ICON_Culture] культура за кожных пяць паслядоўнікаў у іншых цывілізацыях.</Text>
+		</Replace>
+
+		<!--5. ENHANCER BELIEFS-->
+		<Replace Language="en_US" Tag="LOC_BELIEF_BURIAL_GROUNDS_DESCRIPTION">
+			<Text>У момант завяршэння будаўніцтва святога мястэчка захопліваюцца суседнія гексы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_DEFENDER_OF_FAITH_DESCRIPTION">
+			<Text>Баявыя адзінкі атрымваюць +10 да [ICON_Strength] моцы, калі знаходзяцца ў межах хаўруснага горада, які спавядае гэтую рэлігію.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_HOLY_ORDER_DESCRIPTION">
+			<Text>Місіянеры ды апосталы каштуюць на 30% танней.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_ITINERANT_PREACHERS_DESCRIPTION">
+			<Text>Рэлігія распаўсюджваецца на 30% далей.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_JUST_WAR_DESCRIPTION">
+			<Text>Баявыя адзінкі атрымваюць +10 да [ICON_Strength] моцы, калі знаходзяцца ў межах варожага горада, які спавядае гэтую рэлігію.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_MISSIONARY_ZEAL_DESCRIPTION">
+			<Text>Рэлігійныя адзінкі ігнаруюць штрафы [ICON_Movement] руху па мясцовасці і паляпшэннях.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_MONASTIC_ISOLATION_DESCRIPTION">
+			<Text>Уплыў вашай рэлігіі не зменшаецца з-за параз у тэалагічных бітвах.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_RELIGIOUS_COLONIZATION_DESCRIPTION">
+			<Text>Новыя заснаваныя гарады зварочваюцца ў гэтую рэлігію, калі яна з'яўляецца дамінантнай.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_SCRIPTURE_DESCRIPTION">
+			<Text>Уплыў гэтай рэлігіі ад суседніх гарадоў павялічваецца на 25%. На 50% з адкрыццём друкарскай справы.</Text>
+		</Replace>
+
+		<!--BELIEF COMBAT BONUSES-->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_DEFENDER_OF_FAITH_DESCRIPTION">
+			<Text>+{1_Value} за звычай абаронца веры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_JUST_WAR_DESCRIPTION">
+			<Text>+{1_Value} за звычай крыжовыя паходы.</Text>
+		</Replace>
+
+
+	</LocalizedText>
+</GameData>
+

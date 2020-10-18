@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- diplomacystatements_warning_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:45:41 AM -->
+<GameData>
+	<LocalizedText>
+
+		<!-- AI responses -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_POSITIVE_ANY_ANY">
+			<Text>Мае шчырыя прабачэнні! Я не заўважыў, што ваш горад быў так блізка.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_NEGATIVE_ANY_ANY">
+			<Text>Майму народу патрэбна зямля. Хто ты такі, каб забараняць нам засяляць яе?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_ANY_ANY">
+			<Text>Ваш народ селіцца занадта блізка! Шукайце сабе новыя землі ў іншым месцы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
+			<Text>Дзякуй.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
+			<Text>Калі вы не паважаеце нашы землі, то мы не будзем паважаць вашы.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_ANY_ANY">
+			<Text>Прабачце, мы шукалі, надакучыўшых нам варвараў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_ANY_ANY">
+			<Text>Мне падабаецца дэманстраваць сваё войска іншым валадарам, яно паказвае наколькі я магутны.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_POSITIVE_ANY_ANY">
+			<Text>Так, вы правы. Я шкадую, што мне давялося звярнуцца да такой тактыцы. Гэтага больш не паўторыцца.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_NEGATIVE_ANY_ANY">
+			<Text>Цікава! Навошта мне трэба абяцаць вам гэта?</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_POSITIVE_ANY_ANY">
+			<Text>Я не ведаў, што ваш народ прэтэндуе на гэтыя землі. Прабачце, гэта была звычайная памылка.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_NEGATIVE_ANY_ANY">
+			<Text>Таямніцы мінулага павінны быць усеагульным здабыткам. Ваш народ не можа прэтэндаваць на іх асабіста!</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_POSITIVE_ANY_ANY">
+			<Text>Хаця я буду паважаць ваша жаданне, але усё ж я расчараваны вашым хібным шляхам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_NEGATIVE_ANY_ANY">
+			<Text>Не, не. Наша рэлігія прынясе вам карысць. Хутка вы ўсе зразумееце самі. Гарантую...</Text>
+		</Replace>
+
+		<!-- AI warns player -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_ANY_ANY">
+			<Text>Ваша войска наблізілась занадта блізка да нашай мяжы. Спадзяюсь, яно проста жадае паглядзець на нашу прыгожую краіну.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MVEMBA_ANY">
+			<Text>Ваша войска знаходзіцца ў нас на парозе. Лічыце нас сляпымі? Убярыце яго, альбо мы будзем вымушаны пачаць дзейнічаць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Жадаеце запалохаць нас сваёй магутнасцю? Гэта не прынясе вам ніякай карысці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CLEOPATRA_ANY">
+			<Text>Падобна воку Амон-Ра, я бачу ўсё. Думалі, што я не заўважу, як ваша войска падыходзіць да маёй мяжы? Прапаную вам перамясціць яго ў іншае месца.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_BARBAROSSA_ANY">
+			<Text>Наіўна было меркаваць, што мы незаўважым ваша войска. Адвядзіце яго прэч ад Нямеччыны альбо будзьце гатовы да вынікаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GANDHI_ANY">
+			<Text>Сябар, калі ласка перамясці сваіх жаўнераў, як мага далей ад маіх меж. З-за ніх нават міралюбівы чалавек пачынае нерваваць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GILGAMESH_ANY">
+			<Text>Гільгамеш разарве тваё войска ўласнымі рукамі, калі ты яе не перамесціш яго ў іншае месца.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GORGO_ANY">
+			<Text>Перамясці сваё войска ў іншае месца альбо мы самі зробім гэта.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_HARDRADA_ANY">
+			<Text>Не памятаю, каб прасіў вас прадэманстраваць войска. Прагнеце да вайны?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_HOJO_ANY">
+			<Text>Не трэба паказваць свой клінок да ўдара. Убярыце сваіх ваяроў, як мага далей ад імперыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_PEDRO_ANY">
+			<Text>Ваша войска наблізілась занадта блізка да нашай мяжы. Спадзяюсь, яно проста жадае паглядзець на нашу прыгожую краіну.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_PERICLES_ANY">
+			<Text>Калі вы спрабавалі запалохаць нас сваім войскам, то вы пралічылісь. Убярыце яго ад нас, альбо рыхтуйцесь да наступстваў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_PETER_GREAT_ANY">
+			<Text>Ваша войска пагражае майму прымежжу... думаеце я буду проста сядзець і лайдачыць?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_PHILIP_II_ANY">
+			<Text>Думаеце можаце трымаць сваіх жаўнёраў каля маіх меж без наступстваў? Неадкладна ўбярыце іх!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_QIN_ANY">
+			<Text>Ваша войска пазбавілась ўсякай перавагі нечаканасці. Адклічце прэч вашы сілы і пераасэнсуйце сваю стратэгію.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SALADIN_ANY">
+			<Text>Я павінен быў быць сляпым, каб не заўважыць перад сабой войска. Калі ласка, ўбярыце яго ад маіх меж, зразумела... калі вы не збіраецесь ваяваць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_T_ROOSEVELT_ANY">
+			<Text>Ваша войска маршыруе каля нашай мяжы. Я пачынаю сумнявацца ў вашай сумленнасці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_TOMYRIS_ANY">
+			<Text>Ваша войска наблізілась занадта блізка да нашай мяжы. Спадзяюсь, што яно проста жадае паглядзець на нашу прыгожую краіну.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_TRAJAN_ANY">
+			<Text>Вашы ваяры ў пары крокаў ад таго, каб стаць захопнікамі. Неадкладна ўбярыце іх ад нашай мяжы!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_VICTORIA_ANY">
+			<Text>Мы не рады вашаму войску каля на нашай мяжы. Неадкладна ўбярыце яго.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
+			<Text>Дзякуй.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_ANY_ANY">
+			<Text>Я павінен быў здагадацца, што вы ўпадзёце, так нізка і пачнёце шпіёніць супраць мяне. Неадкладна адашліце прэч сваіх шпіёнаў!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
+			<Text>Дзякуй.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
+			<Text>Я запомню гэтую знявагу. Будзьце ўпэўнены!</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_LEADER_ANY_ANY">
+			<Text>Спыніце грабежніцтва нашай культурнай спадчыны. І пакіньце нашу зямлю!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
+			<Text>Дзякуй.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
+			<Text>Калі вы не паважаеце нашу спадчыну, то мы не будзем паважаць вашу.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_ANY_ANY">
+			<Text>Майму народу не падабаюцца вашыя прапаведнікі. Прашу вас, неадкладна ўбярыце іх прэч.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
+			<Text>Дзякуй.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
+			<Text>Паверце, вам прыйдзецца заплаціць за гэта. Калі не цяпер, то пазней.</Text>
+		</Replace>
+
+		<!-- Human Choices -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_CHOICE_NEGATIVE">
+			<Text>Мой народ будзе жыць там, дзе пажадае.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_CHOICE_POSITIVE">
+			<Text>Прабачце, ў будучыні мы знойдзем сабе іншае месца.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_CHOICE_NEGATIVE">
+			<Text>Ваша прадчуванне не падманула вас (Пачаць Вайну)!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_CHOICE_POSITIVE">
+			<Text>Маё войска проста праходзіць паблізу.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_CHOICE_NEGATIVE">
+			<Text>Я не магу паабяцаць вам гэтага.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_CHOICE_POSITIVE">
+			<Text>Прабачце мяне, я болей не буду шпіёніць за вамі.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_CHOICE_NEGATIVE">
+			<Text>Гісторыя не прыналежыць вам. Я буду праводзіць даследаванні там, дзе пажадаю.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_CHOICE_POSITIVE">
+			<Text>Мае археолагі болей не патурбуюць вас.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_CHOICE_NEGATIVE">
+			<Text>Воля Бога - наставіць ваш народ на праведны шлях. Хто я такі, каб супрацьстаяць яму?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_CHOICE_POSITIVE">
+			<Text>Прабачце, я думаў, што вашаму народу спадабаецца наша вера. Я памыліўся.</Text>
+		</Replace>
+
+		<!-- Confirmation of War -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_DECLARE_WAR_FROM_UNIT_ATTACK_INFO">
+			<Text>Гэты крок пачне вайну з {1_CivNameх[5]}!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_DECLARE_WAR_FROM_UNIT_ATTACK_INFO_MULTIPLE">
+			<Text>Гэты крок пачне вайну з:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_STRIKE_OWN_TERRITORY">
+			<Text>Гэту крок пашкодзіць вашу ўласную тэрыторыю.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_STRIKE_AFFECTS_ALLY">
+			<Text>Гэтая атака трапіць у аднаго з вашых хаўруснікаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_BLIND_ATTACK">
+			<Text>Атака ў сляпую прывядзе да непрадказальных наступстваў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_DECLARE_WAR_FROM_UNIT_ATTACK_CONFIRMATION">
+			<Text>Упэўнены, што жадаеце зрабіць гэта?</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

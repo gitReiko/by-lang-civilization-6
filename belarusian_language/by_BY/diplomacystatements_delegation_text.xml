@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- diplomacystatements_delegation_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:37:54 AM -->
+<GameData>
+	<LocalizedText>
+
+		<!-- AI Accepts -->
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_ANY_ANY">
+			<Text>З радасцю вітаем вашых амбасадараў у сталіцы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Вашыя амбасадары прыбылі ў сталіцу, дзе мы іх сардэчна спаткалі. Дзякуй за падарункі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Вашыя амбасадары прыбылі ў палац. Дзякуй. Мы захаваем падарункі ў скарбніцы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Новая Ісіда прыняла падарункі ад вашых амбасадараў. Я буду памятаць вашу дабрыню.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Я сустракаў вашых амбасадараў асабіста. Дыпламатыя прынясе карысць нашым Імперыям.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Мой сябар, вы занадта шчыры. Вашыя амбасадары прывезлі з сабой падарункі. Я асабіста падзякаваў іх.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Гільгамеш атрымаў дары і вашых амбасадараў. Ён дазволіць ім увайсці ў Урук.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Спартанцаў не цікавяць матэрыяльныя даброты, але я ўдзячна вам за падарункі, якія вы прывезлі мне.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Вашыя амбасадары прыбылі. У гонар нашага спаткання мы зладзілі баль у мядовай зале.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Амбасадары прыбылі. Ваша шчодрасць паставіла нас у нязручнае становішча.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>З радасцю вітаем вашых амбасадараў у сталіцы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Мой народ з радасцю спаткаў вашых амбасадараў ды іх падарункі. Дзякуй.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Прыехалі вашыя амбасадары. Мне, заўсёды, падабалась сустракаць замежных гасцей, асабліва, калі яны прыносяць падарункі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Эрэт... То бок, вашы амбасадары прыбылі. Я растлумачу ім нашы звычаі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Мы рады вашым амбасадарам. Да іх будуць ставіцца з павагай, якой яны варты.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Тысяча падзяк за вашы падарункі. Да вашых амбасадараў будуць ставіцца з максімальнай павагай.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>Сардэчна запрашаем вашых амбасадараў у Злучаныя Штаты Амерыкі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Вашы амбасадары перадалі паднашэнні Імператрыцы. Яна вельмі шануе гэта.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Вашы амбасадары прыбылі, убачылі і заваявалі нас сваёй ветласцю. Дзякуй вам за падарункі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Да нас прыбылі вашыя амбасадары. Не хвалюйцесь, мы будзем ставіцца да іх годна, бо яны заслугоўваюць гэтага.</Text>
+		</Replace>
+
+		<!-- AI Rejects -->
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_ANY_ANY">
+			<Text>Прабачце, але мы не можам прыняць вашых амбасадараў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Я не магу адказаць «так».</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Прывабна, але не.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Магчыма іншым часам?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Не, безумоўна «не».</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>На жаль, не.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Гільгамеш гаворыць «не».</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Не цяпер.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Не цікава.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Дзякуй, але не.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>Прабачце, але мы не можам прыняць вашых амбасадараў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Афіны адмаўляюць вам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Я не магу пагадзіцца.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Не. Я не магу пагадзіцца.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Я адхіляю вашу прапанову.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Не, мы не можам пагадзіцца.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>Мы вымушаны адмовіць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Мне не падабаюцца вашы дары!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Добрая прапанова, але я не магу яе прыняць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Мой парламент адмаўляе вам.</Text>
+		</Replace>
+
+		<!-- AI Requests -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_ANY_ANY">
+			<Text>Вы прыймеце нашых амбасадараў у сталіцы?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Хутка мае амбасадары прывязуць вам фуфу. Прыемнага апетыту!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Я адправіла да вас сваіх амбасадараў са звычайнымі падарункамі: зёлкамі, алівамі, рознымі сырамі і багетамі, з якімі ўсё гэта трэба есці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Мае амбасадары перададуць вам невялікі падарунак ад новай Ісіды - папірус. Сустрэньце іх з такой павагай, з якой бы вы сустрэлі мяне.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Мы адправілі да вас амбасадараў. Стаўцеся да іх гэтаксама, як да мяне: Герцага Швабіі, Караля Бургундыі, Караля Германіі, Караля Рыма, Караля Італіі і Імператара Святой Рымскай Імперыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Я адправіў да вас амбасадараў з падарункамі ад нашай зямлі: чаем, сары ды сітарам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Амбасадары Гільгамеша перадаюць вам падарункі шумераў з Ура: ювелірныя вырабы і ліры. Вы прыйміце іх?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Спартанскія амбасадары аддаюць вам ушанаванні разам з падарункамі: аліўкавым маслам і чорным булёнам. Прыміце іх з гонарам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Я паслаў да вас гандляроў з падарункамі - руніцкімі камянямі. Яны вельмі магутныя! Я пра руны, а не пра гандляроў...</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Да вас прыедуць мае амбасадары з падарункамі: ёшыгі-цукурі - гэта адны з найлепшых нашых вырабаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Вы прыймеце нашых амбасадараў у сталіцы?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Мы паслалі да вас амбасадараў. Не хвалюйцесь, яны не прывязуць вам траянскага каня.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Я адправіў да вас амбасадараў, каб падарыць нашу лепшую ікру. Калі ласка, атрымлівайце асалоду.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Я адправіў амбасадараў у ваш горад. Калі ласка, спаткайце іх годна ды пакаштуйце смачны чурас.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_QIN_ANY">
+			<Text>Хутка да вас прыедуць нашы амбасадары. Яны прывязуць падарункі: лепшыя спецыі, чай і шоўк непасрэдна з Сярэдней Імперыі. Калі ласка, атрыймлівайце асалоду.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Я адправіў да вас амбасадараў з падарункамі са сваёй імперыі. Яны прынясуць вам салодкія фрукты, цудоўны снег для таго, каб астудзіць вас, нават, у самы гарачы дзень, ды, таксама, самых выдатных коней. Калі ласка, прыйміце іх у якасці нашай ветлівасці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Рад вас бачыць. Хутка мае амбасадары прывязуць вам свежаспечаныя яблычныя пірогі. Спадзяюсь, вы сустрэнеце амбасадараў цёпла.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Я адправіла да вас амбасадараў, якія падараць вам горыт. У вас жа ёсць лук?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Я даслаў да вас амбасадараў. Пакаштуйце Пекарына Романа - лепшы ў свеце салёны сыр з авечага малака.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Вітаю. Мы адправілі да вас каралеўскіх амбасадараў ад імя Аб'яднанага Каралеўства. Спадзяёмся, што вы сустрэнеце іх годна.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_DELEGATION_CHOICE_NEGATIVE">
+			<Text>У дадзены момант наша сталіца зачынена для наведнікаў (адмовіць прапанову).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DELEGATION_CHOICE_POSITIVE">
+			<Text>Дзе госць, там і Бог ёсць (прыняць прапанову).</Text>
+		</Replace>
+
+		<!-- Human Accepts -->
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_AI_ANY_ANY">
+			<Text>Цудоўна!</Text>
+		</Replace>
+
+		<!-- Human Rejects -->
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_AI_ANY_ANY">
+			<Text>Дрэнна, магчыма, іншым разам.</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

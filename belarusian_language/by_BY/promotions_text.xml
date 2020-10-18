@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- promotions_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:50:03 AM -->
+<GameData>
+	<LocalizedText>
+		<!---->
+		<!-- PROMOTION NAME TEXT -->
+		<!---->
+		<!--Recon-->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_RANGER_NAME">
+			<Text>Ляснічы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_ALPINE_NAME">
+			<Text>Скалалаз</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SENTRY_NAME">
+			<Text>Дазорны</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SPYGLASS_NAME">
+			<Text>Зоркае вока</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_GUERRILLA_NAME">
+			<Text>Партызан</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_AMBUSH_NAME">
+			<Text>Засада</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CAMOUFLAGE_NAME">
+			<Text>Камуфляж</Text>
+		</Replace>
+
+		<!--Melee-->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_BATTLECRY_NAME">
+			<Text>Баявы кліч</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_TORTOISE_NAME">
+			<Text>Чарапаха</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_COMMANDO_NAME">
+			<Text>Спецпадрыхтоўка</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_AMPHIBIOUS_NAME">
+			<Text>Марская падрыхтоўка</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_ZWEIHANDER_NAME">
+			<Text>Двухручная зброя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_URBAN_WARFARE_NAME">
+			<Text>Гарадскі бой</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_ELITE_GUARD_NAME">
+			<Text>Гвардзія</Text>
+		</Replace>
+
+		<!--Ranged-->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_VOLLEY_NAME">
+			<Text>Хуткая стральба</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_GARRISON_NAME">
+			<Text>Вартаўнік</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_ARROW_STORM_NAME">
+			<Text>Град са стрэл</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_INCENDIARIES_NAME">
+			<Text>Падпаленыя стрэлы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SUPPRESSION_NAME">
+			<Text>Стральба на задушэнне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_EMPLACEMENT_NAME">
+			<Text>Умацаваная пазіцыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_EXPERT_MARKSMAN_NAME">
+			<Text>Трапная стральба</Text>
+		</Replace>
+
+		<!--Siege-->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_GRAPE_SHOT_NAME">
+			<Text>Стральба карцеччу</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CREW_WEAPONS_NAME">
+			<Text>Узброеная каманда</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SHELLS_NAME">
+			<Text>Артабстрэл</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SHRAPNEL_NAME">
+			<Text>Стральба шрапнэллю</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_HEAVY_PROJECTILES_2">
+			<Text>Цяжкія боепрыпасы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_ADVANCED_RANGEFINDING_NAME">
+			<Text>Палепшаны дальнамер</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_EXPERT_CREW_NAME">
+			<Text>Бывалы экіпаж</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_FORWARD_OBSERVERS_NAME">
+			<Text>Папярэдняя выведка</Text>
+		</Replace>
+
+		<!--Anti-Cavalry-->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_ECHELON_NAME">
+			<Text>Пабудова «эшалон»</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_THRUST_NAME">
+			<Text>Раптоўны выпад</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SQUARE_NAME">
+			<Text>Пабудова «карэ»</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SCHILTRON_NAME">
+			<Text>Пабудова «шылтрон»</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_REDEPLOY_NAME">
+			<Text>Мабільнасць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CHOKE_POINTS_NAME">
+			<Text>Стратэгічная пазіцыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_HOLD_THE_LINE_NAME">
+			<Text>Бездакорная пабудова</Text>
+		</Replace>
+
+		<!--Light Cavalry-->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_ESCORT_MOBILITY_NAME">
+			<Text>Шпаркі эскорт</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CAPARISON_NAME">
+			<Text>Дадатковы рыштунак</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_COURSERS_NAME">
+			<Text>Скакавы конь</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_DEPREDATION_NAME">
+			<Text>Грабежніцтва</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_DOUBLE_ENVELOPMENT_NAME">
+			<Text>Атака з флангу</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SPIKING_THE_GUNS_NAME">
+			<Text>Агнястрэльная зброя з багнетам</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_PURSUIT_NAME">
+			<Text>Пераследванне</Text>
+		</Replace>
+
+		<!--Heavy Cavalry-->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_BREAKTHROUGH_NAME">
+			<Text>Прарыў пабудовы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CHARGE_NAME">
+			<Text>Моцны рывок</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_BARDING_NAME">
+			<Text>Цяжкае браняванне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_MARAUDING_NAME">
+			<Text>Марадзёрства</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_ROUT_NAME">
+			<Text>Схіленне да ўцёкаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_ARMOR_PIERCING_NAME">
+			<Text>Бранябойная зброя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_REACTIVE_ARMOR_NAME">
+			<Text>Дынамічная абарона</Text>
+		</Replace>
+
+		<!--Aircraft Fighter-->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_DOGFIGHTING_NAME">
+			<Text>Паветраны бой</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_INTERCEPTOR_NAME">
+			<Text>Перахопнік</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_STRAFE_NAME">
+			<Text>Пікіруючая атака</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_GROUND_CREWS_NAME">
+			<Text>Перадпалётнае абслугоўванне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_COCKPIT_ARMOR_NAME">
+			<Text>Бронекамізэлька</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_TANK_BUSTER_NAME">
+			<Text>Знішчальнік танкаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_DROP_TANKS_NAME">
+			<Text>Паветраная запраўка</Text>
+		</Replace>
+
+		<!--Aircraft Bomber-->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_BOX_FORMATION_NAME">
+			<Text>Пабудова «скрынка»</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_EVASIVE_MANEUVERS_NAME">
+			<Text>Падманныя манеўры</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_TORPEDO_BOMBER_NAME">
+			<Text>Узбраенне тарпедамі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLOSE_AIR_SUPPORT_NAME">
+			<Text>Аператыўная паветраная падтрымка</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_TACTICAL_MAINTENANCE_NAME">
+			<Text>Тактычнае абслугоўванне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_LONG_RANGE_NAME">
+			<Text>Вялікая далёкасць лёту</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SUPERFORTRESS_NAME">
+			<Text>Лятучая крэпасць</Text>
+		</Replace>
+
+		<!--Naval Melee-->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_EMBOLON_NAME">
+			<Text>Пабудова «эмбалон»</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_REINFORCED_HULL_NAME">
+			<Text>Узмоцнены корпус</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_HELMSMAN_NAME">
+			<Text>Бывалы рулявы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_AUXILIARY_SHIPS_NAME">
+			<Text>Дадатковы эскорт</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_RUTTER_NAME">
+			<Text>Карабельны дзённік</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CONVOY_NAME">
+			<Text>Канваір</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CREEPING_ATTACK_NAME">
+			<Text>Нечаканая атака</Text>
+		</Replace>
+
+		<!--Naval Ranged-->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_LINE_OF_BATTLE_NAME">
+			<Text>Лінейная пабудова</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_BOMBARDMENT_NAME">
+			<Text>Бамбаванне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_PREPARATORY_FIRE_NAME">
+			<Text>Падрыхтоўка да абстрэлу</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_ROLLING_BARRAGE_NAME">
+			<Text>Абстрэл чаргуючыміся бартамі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_PROXIMITY_FUSES_NAME">
+			<Text>Бескантактны выбухоўнік</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_COINCIDENCE_RANGEFINDING_NAME">
+			<Text>Стэрэаскапічны дальнамер</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SUPPLY_FLEET_NAME">
+			<Text>Забяспечваючы эскорт</Text>
+		</Replace>
+
+		<!--Naval Carrier-->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_FLIGHT_DECK_NAME">
+			<Text>Палубная дыспетчарская</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_HANGAR_DECK_NAME">
+			<Text>Высоўны ангар</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_FOLDING_WINGS_NAME">
+			<Text>Складаныя крылы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SCOUT_PLANES_NAME">
+			<Text>Самалёт-выведнік</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_ADVANCED_ENGINES_NAME">
+			<Text>Палепшаны рухавік</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_DECK_CREWS_NAME">
+			<Text>Рамонтная брыгада</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SUPER_CARRIER_NAME">
+			<Text>Плывучы горад</Text>
+		</Replace>
+
+		<!--Naval Raider-->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_LOOT_NAME">
+			<Text>Марскі грабежнік</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_BOARDING_NAME">
+			<Text>Абардажная каманда</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SWIFT_KEEL_NAME">
+			<Text>Аблегчаны кіль</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_OBSERVATION_NAME">
+			<Text>Назіральны марс</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SILENT_RUNNING_NAME">
+			<Text>Бязгучнае перамяшчэнне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_HOMING_TORPEDOES_NAME">
+			<Text>Саманаводныя тарпеды</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_WOLFPACK_NAME">
+			<Text>Ваўчыная зграя</Text>
+		</Replace>
+
+		<!--Apostles-->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_ORATOR_NAME">
+			<Text>Прамоўца</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_PROSELYTIZER_NAME">
+			<Text>Навяртанне іншаверцаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_TRANSLATOR_NAME">
+			<Text>Перакладнік</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_PILGRIM_NAME">
+			<Text>Пілігрым</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_INDULGENCE_VENDOR_NAME">
+			<Text>Гандляр індульгенцыяй</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_HEATHEN_CONVERSION_NAME">
+			<Text>Навяртанне паганцаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_DEBATER_NAME">
+			<Text>Спрачальнік</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_MARTYR_NAME">
+			<Text>Пакутнік</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CHAPLAIN_NAME">
+			<Text>Капелан</Text>
+		</Replace>
+
+		<!--Warrior Monk-->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_MONK_SHADOW_STRIKE_NAME">
+			<Text>Удар з ценю</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_MONK_TWILIGHT_VEIL_NAME">
+			<Text>Змрокавае покрыва</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_MONK_EXPLODING_PALMS_NAME">
+			<Text>Разбуральная далонь</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_MONK_DISCIPLES_NAME">
+			<Text>Паслядоўнікі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_MONK_SWEEPING_WIND_NAME">
+			<Text>Імклівы вецер</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_MONK_DANCING_CRANE_NAME">
+			<Text>Танцуючы журавель</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_MONK_COBRA_STRIKE_NAME">
+			<Text>Удар змяі</Text>
+		</Replace>
+
+		<!--Spy-->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SPY_TECHNOLOGIST_NAME">
+			<Text>Тэхнолаг</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SPY_CAT_BURGLAR_NAME">
+			<Text>Выкрадальнік</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SPY_DEMOLITIONS_NAME">
+			<Text>Падрыўнік</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SPY_CON_ARTIST_NAME">
+			<Text>Махляр</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SPY_GUERILLA_LEADER_NAME">
+			<Text>Партызанскі верхавод</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SPY_ROCKET_SCIENTIST_NAME">
+			<Text>Спецыяліст па ракетах</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SPY_SEDUCTION_NAME">
+			<Text>Спакуснік</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SPY_DISGUISE_NAME">
+			<Text>Маскіроўка</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SPY_LINGUIST_NAME">
+			<Text>Мовазнавец</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SPY_QUARTERMASTER_NAME">
+			<Text>Кватэрмайстар</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SPY_ACE_DRIVER_NAME">
+			<Text>Кіроўца ас</Text>
+		</Replace>
+
+		<!---->
+		<!-- PROMOTION DESCRIPTION TEXT -->
+		<!---->
+
+		<Replace Language="en_US" Tag="LOC_PROMOTION_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Паляпшэнне)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Палітыка)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVERNMENT_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Урад)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Выдатны дзеяч)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RELIGION_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Рэлігія)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Здольнасць)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WONDER_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Цуда)</Text>
+		</Replace>
+
+
+		<!--Recon-->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_RANGER_DESCRIPTION">
+			<Text>Хуткі [ICON_Movement] рух праз лес ды джунглі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_ALPINE_DESCRIPTION">
+			<Text>Хуткі [ICON_Movement] рух па ўзгорках.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SENTRY_DESCRIPTION">
+			<Text>Можа бачыць праз лес і джунглі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SPYGLASS_DESCRIPTION">
+			<Text>Радыус агляду павялічаны на +1.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_GUERRILLA_DESCRIPTION">
+			<Text>Можа рухацца пасля атакі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_COMMANDO_DESCRIPTION">
+			<Text>+1 ачко [ICON_Movement] руху. Можа рухацца праз скалы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_AMBUSH_DESCRIPTION">
+			<Text>+20 да [ICON_Strength] баявой моцы ў любым выпадку.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CAMOUFLAGE_DESCRIPTION">
+			<Text>Гэтую адзінку змогуць бачыць толькі прылеглыя варожыя адзінкі.</Text>
+		</Replace>
+
+		<!--Melee-->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_BATTLECRY_DESCRIPTION">
+			<Text>+7 да [ICON_Strength] баявой моцы супраць адзінак блізкага і далёкага бою.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_TORTOISE_DESCRIPTION">
+			<Text>+10 да [ICON_Strength] баявой моцы падчас абароны ад адзінак далёкага бою.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_AMPHIBIOUS_DESCRIPTION">
+			<Text>Няма штрафаў [ICON_Movement] руху і [ICON_Strength] баявой моцы пры скрыжаванні рэк ды мора.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_ZWEIHANDER_DESCRIPTION">
+			<Text>+7 да [ICON_Strength] баявой моцы супраць супрацьконных адзінак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_URBAN_WARFARE_DESCRIPTION">
+			<Text>+10 да [ICON_Strength] баявой моцы падчас бітвы ў мястэчку.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_ELITE_GUARD_DESCRIPTION">
+			<Text>+1 дадатковая атака кожны крок пры ўмове наяўнасці ачкоў [ICON_Movement] руху. Можа рухацца пасля атакі.</Text>
+		</Replace>
+
+		<!--Ranged-->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_VOLLEY_DESCRIPTION">
+			<Text>+5 да [ICON_Ranged] далёкай атакі супраць наземных адзінак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_GARRISON_DESCRIPTION">
+			<Text>+10 да [ICON_Strength] баявой моцы падчас месцавання ў горадзе або мястэчку.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_ARROW_STORM_DESCRIPTION">
+			<Text>+7 да [ICON_Ranged] далёкай атакі супраць наземных ды марскіх адзінак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_INCENDIARIES_DESCRIPTION">
+			<Text>+7 да [ICON_Ranged] далёкай атакі супраць абаронцаў мястэчка.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SUPPRESSION_DESCRIPTION">
+			<Text>Атрымлівае зону кантролю.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_EMPLACEMENT_DESCRIPTION">
+			<Text>+10 да [ICON_Strength] баявой моцы падчас абароны супраць захопнікаў горада.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_EXPERT_MARKSMAN_DESCRIPTION">
+			<Text>+1 дадатковая атака кожны крок пры ўмове таго, што адзінка не рухаецца.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_EXPERT_CREW_DESCRIPTION">
+			<Text>Можа атакаваць пасля руху.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_FORWARD_OBSERVERS_DESCRIPTION">
+			<Text>+1 да [ICON_Range] радыюса бою.</Text>
+		</Replace>
+
+		<!--Anti-Cavalry-->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_ECHELON_DESCRIPTION">
+			<Text>+5 да [ICON_Strength] баявой моцы супраць конных адзінак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_THRUST_DESCRIPTION">
+			<Text>+10 да [ICON_Strength] баявой моцы супраць адзінак блізкага бою.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SQUARE_DESCRIPTION">
+			<Text>Двайны бонус падтрымкі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SCHILTRON_DESCRIPTION">
+			<Text>+10 [ICON_Strength] баявой моцы падчас абароны ад адзінак блізкага бою.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_REDEPLOY_DESCRIPTION">
+			<Text>+1 ачко [ICON_Movement] руху.</Text>
+		</Replace>
+
+		<!--Siege-->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CREW_WEAPONS_DESCRIPTION">
+			<Text>+7 да [ICON_Strength] баявой моцы падчас абароны.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_GRAPE_SHOT_DESCRIPTION">
+			<Text>+7 да [ICON_Strength] баявой моцы супраць наземных адзінак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SHRAPNEL_DESCRIPTION">
+			<Text>+10 да [ICON_Strength] баявой моцы супраць наземных адзінак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SHELLS_DESCRIPTION">
+			<Text>+10 да [ICON_Strength] баявой моцы супраць абаронцаў мястэчка.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_ADVANCED_RANGEFINDING_DESCRIPTION">
+			<Text>+10 да [ICON_Strength] баявой моцы супраць марскіх адзінак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CHOKE_POINTS_DESCRIPTION">
+			<Text>+7 да [ICON_Strength] баявой моцы падчас абароны ў лесе, джунглях, багне ды на ўзгорках.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_HOLD_THE_LINE_DESCRIPTION">
+			<Text>Прылеглыя адзінкі іншага тыпу атрымліваюць +10 да [ICON_Strength] баявой моцы супраць конных адзінак.</Text>
+		</Replace>
+
+		<!--Light Cavalry-->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_ESCORT_MOBILITY_DESCRIPTION">
+			<Text>Адзінка, якую суправаджае гэтая адзінка, атрымлівае ачкі [ICON_Movement] руху гэтай адзінкі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CAPARISON_DESCRIPTION">
+			<Text>+5 да [ICON_Strength] баявой моцы супраць супрацьконных адзінак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_COURSERS_DESCRIPTION">
+			<Text>+5 да [ICON_Strength] баявой моцы супраць адзінак далёкага бою ды аблогавых адзінак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_DEPREDATION_DESCRIPTION">
+			<Text>Марадзёрства каштуе толькі 1 ачко [ICON_Movement] руху.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_DOUBLE_ENVELOPMENT_DESCRIPTION">
+			<Text>Двайны бонус за атаку з фланга.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SPIKING_THE_GUNS_DESCRIPTION">
+			<Text>+7 да [ICON_Strength] баявой моцы супраць аблогавых адзінак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_PURSUIT_DESCRIPTION">
+			<Text>+1 ачко [ICON_Movement] руху.</Text>
+		</Replace>
+
+		<!--Heavy Cavalry-->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CHARGE_DESCRIPTION">
+			<Text>+10 да [ICON_Strength] баявой моцы супраць умацаваных абаронцаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_BARDING_DESCRIPTION">
+			<Text>+7 да [ICON_Strength] баявой моцы падчас абароны ад атак далёкага бою.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_MARAUDING_DESCRIPTION">
+			<Text>+7 да [ICON_Strength] баявой моцы супраць абаронцаў мястэчак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_ROUT_DESCRIPTION">
+			<Text>+5 да [ICON_Strength] баявой моцы супраць пашкоджанных адзінак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_ARMOR_PIERCING_DESCRIPTION">
+			<Text>+7 да [ICON_Strength] баявой моцы супраць іншых цяжкіх конных адзінак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_REACTIVE_ARMOR_DESCRIPTION">
+			<Text>+7 да [ICON_Strength] баявой моцы падчас абароны супраць цяжкіх конных адзінак ды супрацьконных адзінак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_BREAKTHROUGH_DESCRIPTION">
+			<Text>+1 дадатковая атака кожны крок пры ўмове наяўнасці ачкоў [ICON_Movement] руху.</Text>
+		</Replace>
+
+		<!--Aircraft Fighter-->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_DOGFIGHTING_DESCRIPTION">
+			<Text>+7 да [ICON_Strength] баявой моцы супраць іншых знішчальнікаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_COCKPIT_ARMOR_DESCRIPTION">
+			<Text>+7 да [ICON_Strength] баявой моцы падчас абароны ад супрацьпаветраных адзінак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_INTERCEPTOR_DESCRIPTION">
+			<Text>+7 да [ICON_Strength] баявой моцы супраць паветраных бамбавікоў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_STRAFE_DESCRIPTION">
+			<Text>+17 да [ICON_Strength] баявой моцы супраць не конных адзінак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_GROUND_CREWS_DESCRIPTION">
+			<Text>Лечыцца падчас патрулявання і перадыслакацыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_TANK_BUSTER_DESCRIPTION">
+			<Text>+17 да [ICON_Strength] баявой моцы супраць конных адзінак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_DROP_TANKS_DESCRIPTION">
+			<Text>+2 да [ICON_Range] радыюса атакі.</Text>
+		</Replace>
+
+		<!--Aircraft Bomber-->
+		<Replace Language="en_US" Tag="LOC_QUEST_TRAIN_UNIT_TYPE_INSTANCE_NAME">
+			<Text>+7 да [ICON_Strength] баявой моцы падчас абароны ад знішчальнікаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_EVASIVE_MANEUVERS_DESCRIPTION">
+			<Text>+7 да [ICON_Strength] баявой моцы падчас абароны ад супрацьпаветраных адзінак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_TORPEDO_BOMBER_DESCRIPTION">
+			<Text>+17 да [ICON_Strength] баявой моцы супраць марскіх адзінак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLOSE_AIR_SUPPORT_DESCRIPTION">
+			<Text>+12 да [ICON_Strength] баявой моцы супраць наземных адзінак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_TACTICAL_MAINTENANCE_DESCRIPTION">
+			<Text>Можа лечыцца пасля атакі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_LONG_RANGE_DESCRIPTION">
+			<Text>+2 да [ICON_Range] радыюса атакі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SUPERFORTRESS_DESCRIPTION">
+			<Text>Няма патрабавання да мінімальнага здароўя патрэбнага для паветранага марадзёрства.</Text>
+		</Replace>
+
+		<!--Naval Melee-->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_EMBOLON_DESCRIPTION">
+			<Text>+7 да [ICON_Strength] баявой моцы супраць марскіх адзінак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_REINFORCED_HULL_DESCRIPTION">
+			<Text>+10 да [ICON_Strength] баявой моцы падчас абароны ад адзінак далёкага бою.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_RUTTER_DESCRIPTION">
+			<Text>+1 да радыюса агляду.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_HELMSMAN_DESCRIPTION">
+			<Text>+1 ачко [ICON_Movement] руху.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_AUXILIARY_SHIPS_DESCRIPTION">
+			<Text>Можа лечыцца на варожай тэрыторыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CONVOY_DESCRIPTION">
+			<Text>+10 да [ICON_Strength] баявой моцы ў складзе фармацыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CREEPING_ATTACK_DESCRIPTION">
+			<Text>+14 да [ICON_Strength] баявой моцы супраць марскіх налётчыкаў.</Text>
+		</Replace>
+
+		<!--Naval Ranged-->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SUPPLY_FLEET_DESCRIPTION">
+			<Text>Можа лечыцца на варожай тэрыторыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_LINE_OF_BATTLE_DESCRIPTION">
+			<Text>+7 да [ICON_Strength] баявой моцы супраць марскіх адзінак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_BOMBARDMENT_DESCRIPTION">
+			<Text>+7 да [ICON_Strength] баявой моцы супраць абаронцаў мястэчак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_PREPARATORY_FIRE_DESCRIPTION">
+			<Text>+7 да [ICON_Strength] баявой моцы супраць наземных адзінак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_ROLLING_BARRAGE_DESCRIPTION">
+			<Text>+10 да [ICON_Strength] баявой моцы супраць абаронцаў мястэчак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_PROXIMITY_FUSES_DESCRIPTION">
+			<Text>+7 да [ICON_Strength] баявой моцы падчас абароны супраць паветраных атак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_COINCIDENCE_RANGEFINDING_DESCRIPTION">
+			<Text>+1 да [ICON_Range] радыюса атакі.</Text>
+		</Replace>
+
+		<!--Naval Carrier-->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_FLIGHT_DECK_DESCRIPTION">
+			<Text>Магчымасць месцавання дадатковага самалёта.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_HANGAR_DECK_DESCRIPTION">
+			<Text>Магчымасць месцавання дадатковага самалёта.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_FOLDING_WINGS_DESCRIPTION">
+			<Text>Магчымасць месцавання дадатковага самалёта.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SCOUT_PLANES_DESCRIPTION">
+			<Text>+1 да радыюса агляду.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_ADVANCED_ENGINES_DESCRIPTION">
+			<Text>+1 ачко [ICON_Movement] руху.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_DECK_CREWS_DESCRIPTION">
+			<Text>Можа лечыцца пасля атакі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SUPER_CARRIER_DESCRIPTION">
+			<Text>Можа лечыцца на варожай тэрыторыі.</Text>
+		</Replace>
+
+		<!--Warrior Monk-->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_MONK_SHADOW_STRIKE_DESCRIPTION">
+			<Text>Двайны бонус за атаку з фланга.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_MONK_TWILIGHT_VEIL_DESCRIPTION">
+			<Text>Гэтую адзінку бачаць толькі прылеглыя ворагі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_MONK_EXPLODING_PALMS_DESCRIPTION">
+			<Text>+10 да [ICON_Strength] баявой моцы ў любым выпадку.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_MONK_DISCIPLES_DESCRIPTION">
+			<Text>Пасля смерці адзінкі, паслядоўнікі распаўсюджваюць рэлігію ў найблізкія гарады.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_MONK_SWEEPING_WIND_DESCRIPTION">
+			<Text>+1 дадатковая атака кожны крок пры ўмове наяўнасці ачкоў [ICON_Movement] руху.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_MONK_DANCING_CRANE_DESCRIPTION">
+			<Text>+1 ачко [ICON_Movement] руху.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_MONK_COBRA_STRIKE_DESCRIPTION">
+			<Text>+15 да [ICON_Strength] баявой моцы ў любым выпадку.</Text>
+		</Replace>
+
+		<!--Naval Raider-->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_LOOT_DESCRIPTION">
+			<Text>+50 [ICON_Gold] золата за грабежніцтва ўзбярэжжаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_BOARDING_DESCRIPTION">
+			<Text>Атрымлівае [ICON_Gold] золата за перамогу ў марскім боі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SWIFT_KEEL_DESCRIPTION">
+			<Text>+1 ачко [ICON_Movement] руху.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_OBSERVATION_DESCRIPTION">
+			<Text>+1 да радыюса агляду.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_HOMING_TORPEDOES_DESCRIPTION">
+			<Text>+10 да [ICON_Strength] баявой моцы супраць марскіх адзінак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SILENT_RUNNING_DESCRIPTION">
+			<Text>Можа рухацца пасля атакі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_WOLFPACK_DESCRIPTION">
+			<Text>+1 дадатковая атака кожны крок.</Text>
+		</Replace>
+
+		<!--Apostle-->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_ORATOR_DESCRIPTION">
+			<Text>Атрымлівае 2 дадатковых распаўсюджвання рэлігіі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_PROSELYTIZER_DESCRIPTION">
+			<Text>Распаўсюджванне рэлігіі знішчае 75% ачкоў ціску іншых рэлігій.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_TRANSLATOR_DESCRIPTION">
+			<Text>У замежных гарадах рэлігія распаўсюджваецца утройчы мацней.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_PILGRIM_DESCRIPTION">
+			<Text>Першае наведванне дзіва прыроды дае 3 дадатковых распаўсюджвання.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_INDULGENCE_VENDOR_DESCRIPTION">
+			<Text>За кожны першы зварот горада ў сваю рэлігію атрымлівае [ICON_Gold] 100 золата.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_HEATHEN_CONVERSION_DESCRIPTION">
+			<Text>Можа выдаткаваць зарад на падпарадкаванне прылеглых варвараў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_DEBATER_DESCRIPTION">
+			<Text>+20 да [ICON_Religion] рэлігійнай моцы ў багаслоўскай барацьбе.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_MARTYR_DESCRIPTION">
+			<Text>Смерць апостала ў багаслоўскай барацьбе стварае рэліквію.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CHAPLAIN_DESCRIPTION">
+			<Text>Можа лечыць іншыя прылеглыя адзінкі, падобна медыку.</Text>
+		</Replace>
+
+		<!--Spy-->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SPY_TECHNOLOGIST_DESCRIPTION">
+			<Text>Атрымлівае 2 дадатковых узроўня да выкрадання тэхналогій.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SPY_CAT_BURGLAR_DESCRIPTION">
+			<Text>Атрымлівае 2 дадатковых узроўня да выкрадання вялікіх вырабаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SPY_DEMOLITIONS_DESCRIPTION">
+			<Text>Атрымлівае 2 дадатковых узроўня да сабатажа вытворчасці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SPY_CON_ARTIST_DESCRIPTION">
+			<Text>Атрымлівае 2 дадатковых узроўня да выкрадання золата.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SPY_GUERILLA_LEADER_DESCRIPTION">
+			<Text>Атрымлівае 2 дадатковых узроўня да арганізацыі хваляванняў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SPY_ROCKET_SCIENTIST_DESCRIPTION">
+			<Text>Атрымлівае 2 дадатковых узроўня да сабатажа ракетабудавання.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SPY_SEDUCTION_DESCRIPTION">
+			<Text>Атрымлівае 2 дадатковых узроўня да супрацьдзеяння шпіянажу.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SPY_DISGUISE_DESCRIPTION">
+			<Text>Імгненна разгортваецца ў варожым горадзе.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SPY_LINGUIST_DESCRIPTION">
+			<Text>Час выконвання заданняў зніжаны на 25%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SPY_QUARTERMASTER_DESCRIPTION">
+			<Text>Усе шпіёны атрымліваюць +1 узровень, калі гэты шпіён знаходзіцца ў родным горадзе.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_SPY_ACE_DRIVER_DESCRIPTION">
+			<Text>Шпіёны, злоўленыя на заданні, атрымліваюць +4 узроўня да ўцёкаў.</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>
+

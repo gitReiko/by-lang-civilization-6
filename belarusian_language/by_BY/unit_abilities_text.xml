@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- unit_abilities_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:56:43 AM -->
+<GameData>
+	<LocalizedText>
+
+		<!-- Names -->
+
+		<Replace Language="en_US" Tag="LOC_ABILITY_ANTI_CAVALRY_NAME">
+			<Text>Cупрацьконны</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_HEAVY_CHARIOT_NAME">
+			<Text>Цяжкая калясніца</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_IGNORE_TERRAIN_COST_NAME">
+			<Text>Рух без штрафаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_IGNORE_CROSSING_RIVERS_COST_NAME">
+			<Text>Перасячэнне рэк без штрафаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_IGNORE_ZOC_NAME">
+			<Text>Ігнараванне зоны кантролю</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_LIGHT_CHARIOT_NAME">
+			<Text>Лёгкая калясніца</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_NO_MOVE_AND_SHOOT_NAME">
+			<Text>Нельга рухацца і атакаваць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_NO_OCEAN_NAME">
+			<Text>Толькі ўзбярэжныя воды</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_CANNOT_ATTACK">
+			<Text>Нельга атакаваць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_FRIENDLY_TERRITORY_COMBAT">
+			<Text>Бонус сяброўскай тэрыторыі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_NAME">
+			<Text>Магчымасць атакі мураў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_BYPASS_WALLS_NAME">
+			<Text>Ігнараванне мураў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_ANTI_SPEAR_NAME">
+			<Text>Супрацьдзідавы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_GRANT_RANGE_BONUS_NAME">
+			<Text>Выяўленне цэлі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_UNOBSTRUCTED_VIEW_NAME">
+			<Text>Бесперашкодны агляд</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_OLIGARCHY_MELEE_BUFF_NAME">
+			<Text>Ваяўнічая алігархія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_THEOCRACY_RELIGIOUS_BUFF_NAME">
+			<Text>Тэакратыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_RELIGIOUS_ORDERS_BUFF_NAME">
+			<Text>Рэлігійныя ордэны</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_FASCISM_ATTACK_BUFF_NAME">
+			<Text>Фашысцкая атака</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_COMMUNISM_DEFENSE_BUFF_NAME">
+			<Text>Камуністычная абарона</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_MEDIC_HEAL_NAME">
+			<Text>Медык</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_STEALTH_NAME">
+			<Text>Нябачнасць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_SEE_HIDDEN_NAME">
+			<Text>Выяўляе нябачныя адзінкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_COASTAL_RAID_NAME">
+			<Text>Узбярэжны налёт</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_MELEE_COASTAL_RAID_NAME">
+			<Text>Узбярэжны налёт «Грома Поўначы»</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_BYPASS_COMBAT_UNIT_NAME">
+			<Text>Скіраваная атака</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_HEAL_NEUTRAL_TERRITORY_NAME">
+			<Text>Лячэнне на нейтральнай тэрыторыі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_TRADE_ROUTE_PLUNDER_IMMUNITY_SEA_NAME">
+			<Text>Імунітэт да марскога разрабавання</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_BERSERKER_RAGE_NAME">
+			<Text>Лютасць берсеркаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_BERSERKER_MOVEMENT_NAME">
+			<Text>Хуткасць берсеркаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_LONGSHIP_MOVEMENT_NAME">
+			<Text>Хуткасць дракараў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_PRIZE_SHIPS_NAME">
+			<Text>Захоп карабля</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_CAPTIVE_WORKERS_NAME">
+			<Text>Паланенне ворагаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_BALKAN_CAVALRY_NAME">
+			<Text>Балканская кавалерыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_ALTITUDE_TRAINING_NAME">
+			<Text>Горныя трэніроўкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_COSSACK_NAME">
+			<Text>Ціхая плынь Дона</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_REDCOAT_NAME">
+			<Text>Сусветнае войска</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_VARU_NAME">
+			<Text>Застрашванне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_NAGAO_NAME">
+			<Text>Лясны ваяр</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_CONQUISTADOR_NAME">
+			<Text>Прымусовы зварот</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_GARDE_NAME">
+			<Text>Гвардыя Напалеона</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_HOPLITE_NAME">
+			<Text>Фаланга</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_UBOAT_NAME">
+			<Text>Воўчая зграя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_ROUGH_RIDER_NAME">
+			<Text>Мужныя вершнікі Тэадора</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_MUSTANG_NAME">
+			<Text>Мустанг</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_MAMLUK_NAME">
+			<Text>Фурусія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_SAMURAI_NAME">
+			<Text>Самурай</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_NO_FOREIGN_SPREAD_NAME">
+			<Text>Унутрыдзяржаўнае распаўсюджанне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_ARCHAEOLOGIST_ENTER_FOREIGN_LANDS_NAME">
+			<Text>Перасячэнне меж</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_RELIGIOUS_CANNOT_ATTACK_NAME">
+			<Text>Міралюбны</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_FRIENDLY_TERRITORY_RELIGIOUS_NAME">
+			<Text>Перавага сяброўскай тэрыторыі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_RELIGIOUS_ENTER_FOREIGN_LANDS_NAME">
+			<Text>Ігнараванне меж</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_RELIGIOUS_IGNORE_TERRAIN_COST_NAME">
+			<Text>Вольны рух</Text>
+		</Replace>
+
+		<!-- Full description -->
+
+		<Replace Language="en_US" Tag="LOC_ABILITY_ANTI_CAVALRY_DESCRIPTION">
+			<Text>+14 да [ICON_Strength] баявой моцы супраць лёгкай і цяжкай конніцы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_ANTI_SPEAR_DESCRIPTION">
+			<Text>+10 да [ICON_Strength] баявой моцы супраць супрацьконных адзінак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_HEAVY_CHARIOT_DESCRIPTION">
+			<Text>+1 ачко [ICON_Movement] руху, калі пачынае крок у пустэльні, раўніне, сенажаці альбо тундры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_RELIGIOUS_IGNORE_TERRAIN_COST_DESCRIPTION">
+			<Text>Затраты на [ICON_Movement] рух праз лясы, джунглі, узгоркі і багны складаюць 1 ачко. Адчыняецца вераваннем фанатычныя прапаведнікі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_IGNORE_ZOC_DESCRIPTION">
+			<Text>Ігнаруе варожую зону кантролю.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_LIGHT_CHARIOT_DESCRIPTION">
+			<Text>+2 ачка [ICON_Movement] руху, калі пачынае крок у пустэльні, раўніне, сенажаці альбо тундры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_NO_MOVE_AND_SHOOT_DESCRIPTION">
+			<Text>Не можа рухацца і атакаваць у адзін і той жа крок.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_NO_OCEAN_DESCRIPTION">
+			<Text>Не можа плаваць па акіяне.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_CANNOT_ATTACK_DESCRIPTION">
+			<Text>Не можа атакаваць ворагаў; можа толькі абараняцца.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_FRIENDLY_TERRITORY_COMBAT_DESCRIPTION">
+			<Text>Баявы бонус на сяброўскай тэрыторыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_DESCRIPTION">
+			<Text>Калі гэтая адзінка прылягае да варожага горада, адзінкі бліжняга бою наносяць поўныя пашкоджанні гарадскому муру.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_BYPASS_WALLS_DESCRIPTION">
+			<Text>Калі гэтая адзінка прылягае да варожага горада, адзінкі бліжняга бою ігнаруюць гарадскі мур і наносяць пашкоджанні непасрэдна гораду.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_ANIT_SPEAR_DESCRIPTION">
+			<Text>+5 да [ICON_Strength] баявой моцы супраць дзіднікаў і пікінёраў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_GRANT_RANGE_BONUS_DESCRIPTION">
+			<Text>Павялічвае [ICON_Range] радыус агляду на +1 найблізкім аблогавым адзінкам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_UNOBSTRUCTED_VIEW_DESCRIPTION">
+			<Text>Рэльеф мясцовасці не перашкаджае агляду.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_OLIGARCHY_MELEE_BUFF_DESCRIPTION">
+			<Text>+4 да [ICON_Strength] баявой моцы дзякуючы алігархічнаму ўраду.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_THEOCRACY_RELIGIOUS_BUFF_DESCRIPTION">
+			<Text>+5 да [ICON_Religion] рэлігійнай моцы дзякуючы тэакратычнаму ўраду.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_RELIGIOUS_ORDERS_BUFF_DESCRIPTION">
+			<Text>+5 да [ICON_Religion] рэлігійнай моцы дзякуючы урадаваму інстытуту рэлігійныя ордэны.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_FASCISM_ATTACK_BUFF_DESCRIPTION">
+			<Text>+5 да [ICON_Strength] баявой моцы падчас атакі дзякуючы фашысцкаму ўраду.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_COMMUNISM_DEFENSE_BUFF_DESCRIPTION">
+			<Text>+6 да [ICON_Strength] баявой моцы падчас абароны дзякуючы камуністычнаму ўраду.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_MEDIC_HEAL_DESCRIPTION">
+			<Text>Лечыць 20 ачкоў здароўя ўсім адзінкам у радыусе 1 гексу.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_STEALTH_DESCRIPTION">
+			<Text>Нябачны для ўсіх адзінак, якія аддалены ад яго на 1 гекс.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_SEE_HIDDEN_DESCRIPTION">
+			<Text>Выяўляе ўсе нябачныя адзінкі, якія знаходзяцца на прылеглых гексах.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_COASTAL_RAID_DESCRIPTION">
+			<Text>Марскія адзінкі бліжняга бою Харальда Сігурдсона могуць рабаваць узбярэжныя паляпшэнні і мястэчкі, ды захопліваць грамадзянскія адзінкі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_BYPASS_COMBAT_UNIT_DESCRIPTION">
+			<Text>Перш-наперш атакуе адзінкі ўзмацнення, нават калі яны знаходзяцца ў адным падраздзяленні з баявой адзінкай.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_HEAL_NEUTRAL_TERRITORY_DESCRIPTION">
+			<Text>Можа лячыцца на нейтральнай тэрыторыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_TRADE_ROUTE_PLUNDER_IMMUNITY_SEA_DESCRIPTION">
+			<Text>Гэты [ICON_TradeRoute] гандлёвы шлях не можа быць разрабаваны на водным гексе. Бонус сюзерэну горада-дзяржавы Лісабона.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_BERSERKER_RAGE_DESCRIPTION">
+			<Text>+7 да [ICON_Strength] баявой моцы падчас атакі; -7 да [ICON_Strength] баявой моцы падчас абароны.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_BERSERKER_MOVEMENT_DESCRIPTION">
+			<Text>+2 да [ICON_Movement] руху, калі гэтая адзінка знаходзіцца на варожай тэрыторыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_LONGSHIP_MOVEMENT_DESCRIPTION">
+			<Text>+1 да [ICON_Movement] руху, калі гэтая адзінка знаходзіцца ва ўзбярэжных водах.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_PRIZE_SHIPS_DESCRIPTION">
+			<Text>Можа захапіць пераможаную марскую адзінку ворага.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_CAPTIVE_WORKERS_DESCRIPTION">
+			<Text>Можа захапіць пераможаную баявую адзінку ворага і ператварыць яго ў будаўніка.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_BALKAN_CAVALRY_DESCRIPTION">
+			<Text>+5 да [ICON_Strength] баявой моцы лёгкай і цяжкай конніцы падчас бітвы на ўзгорку. Бонус сюзерэну горада-дзяржавы Праслава.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_ALTITUDE_TRAINING_DESCRIPTION">
+			<Text>Місіянеры, інквізітары і апосталы рухаюцца па ўзгорках хутчэй пасля наведвання гексу, прылеглага да Еверэста.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_COSSACK_DESCRIPTION">
+			<Text>Можа рухацца пасля атакі. +5 да [ICON_Strength] баявой моцы на роднай тэрыторыі альбо тэрыторыі, што прылягае да роднай.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_REDCOAT_DESCRIPTION">
+			<Text>+10 да [ICON_Strength] баявой моцы на чужым кантыненце. Адсутнічае штраф за высадку на бераг.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_VARU_DESCRIPTION">
+			<Text>-5 да [ICON_Strength] баявой моцы прылеглых варожых адзінак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_NAGAO_DESCRIPTION">
+			<Text>+10 да [ICON_Strength] баявой моцы падчас абароны ад адзінак далёкага бою. Можа бачыць і рухацца праз лісцяныя і трапічныя лясы без штрафаў да [ICON_Movement] руху.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_CONQUISTADOR_DESCRIPTION">
+			<Text>+10 да [ICON_Strength] баявой моцы, калі на тым жа гексе знаходзіцца рэлігійная адзінка. Калі гэтач адзінка захоплівае горад альбо знаходзіцца на, прылеглым да захопліваемага гораду, гексе, то гэты горад аўтаматычна звяртаецца ў рэлігію валадара адзінкі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_GARDE_DESCRIPTION">
+			<Text>+10 да [ICON_Strength] баявой моцы на родным кантыненце. Забойства варожай адзінкі дае 10 ачкоў выдатнага генерала.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_HOPLITE_DESCRIPTION">
+			<Text>+10 да [ICON_Strength] баявой моцы, калі на суседнім гексе размяшчаецца іншы гопліт.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_UBOAT_DESCRIPTION">
+			<Text>+10 да [ICON_Strength] баявой моцы ў акіяне.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_ROUGH_RIDER_DESCRIPTION">
+			<Text>+10 да [ICON_Strength] баявой моцы падчас бітвы на ўзгорку. Забойства варожай адзінкі на родным кантыненце дае [ICON_Culture] культуру роўную 50% яго [ICON_Strength] баявой моцы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_MUSTANG_DESCRIPTION">
+			<Text>Падчас бітвы атрымлівае дадатковы досвед і бонус супраць знішчальнікаў. Гэтаксама мае павялічаны радыус атакі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_MAMLUK_DESCRIPTION">
+			<Text>Гэтая адзінка лечыцца кожны ход, нават пасля атакі альбо руху.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_SAMURAI_DESCRIPTION">
+			<Text>Гэтая адзінка не атрымлівае штрафы да баявой моцы за пашкоджанні.</Text>
+		</Replace>
+
+		<!-- Combat preview description -->
+
+		<Replace Language="en_US" Tag="LOC_COMBAT_DIFFICULTY_SCALING">
+			<Text>+{Amount} бонус за абраную складанасць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_ANTI_CAVALRY_MODIFIER_DESCRIPTION">
+			<Text>+10 да моцы супраць конніцы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_ANTI_FIGHTER_AIRCRAFT_MODIFIER_DESCRIPTION">
+			<Text>+5 да моцы супраць знішчальнікаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_HEAVY_CHARIOT_MODIFIER_DESCRIPTION">
+			<Text>+1 да руху, калі крок пачаты на роўнай мясцовасці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_IGNORE_TERRAIN_COST_MODIFIER_DESCRIPTION">
+			<Text>[ICON_Movement] Рух па любой мясцовасці патрабуе 1 ачко.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_IGNORE_ZOC_MODIFIER_DESCRIPTION">
+			<Text>Ігнаруе зону кантролю.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_LIGHT_CHARIOT_MODIFIER_DESCRIPTION">
+			<Text>+2 да руху, калі крок пачаты на роўнай мясцовасці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_NO_MOVE_AND_SHOOT_MODIFIER_DESCRIPTION">
+			<Text>Не можа атакаваць пасля руху.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_NO_OCEAN_MODIFIER_DESCRIPTION">
+			<Text>Не можа плаваць па акіяне.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_CANNOT_ATTACK_MODIFIER_DESCRIPTION">
+			<Text>Не дазваляе адзінке атакаваць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_FRIENDLY_TERRITORY_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>Бонус за бітву на сяброўскай тэрыторыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_MODIFIER_DESCRIPTION">
+			<Text>Дазваляе адзінкам бліжняга бою атакаваць мур.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_BYPASS_WALLS_MODIFIER_DESCRIPTION">
+			<Text>Дазваляе адзінкам бліжняга бою ігнараваць мур.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_ANIT_SPEAR_MODIFIER_DESCRIPTION">
+			<Text>+10 супраць супрацьконных адзінак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_GRANT_RANGE_BONUS_MODIFIER_DESCRIPTION">
+			<Text>+1 да радыуса атакі найблізкім аблогавым адзінкам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_UNOBSTRUCTED_VIEW_MODIFIER_DESCRIPTION">
+			<Text>Бесперашкодны агляд.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_OLIGARCHY_MELEE_BUFF_MODIFIER_DESCRIPTION">
+			<Text>+4 да моцы дзякуючы Алігархіі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_THEOCRACY_RELIGIOUS_BUFF_MODIFIER_DESCRIPTION">
+			<Text>+5 да моцы дзякуючы Тэакратыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_RELIGIOUS_ORDERS_BUFF_MODIFIER_DESCRIPTION">
+			<Text>+5 да моцы дзякуючы Рэлігійным Ордэнам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_FASCISM_ATTACK_BUFF_MODIFIER_DESCRIPTION">
+			<Text>+5 да атакі дзякуючы Фашызму.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_COMMUNISM_DEFENSE_BUFF_MODIFIER_DESCRIPTION">
+			<Text>+4 да абароны дзякуючы Камунізму.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_COMBAT_OTHER_RELIGION_DESCRIPTION">
+			<Text>+4 супраць цывілізыцый з іншай рэлігіяй.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_COMBAT_WARS_OF_RELIGION">
+			<Text>Вайна Рэлігій: +4 супраць цывілізыцый з іншай рэлігіяй.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_COMBAT_HOME_CONTINENT_DESCRIPTION">
+			<Text>+5 да моцы на родным кантыненце.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_COMBAT_VS_CITY_STATES_DESCRIPTION">
+			<Text>+7 да моцы супраць гарадоў-дзяржаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_COMBAT_LAND_ON_COAST_DESCRIPTION">
+			<Text>+5 да моцы на ўзбярэжжы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_COMBAT_SHALLOW_WATER_DESCRIPTION">
+			<Text>+5 да моцы на плыткаводзе.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_MEDIC_HEAL_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} АЗ прылеглым  адзінкам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_STRONG_WHEN_ATTACKING_DESCRIPTION">
+			<Text>+{1_Amount} да моцы падчас атакі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_PRIZE_SHIPS_MODIFIER_DESCRIPTION">
+			<Text>{1_Amount}% шанс захопу ворага.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_CAPTIVE_WORKERS_MODIFIER_DESCRIPTION">
+			<Text>{1_Amount}% шанс захопу ворага.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_BALKAN_CAVALRY_COMBAT_HILLS_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} падчас бітвы на ўзгорку.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_COSSACK_LOCAL_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} падчас бітвы на роднай тэрыторыі ці каля яе.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_REDCOAT_FOREIGN_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} падчас бітвы на чужым кантыненце.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_VARU_NEGATIVE_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>{1_Amount} калі побач знаходзіцца вару.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_NAGAO_RANGED_DEFENSE_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} падчас абароны ад адзінак далёкага бою.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_CONQUISTADOR_SPECIFIC_UNIT_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} калі на гэтым жа гексе знаходзіцца рэлігійная адзінка.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_GARDE_CONTINENT_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} падчас бітвы на родным кантыненце.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_HOPLITE_NEIGHBOR_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} калі побач знаходзіцца іншы гопліт.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_UBOAT_OCEAN_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} падчас бітвы ў акіяне.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_ROUGH_RIDER_BONUS_IN_HILLS_DESCRIPTION">
+			<Text>+{1_Amount} падчас бітвы на ўзгорку.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_NO_FOREIGN_SPREAD_DESCRIPTION">
+			<Text>Могуць распаўсюджваць рэлігію толькі ў родных гарадах.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_RELIGIOUS_CANNOT_ATTACK_DESCRIPTION">
+			<Text>Не можа пачынаць тэалагічную бітву.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_FRIENDLY_TERRITORY_RELIGIOUS_DESCRIPTION">
+			<Text>Вялікі бонус да тэалагічных бітваў у роднай імперыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_RELIGIOUS_ENTER_FOREIGN_LANDS_DESCRIPTION">
+			<Text>Гэтая адзінка можа бесперашкодна перасякаць дзяржаўныя межы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_IGNORE_TERRAIN_COST_DESCRIPTION">
+			<Text>Лясы, джунглі, узгоркі і багны патрабуюць толькі 1 ачко [ICON_Movement] руху.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_IGNORE_CROSSING_RIVERS_COST_DESCRIPTION">
+			<Text>Не атрымлівае штраф да руху за перасячэнні рэк.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_ARCHAEOLOGIST_ENTER_FOREIGN_LANDS_DESCRIPTION">
+			<Text>Гэтая адзінка можа бесперашкодна перасякаць дзяржаўныя межы.</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

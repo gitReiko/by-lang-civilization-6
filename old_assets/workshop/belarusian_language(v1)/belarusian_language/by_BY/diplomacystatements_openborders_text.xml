@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- diplomacystatements_openborders_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:45:09 AM -->
+<GameData>
+	<LocalizedText>
+
+		<!-- AI accepts from human -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_ANY_ANY">
+			<Text>Мы рады адчыніць межы вашаму войску.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Мы рады адчыніць межы вашаму войску.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Ах, цудоўна. Можаце дзейнічаць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>З гэтага моманту для вас дазволены ўваход у Егіпет, пры ўмове вашай павагі да нашай культурнай спадчыны.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Я дазволю вам прайсці праз нашы межы, на карысць Нямеччыны, спадзяюсь.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Мы рады адчыніць межы вашаму войску.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Сябар ты можаш прайсці праз шумераў, але не замінай майму народу.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Я адчыню межы, але не затрымлівайцесь ў Спарце.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Так, даследвайце. Свет занадта вялікі, каб заставацца ў адным месцы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Я дазваляю вашым людзям прайсці праз нашы межы, але яны павінны прытрымлівацца нашых традыцыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>Мы рады адчыніць межы вашаму войску.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Так, мы дазволім вам прайсці праз дэмакратыю. Пэўна, вы навучыцесь чаму-небудзь у нас, а мы ў вас.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Цудоўна, такім чынам я даю вам сваё дазваленне прайсці праз мае землі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Так, вы можаце прайсці праз мае валадарствы. Забараніць праход праз такое вялікае каралеўства занадта складана.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Зразумела, вы можаце прайсці. Хіба вы можаце ўяўляць пагрозу Сярэдняму Каралеўству?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Так, вы можаце прайсці праз нашы землі, пры ўмове таго, што яны застануцца нашымі. Я заўсёды аддаю перавагу дыпламатыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>Мы рады адчыніць межы вашаму войску.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Мы рады адчыніць межы вашаму войску.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Мы рады адчыніць межы вашаму войску.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>У якасці нашага шляхетнага жадання жыць з вамі ў міры мы дазваляем вашаму народу жыць сумесна з нашых.</Text>
+		</Replace>
+
+		<!-- AI rejects from human -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_ANY_ANY">
+			<Text>У дадзены момант нам гэта нецікава.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>У дадзены момант нам гэта нецікава.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>На жаль, я не магу гэтага дапусціць. Вядома, дзеля нашай бяспекі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Для вас уваход у Егіпет зачынены. Толькі годныя могуць ступаць па нашых землях.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Я не дурань і не дазволю ворагам вольна хадзіць па сваім валадарствам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>У дадзены момант нам гэта нецікава.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Не, ты не пройдзеш праз Шумераў. Толькі сапраўдныя хаўруснікі змогуць прайсці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Тыя, хто ніколі не купаўся ў Еўротасе і нічога не ведаюць пра агогэ, не пройдуць праз Спарту.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Аднойчы з-за здрады я страціў сваё каралеўства. Больш я гэтай памылкі не дапушчу.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Бездакорны дом адмаўляе вам. Спытайце ў сябе: "Чаму?"</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>У дадзены момант нам гэта нецікава.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>На жаль ў гэты раз, дэмакратыя прагаласавала супраць адчыненых меж.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Я не дазволю мажліваму ворагу хадзіць па сваёй радзіме. Спадзяюсь, што вы разумееце гэта.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Я не дазволю вам разбэсціць свой народ вашым сапсаваным ладам жыцця.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Не, я не дазволю іншаземцам сапсаваць нашу цудоўную імперыю.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Ласкай і літасцю адзінага сапраўднага Бога я не магу дазволіць іншаземцам сапсаваць святыя землі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>У дадзены момант нам гэта нецікава.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>У дадзены момант нам гэта нецікава.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>У дадзены момант нам гэта нецікава.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Дзеля бяспекі нашага народа, мы вымушаны адмовіцца ад вашай прапановы. Спадзёмся, вы можаце зразумець нас.</Text>
+		</Replace>
+
+		<!-- AI requests from human -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_ANY_ANY">
+			<Text>Дазвольце нашаму войску прайсці праз вашы валадарствы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Дазвольце нашаму войску прайсці праз вашы валадарствы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Маё войска жадае атрымаць дазваленне праходу праз вашы землі. Вядома, мірна.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Дазвольце майму народу прайсці праз вашы валадарствы. Я паклапачусь аб тым, каб вы змаглі годна правесці пазычаны час.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Мне трэба перавесці сваё войска праз вашы землі. Дазволіце?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Дазвольце нашаму войску прайсці праз вашы валадарствы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Гільгамеш жадае прайсці праз твае землі, каб раздавіць сваіх ворагаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Мае спартанцы жадаюць прайсці праз вашы землі, каб зведаць сваю мужнасць. Вы ж не адмовіце ім?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Вы дазволіце маім вікінгам прайсці? Яны шалеюць, калі занадта доўга адпачываюць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Я пакорліва прашу дазвалення прайсці праз вашы межы. Мы будзем прытрымлівацца грамадскага парадка.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Дазвольце нашаму войску прайсці праз вашы валадарствы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Афіны жадаюць атрымаць права праходу праз вашы тэрыторыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Мой народ жадае прайсці праз вашы валадарствы, каб убачыць новыя землі. Вы дазволіце яму зрабіць гэта?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Каралеўства Гішпанія ветліва просіць права праходу праз вашы землі. Мы не прычынім вам ніякай шкоды.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_QIN_ANY">
+			<Text>З павагай, прашу дазволенне прайсці праз ваш дамініён.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Вы дазволіце майму народу прайсці праз вашы землі? Запэўніваю вас, яны не прычыняць вам ніякай шкоды.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Дазвольце нашаму войску прайсці праз вашы валадарствы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Дазвольце нашаму войску прайсці праз вашы валадарствы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Дазвольце нашаму войску прайсці праз вашы валадарствы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Мы пачціва просім права праходу нашым салдатам праз ваш дамініён. Вы штосьці сказалі?</Text>
+		</Replace>
+
+		<!-- Human accepts AI, AI respones -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_AI_ANY_ANY">
+			<Text>Цудоўна!</Text>
+		</Replace>
+
+		<!-- Human rejects AI, AI respones -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_AI_ANY_ANY">
+			<Text>Няўдала.</Text>
+		</Replace>
+
+		<!-- Selections -->
+		<Replace Language="en_US" Tag="LOC_DIPLO_OPEN_BORDERS_CHOICE_NEGATIVE">
+			<Text>Мы не дазволім вам прайсці праз нашы землі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_OPEN_BORDERS_CHOICE_POSITIVE">
+			<Text>Ваша войска можа перасекчы нашы землі.</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

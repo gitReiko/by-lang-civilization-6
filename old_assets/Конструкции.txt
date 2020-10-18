@@ -1,0 +1,20 @@
+
+
+Род предложения
+{1: plural 1?{1: gender masculine?Наш; feminine?Наша; neuter?Наше;}; 2?Наши; other?Наш юнит;} {1_UnitName} {1: plural 1?{1: gender masculine?увернулся; feminine?увернулась; neuter?увернулось;}; 2?увернулись; other?увернулся;} от вражеской атаки ближнего боя.
+
+Чісло
+на протяжении {4_Turns} {4:plural 1?хода; other?ходов;}
+
+Падеж слова
+{1_ResourceName[4]}
+
+Теги
+[NEWLINE][COLOR_RED][ENDCOLOR]
+
+
+   <Replace Tag="LOC_CITY_NAME_CHEN" Language="ru_RU">
+      <Text>Чэнь|Чэня|Чэню|Чэнь|Чэнем|Чэне</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>

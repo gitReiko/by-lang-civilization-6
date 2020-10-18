@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- notifications_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/23/2018 6:11:49 PM -->
+<GameData>
+	<LocalizedText>
+
+		<!--Turn-Blocking Notifications -->
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CHOOSE_ARTIFACT_PLAYER_MESSAGE">
+			<Text>Абярыце артэфакт</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CHOOSE_ARTIFACT_PLAYER_SUMMARY">
+			<Text>Раскопкі завяршылісь поспехам. Абярыце артэфакт, каб адправіць яго ў музей.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CHOOSE_TECH_MESSAGE">
+			<Text>Абярыце тэхналогію</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CHOOSE_TECH_SUMMARY">
+			<Text>Абярыце новую тэхналогію, каб пачаць даследванні.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CHOOSE_CITY_PRODUCTION_MESSAGE">
+			<Text>Абярыце вытворчасць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CHOOSE_CITY_PRODUCTION_SUMMARY">
+			<Text>Гэты горад завяршыў вытворчасць. Абярыце новую мэту вытворчасці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CHOOSE_CIVIC_MESSAGE">
+			<Text>Абярыце палітыку</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CHOOSE_CIVIC_SUMMARY">
+			<Text>Абярыце новую палітыку, каб пачаць даследванні.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_COMMAND_UNITS_MESSAGE">
+			<Text>Адзінка чакае загаду</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_COMMAND_UNITS_SUMMARY">
+			<Text>Аддайце адзінцы новы загад.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITY_RANGE_ATTACK_MESSAGE">
+			<Text>Гарадская дальнабойная атака</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITY_RANGE_ATTACK_SUMMARY">
+			<Text>Ваш горад здольны атакаваць ворага.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CONSIDER_GOVERNMENT_CHANGE_MESSAGE">
+			<Text>Разглядзіце магчымасць змены ўрада</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CONSIDER_GOVERNMENT_CHANGE_SUMMARY">
+			<Text>Вы вывучылі палітыку, якая адкрыла новы тып урада. Разглядзіце магчымасці змены ўрада.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CONSIDER_RAZE_CITY_MESSAGE">
+			<Text>Вырашыце далейшы лёс горада</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CONSIDER_RAZE_CITY_SUMMARY">
+			<Text>Вы захапілі горад. Што з ім трэба зрабіць: вызваліць, захапіць або знішчыць?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_FILL_CIVIC_SLOT_MESSAGE">
+			<Text>Запоўніце карту дзяржаўнага інстытута</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_FILL_CIVIC_SLOT_SUMMARY">
+			<Text>Трэба дадаць карту дзяржаўнага інстытута Вашаму ўраду.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CHOOSE_PANTHEON_MESSAGE">
+			<Text>Абярыце пантэон</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CHOOSE_RELIGION_MESSAGE">
+			<Text>Абярыце рэлігію</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CHOOSE_BELIEF_MESSAGE">
+			<Text>Абярыце звычай</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CLAIM_GREAT_PERSON_MESSAGE">
+			<Text>Найміце выдатнага дзеяча</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GIVE_INFLUENCE_TOKEN_MESSAGE">
+			<Text>Адпраўце амбасадара</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GIVE_INFLUENCE_TOKEN_SUMMARY">
+			<Text>Вы атрымалі новага [ICON_Envoy] амбасадара і здольны адправіць яго ў горад-дзяржаву, каб атрымаць бонусы.</Text>
+		</Replace>
+
+		<!-- Unit Notifications -->
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_UNIT_DIED">
+			<Text>Адзінка забіта</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_UNIT_DISBANDED_MESSAGE">
+			<Text>Адзінка звольнена</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_UNIT_DISBANDED_SUMMARY">
+			<Text>{1_UnitName} {1: plural 1?{1: gender masculine?быў звольнены; feminine?была звольнена; neuter?было звольнена;}; 2?былі звольнены; other?быў звольнены;} , з-за нястачы фінансавання.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_UNIT_PROMOTION_AVAILABLE_MESSAGE">
+			<Text>Даступна паляпшэнне адзінкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_UNIT_PROMOTION_AVAILABLE_SUMMARY">
+			<Text>{1_UnitName} можна палепшыць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PLAYER_DEFEATED_MESSAGE">
+			<Text>Параза!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PLAYER_DEFEATED_SUMMARY">
+			<Text>{1_leader} {1: plural 1?{1:gender masculine? быў пераможаны; feminine?была пераможана; neuter?было пераможана;}; 2?былі пераможаны; other?быў пераможаны;}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PLAYER_DEFEATED_BY_SUMMARY">
+			<Text>{1_leader} {1: plural 1?{1: gender masculine?быў пераможаны; feminine?была пераможана; neuter?было пераможана;}; 2?былі пераможаны; other?быў пераможаны;} {2_leader[5]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_UNMET_PLAYER_DEFEATED_MESSAGE">
+			<Text>Параза!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_UNMET_PLAYER_DEFEATED_SUMMARY">
+			<Text>Невядомы валадар быў пераможаны.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_UNMET_CITY_STATE_DEFEATED_SUMMARY">
+			<Text>Невядомы горад-дзяржава быў пераможаны.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_UNIT_LOST_TO_OCCUPATION">
+			<Text>Вы страцілі {1_UnitName[2]} падчас акупацыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_UNIT_RETREAT_FROM_OCCUPATION">
+			<Text>Варожая акупацыя вымусіла {1_UnitName[2]} адступіць.</Text>
+		</Replace>
+
+		<!-- Diplomacy Notifications-->
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DECLARE_WAR_MESSAGE">
+			<Text>Вайна</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DECLARE_WAR_SUMMARY">
+			<Text>{1_leader} {1: plural 1?{1: gender masculine?пачаў вайну; feminine?пачала вайну; neuter?пачала вайну;}; 2?пачалі вайну; other?пачаў вайну;} з {2_leader[5]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_MAKE_PEACE_MESSAGE">
+			<Text>Складзена мірная дамова</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_MAKE_PEACE_SUMMARY">
+			<Text>{1_leader} {1: plural 1?{1: gender masculine?склаў мірную дамову; feminine?склала мірную дамову; neuter?склала мірную дамову;}; 2?склалі мірную дамову; other?склаў мірную дамову;} з {2_leader[5]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PLAYER_MET_MESSAGE_CIV">
+			<Text>Спатканне новай цывілізацыі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PLAYER_MET_MESSAGE_CITY_STATE">
+			<Text>Спатканне новага горада-дзяржавы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PLAYER_MET_SUMMARY">
+			<Text>Вы сустрэлі {1_leader[2]} {1: plural 1?{1: gender masculine?валадара; feminine?валадарыню; neuter?валадара;}; 2?валадароў; other?валадара;} {2_CivDesc[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NUBIA_MODLOC_NOTIFICATION_BORDERS_NOW_ENFORCED_MESSAGE_TITLE">
+			<Text>{1_leader} {1: plural 1?{1: gender masculine?зачыніў межы; feminine?зачыніла межы; neuter?зачыніла межы;}; 2?зачынілі межы; other?зачыніў межы;}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_BORDERS_NOW_ENFORCED_SUMMARY">
+			<Text>{1_leader} {1: plural 1?{1: gender masculine?зачыніў межы; feminine?зачыніла межы; neuter?зачыніла межы;}; 2?зачынілі межы; other?зачыніў межы;}. Вашыя адзінкі, якія знахадзіліся ўнутры {1: plural 1?{1: gender masculine?яго; feminine?яе; neuter?яго;}; 2?іхняй; other?яго;} імперыі, былі перамешчаны на найблізкія гексы за межамі гэтай імперыі. </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_FRIENDSHIP_EXPIRED_MESSAGE">
+			<Text>Сяброўства болей не дзее</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_FRIENDSHIP_EXPIRED_SUMMARY">
+			<Text>Дамова аб сяброўстве з {1_leader[5]} болей не дзейнічае, калі гэта патрэбна, то яе трэба аднавіць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_ALLIANCE_EXPIRED_MESSAGE">
+			<Text>Хаўрус болей не дзее</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_ALLIANCE_EXPIRED_SUMMARY">
+			<Text>Хаўрус з {1_leader[5]} болей не дзейнічае, калі гэта патрэбна, то яго трэба аднавіць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CASUS_BELLI_GAINED_MESSAGE">
+			<Text>Атрыманы Казус Бэлі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CASUS_BELLI_GAINED_SUMMARY">
+			<Text>Вы атрымалі Казус Бэлі, каб пачаць {1_WarType[4]} з {2_leader[5]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_WAR_TYPE_COLONIAL">
+			<Text>Каланіяльная вайна|каланіяльнай вайны|каланіяльнай вайне|каланіяльную вайну|каланіяльнай вайной|каланіяльнай вайне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_WAR_TYPE_HOLY">
+			<Text>Святая вайна|святой вайны|святой вайне|святую вайну|святой вайной|святой вайне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_WAR_TYPE_LIBERATION">
+			<Text>Вызваленчая вайна|вызваленчай вайны|вызваленчай вайне|вызваленчую вайну|вызваленчай вайной|вызваленчай вайне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_WAR_TYPE_PROTECTORATE">
+			<Text>Вайна за пратэктарат|вайны за пратэктарат|вайне за пратэктарат|вайну за пратэктарат|вайной за пратэктарат|вайне за пратэктарат</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_WAR_TYPE_RECONQUEST">
+			<Text>Рэканкіста|рэканкісты|рэканкісце|рэканкісту|рэканкістай|рэканкісце</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_WAR_TYPE_TERRITORIAL_EXPANSION">
+			<Text>Вайна для пашырэння тэрыторыі|вайны для пашырэння тэрыторыі|вайне для пашырэння тэрыторыі|вайну для пашырэння тэрыторыі|вайной для пашырэння тэрыторыі|вайне для пашырэння тэрыторыі</Text>
+		</Replace>
+
+		<!-- Espionage Notifications -->
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_CHOOSE_ESCAPE_ROUTE_MESSAGE">
+			<Text>Абярыце спосаб уцёкаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_CHOOSE_DRAGNET_PRIORITY_MESSAGE">
+			<Text>Абярыце прыярытэтнае заданне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_HEIST_GREAT_WORK_SUMMARY">
+			<Text>{1_unitName} паспяхова {1: plural 1?{1: gender masculine?выкраў; feminine?выкрала; neuter?выкрала;}; 2?выкралі; other?выкраў;} вялікі выраб "{3_Work[4]}" з {2_CityName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_HEIST_GREAT_WORK_MESSAGE">
+			<Text>Паспяхова выкрадзены вялікі выраб</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_HEIST_GREAT_WORK_SUMMARY">
+			<Text>Варожы шпіён паспяхова выкраў вялікі выраб "{2_Work[4]}" з {1_CityName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_HEIST_GREAT_WORK_MESSAGE">
+			<Text>Варожы шпіён выкраў вялікі выраб</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_SABOTAGED_PRODUCTION_SUMMARY">
+			<Text>{1_unitName} паспяхова {1: plural 1?{1: gender masculine?правёў; feminine?правяла; neuter?правяла;}; 2?правялі; other?правёў;} дыверсію ў прамысловым мястэчку {2_cityName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_SABOTAGED_PRODUCTION_MESSAGE">
+			<Text>Паспяховая дыверсія прамысловасці</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_SABOTAGED_PRODUCTION_SUMMARY">
+			<Text>Варожы шпіён паспяхова правёў дыверсію ў прамысловым мястэчку {1_cityName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_SABOTAGED_PRODUCTION_MESSAGE">
+			<Text>Варожы шпіён сабатаваў прамысловасць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_SIPHONED_FUNDS_SUMMARY">
+			<Text>{1_unitName} паспяхова {1: plural 1?{1: gender masculine?выкраў; feminine?выкрала; neuter?выкрала;}; 2?выкралі; other?выкраў;} {2_Amount} [ICON_Gold] золата з {2_cityName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_SIPHONED_FUNDS_MESSAGE">
+			<Text>Паспяхова выкрадзена золата</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_SIPHONED_FUNDS_SUMMARY">
+			<Text>Варожы шпіён паспяхова выкраў {1_Amount} [ICON_Gold] золата з {2_cityName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_SIPHONED_FUNDS_MESSAGE">
+			<Text>Варожы шпіён выкраў золата</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_STOLE_TECH_BOOST_SUMMARY">
+			<Text>{1_unitName} паспяхова {1: plural 1?{1: gender masculine?выкраў; feminine?выкрала; neuter?выкрала;}; 2?выкралі; other?выкраў;} тэхналогію {3_Tech[2]} з {2_cityName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_STOLE_TECH_BOOST_MESSAGE">
+			<Text>Паспяхова выкрадзена тэхналогія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_STOLE_TECH_BOOST_SUMMARY">
+			<Text>Варожы шпіён паспяхова выкраў тэхналогію {2_Tech[2]} з {1_cityName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_STOLE_TECH_BOOST_MESSAGE">
+			<Text>Варожы шпіён выкраў тэхналогію</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_RECRUITED_PARTISANS_SUMMARY">
+			<Text>{1_unitName} паспяхова {1: plural 1?{1: gender masculine?арганізаваў; feminine?арганізавала; neuter?арганізавала;}; 2?арганізавалі; other?арганізаваў;} партызанскае супраціўленне ў {2_CityName}, якое жадае вызваліць свой горад.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_RECRUITED_PARTISANS_MESSAGE">
+			<Text>Паспяхова арганізавана партызанскае супраціўленне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_RECRUITED_PARTISANS_SUMMARY">
+			<Text>Варожы шпіён паспяхова арганізаваў партызанскае супраціўленне ў {1_CityName}, якое жадае вызваліць свой горад.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_RECRUITED_PARTISANS_MESSAGE">
+			<Text>Варожы шпіён арганізаваў партызанскае супраціўленне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_DISRUPTED_ROCKETRY_SUMMARY">
+			<Text>{1_unitName} паспяхова {1: plural 1?{1: gender masculine?арганізаваў; feminine?арганізавала; neuter?арганізавала;}; 2?арганізавалі; other?арганізаваў;} дыверсію ў касмапорце {2_cityName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_DISRUPTED_ROCKETRY_MESSAGE">
+			<Text>Паспяховая дыверсія касмапорта</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_DISRUPTED_ROCKETRY_SUMMARY">
+			<Text>Варожы шпіён паспяхова арганізаваў дыверсію ў касмапорце {1_cityName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_DISRUPTED_ROCKETRY_MESSAGE">
+			<Text>Варожы шпіён сабатаваў касмапорт</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_CITY_SOURCES_GAINED_SUMMARY">
+			<Text>{1_unitName} паспяхова {1: gender masculine?здабыў; feminine?здабыла; neuter?здабыло;} веды аб ўнутранай сістэме дзейнасці {2_CityName[2]}. Узровень вашых шпіёнаў, якія будуць працаваць у гэтым горадзе, у ходзе {4_Turns} {4:plural 1?крока; other?крокаў;} павялічваецца на {3_Levels} {3:plural 1?узровень; 2?узроўня; 3?узроўня; 4?узроўня; other?узроўняў;}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_CITY_SOURCES_GAINED_MESSAGE">
+			<Text>Паспяхова здабыты веды</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_LISTENING_POST_SUMMARY">
+			<Text>{1_unitName} паспяхова {1: gender masculine?ажыццявіў; feminine?ажыццявіла; neuter?ажыццявіла;} праслухоўванне ў {2_CityName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_LISTENING_POST_MESSAGE">
+			<Text>Паспяхова выканана праслухоўванне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_FLED_CITY_SUMMARY">
+			<Text>{1_unitName} {1: gender masculine?пакінуў; feminine?пакінула; neuter?пакінула;} {2_CityName[2]}, таму што зараз {2: gender masculine?ён; feminine?яна; neuter?яно;} прыналежыць да іншай цывілізацыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_FLED_CITY_MESSAGE">
+			<Text>Шпіён пакінуў горад</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_MISSION_FAILED_SUMMARY">
+			<Text>{1_unitName} {1: gender masculine?праваліў; feminine?праваліла; neuter?праваліла;} {2_mission} у горадзе {3_cityName[6]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_MISSION_FAILED_MESSAGE">
+			<Text>Шпіён праваліў заданне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_CAPTURED_SUMMARY">
+			<Text>Ваш шпіён {1_unitName} {1: gender masculine?быў захоплены; feminine?была захоплена; neuter?была захоплена;} падчас {2_mission[2]} у горадзе {3_cityName[6]}!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_CAPTURED_MESSAGE">
+			<Text>Шпіён захоплены</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_CAPTURED_SUMMARY">
+			<Text>Шпіён з {1_civName[2]} быў захоплены падчас {2_mission[2]} у горадзе {3_cityName[6]}!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_CAPTURED_MESSAGE">
+			<Text>Захоплены варожы шпіён</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_KILLED_SUMMARY">
+			<Text>Ваш шпіён {1_unitName} {1: gender masculine?быў забіты; feminine?была забіта; neuter?была забіта;} падчас {2_mission[2]} у горадзе {3_cityName[6]}!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_KILLED_MESSAGE">
+			<Text>Шпіён забіты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_KILLED_SUMMARY">
+			<Text>Шпіён {1_unitName} {1: gender masculine?быў забіты; feminine?была забіта; neuter?была забіта;} падчас {2_mission[2]} у горадзе {3_cityName[6]}. {4_CounterspyAssist}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_KILLED_MESSAGE">
+			<Text>Забіты варожы шпіён</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_MISSION_ABORTED_TO_CAPITAL">
+			<Text>Ваш шпіён {1_unitName} {1: gender masculine?спыніў; feminine?спыніла; neuter?спыніла;} сваё падарожжа ў прызначаны горад, таму што ў ім змяніўся гаспадар. Шпіён чакае новы загад ў сталіцы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_MISSION_ABORTED_SUMMARY">
+			<Text>Ваш шпіён {1_unitName} {1: gender masculine?прыпыніў; feminine?прыпыніла; neuter?прыпыніла;} {2_mission} у {3_cityName[5]}, бо дадзенае заданне болей нельга выканаць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_MISSION_ABORTED_MESSAGE">
+			<Text>Шпіёнскае заданне скасавана</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_COUNTERSPY_PROMOTED_SUMMARY">
+			<Text>Ваш шпіён {3_unitName} атрымлівае павышэнне за ролю сыграную ў зрыве {1_mission[2]} у {2_cityName[6]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_COUNTERSPY_PROMOTED_MESSAGE">
+			<Text>Супрацьшпіён павышены</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_COUNTERSPY_ASSIST">
+			<Text>Ваш супрацьшпіён {1_unitName} {1: gender masculine?сыграў; feminine?сыграла; neuter?сыграла;} важную ролю ў гэтай перамозе нашых сіл бяспекі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ESCAPED_CAPTURE_SUMMARY">
+			<Text>Ваш шпіён {1_unitName} {1: gender masculine?пазбег; feminine?пазбегла; neuter?пазбегла;} перахопу. {1: gender masculine?Ён; feminine?Яна; neuter?Яно;} вернецца ў [ICON_Capital] сталіцу праз {2_turns} {1: plural 1?крок; 2?крока; 3?крока; 4?крока; other?крокаў;}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ESCAPED_CAPTURE_MESSAGE">
+			<Text>Шпіён пазбег перахопу</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_ESCAPED_CAPTURE_SUMMARY">
+			<Text>Невядомы варожы шпіён пазбег перахопу і паспяхова пакінуў ваш горад {1_cityName}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_ESCAPED_CAPTURE_MESSAGE">
+			<Text>Варожы шпіён пазбег перахопу</Text>
+		</Replace>
+
+		<!-- City-State Notifications -->
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITYSTATE_QUEST_GIVEN_MESSAGE">
+			<Text>Новае заданне ад горада-дзяржавы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITYSTATE_QUEST_GIVEN_SUMMARY">
+			<Text>{1_CityStateName} папрасіў выканаць новае заданне: {2_QuestName}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITYSTATE_QUEST_COMPLETED_MESSAGE">
+			<Text>Заданне горада-дзяржавы выканана</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITYSTATE_QUEST_COMPLETED_SUMMARY">
+			<Text>Вы выканалі заданне {1_CityStateName[2]} і атрымалі ўзнагароду: {2_RewardText}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITYSTATE_MET_FIRST_MESSAGE">
+			<Text>Бонус горада-дзяржавы за першае спатканне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITYSTATE_MET_FIRST_SUMMARY">
+			<Text>Як першая цывілізацыя, якая спаткала {1_CityStateName[4]} вы атрымалі {2_NumEnvoys} [ICON_Envoy] {2_NumEnvoys : plural 1?амбасадара; other?амбасадараў;} </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITYSTATE_USURPED_MESSAGE">
+			<Text>Страчаны статус сюзерэна</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITYSTATE_USURPED_SUMMARY">
+			<Text>Змены ў [ICON_Envoy] амбасадарстве прывялі да страты статусу сюзерэна.</Text>
+		</Replace>
+
+		<!-- Trade Route Notifications -->
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_TRADE_ROUTE_PLUNDERED_MESSAGE">
+			<Text>Гандлёвы шлях разрабаваны</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_TRADE_ROUTE_PLUNDERED_SUMMARY_NO_ROUTE">
+			<Text>{1_PlayerName} разрабаваў Ваш гандлёвы шлях.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_TRADE_ROUTE_PLUNDERED_SUMMARY_ACTIVE_ROUTE">
+			<Text>{1_PlayerName} разрабаваў Ваш гандлёвы шлях. [ICON_TradeRoute] гандлёвага шляху з {2_OriginCityName[2]}, які накіроўваецца ў {3_DestinationCityName} болей не існуе.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_TRADING_POST_CREATED_MESSAGE">
+			<Text>Гадлёвы шлях пракладзены</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_TRADING_POST_CREATED_SUMMARY">
+			<Text>Пракладзены [ICON_TradeRoute] гандлёвы шлях паспрыяў будаўніцтву [ICON_TradingPost] гандлёвага паста ў {1_CityName[6]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_TRADE_ROUTE_CAPACITY_INCREASED_MESSAGE">
+			<Text>Павялічылась колькасць гандлёвых шляхоў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_TRADE_ROUTE_CAPACITY_INCREASED_SUMMARY">
+			<Text>З гэтага моманта Вы можаце ствараць і ўтрымваць болей [ICON_TradeRoute] гандлёвых шляхоў.</Text>
+		</Replace>
+
+		<!-- Economic Notifications -->
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_REBELLION_MESSAGE">
+			<Text>Рэвалюцыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_REBELLION_SUMMARY">
+			<Text>Адсутнасць [ICON_Amenities] дабрабыта Ў {1_CityName[6]} прывяло да паўстання супраць Вас {2_NumUnits} {2_NumEnvoys : plural 1?варожай адзінкі; other?варожых адзінак;}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITY_LOW_AMENITIES_MESSAGE">
+			<Text>Трэба палепшыць дабрабыт</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITY_LOW_AMENITIES_SUMMARY">
+			<Text>{1_CityName[3]} трэба палепшыць [ICON_Amenities] дабрабыт, каб аднавіць вытворчасць. Пагаршэнне становішча можа прывесці да паўстання!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_HOUSING_PREVENTING_GROWTH_MESSAGE">
+			<Text>Трэба пабудаваць жытло</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_HOUSING_PREVENTING_GROWTH_SUMMARY">
+			<Text>{1_CityName[3]} трэба болей [ICON_Housing] жылля, каб працягнуць расці. Без дадатковага [ICON_Housing] жытла новыя [ICON_Citizen] жыхары будуць з'яўляцца значна радзей.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITY_STARVING_MESSAGE">
+			<Text>Горад галадае!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITY_FOOD_FOCUS_SUMMARY">
+			<Text>{1_CityName} не забяспечвае сваё насельніцтва дастатковай колькасцю [ICON_Food] ежы. Без дадатковай ежы Вы пачнёце губляць [ICON_Citizen] жыхароў у гэтым горадзе.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_TREASURY_BANKRUPT_MESSAGE">
+			<Text>Казна збанкрутавалася</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_TREASURY_BANKRUPT_SUMMARY">
+			<Text>У Нас не засталося [ICON_Gold] золата і выдаткі перавышаюць прыбыткі. Калі гэта працягнецца, нашы гарады пачнуць губляць [ICON_Amenities] дабрабыт, а адзінкі дэзерціраваць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CAN_PURCHASE_WITH_FAITH_MESSAGE">
+			<Text>Магчыма набыццё верай</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CAN_PURCHASE_WITH_FAITH_SUMMARY">
+			<Text>Вы сабралі досыць [ICON_Faith] веры для набыцця {1_ItemName[2]}.</Text>
+		</Replace>
+
+		<!-- Multiplayer Notifications -->
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PLAYER_CONNECTING">
+			<Text>{1_playerName} далучаецца</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PLAYER_CONNECTING_TT">
+			<Text>{1_playerName} далучаецца да гульні. Гэта зойме некалькі хвілін.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PLAYER_CONNECTED">
+			<Text>{1_playerName} далучыўся</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PLAYER_CONNECTED_TT">
+			<Text>{1_playerName} далучыўся да гульнію</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PLAYER_DISCONNECT">
+			<Text>{1_playerName} адлучыўся</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PLAYER_DISCONNECT_TT">
+			<Text>{1_playerName} адлучыўся ад гульнію</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PLAYER_KICKED">
+			<Text>{1_playerName} выгнаны</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PLAYER_KICKED_TT">
+			<Text>{1_playerName} быў выгнаны з гульні.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PLAYER_MOD_STATUS">
+			<Text>{1_playerName} спампоўвае моды</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PLAYER_MOD_STATUS_TT">
+			<Text>{1_playerName} спампоўвае моды патрэбныя для гульні. ({2 : number} з {3 : number} )</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFCATION_HOST_MIGRATION">
+			<Text>Хост мігрыруе</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFCATION_HOST_MIGRATION_TT">
+			<Text>Гульня мігрыруе на новы хост. Гульня хутка працягнецца.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFCATION_HOST_CHANGED">
+			<Text>Хост мігрыраваў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFCATION_HOST_CHANGED_TT">
+			<Text>{1_playerName} новы хост.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_WRONG_PHASE_TT">
+			<Text>[color: Civ6Red] Памылкавая фаза [ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SIMULTANEOUS_TURNS">
+			<Text>Адначасовыя крокі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SIMULTANEOUS_TURNS_TT">
+			<Text>Вайна з чалавечым гульцом закончылася. Актываваны адначасныя крокі з усімі не варожымі цывілізацыямі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SEQUENTIAL_TURNS">
+			<Text>Паслядоўныя крокі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SEQUENTIAL_TURNS_TT">
+			<Text>Вы ваюеце з чалавечым гульцом. Актываваны паслядоўныя крокі з усімі варожымі цывілізацыямі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PLAYER_DESYNCED">
+			<Text>{1_playerName} дэсінхранізован</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PLAYER_DESYNCED_TT">
+			<Text>У {1_playerName[2]} гульня адхілілася ад хаста. Ён перазагрузіцца для рашэння праблемы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PLAYER_RESYNC_COMPLETE">
+			<Text>{1_playerName} сінхранізаваўся</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PLAYER_RESYNC_COMPLETE_TT">
+			<Text>{1_playerName} скончыў загрузку</Text>
+		</Replace>
+
+		<!-- Multiplayer deferred popup notifications -->
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_TECH_BOOST_MESSAGE">
+			<Text>Атрымана эўрыка</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_TECH_BOOST_SUMMARY">
+			<Text>Даследванні {1_Name[2]} паскораны!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CIVIC_BOOST_MESSAGE">
+			<Text>Атрымана натхненне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CIVIC_BOOST_SUMMARY">
+			<Text>Даследванні {1_Name[2]} паскораны!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_TECH_DISCOVERED_MESSAGE">
+			<Text>{1: plural 1?{1: gender masculine?Адкрыты; feminine?Адкрыта; neuter?Адкрыта;}; 2?Адкрытыя; other?Адкрыты;} {1_Name}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_TECH_DISCOVERED_SUMMARY">
+			<Text>Вы адкрылі {1_Name}!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CIVIC_DISCOVERED_MESSAGE">
+			<Text>{1: plural 1?{1: gender masculine?Адкрыты; feminine?Адкрыта; neuter?Адкрыта;}; 2?Адкрытыя; other?Адкрыты;} {1_Name}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CIVIC_DISCOVERED_SUMMARY">
+			<Text>Вы адкрылі {1_Name}!</Text>
+		</Replace>
+
+		<!-- Great Work Notifications -->
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_RELIC_CREATED_MESSAGE">
+			<Text>Атрымана рэліквія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_RELIC_CREATED_SUMMARY">
+			<Text>[ICON_GreatWork_Relic] святая рэліквія {1_RelicName} змешчана ў {2_BuildingName} {3_CityName[2]}.</Text>
+		</Replace>
+
+		<!-- Discovery Notifications -->
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DISCOVER_CONTINENT_MESSAGE">
+			<Text>Адкрыты новы кантынент</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DISCOVER_CONTINENT_SUMMARY">
+			<Text>Мы адкрылі новы кантынент. Нашы даследнікі назвалі яго {1_ContinentName[5]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_MESSAGE">
+			<Text>Знойдзена плямённае селішча</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_SUMMARY">
+			<Text>Вы знайшлі селішча населенае сяброўскім племенем.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DISCOVER_NATURAL_WONDER_MESSAGE">
+			<Text>Знойдзена дзіва прыроды</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DISCOVER_NATURAL_WONDER_SUMMARY">
+			<Text>Нашы даследнікі знайшлі дзіва прыроды {1_NaturalWonderName[4]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DISCOVER_RESOURCE_MESSAGE">
+			<Text>Знойдзены рэсурс</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DISCOVER_RESOURCE_SUMMARY">
+			<Text>Мы знайшлі новую крыніцу {1_ResourceName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_BARBARIANS_SIGHTED_MESSAGE">
+			<Text>Набліжаюцца варвары</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_BARBARIANS_SIGHTED_SUMMARY">
+			<Text>Мы заўважылі варвараў, якія набліжаюцца да {1_CityName[2]}.</Text>
+		</Replace>
+
+		<!-- Victory Notifications -->
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_MY_DOMINANT_CULTURE_MESSAGE">
+			<Text>Ваша культура дамініруе</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_MY_DOMINANT_CULTURE_SUMMARY">
+			<Text>Вы прывабілі досыць [ICON_Tourism] турыстаў, каб зрабіць Вашу культуру дамінантнай над {1_CivName[5]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_OTHER_DOMINANT_CULTURE_MESSAGE">
+			<Text>Дамінаванне замежнай культуры</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_OTHER_DOMINANT_CULTURE_SUMMARY">
+			<Text>{1_CivName} {1_UnitName} {1: plural 1?{1: gender masculine?прывабіў; feminine?прывабіла; neuter?прывабіла;}; 2?прывабілі; other?прывабіў;} дастатковую колькасць турыстаў [ICON_Tourism], каб зрабіць іх культуру дамінантнай над Вашай.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_MY_CULTURE_VICTORY_SOON_MESSAGE">
+			<Text>Ваша культурная перамога блізка</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_MY_CULTURE_VICTORY_SOON_SUMMARY">
+			<Text>Ваша культура дамініруе над усімі, апроч адной замежнай цывілізацыі. Культурная перамога ў вашых руках.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_OTHER_CULTURE_VICTORY_SOON_MESSAGE">
+			<Text>Замежная культурная перамога блізка</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_OTHER_CULTURE_VICTORY_SOON_SUMMARY">
+			<Text>{1_CivName[3]} для культурнай перамогі трэба, каб іх культура стала дамінаваць над яшчэ адной цывілізацыяй.</Text>
+		</Replace>
+
+		<!--Future Notifications (not yet implemented)-->
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CASUS_BELLI_AVAILABLE_MESSAGE">
+			<Text>Даступны новы Казус Бэлі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CASUS_BELLI_AVAILABLE_SUMMARY">
+			<Text>Цяпер у нас ёсць права абвясціць {1_WarType} {2_CivName[3]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITY_RANGED_ATTACK_MESSAGE">
+			<Text>Гарадская дальнабойная атака</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITY_RANGED_ATTACK_SUMMARY">
+			<Text>{1_CityName} можа атакаваць варожыя сілы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_ENCAMPMENT_RANGED_ATTACK_MESSAGE">
+			<Text>
+				Дальнабойная атака вайсковага мястэчка</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_ENCAMPMENT_RANGED_ATTACK_SUMMARY">
+			<Text>Вайсковае мястэчка {1_CityName[2]} можа атакаваць варожыя сілы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_NUKE_DROPPED_MESSAGE">
+			<Text>Выкарыстана ядзерная зброя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_NUKE_DROPPED_SUMMARY">
+			<Text>{1_CivName} {1: plural 1?{1: gender masculine?выкарыстаў; feminine?выкарыстала; neuter?выкарыстала;}; 2?выкарысталі; other?выкарыстаў;} ядзерную зброю каля {2_CityName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_THERMONUKE_DROPPED_MESSAGE">
+			<Text>Выкарыстана тэрмаядзерная зброя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_THERMONUKE_DROPPED_SUMMARY">
+			<Text>{1_CivName} {1: plural 1?{1: gender masculine?выкарыстаў; feminine?выкарыстала; neuter?выкарыстала;}; 2?выкарысталі; other?выкарыстаў;} апусташальную ядзерную зброю каля {2_CityName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_NEW_AGENT_MESSAGE">
+			<Text>Можна наняць шпіёна</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_NEW_AGENT_SUMMARY">
+			<Text>Вы можаце наняць дадатковага шпіёна.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_UNIT_CAPTURED_MESSAGE">
+			<Text>Адзінка захоплена</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_UNIT_CAPTURED_SUMMARY">
+			<Text>Ваш {1_UnitType} {1: plural 1?{1: gender masculine?захоплены; feminine?захоплена; neuter?захоплена;}; 2?захоплены; other?захоплены;} {2_EnemyUnitType[5]} {3_CivName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_UNIT_ATTACKED_MESSAGE">
+			<Text>Адзінка атакавана</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_UNIT_ATTACKED_SUMMARY">
+			<Text>Ваш {1_UnitType} {1: plural 1?{1: gender masculine?атакаваны; feminine?атакавана; neuter?атакавана;}; 2?атакаваны; other?атакаваны;} {2_CivName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_WONDER_COMPLETED_MESSAGE">
+			<Text>Цуда свету пабудавана</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_WONDER_COMPLETED_SUMMARY">
+			<Text>{1_CivName} пабудавала цуда свету {2_WonderName[4]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_WONDER_COMPLETED_HOTSEAT_CURRENT_PLAYER_SUMMARY">
+			<Text>Вы пабудавалі цуда свету {1_WonderName[4]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_WONDER_COMPLETED_UNMET_PLAYER_SUMMARY">
+			<Text>Невядомы валадар пабудавал цуда свету {2_WonderName[4]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_WONDER_FAILED_MESSAGE">
+			<Text>Вытворчасць выратавана</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_WONDER_FAILED_SUMMARY">
+			<Text>Вы не паспелі пабудаваць цуда свету {1_WonderName[4]} у час. Аднак {2_Production} [ICON_Production] вытворчасць выдаткаваная на гэтую спробу было выратавана і перанесена ў {3_CityName}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITY_LOST_MESSAGE">
+			<Text>Горад захоплены</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITY_LOST_SUMMARY">
+			<Text>Горад {1_CityName} быў захоплены {2_CivName[5]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITY_WALLS_BREACHED_MESSAGE">
+			<Text>Гарадскі мур разбураны</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITY_WALLS_BREACHED_SUMMARY">
+			<Text>Мур горада {1_CityName[2]} быў разбураны сіламі {2_CivName}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CAPITAL_LOST_MESSAGE">
+			<Text>Сталіца захоплена</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CAPITAL_LOST_SUMMARY">
+			<Text>[ICON_Capital] сталіца {1_CivName[2]} была захоплена {2_CivName[5]}!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CAPITAL_RECLAIMED_MESSAGE">
+			<Text>Сталіца выратавана</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CAPITAL_RECLAIMED_SUMMARY">
+			<Text>{1_CivName} выратавалі сваю сталіцу.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_ENEMY_IN_TERRITORY_MESSAGE">
+			<Text>Вораг ўнутры межаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_ENEMY_IN_TERRITORY_SUMMARY">
+			<Text>Варожыя войскі былі заўважаныя ўнутры нашых межаў каля горада {1_CityName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DISCOVER_ANTIQUITY_SITE_MESSAGE">
+			<Text>Знойдзены старажытны помнік</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DISCOVER_ANTIQUITY_SITE_SUMMARY">
+			<Text>Вы знайшлі новы старажытны помнік. Адпраўце археолага, каб дабыць артэфакты.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DISCOVER_SHIPWRECK_MESSAGE">
+			<Text>Знойдзены абломкі карабля</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DISCOVER_SHIPWRECK_SUMMARY">
+			<Text>Вы знайшлі новыя абломкі карабля. Пасля даследвання палітыкі «Культурная спадчына», адпраўце археолага, каб падняць патанулы артэфакт.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_COUNTERDEAL_RECEIVED_MESSAGE">
+			<Text>Атрымана сустрэчная дамова</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_COUNTERDEAL_RECEIVED_SUMMARY">
+			<Text>{1_CivName} адправіла сустрэчную дамову.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_DEAL_RECEIVED_MESSAGE">
+			<Text>Прапанавана дамова</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_DEAL_RECEIVED_SUMMARY">
+			<Text>Вы атрымалі дамову ад {1_CivName[2]}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_DENUNCIATION_BY_AI_EXPIRED_MESSAGE">
+			<Text>Ганьба болей не дзее</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_DENUNCIATION_BY_AI_EXPIRED_SUMMARY">
+			<Text>Ганьба {1_CivName[2]} болей не дзее на Вас. Для таго каб пачаць афіцыйную вайну, ім трэба зноў зганіць Вас.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_DENUNCIATION_BY_HUMAN_EXPIRED_MESSAGE">
+			<Text>Ваша зганьбаванне болей не дзее</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_DENUNCIATION_BY_HUMAN_EXPIRED_SUMMARY">
+			<Text>Ваша зганьбаванне болей не дзее на {1_CivName[2]}, калі Вы жадаеце пачаць афіцыйную вайну з імі то, Вам трэба зноў зганіць іх.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_KEPT_MESSAGE">
+			<Text>Абяцанне выканана</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_KEPT_SUMMARY">
+			<Text>Абяцанне {2_PromiseType} дадзенае Вам {1_CivName[5]} выканана.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_PROMISE_TO_KEPT_MESSAGE">
+			<Text>Ваша абяцанне выканана</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_PROMISE_TO_KEPT_SUMMARY">
+			<Text>Абяцанне {2_PromiseType} дадзенае {1_CivName[3]} было выканана.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_BROKEN_MESSAGE">
+			<Text>Абяцанне парушана</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_BROKEN_SUMMARY">
+			<Text>Абяцанне {2_PromiseType} дадзенае Вам {1_CivName[5]} было парушана.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_PROMISE_TO_BROKEN_MESSAGE">
+			<Text>Вы парушылі Сваё абяцанне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_PROMISE_TO_BROKEN_SUMMARY">
+			<Text>Вы парушылі Сваё абяцанне {2_PromiseType} дадзенае {1_CivName[3]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PROMISE_TYPE_ARTIFACTS">
+			<Text>спыніць раскопкі артэфактаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PROMISE_TYPE_ON_BORDER">
+			<Text>адвесці войска ад мяжы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PROMISE_TYPE_RELIGIOUS">
+			<Text>спыніць звяртаць гарады</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PROMISE_TYPE_SETTLING">
+			<Text>спыніць засяленне паблізу</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PROMISE_TYPE_SPYING">
+			<Text>спыніць шпіёніць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_DEAL_EXPIRED_MESSAGE">
+			<Text>Дамова болей не дзее</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_DEAL_EXPIRED_SUMMARY">
+			<Text>Дамова складзеная з {1_CivName[5]} болей не дзее.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DISTRICT_PILLAGED_MESSAGE">
+			<Text>Мястэчка разрабавана</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DISTRICT_PILLAGED_SUMMARY">
+			<Text>{1: plural 1?{1: gender masculine?Ваш {1_DistrictName} размешчаны ў {2_CityName[6]} быў разрабаваны {3_CivName[5]}.; feminine?Ваша {1_DistrictName} размешчаная ў {2_CityName[6]} была разрабавана {3_CivName[5]}.; neuter?Ваша {1_DistrictName} размешчанае ў {2_CityName[6]} была разрабавана {3_CivName[5]}.;}; 2?Вашы {1_DistrictName} размешчаныя ў {2_CityName[6]} былі разрабаваны {3_CivName[5]}.; other?Ваш {1_DistrictName} размешчаны ў {2_CityName[6]} быў разрабаваны {3_CivName[5]}.;}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_IMPROVEMENT_PILLAGED_MESSAGE">
+			<Text>Паляпшэнне разрабавана</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_IMPROVEMENT_PILLAGED_SUMMARY">
+			<Text>{1: plural 1?{1: gender masculine?Ваш {1_ImprovementName} размешчаны ў {2_CityName[6]} быў разрабаваны {3_CivName[5]}.; feminine?Ваша {1_ImprovementName} размешчаная ў {2_CityName[6]} была разрабавана {3_CivName[5]}.; neuter?Ваша {1_ImprovementName} размешчанае ў {2_CityName[6]} была разрабавана {3_CivName[5]}.;}; 2?Вашы {1_ImprovementName} размешчаныя ў {2_CityName[6]} былі разрабаваны {3_CivName[5]}.; other?Ваш {1_ImprovementName} размешчаны ў {2_CityName[6]} быў разрабаваны {3_CivName[5]}.;}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_BUILDING_PILLAGED_MESSAGE">
+			<Text>Будынак разрабаваны</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_BUILDING_PILLAGED_SUMMARY">
+			<Text>{1: plural 1?{1: gender masculine?Ваш {1_BuildingName} размешчаны ў {2_CityName[6]} быў разрабаваны {3_CivName[5]}.; feminine?Ваша {1_BuildingName} размешчаная ў {2_CityName[6]} была разрабавана {3_CivName[5]}.; neuter?Ваша {1_BuildingName} размешчанае ў {2_CityName[6]} была разрабавана {3_CivName[5]}.;}; 2?Вашы {1_BuildingName} размешчаныя ў {2_CityName[6]} былі разрабаваны {3_CivName[5]}.; other?Ваш {1_BuildingName} размешчаны ў {2_CityName[6]} быў разрабаваны {3_CivName[5]}.;}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_ROUTE_PILLAGED_MESSAGE">
+			<Text>Шлях разрабаваны</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_ROUTE_PILLAGED_SUMMARY">
+			<Text>Пляцоўка {1_RoadName} каля {2_CityName[2]} была разрабавана {3_CivName[5]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PLAYER_RESURRECTED_MESSAGE">
+			<Text>Цывілізацыя адроджана</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PLAYER_RESURRECTED_SUMMARY">
+			<Text>{1: gender masculine?{1_civName} вярнуў свой горад і зноў ажыў.; feminine?{1_civName} вярнула свой горад і зноў ажыла.; neuter?{1_civName} вярнула свой горад і зноў ажыла.;}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PLAYER_ELIMINATED_MESSAGE">
+			<Text>Цывілізацыя знішчана</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PLAYER_ELIMINATED_SUMMARY">
+			<Text>{1_civName} {1: gender masculine?знішчаны; feminine?знішчана; neuter?знішчана;}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_ROADS_UPGRADED_MESSAGE">
+			<Text>Шляхі палепшаны</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_ROADS_UPGRADED_SUMMARY">
+			<Text>{1_RoadName} {1: gender masculine?даступны; feminine?даступна; neuter?даступна;}. Усе шляхі, якія знаходзяцца на Вашай тэрыторыі атрымваюць +{2_MovementCost} да [ICON_Movement] руху.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_FREE_RELIGIOUS_UNIT_MESSAGE">
+			<Text>Першая рэлігійная адзінка</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_FREE_RELIGIOUS_UNIT_SUMMARY">
+			<Text>Дзякуючы моцнаму жаданню Вашага народа заснаваць новую рэлігію, Вы атрымліваеце Вашага першага {1_UnitName[2]} задарма. Выкарыстоўвайце [ICON_Faith] веру для набыцця гэтых адзінак ў будучыні.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_FREE_ESPIONAGE_UNIT_MESSAGE">
+			<Text>Першы шпіён</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_FREE_ESPIONAGE_UNIT_SUMMARY">
+			<Text>Дзякуючы моцнаму жаданню стварэнням новай шпіёнскай сеткі, вы атрымліваеце першага {1_UnitName[2]} задарма. Пасля таго як Вам адкрыецца магчымасць ўтрымліваць больш шпіёнаў, Вы зможаце ствараць іх у гарадах.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITY_BESIEGED_BY_OTHER_PLAYER_MESSAGE">
+			<Text>Горад абложаны</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITY_BESIEGED_BY_OTHER_PLAYER_SUMMARY">
+			<Text>{1_CityName} {1: gender masculine?абложаны; feminine?абложана; neuter?абложана;}. Ваш горад зможа лячыцца датуль, пакуль вораг не будзе кантраляваць усё гексы вакол горада.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_TILE_LOST_CULTURE_BOMB_MESSAGE">
+			<Text>Страчана тэрыторыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_TILE_LOST_CULTURE_BOMB_SUMMARY">
+			<Text>{1_CivName} культурна {1: gender masculine?асіміляваў; feminine?асімілявала; neuter?асімілявала;} частку нашай тэрыторыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_AIRCRAFT_FORCED_REBASE_MESSAGE">
+			<Text>Авіяцыя была вымушана перабазавацца</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_AIRCRAFT_FORCED_REBASE_SUMMARY">
+			<Text>Папярэдняя база {1_AirUnit[2]} была небяспечна, таму адзінка перабазавалася.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_AIRCRAFT_BASE_OVERRUN_MESSAGE">
+			<Text>Авіябаза перапоўнена</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NUBIA_MOD_TITLE">
+			<Text>{1_AirUnit} {1: plural 1?{1: gender masculine?не змог перабазавацца і быў знішчаны; feminine?не змогла перабазавацца і была знішчана; neuter?не змогло перабазавацца і было знішчана;}; 2?не змоглі перабазавацца і былі знішчаны; other?не змог перабазавацца і быў знішчаны;}.</Text>
+		</Replace>
+		
+		    </LocalizedText>
+</GameData>

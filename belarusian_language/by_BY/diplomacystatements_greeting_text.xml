@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- diplomacystatements_greeting_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:40:39 AM -->
+<GameData>
+	<LocalizedText>
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_GREETING_MVEMBA_ANY">
+			<Text>Няхай Бог благаславіць вас.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_GREETING_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Як заўжды, прыемнае спатканне.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_GREETING_LEADER_CLEOPATRA_ANY">
+			<Text>Жадаеце пагутарыць са мной?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_GREETING_LEADER_BARBAROSSA_ANY">
+			<Text>Чаго жадаеце?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_GREETING_LEADER_GANDHI_ANY">
+			<Text>Мір вам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_GREETING_LEADER_GILGAMESH_ANY">
+			<Text>Давайце пачнём.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_GREETING_LEADER_GORGO_ANY">
+			<Text>Вітаю.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_GREETING_LEADER_HARDRADA_ANY">
+			<Text>Гавары!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_GREETING_LEADER_HOJO_ANY">
+			<Text>Сардэчна запрашаем.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_GREETING_LEADER_PEDRO_ANY">
+			<Text>Чаго жадаеце?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_GREETING_LEADER_PERICLES_ANY">
+			<Text>Як маецесь?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_GREETING_LEADER_PETER_GREAT_ANY">
+			<Text>Добры дзень.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_GREETING_LEADER_PHILIP_II_ANY">
+			<Text>Прыемнае спатканне.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_GREETING_LEADER_QIN_ANY">
+			<Text>Хай дабраславенне сыйдзе на вас.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_GREETING_LEADER_SALADIN_ANY">
+			<Text>Як маецесь?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_GREETING_LEADER_T_ROOSEVELT_ANY">
+			<Text>Працягвайце.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_GREETING_LEADER_TOMYRIS_ANY">
+			<Text>Што вам патрэбна?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_GREETING_LEADER_TRAJAN_ANY">
+			<Text>Здароўя вам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_GREETING_LEADER_VICTORIA_ANY">
+			<Text>Рады бачыць вас.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_GREETING_ANY_ANY">
+			<Text>Што вам патрэбна?</Text>
+		</Replace>
+
+
+	</LocalizedText>
+</GameData>

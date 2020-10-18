@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GameData1 -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 11:04:09 AM -->
+<Mod id="86D2DBAD-87DE-4C46-5615-29B525B2939A" version="1">
+	<Properties>
+		<Name>LOC_MOD_TITLE</Name>
+		<Teaser>LOC_MOD_TEASER</Teaser>
+		<Description>LOC_MOD_DESCRIPTION</Description>
+		<Authors>LOC_MOD_AUTHORS</Authors>
+		<EnabledByDefault>1</EnabledByDefault>
+		<AffectsSavedGames>0</AffectsSavedGames>
+	</Properties>
+	<!-- these are loaded before displaying the main menu, but not before the initial "Loading game, please wait" -->
+	<FrontEndActions>
+		<!-- this currently fails to do anything, UpdateText needs to be something else but what would it be? -->
+		<UpdateText id="TextSetupBelarusian">
+			<Properties>
+				<LoadOrder>-1000</LoadOrder>
+			</Properties>
+			<File>LocalizationDatabase_Data.sql</File>
+		</UpdateText>
+		<!-- Vanilla -->
+		<UpdateText id="FrontendTextBelarusian">
+			<Properties>
+				<LoadOrder>10</LoadOrder>
+			</Properties>
+			<File>by_BY/aztec_montezuma_packagetext.xml</File>
+			<File>by_BY/benchmarktext.xml</File>
+			<File>by_BY/buildings_text.xml</File>
+			<File>by_BY/citynames_text.xml</File>
+			<File>by_BY/civics_text.xml</File>
+			<File>by_BY/civilizations_text.xml</File>
+			<File>by_BY/difficulties_text.xml</File>
+			<File>by_BY/diplomacydeals_text.xml</File>
+			<File>by_BY/diplomacymodifiers_text.xml</File>
+			<File>by_BY/diplomacynotifications_text.xml</File>
+			<File>by_BY/diplomacypanel_text.xml</File>
+			<File>by_BY/diplomacystatements_common_text.xml</File>
+			<File>by_BY/diplomacystatements_declarefriendship_text.xml</File>
+			<File>by_BY/diplomacystatements_declarewar_text.xml</File>
+			<File>by_BY/diplomacystatements_defeat_text_Text.xml</File>
+			<File>by_BY/diplomacystatements_delegation_text.xml</File>
+			<File>by_BY/diplomacystatements_denounce_text.xml</File>
+			<File>by_BY/diplomacystatements_embassy_text.xml</File>
+			<File>by_BY/diplomacystatements_firstmeet_text.xml</File>
+			<File>by_BY/diplomacystatements_greeting_text.xml</File>
+			<File>by_BY/diplomacystatements_kudosandwarnings_text.xml</File>
+			<File>by_BY/diplomacystatements_makealliance_text.xml</File>
+			<File>by_BY/diplomacystatements_makedeal_text.xml</File>
+			<File>by_BY/diplomacystatements_makedemand_text.xml</File>
+			<File>by_BY/diplomacystatements_makepeace_text.xml</File>
+			<File>by_BY/diplomacystatements_openborders_text.xml</File>
+			<File>by_BY/diplomacystatements_warning_text.xml</File>
+			<File>by_BY/earthmaps_configtext.xml</File>
+			<File>by_BY/FrontEndText.xml</File>
+			<File>by_BY/improvements_text.xml</File>
+			<File>by_BY/leaders_text.xml</File>
+			<File>by_BY/modifiers_text.xml</File>
+			<File>by_BY/notifications_text.xml</File>
+			<File>by_BY/nubia_packagetext.xml</File>
+			<File>by_BY/poland_packagetext.xml</File>
+			<File>by_BY/projects_text.xml</File>
+			<File>by_BY/promotions_text.xml</File>
+			<File>by_BY/quests_text.xml</File>
+			<File>by_BY/religion_text.xml</File>
+			<File>by_BY/religiouscombatscenario_text.xml</File>
+			<File>by_BY/routes_text.xml</File>
+			<File>by_BY/technologies_text.xml</File>
+			<File>by_BY/types_text.xml</File>
+			<File>by_BY/ui_endgame_text.xml</File>
+			<File>by_BY/ui_mods_text.xml</File>
+			<File>by_BY/ui_options_text.xml</File>
+			<File>by_BY/ui_technology_text.xml</File>
+			<File>by_BY/unit_abilities_text.xml</File>
+			<File>by_BY/unitnames_text.xml</File>
+			<File>by_BY/units_text.xml</File>
+			<File>by_BY/usersetupwarning_text.xml</File>
+			<File>by_BY/vikings_packagetext.xml</File>
+			<File>by_BY/worldbuilder_text.xml</File>
+		</UpdateText>
+	</FrontEndActions>
+	<!-- these are loaded when starting to play a game -->
+	<InGameActions>
+		<!-- Vanilla -->
+		<UpdateText id="TextBelarusian">
+			<Properties>
+				<LoadOrder>10</LoadOrder>
+			</Properties>
+			<File>by_BY/aztec_montezuma_packagetext.xml</File>
+			<File>by_BY/benchmarktext.xml</File>
+			<File>by_BY/buildings_text.xml</File>
+			<File>by_BY/citynames_text.xml</File>
+			<File>by_BY/civics_text.xml</File>
+			<File>by_BY/civilizations_text.xml</File>
+			<File>by_BY/difficulties_text.xml</File>
+			<File>by_BY/diplomacydeals_text.xml</File>
+			<File>by_BY/diplomacymodifiers_text.xml</File>
+			<File>by_BY/diplomacynotifications_text.xml</File>
+			<File>by_BY/diplomacypanel_text.xml</File>
+			<File>by_BY/diplomacystatements_common_text.xml</File>
+			<File>by_BY/diplomacystatements_declarefriendship_text.xml</File>
+			<File>by_BY/diplomacystatements_declarewar_text.xml</File>
+			<File>by_BY/diplomacystatements_defeat_text_Text.xml</File>
+			<File>by_BY/diplomacystatements_delegation_text.xml</File>
+			<File>by_BY/diplomacystatements_denounce_text.xml</File>
+			<File>by_BY/diplomacystatements_embassy_text.xml</File>
+			<File>by_BY/diplomacystatements_firstmeet_text.xml</File>
+			<File>by_BY/diplomacystatements_greeting_text.xml</File>
+			<File>by_BY/diplomacystatements_kudosandwarnings_text.xml</File>
+			<File>by_BY/diplomacystatements_makealliance_text.xml</File>
+			<File>by_BY/diplomacystatements_makedeal_text.xml</File>
+			<File>by_BY/diplomacystatements_makedemand_text.xml</File>
+			<File>by_BY/diplomacystatements_makepeace_text.xml</File>
+			<File>by_BY/diplomacystatements_openborders_text.xml</File>
+			<File>by_BY/diplomacystatements_warning_text.xml</File>
+			<File>by_BY/earthmaps_configtext.xml</File>
+			<File>by_BY/FrontEndText.xml</File>
+			<File>by_BY/improvements_text.xml</File>
+			<File>by_BY/leaders_text.xml</File>
+			<File>by_BY/modifiers_text.xml</File>
+			<File>by_BY/notifications_text.xml</File>
+			<File>by_BY/nubia_packagetext.xml</File>
+			<File>by_BY/poland_packagetext.xml</File>
+			<File>by_BY/projects_text.xml</File>
+			<File>by_BY/promotions_text.xml</File>
+			<File>by_BY/quests_text.xml</File>
+			<File>by_BY/religion_text.xml</File>
+			<File>by_BY/religiouscombatscenario_text.xml</File>
+			<File>by_BY/routes_text.xml</File>
+			<File>by_BY/technologies_text.xml</File>
+			<File>by_BY/types_text.xml</File>
+			<File>by_BY/ui_endgame_text.xml</File>
+			<File>by_BY/ui_mods_text.xml</File>
+			<File>by_BY/ui_options_text.xml</File>
+			<File>by_BY/ui_technology_text.xml</File>
+			<File>by_BY/unit_abilities_text.xml</File>
+			<File>by_BY/unitnames_text.xml</File>
+			<File>by_BY/units_text.xml</File>
+			<File>by_BY/usersetupwarning_text.xml</File>
+			<File>by_BY/vikings_packagetext.xml</File>
+			<File>by_BY/worldbuilder_text.xml</File>
+		</UpdateText>
+	</InGameActions>
+	<LocalizedText>
+		<Text id="LOC_MOD_TITLE">
+			<en_US>Belarusian language</en_US>
+		</Text>
+		<Text id="LOC_MOD_TEASER">
+			<en_US>Belarusian Language</en_US>
+		</Text>
+		<Text id="LOC_MOD_DESCRIPTION">
+			<en_US>This mod translates the game into Belarusian language.</en_US>
+		</Text>
+		<Text id="LOC_MOD_AUTHORS">
+			<en_US>Reiko</en_US>
+		</Text>
+	</LocalizedText>
+	<Files>
+		<File>LocalizationDatabase_Data.sql</File>
+		<!-- Vanilla -->
+			<File>by_BY/aztec_montezuma_packagetext.xml</File>
+			<File>by_BY/benchmarktext.xml</File>
+			<File>by_BY/buildings_text.xml</File>
+			<File>by_BY/citynames_text.xml</File>
+			<File>by_BY/civics_text.xml</File>
+			<File>by_BY/civilizations_text.xml</File>
+			<File>by_BY/difficulties_text.xml</File>
+			<File>by_BY/diplomacydeals_text.xml</File>
+			<File>by_BY/diplomacymodifiers_text.xml</File>
+			<File>by_BY/diplomacynotifications_text.xml</File>
+			<File>by_BY/diplomacypanel_text.xml</File>
+			<File>by_BY/diplomacystatements_common_text.xml</File>
+			<File>by_BY/diplomacystatements_declarefriendship_text.xml</File>
+			<File>by_BY/diplomacystatements_declarewar_text.xml</File>
+			<File>by_BY/diplomacystatements_defeat_text_Text.xml</File>
+			<File>by_BY/diplomacystatements_delegation_text.xml</File>
+			<File>by_BY/diplomacystatements_denounce_text.xml</File>
+			<File>by_BY/diplomacystatements_embassy_text.xml</File>
+			<File>by_BY/diplomacystatements_firstmeet_text.xml</File>
+			<File>by_BY/diplomacystatements_greeting_text.xml</File>
+			<File>by_BY/diplomacystatements_kudosandwarnings_text.xml</File>
+			<File>by_BY/diplomacystatements_makealliance_text.xml</File>
+			<File>by_BY/diplomacystatements_makedeal_text.xml</File>
+			<File>by_BY/diplomacystatements_makedemand_text.xml</File>
+			<File>by_BY/diplomacystatements_makepeace_text.xml</File>
+			<File>by_BY/diplomacystatements_openborders_text.xml</File>
+			<File>by_BY/diplomacystatements_warning_text.xml</File>
+			<File>by_BY/earthmaps_configtext.xml</File>
+			<File>by_BY/FrontEndText.xml</File>
+			<File>by_BY/improvements_text.xml</File>
+			<File>by_BY/leaders_text.xml</File>
+			<File>by_BY/modifiers_text.xml</File>
+			<File>by_BY/notifications_text.xml</File>
+			<File>by_BY/nubia_packagetext.xml</File>
+			<File>by_BY/poland_packagetext.xml</File>
+			<File>by_BY/projects_text.xml</File>
+			<File>by_BY/promotions_text.xml</File>
+			<File>by_BY/quests_text.xml</File>
+			<File>by_BY/religion_text.xml</File>
+			<File>by_BY/religiouscombatscenario_text.xml</File>
+			<File>by_BY/routes_text.xml</File>
+			<File>by_BY/technologies_text.xml</File>
+			<File>by_BY/types_text.xml</File>
+			<File>by_BY/ui_endgame_text.xml</File>
+			<File>by_BY/ui_mods_text.xml</File>
+			<File>by_BY/ui_options_text.xml</File>
+			<File>by_BY/ui_technology_text.xml</File>
+			<File>by_BY/unit_abilities_text.xml</File>
+			<File>by_BY/unitnames_text.xml</File>
+			<File>by_BY/units_text.xml</File>
+			<File>by_BY/usersetupwarning_text.xml</File>
+			<File>by_BY/vikings_packagetext.xml</File>
+			<File>by_BY/worldbuilder_text.xml</File>
+	</Files>
+</Mod>

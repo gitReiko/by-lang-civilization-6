@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- nubia_packagetext -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:48:13 AM -->
+<GameData>
+	<LocalizedText>
+
+
+		<Replace Language="en_US" Tag="LOC_NUBIA_MOD_TITLE">
+			<Text>DLC «Цывілізацыя Нубія»</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NUBIA_MOD_TEASER">
+			<Text>Новая цывілізацыя Нубія і яе валадарыня Аманіторэ Нубійская</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NUBIA_MOD_DESCRIPTION">
+			<Text>Дадае новую цывілізацыю з валадарыняй і новае цуда света.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOD_NUBIA_SCENARIO_TITLE">
+			<Text>Сцэнарый: Дары Ніла</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOD_NUBIA_SCENARIO_TEASER">
+			<Text>Ці зможаце вы за 125 крокаў стварыць дамінуючую імперыю ў даліне ракі Ніл?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOD_NUBIA_SCENARIO_DESCRIPTION">
+			<Text>У гэтым сцэнары, які доўжыцца 125 крокаў, вам трэба пашырыць сваю імперыю ўверх і ўніз даліны ракі Ніл, канкуруючы з супернікамі за благаславенне вялікага бога Амона. Пабудуйце 7 храмаў у яго гонар, каб перамагчы!</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

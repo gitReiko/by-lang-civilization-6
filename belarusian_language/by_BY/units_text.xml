@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- units_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:57:39 AM -->
+<GameData>
+	<LocalizedText>
+
+		<!-- Promotion Class Names -->
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_RECON_NAME">
+			<Text>Выведніцкі|выведнініцкага|выведніцкаму|выведніцкага|выведніцкім|выведніцкім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_MELEE_NAME">
+			<Text>Бліжні бой|бліжняга бою|бліжняму бою|бліжні бой|бліжнім боем|бліжнім боі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_RANGED_NAME">
+			<Text>Далёкі бой|далёкага бою|далёкаму бою|далёкі бой|далёкім боем|далёкім боі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_SIEGE_NAME">
+			<Text>Аблогавы|аблогавага|аблогаваму|аблогавага|аблогавым|аблогавым</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_ANTI_CAVALRY_NAME">
+			<Text>Супрацьконны|супрацьконнага|супрацьконнаму|супрацьконнага|супрацьконным|супрацьконным</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_LIGHT_CAVALRY_NAME">
+			<Text>Лёгкая конніца|лёгкай конніцы|лёгкай конніцы|лёгкую конніцу|лёгкай конніцай|лёгкай конніцы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_HEAVY_CAVALRY_NAME">
+			<Text>Цяжкая конніца|цяжкай конніцы|цяжкай конніцы|цяжкую конніцу|цяжкай конніцай|цяжкай конніцы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_AIR_FIGHTER_NAME">
+			<Text>Паветраны знішчальнік|паветранага знішчальніка|паветранаму знішчальніку|паветраны знішчальнік|паветраным знішчальнікам|паветраным знішчальніку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_AIR_BOMBER_NAME">
+			<Text>Паветраны бамбавік|паветранага бамбавіка|патранаму бамбавіку|паветраны бамбавік|паветраным бамбавіком|паветраным бамбавіку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_NAVAL_MELEE_NAME">
+			<Text>Марскі бліжні бой|марскога бліжняга бою|марскому бліжняму бою|марскі бліжні бой|марскім бліжнім боем|марскім бліжнім боі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_NAVAL_RANGED_NAME">
+			<Text>Марскі далёкі бой|марскога далёкага бою|марскому далёкаму бою|марскі далёкі бой|марскім далёкім боем|марскім далёкім боі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_NAVAL_CARRIER_NAME">
+			<Text>Марскі носьбіт|марскога носьбіта|марскому носьбіту|марскога носьбіта|марскім носьбітам|марскім носьбіту</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_NAVAL_RAIDER_NAME">
+			<Text>Марскі налётчык|марскога налётчыка|марскому налётчыку|марскога налётчыка|марскім налётчыкам|марскім налётчыку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_APOSTLE_NAME">
+			<Text>Апостал|апостала|апосталу|апостала|апосталам|апосталу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_INQUISITOR_NAME">
+			<Text>Інквізітар|інквізітара|інквізітару|інквізітора|інквізітарам|інквізітару</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_SUPPORT_NAME">
+			<Text>Узмацняльны|узмацняльнага|узмацняльнаму|узмацняльнага|узмацняльным|узмацняльным</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_SPY_NAME">
+			<Text>Шпіянаж|шпіянажа|шпіянажу|шпіянаж|шпіянажам|шпіянажы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_MONK_NAME">
+			<Text>Ваяр-манах|ваяра-манаха|ваяру-манаху|ваяра-манаха|ваярам-манахам|ваяры-манахе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!-- Formation Class Names -->
+
+		<Replace Language="en_US" Tag="LOC_FORMATION_CLASS_AIR_NAME">
+			<Text>Вайскова-паветраны</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FORMATION_CLASS_CIVILIAN_NAME">
+			<Text>Грамадзянскі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FORMATION_CLASS_LAND_COMBAT_NAME">
+			<Text>Вайскова-наземны</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FORMATION_CLASS_NAVAL_NAME">
+			<Text>Вайскова-марскі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FORMATION_CLASS_SUPPORT_NAME">
+			<Text>Узмацняльны</Text>
+		</Replace>
+
+		<!-- Damage Message -->
+
+		<Replace Language="en_US" Tag="LOC_WORLD_FAITH_INCREASE_FLOATER">
+			<Text>+{1_Num}</Text>
+		</Replace>
+
+		<!-- Damage Message -->
+
+		<Replace Language="en_US" Tag="LOC_WORLD_UNIT_DAMAGE_DECREASE_FLOATER">
+			<Text>[COLOR_GREEN]+{1_Num}[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLD_UNIT_DAMAGE_INCREASE_FLOATER">
+			<Text>[COLOR_RED]{1_Num}[ENDCOLOR]</Text>
+		</Replace>
+
+		<!-- Experience Message -->
+
+		<Replace Language="en_US" Tag="LOC_WORLD_UNIT_EXPERIENCE_INCREASE_FLOATER">
+			<Text>[COLOR_LIGHTBLUE]+{1_Num} ДОСВЕДУ[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLD_UNIT_EXPERIENCE_INCREASE_LEVEL_FLOATER">
+			<Text>[COLOR_LIGHTBLUE]+{1_Num} ДОСВЕДУ[NEWLINE]*ДАСТУПНА ПАВЫШЭННЕ*[ENDCOLOR]</Text>
+		</Replace>
+
+		<!-- Production Yield Message -->
+
+		<Replace Language="en_US" Tag="LOC_WORLD_PRODUCTION_INCREASE_FLOATER">
+			<Text>[COLOR_FLOAT_PRODUCTION]+{1_Num}[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLD_PRODUCTION_DECREASE_FLOATER">
+			<Text>[COLOR_RED]{1_Num}[ENDCOLOR]</Text>
+		</Replace>
+
+		<!-- Food Yield Message -->
+
+		<Replace Language="en_US" Tag="LOC_WORLD_FOOD_INCREASE_FLOATER">
+			<Text>[COLOR_FLOAT_FOOD]+{1_Num}[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLD_FOOD_DECREASE_FLOATER">
+			<Text>[COLOR_RED]{1_Num}[ENDCOLOR]</Text>
+		</Replace>
+
+		<!-- Gold Yield Message -->
+
+		<Replace Language="en_US" Tag="LOC_WORLD_GOLD_INCREASE_FLOATER">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num}[ENDCOLOR]</Text>
+		</Replace>
+
+		<!-- Civilian-->
+
+		<Replace Language="en_US" Tag="LOC_UNIT_SETTLER_DESCRIPTION">
+			<Text>Можа будаваць новыя гарады. Пасля падрыхтоўкі [ICON_Citizen] насельніцтва горада змяншаецца на 1 жыхара.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_BUILDER_DESCRIPTION">
+			<Text>Можа будаваць паляпшэнні мясцовасці, спажываць рэсурсы, а таксама выдаляць асаблівасці мясцовасці (лясы, багны, ...). Будаўніка можна выкарыстаць 3 раза. Колькасць выкарыстоўванняў можна павялічыць палітыкамі і цудамі света.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_TRADER_DESCRIPTION">
+			<Text>Стварае і абслугоўвае адзін [ICON_TradeRoute] гандлёвы шлях. Аўтаматычна будуе дарогі падчас вандравання.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_MISSIONARY_DESCRIPTION">
+			<Text>Можа звяртаць [ICON_Citizen] жыхароў у сваю рэлігію. Не можа пачынаць тэалагічныя бітвы з іншымі рэлігіямі, але можа абараняцца.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_APOSTLE_DESCRIPTION">
+			<Text>Можа звяртаць [ICON_Citizen] жыхароў у сваю рэлігію і пачынаць тэалагічныя бітвы з іншымі рэлігіямі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_INQUISITOR_DESCRIPTION">
+			<Text>Можа знішчаць іншыя рэлігіі на сваёй тэрыторыі і пачынаць тэалагічныя бітвы з іншымі рэлігіямі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_GURU_DESCRIPTION">
+			<Text>Можа выкарыстаць зарад, каб вылечыць сябе і ўсе суседнія хаўрусныя рэлігійныя адзінкі. Не можа пачынаць тэалагічныя бітвы з іншымі рэлігіямі, але можа абараняцца.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_WARRIOR_MONK_DESCRIPTION">
+			<Text>Хуткая адзінка блізкага бою з унікальным дрэвам паляпшэнняў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_ARCHAEOLOGIST_DESCRIPTION">
+			<Text>Шукае і дабывае [ICON_GreatWork_Artifact] артэфакты з [ICON_RESOURCE_ANTIQUITY_SITE] старажытных помнікаў, а потым дастаўляе іх у музеі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_SPY_DESCRIPTION">
+			<Text>Выконвае сакрэтныя місіі ў замежных гарадах і бароніць вашы гарады ад варожых шпіёнаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_NATURALIST_DESCRIPTION">
+			<Text>Можа ствараць нацыянальныя паркі, якія прыцягваюць [ICON_Tourism] турыстаў. Можна набыць толькі за [ICON_Faith] веру.</Text>
+		</Replace>
+
+		<!-- Great People-->
+
+		<Replace Language="en_US" Tag="LOC_UNIT_GREAT_GENERAL_DESCRIPTION">
+			<Text>Кожны [ICON_GreatGeneral] выдатны генерал валодае сваёй ўнікальнай здольнасцю, пасіўным эфектам, які ўзмацняе найблізкія адзінкі, і здольнасцю адступлення. Адчыніце панэль выдатных дзеячаў, каб даведацца болей аб унікальнай здольнасці і прасачыць за прагрэсам атрымання.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_GREAT_ADMIRAL_DESCRIPTION">
+			<Text>Кожны [ICON_GreatAdmiral] выдатны адмірал валодае сваёй ўнікальнай здольнасцю, пасіўным эфектам, які ўзмацняе найблізкія марскія адзінкі, і здольнасцю адступлення. Адчыніце панэль выдатных дзеячаў, каб даведацца болей аб унікальнай здольнасці і прасачыць за прагрэсам атрымання.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_GREAT_ENGINEER_DESCRIPTION">
+			<Text>Кожны [ICON_GreatEngineer] выдатны інжынер валодае сваёй ўнікальнац здольнасцю. Адчыніце панэль выдатных дзеячаў, каб даведацца болей аб унікальнай здольнасці і прасачыць за прагрэсам атрымання.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_GREAT_MERCHANT_DESCRIPTION">
+			<Text>Кожны [ICON_GreatMerchant] выдатны гандляр валодае сваёй ўнікальнай здольнасцю. Адчыніце панэль выдатных дзеячаў, каб даведацца болей аб унікальнай здольнасці і прасачыць за прагрэсам атрымання.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_GREAT_PROPHET_DESCRIPTION">
+			<Text>Кожны [ICON_GreatProphet] выдатны прарок можа заснаваць новую рэлігію. Адчыніце панэль выдатных дзеячаў, каб даведацца болей аб унікальнай здольнасці і прасачыць за прагрэсам атрымання.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_GREAT_SCIENTIST_DESCRIPTION">
+			<Text>Кожны [ICON_GreatScientist] выдатны навуковец валодае сваёй ўнікальнай здольнасцю. Адчыніце панэль выдатных дзеячаў, каб даведацца болей аб унікальнай здольнасці і прасачыць за прагрэсам атрымання.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_GREAT_WRITER_DESCRIPTION">
+			<Text>Кожны [ICON_GreatWriter] выдатны пісьменнік можа напісаць [ICON_GreatWork_Writing] вялікія літаратурныя творы. Адчыніце панэль выдатных дзеячаў, каб даведацца болей аб унікальнай здольнасці і прасачыць за прагрэсам атрымання.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_GREAT_ARTIST_DESCRIPTION">
+			<Text>Кожны [ICON_GreatArtist] выдатны мастак можа адлюстраваць [ICON_GreatWork_Landscape] вялікія вырабы мастацтва. Адчыніце панэль выдатных дзеячаў, каб даведацца болей аб унікальнай здольнасці і прасачыць за прагрэсам атрымання.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_GREAT_MUSICIAN_DESCRIPTION">
+			<Text>Кожны [ICON_GreatMusician] выдатны музыка можа напісаць [ICON_GreatWork_Music] вялікія музычныя творы. Адчыніце панэль выдатных дзеячаў, каб даведацца болей аб унікальнай здольнасці і прасачыць за прагрэсам атрымання.</Text>
+		</Replace>
+
+		<!-- Recon-->
+
+		<Replace Language="en_US" Tag="LOC_UNIT_SCOUT_DESCRIPTION">
+			<Text>Хуткая выведніцкая адзінка старажытнай эры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_RANGER_DESCRIPTION">
+			<Text>Хуткая выведніцкая адзінка прамысловай эры.</Text>
+		</Replace>
+
+		<!-- Melee-->
+
+		<Replace Language="en_US" Tag="LOC_UNIT_WARRIOR_DESCRIPTION">
+			<Text>Слабая адзінка бліжняга бою старажытнай эры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_SPEARMAN_DESCRIPTION">
+			<Text>Супрацьконня адзінка бліжняга бою старажытнай эры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_SWORDSMAN_DESCRIPTION">
+			<Text>Моцная адзінка бліжняга бою антычнай эры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_PIKEMAN_DESCRIPTION">
+			<Text>Супрацьконная адзінка бліжняга бою сярэднявечнай эры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_MUSKETMAN_DESCRIPTION">
+			<Text>Адзінка бліжняга бою эры адраджэння.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_INFANTRY_DESCRIPTION">
+			<Text>Адзінка бліжняга бою сучаснай эры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_MECHANIZED_INFANTRY_DESCRIPTION">
+			<Text>Адзінка бліжняга бою інфармацыйнай эры</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_AT_CREW_DESCRIPTION">
+			<Text>Супрацьконная адзінка бліжняга бою сучаснай эры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_MODERN_AT_DESCRIPTION">
+			<Text>Супрацьконная адзінка бліжняга бою інфармацыйнай эры.</Text>
+		</Replace>
+
+		<!-- Ranged-->
+
+		<Replace Language="en_US" Tag="LOC_UNIT_SLINGER_DESCRIPTION">
+			<Text>Слабая адзінка далёкага бою старажытнай эры. Лепей падыходзіць для атакі, чым абароны.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_ARCHER_DESCRIPTION">
+			<Text>Першая адзінка далёкага бою старажытнай эры з [ICON_Range] радыусам атакі роўным двум.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_CROSSBOWMAN_DESCRIPTION">
+			<Text>Адзінка далёкага бою сярэднявечнай эры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_FIELD_CANNON_DESCRIPTION">
+			<Text>Адзінка далёкага бою прамысловай эры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION">
+			<Text>Адзінка далёкага бою атамнай эры.</Text>
+		</Replace>
+
+		<!-- Light Cavalry-->
+
+		<Replace Language="en_US" Tag="LOC_UNIT_HORSEMAN_DESCRIPTION">
+			<Text>Хуткая лёгкая конніца антычнай эры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_CAVALRY_DESCRIPTION">
+			<Text>Хуткая лёгкая конніца прамысловай эры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_HELICOPTER_DESCRIPTION">
+			<Text>Хуткая лёгкая конніца атамнай эры.</Text>
+		</Replace>
+
+		<!-- Siege-->
+
+		<Replace Language="en_US" Tag="LOC_UNIT_CATAPULT_DESCRIPTION">
+			<Text>Аблогавая адзінка антычнай эры, якая прызначана для атакі гарадоў. Не можа атакаваць на тым жа кроку пасля руху, пакуль не атрымае павышэнне бывалая каманда.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOD_VIKINGS_SCENARIO_TITLE">
+			<Text>Аблогавая адзінка эры адраджэння, якая прызначана для атакі гарадоў. Не можа атакаваць на тым жа кроку пасля руху, пакуль не атрымае павышэнне бывалая каманда.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_ARTILLERY_DESCRIPTION">
+			<Text>Аблогавая адзінка сучаснай эры, якая прызначана для атакі гарадоў. Не можа атакаваць на тым жа кроку пасля руху, пакуль не атрымае павышэнне бывалая каманда.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_ROCKET_ARTILLERY_DESCRIPTION">
+			<Text>Аблогавая адзінка інфармацыйнай эры, якая прызначана для атакі гарадоў. Не можа атакаваць на тым жа кроку пасля руху, пакуль не атрымае павышэнне бывалая каманда.</Text>
+		</Replace>
+
+		<!-- Support-->
+
+		<Replace Language="en_US" Tag="LOC_UNIT_BATTERING_RAM_DESCRIPTION">
+			<Text>Узмацняльная адзінка антычнай эры. Усе адзінкі бліжняга бою наносяць сценам поўныя пашкоджанні, калі гэтая адзінка узмацнення находзіцца каля варожага горада.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_SIEGE_TOWER_DESCRIPTION">
+			<Text>Узмацняльная адзінка антычнай эры. Усе адзінкі бліжняга бою непасрэдна атакуюць горад, ігнаруючы сцены, калі гэтая адзінка узмацнення находзіцца каля варожага горада.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_MEDIC_DESCRIPTION">
+			<Text>Узмацняльная адзінка прамысловай эры. Лечыць усе найблізкія адзінкі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_OBSERVATION_BALLOON_DESCRIPTION">
+			<Text>Узмацняльная адзінка сучаснай эры. Павялічвае [ICON_Range] радыус агляду на +1 прылеглым аблогавым адзінкам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_MILITARY_ENGINEER_DESCRIPTION">
+			<Text>Узмацняльная адзінка сярэднявечнай эры. Можна падрыхтаваць толькі ў вайсковым мястэчку са збройняй. Можа будаваць шляхі, форты і ўзлётныя палосы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_ANTIAIR_GUN_DESCRIPTION">
+			<Text>Супрацьпаветраны узмацняльная адзінка атамнай эры. Забяспечвае паветранае прыкрыццё суседнім адзінкам у радыусе аднаго гексу.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_MOBILE_SAM_DESCRIPTION">
+			<Text>Супрацьпаветраны узмацняльная адзінка інфармацыйнай эры. Забяспечвае паветранае прыкрыццё суседнім адзінкам у радыусе аднаго гексу (у тым ліку ад ядзернай зброі).</Text>
+		</Replace>
+
+		<!-- Heavy Cavalry -->
+
+		<Replace Language="en_US" Tag="LOC_UNIT_HEAVY_CHARIOT_DESCRIPTION">
+			<Text>Магутная цяжкая конніца старажытнай эры. Атрымлівае дадатковае ачко руху, калі пачынае крок на роўным гексе без лесу, джунгляў альбо ўзгорка.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_KNIGHT_DESCRIPTION">
+			<Text>Магутная цяжкая конніца сярэднявечнай эры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_MODERN_ARMOR_DESCRIPTION">
+			<Text>Магутная і хуткая цяжкая конніца інфармацыйнай эры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_TANK_DESCRIPTION">
+			<Text>Хуткая цяжкая конніца сучаснай эры, якая ігнаруе зону кантролю.</Text>
+		</Replace>
+
+		<!--Naval-->
+
+		<Replace Language="en_US" Tag="LOC_UNIT_GALLEY_DESCRIPTION">
+			<Text>Марская адзінка бліжняга бою старажытнай эры. Да даследвання тэхналогіі картаграфія можа плаваць толькі па ўзбярэжных водах.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_QUADRIREME_DESCRIPTION">
+			<Text>Марская адзінка далёкага бою старажытнай эры. Да даследвання тэхналогіі картаграфія можа плаваць толькі па ўзбярэжных водах.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_CARAVEL_DESCRIPTION">
+			<Text>Хуткая даследніцкая марская адзінка бліжняга бою эры адраджэння.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_IRONCLAD_DESCRIPTION">
+			<Text>Магутная і браніраваная марская адзінка бліжняга бою прамысловай эры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_NUCLEAR_SUBMARINE_DESCRIPTION">
+			<Text>Самая дасканалая марская адзінка-налётчык далёкага бою інфармацыйнай эры, які можна ўзбройваць ядзернай зброяй. Гэтую адзінку нельга ўбачыць датуль, пакуль да яе не наблізіцца іншая адзінка.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_SUBMARINE_DESCRIPTION">
+			<Text>Марская адзінка-налётчык далёкага бою сучаснай эры. Гэтую адзінку нельга ўбачыць датуль, пакуль да яе не наблізіцца іншая адзінка.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_PRIVATEER_DESCRIPTION">
+			<Text>Марская адзінка-налётчык далёкага бою эры адраджэння, які валодае здольнасцю рабаваць узбярэжжы. Гэтую адзінку нельга ўбачыць датуль, пакуль да яе не наблізіцца іншая адзінка.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_FRIGATE_DESCRIPTION">
+			<Text>Марская адзінка далёкага бою эры адраджэння.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_AIRCRAFT_CARRIER_DESCRIPTION">
+			<Text>Марская адзінка бліжняга бою атамнай эры, які можа размяшчаць авіяцыю.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_BATTLESHIP_DESCRIPTION">
+			<Text>Марская адзінка далёкага бою сучаснай эры. Забяспечвае паветранае прыкрыццё суседнім юадзінкамнітам у радыусе аднаго гексу (у тым ліку ад ядзернай зброі).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_MISSILE_CRUISER_DESCRIPTION">
+			<Text>Наймагутная марская адзінка далёкага бою інфармацыйнай эры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_DESTROYER_DESCRIPTION">
+			<Text>Наймагутная марская адзінка бліжняга бою інфармацыйнай эры. Раскрывае марскіх налётчыкаў у радыусе сваёй бачнасці.</Text>
+		</Replace>
+
+		<!--Air Units-->
+
+		<Replace Language="en_US" Tag="LOC_UNIT_BIPLANE_DESCRIPTION">
+			<Text>Першая вайскова-паветраная адзінка сучаснай эры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_FIGHTER_DESCRIPTION">
+			<Text>Паляпшэнне вайскова-паветранага біплана атамнай эры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_BOMBER_DESCRIPTION">
+			<Text>Першая вайскова-паветраная адзінка-бамбавік атамнай эры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_JET_FIGHTER_DESCRIPTION">
+			<Text>Паляпшэнне вайскова-паветранага знішчальніка інфармацыйнай эры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_JET_BOMBER_DESCRIPTION">
+			<Text>Паляпшэнне вайскова-паветранага бамбавіка інфармацыйнай эры.</Text>
+		</Replace>
+
+		<!-- Unique Units-->
+
+		<Replace Language="en_US" Tag="LOC_UNIT_BARBARIAN_HORSEMAN_DESCRIPTION">
+			<Text>Прымітыўны коннік старажытнай эры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_BARBARIAN_HORSE_ARCHER_DESCRIPTION">
+			<Text>Прымітыўны конны лучнік старажытнай эры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_BARBARIAN_GALLEY_DESCRIPTION">
+			<Text>Прымітыўная марская адзінка бліжняга бою старажытнай эры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_EGYPTIAN_CHARIOT_ARCHER_DESCRIPTION">
+			<Text>Егіпецкая ўнікальная адзінка далёкага бою старажытнай эры, які замяшчае цяжкую калясніцу. Атрымлівае 4 ачка [ICON_Movement] руху, калі пачынае крок на роўнай мясцовасці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_GREEK_HOPLITE_DESCRIPTION">
+			<Text>Грэцкая ўнікальная адзінка старажытнай эры, які замяшчае дзідніка. Атрымлівае +10 да [ICON_Strength] баявой моцы, калі на суседнем гексе стаіць іншы гопліт.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_SCYTHIAN_HORSE_ARCHER_DESCRIPTION">
+			<Text>Скіфская ўнікальная адзінка далёкага бою антычнай эры, які валодае 4 ачкамі [ICON_Movement] руху і 1 [ICON_Range] радыусам атакі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_SUMERIAN_WAR_CART_DESCRIPTION">
+			<Text>Шумерская ўнікальная адзінка старажытнай эры. Наймоцная пачатковая адзінка. Не мае штрафаў супраць супрацьконных адзінак. Атрымлівае 4 ачка [ICON_Movement] руху, калі пачынае крок на роўнай мясцовасці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_ENGLISH_REDCOAT_DESCRIPTION">
+			<Text>Ангельская ўнікальная адзінка прамысловай эры, які даступны толькі для Вікторыі. Атрымлівае +10 да [ICON_Strength] баявой моцы, калі ваюе не на родным кантыненце. Не атрымлівае штраф за высадку на бераг.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_AMERICAN_ROUGH_RIDER_DESCRIPTION">
+			<Text>Амерыканская ўнікальная адзінка прамысловай эры, які даступны толькі для Тэадора Рузвельта. Атрымлівае [ICON_Culture] культуру за забойствы на родным кантыненце. Валодае ніжэйшым коштам забеспячэння. Ды таксама атрымлівае +10 да [ICON_Strength] баявой моцы, калі ваюе на ўзгорках.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_ROMAN_LEGION_DESCRIPTION">
+			<Text>Рымская ўнікальная адзінка бліжняга бою антычнай эры, які замяшчае мечнікаў. Можа будаваць рымскія форты.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_JAPANESE_SAMURAI_DESCRIPTION">
+			<Text>Японская ўнікальная адзінка бліжняга бою сярэднявечнай эры. Не атрымлівае штрафу да баявой сілы за атрыманыя пашкоджанні.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_NORWEGIAN_BERSERKER_DESCRIPTION">
+			<Text>Нарвежская ўнікальная адзінка бліжняга бою сярэднявечнай эры. Атрымлівае 4 ачка [ICON_Movement] руху, калі пачынае крок на варожай тэрыторыі. Атрымлівае +7 да [ICON_Strength] баявой моцы падчас атакі, і -7 да [ICON_Strength] баявой моцы падчас абароны.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_NORWEGIAN_LONGSHIP_DESCRIPTION">
+			<Text>Нарвежская ўнікальны марская адзінка старажытнай эры, які замяшчае галеру. Можа рабаваць варожыя ўзбярэжжы і захопліваць грамадзянскія адзінкі падчас рабавання. Атрымлівае 4 ачка [ICON_Movement] руху, калі знаходзіцца ва ўзбярэжных водах.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_CHINESE_CROUCHING_TIGER_DESCRIPTION">
+			<Text>Кітайская ўнікальная адзінка далёкага бою сярэднявечнай эры, які валодае 1 [ICON_Range] радыусам атакі і вялікай баявой моцай.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_SPANISH_CONQUISTADOR_DESCRIPTION">
+			<Text>Гішпанская ўнікальная адзінка эры адраджэння, які замяшчае мушкецёра. Атрымлівае +10 да [ICON_Strength] баявой моцы, калі на тым жа гексу знаходзіцца рэлігійная адзінка. Калі гэтая адзінка захоплівае горад ці знаходзіцца на гексе прылеглым да горада, які захапілі, то гэты горад аўтаматычна прыймае рэлігію, якая дамінуе ва ўладальніка канкістадора.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_RUSSIAN_COSSACK_DESCRIPTION">
+			<Text>Расейская ўнікальная адзінка прамысловай эры, які замяшчае кавалерыю. Мацнейшы за кавалерыю і атрымлівае +5 да [ICON_Strength] баявой моцы, калі ваюе на роднай тэрыторыі альбо на тэрыторыі, якая прылягае да роднай. Можа рухацца пасля атакі, калі засталіся ачкі руху.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_INDIAN_VARU_DESCRIPTION">
+			<Text>Індыйская ўнікальная цяжкая конніца антычнай эры. Прылеглыя варожыя адзінкі атрымліваюць -5 да [ICON_STRENGTH] баявой моцы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_KONGO_SHIELD_BEARER_DESCRIPTION">
+			<Text>Конгійская унікальная адзінка антычнай эры, які замяшчае мечніка. Атрымлівае +10 да [ICON_Strength] баявой моцы, калі абараняецца ад атак далёкага бою. Можа бачыць і рухацца праз лясы і джунглі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_ARABIAN_MAMLUK_DESCRIPTION">
+			<Text>Арабская ўнікальная адзінка сярэднявечнай эры, які замяшчае рыцара. Лячыцца пад канец кожнага кроку, нават пасля руху альбо атакі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_ENGLISH_SEADOG_DESCRIPTION">
+			<Text>Ангельская ўнікальная адзінка эры адраджэння, які замяшчае капера. Можа захопліваць варожыя караблі. Гэтую адзінку нельга ўбачыць датуль, пакуль да яе не наблізіцца іншпя адзінка.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_FRENCH_GARDE_IMPERIALE_DESCRIPTION">
+			<Text>Французская ўнікальная адзінка бліжняга бою прамысловай эры. Атрымлівае +10 да [ICON_Strength] баявой моцы, калі ваюе на родным кантыненце. Таксама атрымлівае ачкі [ICON_GreatGeneral] выдатнага генерала за забойствы адзінак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_GERMAN_UBOAT_DESCRIPTION">
+			<Text>Нямецкая ўнікальны марская адзінка сучаснай эры, які замяшчае субмарыну. Танней у вытворчасці, ды гэтаксама атрымлівае +1 да бачнасці і +10 да [ICON_Strength] баявой моцы, калі ваюе ў акіяне. Здольна бачыць іншыя схаваныя адзінкі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_AMERICAN_P51_DESCRIPTION">
+			<Text>Амерыканская ўнікальны вайскова-паветраная адзінка атамнай эры, які замяшчае знішчальнік. Атрымлівае +5 да атакі супраць знішчальнікаў, +2 да далёкасці лёту і +50% да атрыманага досведу.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_BRAZILIAN_MINAS_GERAES_DESCRIPTION">
+			<Text>Бразільская ўнікальная адзінка прамысловай эры, які замяшчае лінейны карабель. Мацнейшы за лінейны карабель. Адкрываецца пасля вывучэння нацыяналізму.</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

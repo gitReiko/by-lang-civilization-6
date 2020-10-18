@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- routes_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:52:24 AM -->
+<GameData>
+	<LocalizedText>
+
+		<Replace Language="en_US" Tag="LOC_ROUTE_ANCIENT_ROAD_DESCRIPTION">
+			<Text>Шлях можа пабудаваць [ICON_TradeRoute] гандляр альбо вайсковы інжынер. Павялічвае [ICON_Movement] хуткасць руху кожнай адзінкі, якая рухаецца па ім.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ROUTE_MEDIEVAL_ROAD_DESCRIPTION">
+			<Text>Шлях можа пабудаваць [ICON_TradeRoute] гандляр альбо вайсковы інжынер. Павялічвае [ICON_Movement] хуткасць руху кожнай адзінкі, якая рухаецца па ім.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ROUTE_INDUSTRIAL_ROAD_DESCRIPTION">
+			<Text>Шлях можа пабудаваць [ICON_TradeRoute] гандляр альбо вайсковы інжынер. Павялічвае [ICON_Movement] хуткасць руху кожнай адзінкі, якая рухаецца па ім.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ROUTE_MODERN_ROAD_DESCRIPTION">
+			<Text>Шлях можа пабудаваць [ICON_TradeRoute] гандляр альбо вайсковы інжынер. Павялічвае [ICON_Movement] хуткасць руху кожнай адзінкі, якая рухаецца па ім.</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

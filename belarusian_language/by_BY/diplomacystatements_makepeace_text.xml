@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- diplomacystatements_makepeace_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:44:05 AM -->
+<GameData>
+	<LocalizedText>
+
+		<!-- AI accepts from human -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_ANY_ANY">
+			<Text>Я згодзен на ўмовы мірнай дамовы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_MVEMBA_ANY">
+			<Text>Мір вам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Не жадаю, каб мяне запомнілі шалёнай заваёўніцай. Таму давайце адкінем нашы рознагалоссі прэч.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CLEOPATRA_ANY">
+			<Text>Павінна прызнацца, я аддаю перавагу мірнаму суіснаванню з вамі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_BARBAROSSA_ANY">
+			<Text>За сваё мужнае змаганне вы заслужылі мір. Мы рады прапанаваць яго вам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GANDHI_ANY">
+			<Text>Так, так. Гэта добрыя навіны.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GILGAMESH_ANY">
+			<Text>Я паважаю дужых супернікаў. Давайце памірымся.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GORGO_ANY">
+			<Text>Калі жыццё дарога вам, то пагаджайцесь на мірную дамову. Іначай вайна працягнецца.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_HARDRADA_ANY">
+			<Text>Цудоўна.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_HOJO_ANY">
+			<Text>Я ганаруся тым, што знайшоў сабе роўнага на поле бою. Прыйшоў час апусціць свой меч у ножны, таму што я не жадаю забіваць такога вялікага ваяра.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_PEDRO_ANY">
+			<Text>Я згодзен на ўмовы мірнага пагаднення.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_PERICLES_ANY">
+			<Text>Добрая прапанова, мы згодны на яе.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_PETER_GREAT_ANY">
+			<Text>Мяне болей цікавіць жыццё, чым смерць. Няхай паміж намі будзе мір.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_PHILIP_II_ANY">
+			<Text>Мір вам і вашай імперыі. Мы стаміліся ад вайны.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_QIN_ANY">
+			<Text>Вы ўразілі нас. Няхай паміж намі будзе мір.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SALADIN_ANY">
+			<Text>Дзякуючы гэтай бясконцай вайне зараз мы ведаем, што такое мудрасць і мір.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_T_ROOSEVELT_ANY">
+			<Text>Абарона правоў і зацікаўленасцяў была абавязкам нашай нацыі. Дзела зроблена. Надалей давайце жыць у міры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_TOMYRIS_ANY">
+			<Text>Я згодна з ўмовамі мірнай дамовы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_TRAJAN_ANY">
+			<Text>Так, давайце заключым перамір'е. Гэта вайна нікуды ад нас не дзенецца.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_VICTORIA_ANY">
+			<Text>Ад імя Злучанага Каралеўства Вялікабрытаніі і Ірландыі я зацвярджаю гэтую мірную дамову паміж нашымі народамі.</Text>
+		</Replace>
+
+		<!-- AI refuses human -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_ANY_ANY">
+			<Text>Паміж намі не можа быць міру.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_MVEMBA_ANY">
+			<Text>Не магу адказаць «так».</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Бясспрычнае «не».</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CLEOPATRA_ANY">
+			<Text>Не! Я не жадаю мірыцца!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_BARBAROSSA_ANY">
+			<Text>Пакуль я жывы, гэтага ніколі не адбудзецца.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GANDHI_ANY">
+			<Text>Прабачце, але «не».</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GILGAMESH_ANY">
+			<Text>Гільгамеш адмаўляе вам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GORGO_ANY">
+			<Text>Я падумаю аб гэтым пазней.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_HARDRADA_ANY">
+			<Text>Не. Я не магу пагадзіцца.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_HOJO_ANY">
+			<Text>Пакуль я жывы, міра не будзе.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_PEDRO_ANY">
+			<Text>Паміж намі не можа быць міру.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_PERICLES_ANY">
+			<Text>Афіны адмаўляюць вам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_PETER_GREAT_ANY">
+			<Text>Не, дзеля ўсёй Расеі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_PHILIP_II_ANY">
+			<Text>Не, дзеля Бога.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_QIN_ANY">
+			<Text>Мы будзем ігнараваць вашыя запыты.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SALADIN_ANY">
+			<Text>Вы павінны прапанаваць нам лепшыя ўмовы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_T_ROOSEVELT_ANY">
+			<Text>Вы не можаце быць сур'ёзным!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_TOMYRIS_ANY">
+			<Text>Паміж намі не можа быць міру.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_TRAJAN_ANY">
+			<Text>Не, дзеля ўсёй імперыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_VICTORIA_ANY">
+			<Text>Самае рашучае «не».</Text>
+		</Replace>
+
+		<!-- AI requests from human -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_ANY_ANY">
+			<Text>Мір? Добра.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Няхай гэта вайна скончыцца. Лепей давайце гуляць у святым святле міру.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Прашу дзеля блізкіх нам людзей, давайце памірымся.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Мір нашмат цікавей вайны, вы згодны са мной?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Вы добра баранілі свой народ. Зараз я дарую вам мір, зразумела, калі вы згодны.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Прынцып вока за вока аслепіць гэты свет. Замест таго, каб варагаваць, давайце лепей памірымся.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Ні ў глыбінях падземнага свету, ні на гары Эо, ні ў якім іншым месцы я не ваяваў з такім жа моцным супернікам, як вы. Давайце памірымся.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Віншую вас, вы заслужылі перадышку. Мір?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Мы абодва нарабавалі добрую здабычу, таму я дарую вам мір.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Нам болей няма за што змагацца. Лепей давайце абдумаем нашыя наступныя дзеянні.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Прыйшоў час памірыцца. Вы згодны са мной?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Дэмакратыя прагаласавала за мір. Спынім гэтую вайну!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Я знайду падставы, каб спыніць гэтую вайну, калі вы гатовы весці перамовы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Да надыдзе паміж намі Боскі мір.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_QIN_ANY">
+			<Text>Прыйшоў час памірыцца. Давайце закончым гэтую вайну.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Да надыдзе паміж намі і вамі мір. Вы дапаможаце мне скончыць гэтую вайну?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Я абараніў нашы права і зацікаўленасці. Дзела зроблена. А зараз давайце жыць у міры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Прыйшоў час мірыцца. Вы згодны?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Вайна... жудасная вайна! Лепей давайце заключым «рымскі мір». Які ваш адказ?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Мы не можам не думаць пра тое, што гэта пагадненне прывядзе да ўзаемнай карысці.</Text>
+		</Replace>
+
+		<!-- Human accepts, AI responds -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_MAKE_PEACE_FROM_AI_ANY_ANY">
+			<Text>Нарэшце гэтай вайне прыйшоў канец.</Text>
+		</Replace>
+
+		<!-- Human rejects, AI responds -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_MAKE_PEACE_FROM_AI_ANY_ANY">
+			<Text>На жаль вы вырашылі працягнуць вайну.</Text>
+		</Replace>
+
+		<!-- Choices -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_CHOICE_NEGATIVE">
+			<Text>Адхіліць мірную дамову</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_CHOICE_POSITIVE">
+			<Text>Прыняць мірную дамову</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

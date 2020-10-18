@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- civics_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 7/5/2018 7:33:18 PM -->
+<GameData>
+
+	<LocalizedText>
+
+		<!-- Civics-->
+		<Replace Language="en_US" Tag="LOC_CIVIC_FOREIGN_TRADE_DESCRIPTION">
+			<Text>Дазваляе ствараць [ICON_TradeRoute] гандлёвыя шляхі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_MILITARY_TRADITION_DESCRIPTION">
+			<Text>Дае баявыя бонусы падтрымкі і атакі з фланга ўсім адзінкам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_EARLY_EMPIRE_DESCRIPTION">
+			<Text>Адкрывае здольнасць прытрымлівацца цывілізацыйных межаў і дазваляе адкрываць межы іншым цывілізацыям.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_MYSTICISM_DESCRIPTION">
+			<Text>Узнагароджвае 1 [ICON_Envoy] амбасадарам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_MILITARY_TRAINING_DESCRIPTION">
+			<Text>Узнагароджвае 1 [ICON_Envoy] амбасадарам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_THEOLOGY_DESCRIPTION">
+			<Text>Узнагароджвае 1 [ICON_Envoy] амбасадарам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_NAVAL_TRADITION_DESCRIPTION">
+			<Text>Узнагароджвае 1 [ICON_Envoy] амбасадарам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_FEUDALISM_DESCRIPTION">
+			<Text>Паляпшэнні мясцовасці «Хаты» даюць +1 [ICON_Food] ежу за кожную суседнюю хату пры ўмове таго, што 3 хаты злучаны паміж сабой.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_CIVIL_SERVICE_DESCRIPTION">
+			<Text>Дазваляе складаць хаўрусы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_MERCENARIES_DESCRIPTION">
+			<Text>Узнагароджвае 1 [ICON_Envoy] амбасадарам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_EXPLORATION_DESCRIPTION">
+			<Text>Паляпшэнні мясцовасці «Пашы» даюць +1 [ICON_Food] ежу.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_DIPLOMATIC_SERVICE_DESCRIPTION">
+			<Text>Дазваляе ствараць шпіёнаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_MERCANTILISM_DESCRIPTION">
+			<Text>Паляпшэнні мясцовасці «Паляўнічыя лагеры» даюць +1 [ICON_Production] вытворчасць +1 [ICON_Food] ежу.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_THE_ENLIGHTENMENT_DESCRIPTION">
+			<Text>Напалову зменшвае рэлігійны [ICON_Tourism] турызм супраць вашай цывілізацыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_COLONIALISM_DESCRIPTION">
+			<Text>Узнагароджвае 2 [ICON_Envoy] амбасадарамі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_CIVIL_ENGINEERING_DESCRIPTION">
+			<Text>Дазваляе будаваць хаты на сенажатных і раўнінных узгорках.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_NATIONALISM_DESCRIPTION">
+			<Text>Дае здольнасць стварэння дадатковага шпіёна. Дазваляе ствараць флаты альбо карпусы з дзвюх аднолькавых адзінак. Адкрывае новы Казус Бэлі «Каланіяльную вайну», які можна выкарыстоўваць для апраўдання вайны.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_OPERA_BALLET_DESCRIPTION">
+			<Text>Узнагароджвае 2 [ICON_Envoy] амбасадарамі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_NATURAL_HISTORY_DESCRIPTION">
+			<Text>Раскрывае [ICON_RESOURCE_ANTIQUITY_SITE] старажытныя помнікі. Дазваляе ствараць археолагаў. Узнагароджвае 2 [ICON_Envoy] амбасадарамі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_SCORCHED_EARTH_DESCRIPTION">
+			<Text>Узнагароджвае 2 [ICON_Envoy] амбасадарамі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_CONSERVATION_DESCRIPTION">
+			<Text>Узнагароджвае 3 [ICON_Envoy] амбасадарамі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_CONSERVATION_DESCRIPTION">
+			<Text>Дазваляе будаваць нацыянальныя запаведнікі і набываць натуралістаў за [ICON_Faith] веру. Дазваляе будаўнікам садзіць лясы (паўторная высадка). Лясы, якія ніколі не высякаліся (старажытныя) даюць +1 прэстыж. Дае [ICON_TOURISM] турызм ад мура.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_MOBILIZATION_DESCRIPTION">
+			<Text>Дазваляе складаць абарончыя дамовы. Дазваляе ствараць армады альбо войскі з трох аднолькавых адзінак. Адкрывае новы Казус Бэлі «Вайну для пашырэння тэрыторыі», які можна выкарыстоўваць для апраўдання вайны.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_IDEOLOGY_DESCRIPTION">
+			<Text>Дае здольнасць стварэння дадатковага шпіёна.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_COLD_WAR_DESCRIPTION">
+			<Text>Дае здольнасць стварэння дадатковага шпіёна.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_CULTURAL_HERITAGE_DESCRIPTION">
+			<Text>Раскрывае [ICON_RESOURCE_SHIPWRECK] абломкі карабля, і дазваляе археолагам дабываць [ICON_GreatWork_Artifact] артэфакты з іх. Узнагароджвае 3 [ICON_Envoy] амбасадарамі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_RAPID_DEPLOYMENT_DESCRIPTION">
+			<Text>Дазваляе перамяшчаць наземныя адзінкі паміж лётнішчамі, у якіх ёсць аэрапорт.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_GLOBALIZATION_DESCRIPTION">
+			<Text>Плантацыі даюць +2  [ICON_Gold] золата.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_FUTURE_CIVIC_DESCRIPTION">
+			<Text>Можна даследаваць шматкратна. Павялічвае ачкі перамогі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_ENVOY_AWARDED_TOOLTIP">
+			<Text>Узнагароджвае {1_NumOfEnvoys} [ICON_Envoy] {1_NumOfEnvoys : plural 1?амбасадарам; other?амбасадарамі;}.</Text>
+		</Replace>
+
+		<!-- Civic Boosts-->
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CRAFTSMANSHIP">
+			<Text>Пабудуйце 3 паляпшэння мясцовасці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_FOREIGN_TRADE">
+			<Text>Адшукайце іншы кантынент.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MILITARY_TRADITION">
+			<Text>Знішчыце лагер варвараў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_STATE_WORKFORCE">
+			<Text>Пабудуйце якое-небудзь мястэчка.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_EARLY_EMPIRE">
+			<Text>Павялічце насельніцтва Вашай цывілізацыі да 6.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MYSTICISM">
+			<Text>Заснуйце пантэон.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_GAMES_RECREATION">
+			<Text>Даследуйце тэхналогію «Будаўніцтва».</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_POLITICAL_PHILOSOPHY">
+			<Text>Спаткайце 3 гарада-дзяржавы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_DRAMA_POETRY">
+			<Text>Пабудуйце цуда свету.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MILITARY_TRAINING">
+			<Text>Пабудуйце вайсковае мястэчка.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_DEFENSIVE_TACTICS">
+			<Text>Станьце цэллю абвяшчэння вайны.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_RECORDED_HISTORY">
+			<Text>Пабудуйце 2 навуковыя мястэчкі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_THEOLOGY">
+			<Text>Заснуйце рэлігію.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_NAVAL_TRADITION">
+			<Text>Знішчыце варожую адзінку квадрырэмай.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_FEUDALISM">
+			<Text>Пабудуйце 6 хат.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CIVIL_SERVICE">
+			<Text>Павялічце насельніцтва Вашага горада да 10.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MERCENARIES">
+			<Text>Утрымлівайце 8 вайсковых адзінак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MEDIEVAL_FAIRES">
+			<Text>Утрымлівайце 4 гандлёвыя шляхі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_GUILDS">
+			<Text>Пабудуйце 2 кірмашы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_DIVINE_RIGHT">
+			<Text>Пабудуйце 2 храма.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_EXPLORATION">
+			<Text>Пабудуйце 2 каравэлы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_HUMANISM">
+			<Text>Атрымайце выдатнага мастака.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_DIPLOMATIC_SERVICE">
+			<Text>Складзіце хаўрус з іншай цывілізацыяй.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_REFORMED_CHURCH">
+			<Text>Звярніце 6 гарадоў у Вашу рэлігію.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MERCANTILISM">
+			<Text>Атрымайце выдатнага гандляра.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_THE_ENLIGHTENMENT">
+			<Text>Атрымайце 3 выдатных дзеячаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CIVIL_ENGINEERING">
+			<Text>Пабудуйце 7 розных мястэчак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_NATIONALISM">
+			<Text>Пачніце вайну, выкарыстоўваючы Казус Бэлі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_OPERA_BALLET">
+			<Text>Пабудуйце мастацкі музей.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_COLONIALISM">
+			<Text>Даследуйце тэхналогію «Астраномія».</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_NATURAL_HISTORY">
+			<Text>Пабудуйце археалагічны музей.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_URBANIZATION">
+			<Text>Павялічце насельніцтва Вашага горада да 15.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SCORCHED_EARTH">
+			<Text>Пабудуйце 2 палявыя гарматы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CONSERVATION">
+			<Text>Пабудуйце спальны прыгарад на гексе з захапляльным прэстыжам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MOBILIZATION">
+			<Text>Утрымлівайце 3 корпусы ў Вашым войску.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MASS_MEDIA">
+			<Text>Даследуйце тэхналогію «Радыё».</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CAPITALISM">
+			<Text>Пабудуйце 3 фондавыя біржы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_NUCLEAR_PROGRAM">
+			<Text>Пабудуйце лабараторыю.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SUFFRAGE">
+			<Text>Пабудуйце 4 каналізацыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_TOTALITARIANISM">
+			<Text>Пабудуйце 3 вайсковыя вучэльні.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CLASS_STRUGGLE">
+			<Text>Пабудуйце 3 фабрыкі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_COLD_WAR">
+			<Text>Даследуйце тэхналогію «Ядзернае дзяленне».</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_PROFESSIONAL_SPORTS">
+			<Text>Пабудуйце 4 забаўляльныя цэнтры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CULTURAL_HERITAGE">
+			<Text>Атрымайце тэматычны бонус у музеі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_RAPID_DEPLOYMENT">
+			<Text>Пабудуйце лётнішча або узлётную паласу на чужым кантыненце.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SPACE_RACE">
+			<Text>Пабудуйце касмапорт.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_GLOBALIZATION">
+			<Text>Пабудуйце 3 аэрапорта.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SOCIAL_MEDIA">
+			<Text>Даследуйце тэхналогію «Тэлекамунікацыі».</Text>
+		</Replace
+
+		<!-- Civic Boosts Long Descriptions-->
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CRAFTSMANSHIP">
+			<Text>Асваенне зямель вакол нашага першага горада, дазволіла наладзіць вытворчасць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_FOREIGN_TRADE">
+			<Text>Адкрыццё новага кантынента пашырыла нашы гандлёвыя магчымасці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TRADITION">
+			<Text>Вашыя вайскоўцы спадзяюцца, што перамога над варварскім лагерам стане пачаткам доўгага шляху вайсковых поспехаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_STATE_WORKFORCE">
+			<Text>Пабудова нашага першага мястэчка даказала каштоўнасць прымусовых грамадскіх прац над дзяржаўнымі праектамі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_EARLY_EMPIRE">
+			<Text>Ўзрослае насельніцтва вашай цывілізацыі марыць пабудаваць імперыю.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MYSTICISM">
+			<Text>Пакланенне пантэону багоў выклікала дадатковыя пытанні аб духоўных сілах нашага света.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_GAMES_RECREATION">
+			<Text>З новымі будаўнічымі навыкамі вы з лёгкасцю зможаце стварыць месца, у якім можна будзе гуляць і забаўляцца.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_POLITICAL_PHILOSOPHY">
+			<Text>Спатканне іншых дзяржаў праясніла вашыя думкі пра тое, як трэба кіраваць людзьмі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_DRAMA_POETRY">
+			<Text>Вялікасць завершанага цуда свету натхніла вашых людзей. Яны хочуць пісьмова ўшанаваць дадзеную падзею.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TRAINING">
+			<Text>Дзякуючы вайсковаму мястэчку мы можам замацаваць вайсковае трэнераванне.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_DEFENSIVE_TACTICS">
+			<Text>Пагроза нападу ворагаў прымусіла ваш народ прыдумаць новыя спосабы абароны.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_RECORDED_HISTORY">
+			<Text>Ідэя захоўваць шматлікія скруткі ў кніжных вашых навуковых мястэчак дазволіла запісваць гісторыю імперыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_THEOLOGY">
+			<Text>Фармаванне рэлігіі вашым выдатным прарокам натхняе на глыбейшыя разважанні аб прыродзе бога.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_NAVAL_TRADITION">
+			<Text>Перамога на моры натхніла ваш народ стаць магутнай марской дзяржавай.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_FEUDALISM">
+			<Text>Сістэма васальных адносін дазволіла кіраваць хатнімі гаспадаркамі вашай імперыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CIVIL_SERVICE">
+			<Text>Вашаму велізарнаму гораду хутка спатрэбіцца войска бюракратаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MERCENARIES">
+			<Text>Утрыманне шматлікага сталага войска наводзіць вас на думку аб наймітах, як аб прыладзе далейшага пашырэння.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MEDIEVAL_FAIRES">
+			<Text>Павелічэнне гандлёвага струменя праз вашыя землі ў хуткім часе прыцягне вялікія кірмашы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_GUILDS">
+			<Text>Поспех вашых гандлёвых мястэчак прывёў да ўзросту гандлёвых гільдый.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_DIVINE_RIGHT">
+			<Text>Ваш набожны народ цвёрда верыць, што ваша кіраванне бласлаўлёнае богам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_EXPLORATION">
+			<Text>Урокі вывучаныя дзякуючы даследванням каравэл адкрылі новы спосаб кіравання народам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_HUMANISM">
+			<Text>Новы выдатны мастак натхніў вашых людзей да індывідуальнага развіцця.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_DIPLOMATIC_SERVICE">
+			<Text>Праца праведзеная падчас стварэння хаўрусу сфармавала вашых першых дыпламатаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_REFORMED_CHURCH">
+			<Text>Узрост вашай рэлігіі суправаджаўся небяспекай расколу. Хутка адбудзецца рэфармаванне разбэшчвальных парадкаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MERCANTILISM">
+			<Text>Ваш новы выдатны гандляр дзеліцца ідэямі пра тое, як мы можам атрымліваць перавагу над канкурэнтамі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_THE_ENLIGHTENMENT">
+			<Text>Думкі выдатных дзеячаў натхнілі ваш народ на інтэлектуальныя дыскусіі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_COLONIALISM">
+			<Text>Новыя веды аб небасхіле палепшылі навігацыю флота, які стварае грунт для сусветнай імперыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CIVIL_ENGINEERING">
+			<Text>Стварэнне вялікага ліку разнастайных мястэчак палепшыла веды інжынераў аб гарадскім будаванне.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_NATIONALISM">
+			<Text>Народ верыць у справядлівасць гэтай вайны. Гэта стала нашым нацыянальным гонарам!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_OPERA_BALLET">
+			<Text>Адкрыццё новага музея прыцягнула ўвагу народа да мастацтва. Магчыма опера і танцы наступныя?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_NATURAL_HISTORY">
+			<Text>Музей гатоў захоўваць вашыя адкрыцці. Прыйшоў час адшукаць іх.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_URBANIZATION">
+			<Text>Ваш мегаполіс перапоўнены. Пара будаваць прыгарады.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SCORCHED_EARTH">
+			<Text>Сучасная вайна вельмі жорсткая. Ваша вайсковая дактрына пачынае адлюстроўваць некаторыя з яе прынцыпаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CONSERVATION">
+			<Text>Жыхары захапляльнага прыгарада патрабуюць захаваць прыроднае багацце ўсяго свету.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MASS_MEDIA">
+			<Text>З'яўленне радыё стане пачаткам новай эры камунікавання.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MOBILIZATION">
+			<Text>Ваша войска лепей арганізавана. Прыйшоў час ужыць яе на сусветнай арэне.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CAPITALISM">
+			<Text>Узнікненне фондавых біржаў у некалькіх гарадах прывяло да багацця інвестыцыйнага капіталу і росквіту эканомікі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_NUCLEAR_PROGRAM">
+			<Text>Стварыўшы даследніцкія лабараторыі вы пралажылі першыя крокі ў развіцці вашай ядзернай праграмы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SUFFRAGE">
+			<Text>Жаночае насельніцтва вашай імперыі пачало патрабаваць паляпшэнне санітарных умоў. Перамога ў гэтай бітве прывядзе іх да думкі аб раўнапраўе.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_TOTALITARIANISM">
+			<Text>Дысцыпліна навязаная вайсковымі вучэльнямі стала другой натурай вашых гараджанаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CLASS_STRUGGLE">
+			<Text>Фабрычныя працаўнікі патрабуюць паляпшэння працоўных умоў. Прыйшло час аб'яднаецца працоўным усяго свету!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_COLD_WAR">
+			<Text>З'яўленне ядзернай зброі, без сумневу, зменіць характар узброеных канфліктаў ва ўсім свеце.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_PROFESSIONAL_SPORTS">
+			<Text>4 гарады з забаўляльнымі цэнтрамі хочуць стварыць новую прафесійную спартовую лігу.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CULTURAL_HERITAGE">
+			<Text>Дзякуючы цудоўным музеям ваш народ зможа ўбачыць культурную спадчыну.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_RAPID_DEPLOYMENT">
+			<Text>Нашы паветраныя базы размешчаныя па ўсім свеце дазволяць вайскоўцаў імгненна развярнуцца ў усякай кропцы свету.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SPACE_RACE">
+			<Text>Адкрыццё новага касмапорта натхніць ваш народ даследаваць космас.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_GLOBALIZATION">
+			<Text>Шматлікія аэрапорты зрабілі наш свет нашмат менш.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SOCIAL_MEDIA">
+			<Text>З'яўленне новых камунікацыйных тэхналогій дазволіла людзям дынамічна камунікаваць.</Text>
+		</Replace>
+
+		<!-- Governments -->
+		<Replace Language="en_US" Tag="LOC_GOVERNMENT_OF">
+			<Text>Урад {1_civ[2]}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CHANGE_GOVERNMENT">
+			<Text>Памяняць урад</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MY_GOVERNMENT">
+			<Text>Мой урад</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_policIES">
+			<Text>Палітыкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVERNMENTS">
+			<Text>Урады</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CULTURE_PER_TURN">
+			<Text>Культуры ў крок: +{1_Culture}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MILITARY">
+			<Text>Вайсковыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ECONOMIC">
+			<Text>Эканамічныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMATIC">
+			<Text>Дыпламатычныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WILDCARD">
+			<Text>Шалёныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_EMPTY_POLICY_SLOT">
+			<Text>Не абрана {1_policyType} палітыка</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NO_AVAIL_policIES">
+			<Text>Няма даступных палітык</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_VIEW_LOCKED_policIES">
+			<Text>Прагледзець заблакаваныя палітыкі</Text>
+		</Replace>
+
+		<!-- Government Effects-->
+		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_CHIEFDOM">
+			<Text>Няма бонусаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_AUTOCRACY">
+			<Text>Сталіца атрымлівае +1 прыбытак усіх тыпаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_OLIGARCHY">
+			<Text>Усе наземныя адзінкі блізкага бою атрымліваюць +4 [ICON_Strength] моцы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_CLASSREP">
+			<Text>Усе гарады з мястэчкам атрымліваюць +1 [ICON_Amenities] дабрабыт.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_MONARCHY">
+			<Text>+50% да [ICON_Production] вытворчасці абарончых будынкаў. +1 [ICON_Housing] жытло за кожны ўзровень мура.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_THEOCRACY">
+			<Text>Магчымасць набыцця наземных адзінак за веру. Усе адзінкі атрымліваюць +5 [ICON_Religion] рэлігійнай моцы ў тэалагічных бітвах.  </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_MERCHREP">
+			<Text>+2 [ICON_TradeRoute] гандлёвыя шляхі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_FASCISM">
+			<Text>Усе вайсковыя адзінкі атрымліваюць +5 [ICON_Strength] моцы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_COMMUNISM">
+			<Text>Наземныя адзінкі атрымліваюць +4 [ICON_Strength] моцы ў абароне.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_DEMOCRACY">
+			<Text>Набыццё выдатных дзеячаў за золата стаіць на 50% танней.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CHIEFDOM">
+			<Text>Няма бонусаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_AUTOCRACY">
+			<Text>Паскораная вытворчасць цудаў свету.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_OLIGARCHY">
+			<Text>Дадатковы досвед для вайскавых адзінак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CLASSREP">
+			<Text>Дадтковыя ачкі выдатных дзеячаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MONARCHY">
+			<Text>Дадатковы ўплыў на гарады-дзяржавы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_THEOCRACY">
+			<Text>Таннейшыя набыццё за веру.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MERCHREP">
+			<Text>Таннейшыя набыццё за золата.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_FASCISM">
+			<Text>Паскораная падрыхтоўка адзінак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_COMMUNISM">
+			<Text>Дадатковая вытворчасць усіх тыпаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_DEMOCRACY">
+			<Text>Дадатковы прыбытак ад гарадскіх праектаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_CHIEFDOM">
+			<Text>Няма бонусаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_AUTOCRACY">
+			<Text>Дадатковая [ICON_Production] вытворчасць цудаў свету (10%, плюс 1% кажныя 20 крокаў на звычайнай хуткасці).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_OLIGARCHY">
+			<Text>Дадатковы досвед для вайсковых адзінак (20%, плюс 1% кажныя 20 крокаў на звычайнай хуткасці).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_CLASSREP">
+			<Text>Дадатковыя ачкі [ICON_GreatPerson] выдатных дзеячаў (15%, плюс 1% кажныя 15 крокаў на звычайнай хуткасці).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_MONARCHY">
+			<Text>Дадатковыя ачкі [ICON_Envoy] амбасадараў (20%, плюс 1% кажныя 10 крокаў на звычайнай хуткасці).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_THEOCRACY">
+			<Text>Таннейшае набыццё за [ICON_Faith] веру (15%, плюс 1% кажныя 15 крокаў на звычайнай хуткасці).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_MERCHREP">
+			<Text>Таннейшае набыццё за [ICON_Gold] золата (15%, плюс 1% кажныя 15 крокаў на звычайнай хуткасці).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_FASCISM">
+			<Text>Дадатковая [ICON_Production] вытворчасць вайсковых адзінак (20%, плюс 1% кажныя 10 крокаў на звычайнай хуткасці).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_COMMUNISM">
+			<Text>Дадатковая [ICON_Production] вытворчасць усіх тыпаў (10%, плюс 1% кажныя 20 крокаў на звычайнай хуткасці).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_DEMOCRACY">
+			<Text>Дадатковы прыбытак ад гарадскіх праектаў (30%, плюс 1% кажныя 10 крокаў на звычайнай хуткасці).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_POLICIES_NO_REMAINING_PLACED">
+			<Text>Для гэтага ўрада болей нельга дадаваць карты {1_policyName[2]} тыпу.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_POLICIES_NO_TOTAL_PLACED">
+			<Text>Ва ўрадзе дадзенага тыпу нельга ўсталяваць карту {1_policyName[2]} тыпу.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_POLICIES_REMAINING_PLACED">
+			<Text>Трэба дадаць яшчэ {1_Num} {1_Num : plural 1?карту; plural 2?карты; plural 3?карты; plural 4?карты; other?карт;} у {2_policyName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_POLICIES_TOTAL_PLACED">
+			<Text>Трэба размясціць {1_Num} {1_Num : plural 1?карту; plural 2?карты; plural 3?карты; plural 4?карты; other?карт;} у {2_policyName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_INFLUENCE_POINTS_TOWARDS_ENVOYS">
+			<Text>+{1_InfluencePointRate} {1_InfluencePointRate : plural 1?ачко; plural 2?ачка; plural 3?ачка; plural 4?ачка; other?ачкоў;} уплыву кожны [ICON_Turn] крок. Трэба сабраць {2_InfluencePointThreshold} {2_InfluencePointThreshold : plural 1?ачко; plural 2?ачка; plural 3?ачка; plural 4?ачка; other?ачкоў;}, уплыву для таго, каб атрымаць {3_EnvoysPerThreshold} [ICON_Envoy] {3_EnvoysPerThreshold : plural 1?амбасадара; other?амбасадараў;}.</Text>
+		</Replace>
+
+		<!-- Policy Descriptions-->
+		<Replace Language="en_US" Tag="LOC_POLICY_PLACEHOLDER_DESC">
+			<Text>Месца для карты.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_AESTHETICS_DESCRIPTION">
+			<Text>Бонус за суседства з тэатральным скверам павялічаны на 100%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_AGOGE_DESCRIPTION">
+			<Text>+50% да [ICON_Production] вытворчасці супрацьконных адзінак ды адзінак блізкага і далёкага бою старажытнасці і антычнасці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_ARSENAL_OF_DEMOCRACY_DESCRIPTION">
+			<Text>[ICON_TradeRoute] гандлёвыя шляхі накіраваныя да хаўруснікаў даюць +2 [ICON_Food] ежы і +2 [ICON_Production] вытворчасці для абодвух гарадоў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_BASTIONS_DESCRIPTION">
+			<Text>+6 да [ICON_Strength] моцы горада ў абароне. +5 да [ICON_Ranged] моцы гарадской дыстанцыйнай атакі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_CARAVANSARIES_DESCRIPTION">
+			<Text>+2 [ICON_Gold] золата ад усіх [ICON_TradeRoute] гандлёвых шляхоў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_CHARISMATIC_LEADER_DESCRIPTION">
+			<Text>+2 ачкі ўплыву на гарады-дзяржавы ў крок (паскараюць стварэнне [ICON_Envoy] амбасадараў).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_CHIVALRY_DESCRIPTION">
+			<Text>+50% да [ICON_Production] вытворчасці цяжкай і лёгкай конніцы сярэднявечча, адраджэння і прамысловасці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_COLLECTIVE_ACTIVISM_DESCRIPTION">
+			<Text>+10% [ICON_Culture] культуры за кожны васальны горад-дзяржаву.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_COLLECTIVIZATION_DESCRIPTION">
+			<Text>+4 [ICON_Food] ежы ад унутраных [ICON_TradeRoute] гандлёвых шляхоў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_COLONIAL_OFFICES_DESCRIPTION">
+			<Text>+15% да ўзросту гарадоў на кантынентах, на якіх няма вашай сапраўднай [ICON_Capital] сталіцы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_COLONIAL_TAXES_DESCRIPTION">
+			<Text>+25% [ICON_Gold] золата ў гарадах, якія знаходзяцца на кантыненце, на якім няма вашай сапраўднай [ICON_Capital] сталіцы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_COLONIZATION_DESCRIPTION">
+			<Text>+50% да [ICON_Production] вытворчасці пасяленцаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_CONSCRIPTION_DESCRIPTION">
+			<Text>Утрыманне кожнай адзінкі зніжана на 1 [ICON_Gold] золата ў крок.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_CONTAINMENT_DESCRIPTION">
+			<Text>Кожны адпраўлены ў горад-дзяржаву [ICON_Envoy] амбасадар лічыцца за двух, калі яго сюзерэн мае ўрад, які адрозніваецца ад вашага.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_CORVEE_DESCRIPTION">
+			<Text>+15% да [ICON_Production] вытворчасці цудаў свету старажытнасці і антычнасці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_CRAFTSMEN_DESCRIPTION">
+			<Text>Бонус за суседства з прамысловым мястэчкам павялічаны на 100%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_CRYPTOGRAPHY_DESCRIPTION">
+			<Text>Узровень варожых шпіёнаў зменшаны на 2 у вашых валадарствах. Узровень вашых шпіёнаў у наступальных аперацыях павялічаны на 1.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_DEFENSE_OF_MOTHERLAND_DESCRIPTION">
+			<Text>Няма стомленасці ад вайны ў бітвах на роднай зямлі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_DIPLOMATIC_LEAGUE_DESCRIPTION">
+			<Text>Першы [ICON_Envoy] амбасадар адпраўлены ў горад-дзяржаву лічыцца за двух [ICON_Envoy] амбасадараў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_DISCIPLINE_DESCRIPTION">
+			<Text>+5 да [ICON_Strength] моцы вайсковых адзінак супраць варвараў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_ECOMMERCE_DESCRIPTION">
+			<Text>+5 [ICON_Production] вытворчасці і +10 [ICON_Gold] золата ад міжнародных [ICON_TradeRoute] гандлёвых шляхоў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_ECONOMIC_UNION_DESCRIPTION">
+			<Text>Бонус за суседства з гандлёвым мястэчкам павялічаны на 100%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_EXPROPRIATION_DESCRIPTION">
+			<Text>+50% да [ICON_Production] вытворчасці пасяленцаў. Кошт набыцця зямлі гарадамі зніжаны на 20%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_FEUDAL_CONTRACT_DESCRIPTION">
+			<Text>+50% да [ICON_Production] вытворчасці супрацьконных адзінак ды адзінак блізкага і далёкага бою сярэднявечча і адраджэння.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_FINEST_HOUR_DESCRIPTION">
+			<Text>+50% да [ICON_Production] вытворчасці паветраных адзінак сучаснай і атамнай эр.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_FIVE_YEAR_PLAN_DESCRIPTION">
+			<Text>Бонус за суседства з навуковым і прамысловым мястэчкамі павялічаны на 100%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_FREE_MARKET_DESCRIPTION">
+			<Text>Прыбытак [ICON_Gold] золата ад будынкаў гандлёвага мястэчка павышаны на 100%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_FRESCOES_DESCRIPTION">
+			<Text>+2 ачкі [ICON_GreatArtist] выдатнага мастака ў крок.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_GOD_KING_DESCRIPTION">
+			<Text>+1 [ICON_Faith] вера і +1 [ICON_Gold] золата ў [ICON_Capital] сталіцы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_GOTHIC_ARCHITECTURE_DESCRIPTION">
+			<Text>+15% да [ICON_Production] вытворчасці цудаў свету сярэднявечча і адраджэння.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_GRANDE_ARMEE_DESCRIPTION">
+			<Text>+50% да [ICON_Production] вытворчасці супрацьконных адзінак ды адзінак блізкага і далёкага бою прамысловасці і сучаснасці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_GRAND_OPERA_DESCRIPTION">
+			<Text>Прыбытак [ICON_Culture] культуры ад будынкаў тэатральнага скверу павышаны на 100%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_GUNBOAT_DIPLOMACY_DESCRIPTION">
+			<Text>Адчыненыя межы з усімі гарадамі-дзяржавамі. +4 ачкі ўплыву на гарады-дзяржавы ў крок (паскараюць стварэнне [ICON_Envoy] амбасадараў).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_HERITAGE_TOURISM_DESCRIPTION">
+			<Text>+100% да [ICON_Tourism] турызму ад [ICON_GreatWork_Landscape] вялікіх мастацкіх вырабаў і [ICON_GreatWork_Artifact] артэфактаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_ILKUM_DESCRIPTION">
+			<Text>+30% да [ICON_Production] вытворчасці будаўнікоў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_INSPIRATION_DESCRIPTION">
+			<Text>+2 ачкі [ICON_GreatScientist] выдатнага навукоўца ў крок.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_INSULAE_DESCRIPTION">
+			<Text>+1 [ICON_Housing] жытло ўва ўсіх гарадах, у якіх, прынамсі, ёсць 2 мястэчкі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_INTEGRATED_SPACE_CELL_DESCRIPTION">
+			<Text>+15% да [ICON_Production] вытворчасці праектаў касмічнай гонкі, калі  ў горадзе ёсць вайсковая вучэльня альбо марскі порт.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_INTERNATIONAL_SPACE_AGENCY_DESCRIPTION">
+			<Text>+10% [ICON_Science] навукі за кожны васальны горад-дзяржаву.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_INTERNATIONAL_WATERS_DESCRIPTION">
+			<Text>+100% да [ICON_Production] вытворчасці марскіх адзінак сучаснай, атамнай і інфармацыйнай эр, за выняткам авіяносцаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_INVENTION_DESCRIPTION">
+			<Text>+2 ачкі [ICON_GreatEngineer] выдатнага інжынера ў крок.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_LAISSEZ_FAIRE_DESCRIPTION">
+			<Text>+4 ачкі [ICON_GreatMerchant] выдатнага гандляра ў крок.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_LAND_SURVEYORS_DESCRIPTION">
+			<Text>Кошт набыцця зямлі гарадамі зніжаны на 20%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_LEVEE_EN_MASSE_DESCRIPTION">
+			<Text>Утрыманне кожнай адзінкі зніжана на 2 [ICON_Gold] золата ў крок.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_LIBERALISM_DESCRIPTION">
+			<Text>+1 [ICON_Amenities] дабрабыт ува ўсіх гарадах, у якіх, прынамсі, ёсць 2 мястэчкі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_LIGHTNING_WARFARE_DESCRIPTION">
+			<Text>+50% да [ICON_Production] вытворчасці цяжкай і лёгкай конніцы сучаснай, атамнай і інфармацыйнай эр.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_LIMES_DESCRIPTION">
+			<Text>+100% да [ICON_Production] вытворчасці абарончых будынкаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_LITERARY_TRADITION_DESCRIPTION">
+			<Text>+2 ачкі [ICON_GreatWriter] выдатнага пісьменніка ў крок.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_LOGISTICS_DESCRIPTION">
+			<Text>+1 ачко руху пры ўмове завяршэння кроку на дружалюбнай тэрыторыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_MACHIAVELLIANISM_DESCRIPTION">
+			<Text>+50% да [ICON_Production] вытворчасці шпіёнаў. Шпіёны выконваюць свае заданні на 25% хутчэй.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_MANEUVER_DESCRIPTION">
+			<Text>+50% да [ICON_Production] вытворчасці цяжкай і лёгкай конніцы старажытнасці і антычнасці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_MARITIME_INDUSTRIES_DESCRIPTION">
+			<Text>+100% да [ICON_Production] вытворчасці марскіх адзінак старажытнасці і антычнасці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_MARKET_ECONOMY_DESCRIPTION">
+			<Text>Вашыя міжнародныя [ICON_TradeRoute] гандлёвыя шляхі даюць +1 [ICON_Gold] золата, +2 [ICON_Culture] культуры і +2 [ICON_Science] навукі за кожны стратэгічны рэсурс і рэсурс асалоды, на якім пабудавана паляпшэнне мясцовасці, у мэтавым горадзе.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_MARTIAL_LAW_DESCRIPTION">
+			<Text>Назапашанне стомленасці ад вайны зніжана на 25%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_MEDINA_QUARTER_DESCRIPTION">
+			<Text>+2 [ICON_Housing] жытла ўва ўсіх гарадах, у якіх, прынамсі, ёсць 3 мястэчкі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_MERCHANT_CONFEDERATION_DESCRIPTION">
+			<Text>+1 [ICON_Gold] золата за кожнага [ICON_Envoy] амбасадара ў горадзе-дзяржаве.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_MERITOCRACY_DESCRIPTION">
+			<Text>Гарады атрымліваюць +1 [ICON_Culture] культуру за кожнае пабудаванае мястэчка.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_MILITARY_FIRST_DESCRIPTION">
+			<Text>+50% да [ICON_Production] вытворчасці супрацьконных адзінак ды адзінак блізкага і далёкага бою атамнай і інфармацыйнай эр.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_MILITARY_ORGANIZATION_DESCRIPTION">
+			<Text>+4 ачкі [ICON_GreatGeneral] выдатнага генерала ў крок.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_MILITARY_RESEARCH_DESCRIPTION">
+			<Text>+1 [ICON_Science] навука ад вайсковых вучэльняў і марскіх портаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_NATIONAL_IDENTITY_DESCRIPTION">
+			<Text>[ICON_Strength] моц вайсковых адзінак зніжаецца на 50% меней ад пашкоджанняў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_NATIVE_CONQUEST_DESCRIPTION">
+			<Text>Перамога над адзінкамі ранейшых эр дае [ICON_Gold] золата роўнае 50% [ICON_Strength] моцы пераможанай  адзінкі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_NATURAL_PHILOSOPHY_DESCRIPTION">
+			<Text>Бонус за суседства з навуковым мястэчкам павялічаны на 100%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_NAVAL_INFRASTRUCTURE_DESCRIPTION">
+			<Text>Бонус за суседства з гаванню павялічаны на 100%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_NAVIGATION_DESCRIPTION">
+			<Text>+2 ачкі [ICON_GreatAdmiral] выдатнага адмірала ў крок.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_NEW_DEAL_DESCRIPTION">
+			<Text>+4 [ICON_Housing] жытла, +2 [ICON_Amenities] добрабыта, -8 [ICON_Gold] золата ўсім гарадам, у якіх, прынамсі, ёсць 3 мястэчкі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_NOBEL_PRIZE_DESCRIPTION">
+			<Text>+4 ачкі [ICON_GreatScientist] выдатнага навукоўца ў крок.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_NUCLEAR_ESPIONAGE_DESCRIPTION">
+			<Text>Шпіёны, якіх не заўважылі, пакуль яны выкрадалі тэхналогію, атрымліваюць дадатковае паляпшэнне.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_ONLINE_COMMUNITIES_DESCRIPTION">
+			<Text>+50% да [ICON_Tourism] турызму для цывілізацый, да якіх накіраваны [ICON_TradeRoute] гандлёвы шлях.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_PATRIOTIC_WAR_DESCRIPTION">
+			<Text>+100% да [ICON_Production] вытворчасці ўзмацняльных адзінак сучаснай, атамнай і інфармацыйнай эр.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_POLICE_STATE_DESCRIPTION">
+			<Text>Узровень варожых шпіёнаў на вашай тэрыторыі зніжаны на 2. Усе гарады атрымліваюць штраф -1 [ICON_Amenities] дабрабыт.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_PRESS_GANGS_DESCRIPTION">
+			<Text>+100% да [ICON_Production] вытворчасці марскіх адзінак адраджэння і прамысловасці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_PROFESSIONAL_ARMY_DESCRIPTION">
+			<Text>Паляпшэнне адзінак каштуе менш на 50%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_PROPAGANDA_DESCRIPTION">
+			<Text>Назапашанне стомленасці ад вайны зніжана на 25%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_PUBLIC_TRANSPORT_DESCRIPTION">
+			<Text>Будаўніцтва спальных прыгарадаў на хатах дае + 50 [ICON_Gold] за кожны прэстыж гекса.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_PUBLIC_WORKS_DESCRIPTION">
+			<Text>+30% да [ICON_Production] вытворчасці будаўнікоў. Новыя будаўнікі атрымліваюць 2 дадатковыя дзеянні.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_RAJ_DESCRIPTION">
+			<Text>+2 [ICON_Science] навукі, [ICON_Culture] культуры, [ICON_Faith] веры, і [ICON_Gold] золата ад кожнага васальнага горада-дзяржавы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_RAID_DESCRIPTION">
+			<Text>Прыбытак атрыманы ад рабавання паляпшэнняў мясцовасці павялічаны ўдвая.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_RATIONALISM_DESCRIPTION">
+			<Text>Прыбытак [ICON_Science] навукі ад будынкаў навуковага мястэчка павышаны на 100%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_RELIGIOUS_ORDERS_DESCRIPTION">
+			<Text>Усе рэлігійныя адзінкі атрымліваюць +5 [ICON_Religion] моцы ў тэалагічных бітвах.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_RESOURCE_MANAGEMENT_DESCRIPTION">
+			<Text>Дае 1 адзінку кожнага стратэгічнага рэсурсу, якая дазваляе вырабляць і набываць вайсковыя адзінкі ў горадзе.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_RETAINERS_DESCRIPTION">
+			<Text>+1 [ICON_Amenities] дабрабыт ува ўсіх гарадах з гарнізонам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_REVELATION_DESCRIPTION">
+			<Text>+2 ачкі [ICON_GreatProphet] выдатнага прарока ў крок.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_SACK_DESCRIPTION">
+			<Text>Прыбытак атрыманы ад рабавання мястэчак павялічаны ўдвая.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_SATELLITE_BROADCASTS_DESCRIPTION">
+			<Text>+200% [ICON_Tourism] турызму ад [ICON_GreatWork_Music] вялікіх музычных вырабаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_SCRIPTURE_DESCRIPTION">
+			<Text>Бонус за суседства з святым мястэчкам павялічаны на 100%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_SERFDOM_DESCRIPTION">
+			<Text>Новыя будаўнікі атрымліваюць 2 дадатковыя дзеянні.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_SIMULTANEUM_DESCRIPTION">
+			<Text>Прыбытак [ICON_Faith] веры ад будынкаў святога мястэчка павышаны на 100%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_SKYSCRAPERS_DESCRIPTION">
+			<Text>+15% да [ICON_Production] вытворчасці цудаў свету прамысловай і пазнейшых эр.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_SPORTS_MEDIA_DESCRIPTION">
+			<Text>Бонус за суседства з тэатральным скверам павялічаны на 100%. Стадыён дае +1 [ICON_Amenities] добрабыт.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_STRATEGIC_AIR_FORCE_DESCRIPTION">
+			<Text>+50% да [ICON_Production] вытворчасці авіяносцаў і паветраных адзінак інфармацыйнай эры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_STRATEGOS_DESCRIPTION">
+			<Text>+2 ачкі [ICON_GreatGeneral] выдатнага генерала ў крок.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_SURVEY_DESCRIPTION">
+			<Text>Падвойвае досвед выведніцкіх адзінак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_SYMPHONIES_DESCRIPTION">
+			<Text>+4 ачкі [ICON_GreatMusician] выдатнага музыкі ў крок.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_THIRD_ALTERNATIVE_DESCRIPTION">
+			<Text>+4 [ICON_Gold] золата ад кожнай лабараторыі, вайсковай вучэльні і электроўні.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_TOTAL_WAR_DESCRIPTION">
+			<Text>Прыбытак атрыманы ад рабавання павялічаны ўдвая.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_TOWN_CHARTERS_DESCRIPTION">
+			<Text>Бонус за суседства з гандлёвым мястэчкам павялічаны на 100%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_TRADE_CONFEDERATION_DESCRIPTION">
+			<Text>+1 [ICON_Culture] культура і +1 [ICON_Science] навука ад міжнародных [ICON_TradeRoute] гандлёвых шляхоў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_TRAVELING_MERCHANTS_DESCRIPTION">
+			<Text>+2 ачкі [ICON_GreatMerchant] выдатнага гандляра ў крок.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_TRIANGULAR_TRADE_DESCRIPTION">
+			<Text>+4 [ICON_Gold] золата і +1 [ICON_Faith] вера ад усіх [ICON_TradeRoute] гандлёвых шляхоў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_URBAN_PLANNING_DESCRIPTION">
+			<Text>+1 [ICON_Production] вытворчасць усім гарадам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_AIRPORT_DESCRIPTION">
+			<Text>+30% да [ICON_Production] вытворчасці вайсковых мястэчак і будынкаў у іх.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_WARS_OF_RELIGION_DESCRIPTION">
+			<Text>+4 да [ICON_Strength] моцы супраць адзінак, цывілізацыя якіх вызнае іншую рэлігію.</Text>
+		</Replace>
+
+		<!-- Preview Text -->
+		<Replace Language="en_US" Tag="LOC_GOVT_OLIGARCHY_COMBAT_BONUS_DESCRIPTION">
+			<Text>+4 да моцы (ад алігархіі)</Text>
+		</Replace>
+
+		<!-- Temporary UI -->
+		<Replace Language="en_US" Tag="LOC_CIVIC_STARTED">
+			<Text>Даследаванне палітыкі: {1_CivicName}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_COMPLETE">
+			<Text>Адкрыта палітыка: {1_CivicName}</Text>
+		</Replace>
+
+	</LocalizedText>
+	
+</GameData>

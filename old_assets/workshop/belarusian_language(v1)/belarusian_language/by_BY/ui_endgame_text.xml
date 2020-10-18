@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ui_endgame_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:54:18 AM -->
+<GameData>
+	<LocalizedText>
+
+		<!-- Base Menu-->
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_REPLAY_MOVIE">
+			<Text>Паўтор відэа</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_MAIN_MENU">
+			<Text>Галоўнае меню</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_EXTENDED_GAME">
+			<Text>Яшчэ адзін крок...</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_MP_PLAYER_CHANGE_CONTINUE">
+			<Text>Наступны валадар</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_VICTORY_INFO">
+			<Text>ВЫНІКІ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING">
+			<Text>РЭЙТЫНГ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_REPLAY">
+			<Text>ГРАФІКІ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_CHAT">
+			<Text>ЧАТ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_NUMBERING_FORMAT">
+			<Text>{1_number}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_POP_SCORE">
+			<Text>Рахунак</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_LEADER_NAME">
+			<Text>Імя валадар</Text>
+		</Replace>
+
+		<!-- Rankings -->
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_STATEMENT">
+			<Text>Вы дасягнулі ўзроўню {1_LeaderName[2]}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_1_NAME">
+			<Text>Аўгуст Цэзар</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_1_QUOTE">
+			<Text>Я атрымаў Рым каменным, а пакінуў яго мармуровым.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_2_NAME">
+			<Text>Хамурапі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_2_QUOTE">
+			<Text>Галоўным абавязкам валадара з'яўляецца абарона слабых ад моцных.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_3_NAME">
+			<Text>Абрахам Лінкальн</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_3_QUOTE">
+			<Text>Не пакідайце на заўтра ўсё, што можна зрабіць сёння.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_4_NAME">
+			<Text>Ўінстан Чэрчыль</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_4_QUOTE">
+			<Text>Там, дзе ёсць вялікая моц, ёсць вялікая адказнасць; дзе менш моцы, менш адказнасці; дзе няма моцы, няма адказнасці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_5_NAME">
+			<Text>Нэльсан Мандэла</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_5_QUOTE">
+			<Text>Сапраўдныя валадары павінны быць падрыхтаваны ахвяраваць усім дзеля вольнасці свайго народа.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_6_NAME">
+			<Text>Кацярына Вялікая</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_6_QUOTE">
+			<Text>Улада без давер'я народа нічога не значыць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_7_NAME">
+			<Text>Ашока</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_7_QUOTE">
+			<Text>Сапраўдны вернік не будзе ганьбаваць іншыя рэлігіі, ён будзе шанаваць усё, што годна гэтага.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_8_NAME">
+			<Text>Марк Аўрэлій</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_8_QUOTE">
+			<Text>Мэта жыцця не павінна падабаецца большасці, але быць вар'ятам таксама не трэба.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_9_NAME">
+			<Text>Лех Валенса</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_9_QUOTE">
+			<Text>Як нацыя, мы маем права вырашаць нашы ўласныя справы, фармаваць нашу будучыню.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_10_NAME">
+			<Text>Хатшэпсут</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_10_QUOTELOC_MODS_TITLE">
+			<Text>Пачуйце мяне! Усе, хто тут назбіраўся. Я жыла згодна з жаданнямі майго сэрца.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_11_NAME">
+			<Text>Шарль дэ Голь</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_11_QUOTE">
+			<Text>Будзем жа цвёрдымі, чыстымі і адданымі. У канцы нашых нязгод знаходзіцца найвялікая слава свету: людзі, якія не здаліся.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_12_NAME">
+			<Text>Элеанора Аквітанія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_12_QUOTE">
+			<Text>Няшчасная і нікому не патрэбная маці двух каралёў, валадарыня двух каралеўств, зганьбавалася гідкай старасцю? З мяне выдралі важную частку, пазбавілі сям'і.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_13_NAME">
+			<Text>Іван Грозны</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_13_QUOTE">
+			<Text>Галенне барады - гэта грэх, які не зможа ачысціць кроў усіх пакутнікаў. Яно падобна на знявечванне твару Боскага.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_14_NAME">
+			<Text>Герберт Гувер</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_14_QUOTE">
+			<Text>Тое ў чым мае патрэбу краіна - гэта смех. Усе праблемы будуць вырашаны, калі хто-небудзь зможа разыгрываць добрыя жарты кожныя дзесяць дзён.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_15_NAME">
+			<Text>Луіс XVI</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_15_QUOTE">
+			<Text>Штораз, калі я даю каму-небудзь добрую пасаду, я ствараю сотню незадаволеных і аднаго няўдзячнага.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_16_NAME">
+			<Text>Нэвіл Чэмберлен</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_16_QUOTE">
+			<Text>Мір у наш час.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_17_NAME">
+			<Text>Нерон</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_17_QUOTE">
+			<Text>Чалавек, які заўсёды верыць у тое, што яму кажуць, ніколі не атрымае поспех.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_18_NAME">
+			<Text>Ўоран Г. Хардынг</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_18_QUOTE">
+			<Text>Наша самая небяспечная схільнасць палягае ў тым, што мы чакаем занадта багата ўсяго ад урада, і ў той жа самы час не прыкладаем ніякіх высілкаў для гэтага.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_19_NAME">
+			<Text>Этэльрэд Непадрыхтованы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_19_QUOTE">
+			<Text>У імя святой тройцы, я абяцаю тры рэчы хрысціянам, сваім падданым: першае, падтрымліваць сапраўдны мір для свайго хрысціянскага народа і боскай царквы, другое, забараніць кожны гвалт і несправядлівасць для людзей усіх гатункаў, трэцяе, праяўляць справядлівасць і літасць ува ўсіх карах.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_20_NAME">
+			<Text>Мэры Цюдор I</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_20_QUOTE">
+			<Text>Божа ў табе мая вера, ніколі не пакідай мяне. Калі з намі будзе Бог, то хто зможа быць супраць нас?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_21_NAME">
+			<Text>Дэн Кўэйл</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_21_QUOTE">
+			<Text>Мы падрыхтаваны да кожнай непрадбачанай падзеі, якая можа адбыцца.</Text>
+		</Replace>
+
+		<!-- Replay -->
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_REPLAY_NOGRAPHDATA">
+			<Text>Няма дадзеных для пабудовы графіка</Text>
+		</Replace>
+
+		<!-- Graph Data Sets -->
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_CULTURE_NAME">
+			<Text>Культуры кожны крок</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_CULTURE_DESC">
+			<Text>Колькасць культуры набытай за крок.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALGOLD_NAME">
+			<Text>Колькасць золата</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALGOLD_DESC">
+			<Text>Сумарны запас золата валадара.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALCITIESBUILT_NAME">
+			<Text>Пабудавана гарадоў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALCITIESBUILT_NAME">
+			<Text>Колькасць пабудованых гарадоў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALDISTRICTSBUILT_NAME">
+			<Text>Пабудавана мястэчак</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALWONDERSBUILT_NAME">
+			<Text>Пабудавана цудаў света</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALBUILDINGSBUILT_NAME">
+			<Text>Пабудавана будынкаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALCITIESCAPTURED_NAME">
+			<Text>Захопленна гарадоў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALCITIESLOST_NAME">
+			<Text>Страчана гарадоў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALCITIESDESTROYED_NAME">
+			<Text>Знішчана гарадоў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALWARSDECLARED_NAME">
+			<Text>Пачата войн</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALWARSWON_NAME">
+			<Text>Пераможана войн</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALCOMBATS_NAME">
+			<Text>Праведзена бітв</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALUNITSDESTROYED_NAME">
+			<Text>Забіта адзінак</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALPLAYERUNITSDESTROYED_NAME">
+			<Text>Страчана адзінак</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALRELIGIONSFOUNDED_NAME">
+			<Text>Заснована рэлігій</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_GREATPEOPLEEARNED_NAME">
+			<Text>Атрымана выдатных дзеячоў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALWARSAGAINSTPLAYER_NAME">
+			<Text>Пачата войн супраць іншых валадароў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALPANTHEONSFOUNDED_NAME">
+			<Text>Заснована пантэонаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_SCOREPERTURN_NAME">
+			<Text>Ачкоў у крок</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_SCIENCEPERTURN_NAME">
+			<Text>Навукі ў крок</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_FAITHPERTURN_NAME">
+			<Text>Веры ў крок</Text>
+		</Replace>
+
+
+	</LocalizedText>
+</GameData>
+

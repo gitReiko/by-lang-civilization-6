@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- worldbuilder_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:59:28 AM -->
+<GameData>
+	<LocalizedText>
+
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_TAB_TECHS">
+			<Text>Тэхналогіі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_TAB_CIVICS">
+			<Text>Палітыкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_TAB_CITIES">
+			<Text>Гарады</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_TAB_UNITS">
+			<Text>Адзінкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_TAB_GENERAL">
+			<Text>Агульнае</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_TAB_DISTRICTS">
+			<Text>Мястэчкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_TAB_BUILDINGS">
+			<Text>Будынкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_TAB_MOD">
+			<Text>Залежнасці</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_TAB_TEXT">
+			<Text>Тэкст</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_BUTTON_ADD_PLAYER">
+			<Text>Дадаць гульца</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_BUTTON_ADD_AI_PLAYER">
+			<Text>Дадаць гульца з ШІ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_BUTTON_REMOVE_PLAYER">
+			<Text>Выдаліць гульца</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_BUTTON_ADD_CITY">
+			<Text>Дадаць горад</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_BUTTON_REMOVE_CITY">
+			<Text>Выдаліць горад</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_PILLAGED">
+			<Text>Разрабаваць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_GOLD">
+			<Text>Золата</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_FAITH">
+			<Text>Вера</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_GARRISON_DAMAGE">
+			<Text>Пашкоджанне гарнізона</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_OUTER_DAMAGE">
+			<Text>Вонкавае пашкоджанне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_POPULATION">
+			<Text>Насельніцтва</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_TERRAIN">
+			<Text>Мясцовасць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_FEATURE">
+			<Text>Асаблівасць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_FEATURE_DIRECTION">
+			<Text>Накірунак асаблівасці</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_RESOURCE">
+			<Text>Рэсурсы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_RESOURCE_AMOUNT">
+			<Text>Колькасць рэсурсаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_IMPROVEMENT">
+			<Text>Паляпшэнне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_IMPROVEMENT_PILLAGED">
+			<Text>Разрабаванае паляпшэнне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_ROUTE">
+			<Text>Шлях</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_ROUTE_PILLAGED">
+			<Text>Разрабаваны шлях</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_OWNER">
+			<Text>Уладальнік</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_TERRAIN">
+			<Text>Мясцовасць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_FEATURES">
+			<Text>Асаблівасці</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_CONTINENT">
+			<Text>Кантыненты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_RIVERS">
+			<Text>Рэкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_CLIFFS">
+			<Text>Скалы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_RESOURCES">
+			<Text>Рэсурсы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_CITIES">
+			<Text>Гарады</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_DISTRICTS">
+			<Text>Мястэчкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_BUILDINGS">
+			<Text>Будынкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_UNITS">
+			<Text>Адзінкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_IMPROVEMENTS">
+			<Text>Паляпшэнні</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_ROUTES">
+			<Text>Шляхі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_START_POSITIONS">
+			<Text>Пачатковае месцаванне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_OWNER">
+			<Text>Уладальнік</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_SET_VISIBILITY">
+			<Text>Бачнасць мясцовасці</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_WORLD_BUILDER_MAP_EDITOR_TT">
+			<Text>Рэдактар карты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLD_BUILDER_PLAYER_EDITOR_TT">
+			<Text>Рэдактар гульцоў</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_WORLD_BUILDER_PLACEMENT_HELP">
+			<Text>Левая кнопка мышы, каб размясціць, а правая, каб выдаліць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLD_BUILDER_NO_PLOT_SELECTED_HELP">
+			<Text>Не абраны шаблон</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_ID">
+			<Text>Ідэнтыфікатар</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_GENERATE_NEW_ID">
+			<Text>Стварыце новы ідэнтыфікатар</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_WIDTH">
+			<Text>Даўжыня</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_HEIGHT">
+			<Text>Вышыня</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_RULESET">
+			<Text>Набор правіл</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_MAP_SCRIPT">
+			<Text>Скрыпт карты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_IS_MOD">
+			<Text>Карта - гэта мод</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_IS_MOD_TT">
+			<Text>Калі сцяг усталяваны, то гэта карта з'яўляецца самастойным модам і можа выкарыстоўвацца, як тып карты падчас стварэння новай гульні. Калі гэты сцяг не ўсталяваны, то лічыцца, што гэта карта з'яўляецца часткай буйнейшага мода.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_DEFAULT_MAP_NAME">
+			<Text>Карта без назвы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_DEFAULT_MAP_DESCRIPTION">
+			<Text>Карта без назвы зроблена ў рэдактары карт.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_DEFAULT_MOD_TITLE">
+			<Text>Мод-карта без назвы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_DEFAULT_MOD_DESCRIPTION">
+			<Text>Мод-карта без назвы зроблена ў рэдактары карт.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ADD_BUTTON">
+			<Text>Дадаць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_REMOVE_BUTTON">
+			<Text>Выдаліць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_NO_FEATURE">
+			<Text>Няма асаблівасці</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_NO_DIRECTION">
+			<Text>Няма накірунка</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_DIRECTION_NORTHEAST">
+			<Text>Паўночна-ўсходні</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_DIRECTION_EAST">
+			<Text>Усходні</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_DIRECTION_SOUTHEAST">
+			<Text>Паўднёва-ўсходні</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_DIRECTION_SOUTHWEST">
+			<Text>Паўднёва-заходні</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_DIRECTION_WEST">
+			<Text>Заходні</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_DIRECTION_NORTHWEST">
+			<Text>Паўночны</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_NO_RESOURCE">
+			<Text>Няма рэсурсаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_NO_IMPROVEMENT">
+			<Text>Няма паляпшэнняў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_NO_ROUTE">
+			<Text>Няма шляхаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_REVEAL_ALL">
+			<Text>Паказаць усё</Text>
+		</Replace>
+
+
+	</LocalizedText>
+</GameData>
+

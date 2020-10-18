@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- diplomacystatements_common_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:35:13 AM -->
+<GameData>
+	<LocalizedText>
+
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_PERSON_CLEO">
+			<Text>Я Клеапатра - царыца Егіпта.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_GREETING_CLEO">
+			<Text>Вітаю цябе падарожнік. Ты павінен ведаць, што бачыш увасабленне велічы!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ADVISOR_READY">
+			<Text>Мой валадар, што жадаеце зрабіць?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_FRIENDSHIP">
+			<Text>Абвясціць сяброўства</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_MAKE_PEACE">
+			<Text>Скласці мірную дамову</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_OPEN_BORDERS">
+			<Text>[SIZE_16]Прапанаваць адчыніць межы[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DIPLOMATIC_DELEGATION">
+			<Text>[SIZE_16]Даслаць амбасадараў[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_RESIDENT_EMBASSY">
+			<Text>[SIZE_16]Пабудаваць сталую амбасаду[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DENOUNCE">
+			<Text>Зганіць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_SURPRISE_WAR">
+			<Text>[SIZE_16]Пачаць нечаканую вайну[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_FORMAL_WAR">
+			<Text>[SIZE_16]Пачаць афіцыйную вайну[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_HOLY_WAR">
+			<Text>[SIZE_16]Пачаць святую вайну[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_LIBERATION_WAR">
+			<Text>[SIZE_16]Пачаць вызваленчую вайну[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_LIBERATION_WAR_TOOLTIP">
+			<Text>[NEWLINE][NEWLINE](Няма мілітарысцкіх штрафаў за вызваленне сяброўскіх гарадоў)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_RECONQUEST_WAR">
+			<Text>[SIZE_16]Пачаць рэканкісту[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_RECONQUEST_WAR_TOOLTIP">
+			<Text>[NEWLINE][NEWLINE](Няма мілітарысцкіх штрафаў за вызваленне ўласных гарадоў)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_PROTECTORATE_WAR">
+			<Text>[SIZE_16]Пачаць вайну за пратэктарат[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_PROTECTORATE_WAR_TOOLTIP">
+			<Text>[NEWLINE][NEWLINE](Няма мілітарысцкіх штрафаў за абарону васальных гарадоў-дзяржаў)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_COLONIAL_WAR">
+			<Text>[SIZE_16]Пачаць каланіяльную вайну[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_TERRITORIAL_WAR">
+			<Text>[SIZE_16]Пачаць вайну для пашырэння тэрыторыі[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_WARMONGER_INFO">
+			<Text>Штраф за мілітарызм: {1_WarmongerLevel}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_GOLD_INFO">
+			<Text>Каштуе {1_Cost} [ICON_Gold] золата</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_CASUS_BELLI_HOLY_WAR_DESCRIPTION">
+			<Text>Цэль звярнула адзін з вашых гарадоў у сваю веру.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CASUS_BELLI_RECONQUEST_WAR_DESCRIPTION">
+			<Text>Цэль захапіла адзін з вашых гарадоў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CASUS_BELLI_LIBERATION_WAR_DESCRIPTION">
+			<Text>Цэль захапіла адзін з гарадоў вашых цяперашніх хаўруснікаў ці сяброў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CASUS_BELLI_PROTECTORATE_WAR_DESCRIPTION">
+			<Text>Цэль абвясціла вайну аднаму з вашых цяперашніх гарадоў-дзяржаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CASUS_BELLI_COLONIAL_WAR_DESCRIPTION">
+			<Text>Цэль тэхналагічна адстае ад вас на 2 эры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CASUS_BELLI_TERRITORIAL_WAR_DESCRIPTION">
+			<Text>Два горада цэлі знаходзяцца ў радыусе 10 гексаў ад вашых гарадоў.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_ARE_YOU_SURE_WAR">
+			<Text>Вы ўпэўнены, што жадаеце пачаць вайну?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ARE_YOU_SURE_YES">
+			<Text>Так</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ARE_YOU_SURE_NO">
+			<Text>Не</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_MAKE_DEAL">
+			<Text>Прапанаваць дамову</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_MAKE_DEMAND">
+			<Text>Запатрабаваць даніну</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_IGNORE">
+			<Text>Не звярнуць увагі на гэтую прапанову</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_EXIT">
+			<Text>Выйсці</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_PROPOSE_AUCTION">
+			<Text>Прапанаваць аўкцыён</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEAL_INTRO">
+			<Text>Добры дзень, чаго вы жадаеце?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEAL_INTRO_AI">
+			<Text>Вам падабаецца мая прапанова?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEMAND_INTRO">
+			<Text>Лепей выканайце мае патрабаванні!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_VIEW_DEAL">
+			<Text>Разглядзець прапанову</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_VIEW_DEMAND">
+			<Text>Разглядзець патрабаванне даніны</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEMAND_NO_AVAILABLE_ITEMS">
+			<Text>Няма чым выплаціць даніну</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEAL_NO_AVAILABLE_ITEMS">
+			<Text>Няма чым выгандляваць дамову</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_SPY">
+			<Text>Паабяцайце не шпіёніць за мной</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_SETTLE_TOO_NEAR">
+			<Text>Паабяцайце не будаваць свае гарады каля маіх</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_CONVERT_CITY">
+			<Text>Паабяцайце не распаўсюджваць сваю рэлігію ў маіх гарадах</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_DIG_ARTIFACTS">
+			<Text>Паабяцайце не раскопваць мае археалагічныя артэфакты</Text>
+		</Replace>
+
+		<!-- Action Failure Reasons -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_FRIENDLY_TEAM_MEMBERS">
+			<Text>Немагчыма {1_WarActionType}[NEWLINE]Нехта з вашай каманды з'яўляецца сябрам ці хаўруснікам валадара з іншай каманды.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_NO_DENOUNCEMENT">
+			<Text>Немагчыма {1_WarActionType}[NEWLINE]Вы не зганілі гэтага валадара.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_DENOUNCEMENT_TOO_RECENT">
+			<Text>Немагчыма {1_WarActionType}[NEWLINE]Вам трэба пачакаць {2_Turns} крокаў пасля ганьбавання (магчыма праз {3_Remaining} крокаў).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_DEFENSIVE_PACT">
+			<Text>Немагчыма {1_WarActionType}[NEWLINE]Вы склалі абарончую дамову з гэтым валадаром.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_CASUS_BELLI_NOT_MET">
+			<Text>Немагчыма {1_WarActionType}[NEWLINE][COLOR_RED]Не выконваюцца ўмовы Казуса Бэлі.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_PEACE_TOO_RECENT">
+			<Text>Немагчыма {1_WarActionType}[NEWLINE]Вам трэба пачакаць {2_Turns} крокаў пасля складання мірнай дамовы (магчыма праз {3_Remaining} крокаў).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_TOO_EARLY">
+			<Text>Немагчыма {1_WarActionType}[NEWLINE]Вам трэба пачакаць {2_TurnNumber} крока, каб пачаць вайну з горадам-дзяржавай.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_INSUFFICIENT_GOLD">
+			<Text>Немагчыма {1_ActionType}[NEWLINE]Вам патрэбна {2_GoldRequirement} [ICON_Gold] золата.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_TOO_RECENT">
+			<Text>Немагчыма {1_WarActionType}[NEWLINE]Вам трэба пачакаць {2_Turns} крокаў пасля пачатка вайны (магчыма праз {3_Remaining} крокаў).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_WITHOUT_END">
+			<Text>Немагчыма {1_WarActionType}[NEWLINE]У гэтай гульне войны працягваюцца бясконца.</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

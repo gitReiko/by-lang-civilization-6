@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- modifiers_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:47:30 AM -->
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_MODIFIER_OBJECT_BUILDING">
+			<Text>Будынак|Будынкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODIFIER_OBJECT_CITY">
+			<Text>Горад|Гарады</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODIFIER_OBJECT_DISTRICT">
+			<Text>Мястэчка|Мястэчкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODIFIER_OBJECT_GOVERNMENT">
+			<Text>Урад|Урады</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODIFIER_OBJECT_PLAYER">
+			<Text>Валадар|Валадары</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODIFIER_OBJECT_PLAYER_CAPTURED_UNIT">
+			<Text>Валадар захапіў адзінку|Валадар захапіў адзінкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODIFIER_OBJECT_POLICY">
+			<Text>Палітыка|Палітыкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODIFIER_OBJECT_TEAM">
+			<Text>Тэхналогія|Тэхналогіі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODIFIER_OBJECT_UNIT">
+			<Text>Адзінка|Адзінкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODIFIER_OBJECT_UNIT_PROMOTION">
+			<Text>Паляпшэнне адзінкі|Паляпшэнне адзінак</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>
+

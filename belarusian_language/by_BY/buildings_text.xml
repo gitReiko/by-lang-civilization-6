@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- buildings_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/30/2018 3:23:34 PM -->
+<GameData>
+
+	<Replace Language="en_US" Tag="LOC_BUILDING_AIRPORT_DESCRIPTION">
+		<Text>+50% да баявога досведу для ўсіх паветраных адзінак створаных у гэтым горадзе. +2 месца для паветраных адзінак у лётнішчы. Пасля даследвання палітыкі «Хуткае разгортванне» можна перамяшчаць наземныя адзінкі паміж лётнішчамі.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_ARMORY_DESCRIPTION">
+		<Text>+25% да баявога досведу для ўсіх адзінак створаных ў гэтым горадзе.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_BARRACKS_DESCRIPTION">
+		<Text>+25% да баявога досведу для ўсіх наземных адзінак бліжняга ды далёкага бою створаных ў гэтым горадзе.[NEWLINE][NEWLINE]Нельга пабудаваць у вайсковым мястэчку з стаўнямі.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_CASTLE_DESCRIPTION">
+		<Text>Павялічвае абарончую моц горада. +2 [ICON_TOURISM] турызму пасля даследвання палітыкі «Ахова навакольнага асяроддзя».</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_ELECTRONICS_FACTORY_DESCRIPTION">
+		<Text>Унікальны будынак Японіі. +4 [ICON_Production] вытворчасці ўсім гарадскім цэнтрам у радыусе 6 гексаў. Дадзены бонус не сумуецца з іншымі фабрыкамі электронікі. +4 [ICON_Culture] культуры гэтаму гораду пасля даследвання тэхналогіі «Электрычнасць».</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_FACTORY_DESCRIPTION">
+		<Text>+4 [ICON_Production] вытворчасці ўсім гарадскім цэнтрам у радыусе 6 гексаў. Дадзены бонус не сумуецца з іншымі фабрыкамі.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_FILM_STUDIO_DESCRIPTION">
+		<Text>Унікальны будынак Амерыкі. +100% [ICON_Tourism] да ціску турызму ад гэтага горада ў сучаснай эры.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_HANGAR_DESCRIPTION">
+		<Text>+25% да баявога досведу для ўсіх паветраных адзінак створаных у гэтым горадзе. +2 месцы для паветраных адзінак у лётнішчы.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_LIGHTHOUSE_DESCRIPTION">
+		<Text>+25% да баявога досведу для ўсіх марскіх адзінак створаных у гэтым горадзе. +1 [ICON_FOOD] ежа на усіх узбярэжных гексах гэтага горада.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_MADRASA_DESCRIPTION">
+		<Text>Унікальны будынак Аравіі. Дадатковая [ICON_Faith] вера роўная бонусу за суседства з навуковым мястэчкам.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_MILITARY_ACADEMY_DESCRIPTION">
+		<Text>+25% да баявога досведу для ўсіх наземных адзінак створаных ў гэтым горадзе. Дазваляе ствараць карпусы і войскі. Кошт падрыхтоўкі карпусоў і войскаў зніжаны на 25%.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_MOSQUE_DESCRIPTION">
+		<Text>Місіянеры і апосталы атрымваюць 1 дадатковае распаўсюджванне.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_DAR_E_MEHR_DESCRIPTION">
+		<Text>+1 дадатковая [ICON_FAITH] вера за кожную эру з моманту пабудовы або рамонту.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_MUSEUM_ART_DESCRIPTION">
+		<Text>Захоўвае [ICON_GreatWork_Landscape] вялікія вырабы мастацтва. Нельга пабудаваць у тэатральным скверы з археалагічным музеем.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_MUSEUM_ARTIFACT_DESCRIPTION">
+		<Text>Захоўвае [ICON_GreatWork_Artifact] артэфакты. Нельга пабудаваць у тэатральным скверы з мастацкім музеем.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_POWER_PLANT_DESCRIPTION">
+		<Text>Бонус дзейнічае на кожны гарадскі цэнтр у радыусе 6 гексаў. Дадзены бонус не сумуецца з іншымі электроўнямі.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_SEAPORT_DESCRIPTION">
+		<Text>+25% да баявога досведу для ўсіх марскіх адзінак створаных у гэтым горадзе. Дазваляе ствараць флаты і армады. Кошт падрыхтоўкі флатоў і армад зніжаны на 25%. +2 [ICON_GOLD] золата на усіх узбярэжных гексах гэтага горада.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_SHRINE_DESCRIPTION">
+		<Text>Дазваляе набываць місіянераў за [ICON_Faith] веру.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_STABLE_DESCRIPTION">
+		<Text>+25% да баявога досведу для ўсіх конных адзінак створаных у гэтым горадзе. Нельга пабудаваць у вайсковым мястэчку з жаўнерняй.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_SHIPYARD_DESCRIPTION">
+		<Text>+25% да баявога досведу для ўсіх марскіх адзінак створаных у гэтым горадзе. Бонус [ICON_Production] вытворчасці роўны бонусу за суседства з гаванню.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_STADIUM_DESCRIPTION">
+		<Text>Бонус дзейнічае на кожны гарадскі цэнтр у радыусе 6 гексаў. Дадзены бонус не сумуецца з іншымі электроўнямі.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_STAR_FORT_DESCRIPTION">
+		<Text>Павялічвае моц абаронцаў да максімальнага магчымага ўзроўню. +3 [ICON_TOURISM] турызму пасля даследвання палітыкі «Ахова навакольнага асяроддзя».</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_STAVE_CHURCH_DESCRIPTION">
+		<Text>Унікальны будынак Нарвегіі. Патрэбен для набыцця апосталаў і інквізітараў за [ICON_Faith] веру. Святое мястэчка атрымлівае дадатковы бонус за суседства з лясамі. +1 [ICON_PRODUCTION] вытворчасць за кожны узбярэжны рэсурс гэтага горада.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_TEMPLE_DESCRIPTION">
+		<Text>Дазваляе набываць апосталаў, гуру, інквізітараў і, калі ёсць патрэбны звычай, ваяроў-манахаў за [ICON_Faith] веру.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_WALLS_DESCRIPTION">
+		<Text>Дае старажытны мур вакол гарадскога цэнтра і вайсковага мястэчка. Старажытны мур дазваляе [ICON_Ranged] дыстанцыйна атакаваць з гарадскога цэнтра і вайсковага мястэчка, і павінен быць знішчаны перад захопам горада. +1 [ICON_TOURISM] турызм пасля даследвання палітыкі «Ахова навакольнага асяроддзя».</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_WATER_MILL_DESCRIPTION">
+		<Text>Кожная адзінка рэсурса [ICON_RESOURCE_RICE] рыса і [ICON_RESOURCE_WHEAT] пшаніцы дае +1 [ICON_Food] ежу. Горад павінен быць пабудаваны каля ракі.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_ZOO_DESCRIPTION">
+		<Text>Бонус дзейнічае на кожны гарадскі цэнтр у радыусе 6 гексаў. Дадзены бонус не сумуецца з іншымі заапаркамі.</Text>
+	</Replace>
+
+	<!-- Wonders -->
+	<Replace Language="en_US" Tag="LOC_BUILDING_ALHAMBRA_DESCRIPTION">
+		<Text>+1 вайсковая карта палітычнага інстытута.[NEWLINE][NEWLINE]Дае тыя ж абараняльныя бонусы, што і форт. Павінна быць пабудавана на ўзгорку поруч з вайсковым мястэчкам.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_BIG_BEN_DESCRIPTION">
+		<Text>+1 эканамічная карта палітычнага інстытута.[NEWLINE][NEWLINE]Падвойвае золата ў скарбніцы. Павінен быць пабудаваны поруч з ракой і гандлёвым мястэчкам, у якім ёсць банк.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_BOLSHOI_THEATRE_DESCRIPTION">
+		<Text>Пасля пабудовы ўзнагароджвае 2 выпадкова абранымі палітыкамі. Павінен быць пабудаваны на роўнай паверхні поруч з тэатральным скверам.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_BROADWAY_DESCRIPTION">
+		<Text>+20% [ICON_Culture] культуры ў гэтым горадзе. 1 выпадковае дармовае натхненне атамнай эры. Павінен быць пабудаваны на роўнай паверхні поруч з тэатральным скверам.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_CHICHEN_ITZA_DESCRIPTION">
+		<Text>+2 [ICON_Culture] і +1 [ICON_Production] вытворчасць ад ўсіх гексаў з джунглямі для гэтага горада. Павінна быць пабудавана ў джунглях.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_COLOSSEUM_DESCRIPTION">
+		<Text>[ICON_Culture] культура і [ICON_Amenities] дабрабыт калізея даюцца усім гарадскім цэнтрам у радыусе 6 гексаў. Павінен быць пабудаваны на роўнай паверхні поруч з забаўляльным цэнтрам.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_COLOSSUS_DESCRIPTION">
+		<Text>Магчымасць утрымваць дадатковы гандлёвы шлях. Дае гандляра. Павінен быць пабудаваны на ўзбярэжжы поруч з гаванню і зямлёй.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_CRISTO_REDENTOR_DESCRIPTION">
+		<Text>Даследаванне іншымі цывілізацыямі палітыкі «Асвета» не зменшвае Ваш [ICON_Tourism] турызм ад [ICON_GreatWork_Relic] рэліквій і святых гарадоў. +100% турызму ад марскіх курортаў для ўсёй цывілізацыі. Павінен быць пабудаваны на ўзгорку.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_EIFFEL_TOWER_DESCRIPTION">
+		<Text>Усе гексы Вашай цывілізацыі атрымваюць +2 прэстіжа. Павінна быць пабудавана на роўнай паверхні поруч з гарадскім цэнтрам.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_ESTADIO_DO_MARACANA_DESCRIPTION">
+		<Text>+2 [ICON_Amenities] дабрыбыта для кожнага горада Вашай цывілізацыі. Павінен быць пабудаваны на роўнай паверхні поруч з забаўляльным цэнтрам, у якім ёсць стадыён.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_FORBIDDEN_CITY_DESCRIPTION">
+		<Text>+1 шалёная карта палітычнага інстытута.[NEWLINE][NEWLINE]Павінен быць пабудаваны на роўнай паверхні поруч з гарадскім цэнтрам.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_GREAT_LIBRARY_DESCRIPTION">
+		<Text>Дае эўрыкі ўсім тэхналогіям старажытнай і антычнай эр. Павінна быць пабудавана на роўнай паверхні поруч з навуковым мястэчкам, у якім ёсць кніжня.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_GREAT_LIGHTHOUSE_DESCRIPTION">
+		<Text>+1 да [ICON_Movement] руху ўсім марскім адзінкам.[NEWLINE][NEWLINE] Павінен быць пабудаваны на ўзбярэжжы поруч з зямлёй і гаванню, у якой побудаваны маяк.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_GREAT_ZIMBABWE_DESCRIPTION">
+		<Text>Магчымасць утрымваць дадатковы гандлёвы шлях.[NEWLINE][NEWLINE]Вашы [ICON_TradeRoute] гандлёвыя шляхі, якія ідуць з гэтага горада атрымліваюць +2 [ICON_Gold] золата за кожны бонусны рэсурс у радыусе 3 гексов ад мэтавага горада. Павінен быць пабудаваны поруч з гандлёвым мястэчкам і [ICON_RESOURCE_CATTLE] скацінай.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_HAGIA_SOPHIA_DESCRIPTION">
+		<Text>Місіянеры і апосталы атрымліваюць 1 дадатковае распаўсюджванне. Павінна быць заснавана рэлігія і пабудавана на роўнай паверхні поруч з святым мястэчкам.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_HANGING_GARDENS_DESCRIPTION">
+		<Text>Насельніцтва ўсіх гарадоў расце на 15% хутчэй. Павінны быць пабудаваны каля ракі.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_HERMITAGE_DESCRIPTION">
+		<Text>Павінен быць пабудаваны ўздоўж ракі.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_MAHABODHI_TEMPLE_DESCRIPTION">
+		<Text>Дае 2 апосталаў. Павінен быць пабудаваны ў лесе поруч з святым мястэчкам, у якім ёсць храм. Павінна быць заснавана рэлігія.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_MONT_ST_MICHEL_DESCRIPTION">
+		<Text>Усе набытыя Вамі апосталы атрымаюць дармовае паляпшэнне «Пакутнік» у дадатак да другога абіраемага. Павінен быць пабудаваны на поплаву або багне.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_ORACLE_DESCRIPTION">
+		<Text>Набыццё выдатных дзеячаў з дапамогай [ICON_Faith] веры на 25% танней. Мястэчкі гэтага горада даюць +2 ачка [ICON_GreatPerson] вялікага дзеяча адпаведнага тыпу, напрыклад, тэатральны сквер дае ачкі [ICON_GreatWriter] выдатнага пісьменніка. Павінен быць пабудаваны на ўзгорку.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_OXFORD_UNIVERSITY_DESCRIPTION">
+		<Text>+20% [ICON_Science] навукі ў гэтым горадзе. Пасля пабудовы ўзнагароджвае 2 выпадкова абранымі тэхналогіямі. Павінен быць пабудаваны на сенажаці або раўніне поруч з навуковым мястэчкам, у якім ёсць універсітэт.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_POTALA_PALACE_DESCRIPTION">
+		<Text>+1 дыпламатычная карта палітычнага інстытута.[NEWLINE][NEWLINE]Павінен быць пабудаваны на ўзгорку каля гары.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_PETRA_DESCRIPTION">
+		<Text>+2 [ICON_Food] ежы, +2 [ICON_Gold] золата, і +1 [ICON_Production] вытворчасць на усіх пустэльных гексах гэтага горада за вылучэннем поплаваў. Павінна быць пабудавана на не ўзгоркавай пустэльне альбо поплаве.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_PYRAMIDS_DESCRIPTION">
+		<Text>Дае дармавого будаўніка. Усе будаўнікі могуць будаваць на адно паляпшэнне мясцовасці болей. Павінны быць пабудаваны на не ўзгоркавай пустэльне альбо поплаве.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_RUHR_VALLEY_DESCRIPTION">
+		<Text>+20% [ICON_Production] вытворчасці і +1 [ICON_Production] ад кожнай рудні і каменяломні ў гэтым горадзе. Павінна быць пабудавана ўздоўж ракі побач з прамысловым мястэчкам, у якім ёсць фабрыка.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_STONEHENGE_DESCRIPTION">
+		<Text>Дае дармавога [ICON_GreatProphet] выдатнага прарока. [ICON_GreatProphet] выдатны прарок можа заснаваць рэлігію ў стоўнхэнджы або святым мястэчку. Павінен быць пабудаваны побач з [ICON_RESOURCE_STONE] каменнем на роўнай паверхні.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_SYDNEY_OPERA_HOUSE_DESCRIPTION">
+		<Text>Павінен быць пабудаваны на ўзбярэжжы поруч з гаванню і зямлёй.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_TERRACOTTA_ARMY_DESCRIPTION">
+		<Text>Усе вайсковыя адзінкі атрымліваюць паляпшэнне. Усе археолагі змогуць перамяшчацца па валадарствам замежных цывілізацый з зачыненымі межамі. Павінна быць пабудавана на роўнай сенажаці або раўніне побач з вайсковым мястэчкам, у якім ёсць жаўнерня ці стаўні.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_VENETIAN_ARSENAL_DESCRIPTION">
+		<Text>Вырабляе дзве марскія адзінкі заміж адной. Павінна быць пабудавана на ўзбярэжжы каля прамысловага мястэчка.</Text>
+	</Replace>
+
+	<!--Theming Bonuses-->
+	<Replace Language="en_US" Tag="LOC_BUILDING_THEMINGBONUS_ART">
+		<Text>Тэматычны бонус ад вырабаў аднолькавага тыпу, але розных мастакоў падвойвае іх эфектыўнасць.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_THEMINGBONUS_ARCHAEOLOGY">
+		<Text>Тэматычны бонус ад [ICON_GreatWork_Artifact] артэфактаў аднолькавай эры, але розных цывілізацый падвойвае іх эфектыўнасць.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_BUILDING_THEMINGBONUS_FULL_MUSEUM">
+		<Text>Тэматычны бонус падвойвае эфектыўнасць артэфактаў, калі музей запоўнены.</Text>
+	</Replace>
+	
+</GameData>

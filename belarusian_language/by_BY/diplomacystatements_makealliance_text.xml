@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- diplomacystatements_makealliance_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:42:07 AM -->
+<GameData>
+	<LocalizedText>
+
+		<!-- AI accepts from human -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_HUMAN_ANY_ANY">
+			<Text>Добра! Гэты хаўрус прынясе карысць нашым народам.</Text>
+		</Replace>
+
+		<!-- AI Rejects from human -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_HUMAN_ANY_ANY">
+			<Text>У дадзены момант нас не цікавіць хаўрус з вамі.</Text>
+		</Replace>
+
+		<!-- AI Requests an alliance from human -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_ANY_ANY">
+			<Text>Далучайцесь да нашага хаўруса.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Давайце пабудуем сумесны хаўрус.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Давайце складзём супольны хаўрус.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Я рупліва абіраю сабе хаўруснікаў. Вы годны стаць адным з іх.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Стварэнне гэтага хаўрусу пойдзе на карысць нашым імперыям.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Давайце пабудуем супольны хаўрус.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Жадаеш стаць хаўруснікам Гільгамеша?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Жадаеце стаць хаўруснікам Спарты?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Сябар давай абмяркуем хаўрусную дамову.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Вы сябар нашай імперыі. Для мяне будзе гонарам, калі вы далучыцесь да хаўруса.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Жадаеце далучыцца да нашага хаўруса?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Далучайцесь да дэласкага звяза.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Жадаеце стаць маім хаўруснікам?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Давайце акрэслім умовы сумеснага хаўруса.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_QIN_ANY">
+			<Text>Жадаеце падпісаць з намі хаўрусную дамову?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Давайце абмяркуем саюзнае пагадненне.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Вы дамаглісь нашай павагі. Давайце створым супольны хаўрус.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Хаўруснае пагадненне прынясе карысць нашым народам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Жадаеце стаць маім хаўруснікам?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Мы жадаем прапанаваць вам хаўрусную дамову.</Text>
+		</Replace>
+
+		<!-- Human accepts AI requests, AI responds -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_AI_LEADER_ANY_ANY">
+			<Text>Цудоўна.</Text>
+		</Replace>
+
+		<!-- Human rejects AI requests, AI responds -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_AI_LEADER_ANY_ANY">
+			<Text>Няўдалая спроба.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_CHOICE_NEGATIVE">
+			<Text>Прабачце, але ў дадзены момант мы не можам далучыцца да хаўруса.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_CHOICE_POSITIVE">
+			<Text>Мы рады паведаміць усяму свету, што зараз нас згуртоўвае хаўрус.</Text>
+		</Replace>
+
+
+	</LocalizedText>
+</GameData>

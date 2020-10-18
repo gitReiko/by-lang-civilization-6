@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- diplomacymodifiers_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:32:59 AM -->
+<GameData>
+	<LocalizedText>
+
+		<!-- TEMPORARY KLUDGE: DO NOT USE ".", "'", or "-" punctuation in this file until DiplomacyActionView.lua has been updated to have a more robust string parsing algorithm! -->
+		<!-- Standard modifiers -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_ALLY">
+			<Text>Вы іх хаўруснік</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DEMAND">
+			<Text>Вы вымагалі даніну</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_JOINT_WAR">
+			<Text>Вы змагалісь у супольнай вайне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_CITY_CONVERTED">
+			<Text>Вы звярнулі іх горад у сваю рэлігію</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_CULTURE_BOMBED">
+			<Text>Вы культурна асімілявалі частку іх тэрыторыі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_CITY_OCCUPIED">
+			<Text>Вы захапілі іх горад</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_CITY_OCCUPIED_FRIEND">
+			<Text>Вы захапілі горад, які прыналежаў іх сябру або хаўрусніку</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_LIBERATED_CITY">
+			<Text>Вы вызвалілі горад</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_LIBERATED_MY_CITY">
+			<Text>Вы вызвалілі іх горад</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_RAZED_MY_CITY">
+			<Text>Вы зруйнавалі іх горад</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DECLARED_SURPRISE_WAR_ON_FRIEND">
+			<Text>Вы нечакана пачалі вайну з іх сябрам</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DENOUNCED_FRIEND">
+			<Text>Вы зганілі іх сябра</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DECLARED_FRIENDSHIP_WITH_FRIEND">
+			<Text>Вы сябруеце з іх сябрам</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_ALLIED_WITH_FRIEND">
+			<Text>Вы хаўруснік іх сябра</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DECLARED_SURPRISE_WAR_ON_ENEMY">
+			<Text>Вы нечакана пачалі вайну з іх ворагам</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DENOUNCED_ENEMY">
+			<Text>Вы зганілі іх ворага</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DECLARED_FRIENDSHIP_WITH_ENEMY">
+			<Text>Вы сябруеце з іх ворагам</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DECLARED_ALLIED_WITH_ENEMY">
+			<Text>Вы хаўруснік іх ворага</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DECLARED_FRIEND">
+			<Text>Вы іх сябар</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DEFENSIVE_PACT">
+			<Text>Вы склалі з імі абарончую дамову</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DELEGATION">
+			<Text>Вы адправілі да ніх амбасадараў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DENOUNCED">
+			<Text>Вы зганілі іх</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_HAD_FRIENDLY_MEETING">
+			<Text>Вы па-сяброўску сустрэлі іх</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_NEAR_BORDER_WARNING">
+			<Text>Ваша войска знаходзіцца каля іх мяжы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_SETTLED_NEAR_BORDER_WARNING">
+			<Text>Вы пабудавалі горад каля іх мяжы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_SHARED_RELIGION">
+			<Text>Вы ўшаноўваеце адных і тых жа багоў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_STOP_SPYING_ON_ME_WARNING">
+			<Text>Яны злавілі нашага шпіёна</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_STOP_DIGGING_UP_ARTIFACTS_WARNING">
+			<Text>Вы раскопвалі артэфакты на іх тэрыторыі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_BROKEN_PROMISE">
+			<Text>Вы парушылі сваё абяцанне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_CLOSE_TO_VICTORY">
+			<Text>Мы перамагаем. Яны баяцца нас.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_KEPT_PROMISE">
+			<Text>Вы стрымалі сваё абяцанне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_NO_PROMISE">
+			<Text>Вы ім нічога не паабяцалі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_OPEN_BORDERS">
+			<Text>Вы адчынілі мяжу</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_RESIDENT_EMBASSY">
+			<Text>Вы пабудавалі ў іх сталіцы амбасаду</Text>
+		</Replace>
+
+		<!-- Historical agenda modifiers -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_ALLY_OF_ENKIDU_DECLARED_FRIEND">
+			<Text>Гільгамеш добра ставіцца да сваіх сяброў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_ALLY_OF_ENKIDU_DENOUNCED_FRIEND">
+			<Text>Гільгамеш ненавідзіць тых хто ганьбуе яго сябраў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_BACKSTAB_AVERSE_FRIEND">
+			<Text>Тамірыс добра ставіцца да сваіх сяброў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DEAL_GOLD_NOT_ENOUGH_YIELD">
+			<Text>Тамірыс не падабаецца тое што вы нечакана пачалі вайну</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_GREAT_PEOPLE_OBSESSED_LAGGING">
+			<Text>Пэдра II падабаецца адсутнасць у іншых валадароў выдатных дзеячаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_GREAT_PEOPLE_OBSESSED_LEADING">
+			<Text>Пэдра II не падабаецца калі нехта атрымлівае болей за яго выдатных дзеячаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_WESTERNIZER_LAGGING">
+			<Text>Пятру Вялікаму не падабаюцца цывілізацыі з неразвітай навукай і культурай</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_WESTERNIZER_LEADING">
+			<Text>Пятру Вялікаму падабаюцца цывілізацыі з развітай навукай і культурай</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_WITH_SHIELD_OR_ON_IT">
+			<Text>Гарго жадае даведацца вы змагаецесь альбо плаціце за мір</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_WITH_SHIELD_NEVER_WARRED">
+			<Text>Гарго жадае убачыць як вы змагаецесь</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_WITH_SHIELD_PAID_FOR_PEACE">
+			<Text>Гарго ведае што вы плаціце за мір</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_WONDER_OBSESSED_LAGGING">
+			<Text>Цыню Шыхуандзі падабаецца што вы пабудавалі меней за яго цудаў света</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_WONDER_OBSESSED_LEADING">
+			<Text>Цыню Шыхуандзі раззлаваны тым што вы пабудавалі болей за яго цудаў света</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_PEACEKEEPER_NOT_WARMONGER">
+			<Text>Гандзі падабаецца што вы жывёце ў міры</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_PEACEKEEPER_WARMONGER">
+			<Text>Гандзі не падабаецца што вы ваюеце</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_COUNTER_REFORMER_SAME">
+			<Text>Піліп ІІ добра ставіцца да тых хто спавядае яго рэлігію</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_COUNTER_REFORMER_ENCROACHING">
+			<Text>Піліп ІІ у лютасці з за таго што вы распаўсюджваеце сваю рэлігію ў яго імперыі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DELIAN_NOT_COMPETING">
+			<Text>Перыклу падабаецца што вас не цікавяць яго гарады дзяржавы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DELIAN_COMPETING">
+			<Text>Перыклу не падабаецца што вас цікавяць яго гарады дзяржавы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DISCIPLE_RECEIVED">
+			<Text>Мвемба а Нзінга задаволены што вы распаўсюджваеце ў яго імперыі сваю рэлігію</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DISCIPLE_NOT_RECEIVED">
+			<Text>Мвемба а Нзінга незадаволены тым што вы не распаўсюджваеце сваю рэлігію ў яго імперыі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_IRON_CROWN_NOT_INVOLVED">
+			<Text>Фрыдрых Барбароса задаволены што вас не цікавяць гарады-дзяржавы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_IRON_CROWN_INVOLVED">
+			<Text>Фрыдрых Барбароса раззлаваны тым што вы падначальваеце гарады дзяржавы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_SUN_SETS_HOME_CONTINENT">
+			<Text>Вікторыі добра ставіцца да валадароў са свайго кантынента</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_SUN_SETS_NEW_CONTINENT">
+			<Text>Вікторыя жадае каланізаваць ваш кантынент</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_BIG_STICK_CONTINENT_ATTACKED">
+			<Text>Тэадору Рузвельту не падабаецца калі ваююць на яго родным кантыненце</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_BIG_STICK_CONTINENT_PEACEFUL">
+			<Text>Тэадору Рузвельту падабаюцца мірныя цывілізацыі на яго кантыненце</Text>
+		</Replace>
+
+		<!-- Random agendas -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_GREAT_PEOPLE_ADVOCATE_LAGGING">
+			<Text>Валадару падабаецца адсутнасць у іншых цывілізацый выдатных дзеячаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_GREAT_PEOPLE_ADVOCATE_LEADING">
+			<Text>Валадару не падабаецца калі нехта атрымлівае болей за яго выдатных дзеячаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_WONDER_ADVOCATE_LAGGING">
+			<Text>Валадару падабаецца што вы пабудавалі меней за яго цудаў света</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_WONDER_ADVOCATE_LEADING">
+			<Text>Валадар раззлаваны тым што вы пабудавалі болей за яго цудаў света</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_CITY_STATE_NOT_COMPETING">
+			<Text>Валадару падабаецца што вас не цікавяць яго гарады дзяржавы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_CITY_STATE_COMPETING">
+			<Text>Валадару не падабаецца што вас цікавяць яго гарады дзяржавы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_CULTURE">
+			<Text>Валадару падабаюцца цывілізацыі якія развіваюць культуру</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_CULTURE">
+			<Text>Валадару не падабаюцца цывілізацыі якія не развіваюць культуру</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_INDUSTRY">
+			<Text>Валадару падабаюцца цывілізацыі якія развіваюць прамысловасць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_INDUSTRY">
+			<Text>Валадару не падабаюцца цывілізацыі якія не развіваюць прамысловасць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_STANDING_ARMY">
+			<Text>Валадару падабаюцца цывілізацыі з моцным войскам</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_STANDING_ARMY">
+			<Text>Валадару не падабаюцца цывілізацыі з маленькім войскам</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_SCIENCE">
+			<Text>Валадару падабаюцца цывілізацыі якія развіваюць навуку</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_SCIENCE">
+			<Text>Валадару не падабаюцца цывілізацыі якія не развіваюць навуку</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_HAPPINESS">
+			<Text>Валадару падабаюцца цывілізацыі якія клапоцяцца аб сваіх грамадзянах</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_HAPPINESS">
+			<Text>Валадару не падабаюцца цывілізацыі якія не клапоцяцца аб сваіх грамадзянах</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_INCOME">
+			<Text>Валадару падабаюцца цывілізацыі якія зарабляюць шмат золата</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_INCOME">
+			<Text>Валадару не падабаюцца цывілізацыі якія не зарабляюць шмат золата</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_POPULATION">
+			<Text>Валадару падабаюцца цывілізацыі з вялікай колькасцю насельніцтва</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_POPULATION">
+			<Text>Валадару не падабаюцца цывілізацыі з маленькай колькасцю насельніцтва</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_ENJOYS_WAR">
+			<Text>Валадару падабаюцца цывілізацыі якія змагаюцца і перамагаюць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_ATTACKS_BARBARIANS">
+			<Text>Валадару падабаюцца цывілізацыі якія знішчаюць варварскія лагеры</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_IGNORES_BARBARIANS">
+			<Text>Валадару не падабаюцца цывілізацыі якія не знішчаюць варварскія лагеры</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_ENVIRONMENT">
+			<Text>Валадару не падабаюцца цывілізацыі якія знішчаюць прыроду</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_EXPLOITATION">
+			<Text>Валадару падабаюцца цывілізацыі якія знішчаюць прыроду і паляпшаюць свою тэрыторыю</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAME_GOVERNMENT">
+			<Text>Валадару падабаюцца цывілізацыі з гэткім жа ўрадам</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_DIFFERENT_GOVERNMENT">
+			<Text>Валадару не падабаюцца цывілізацыі з іншым ўрадам</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_NUKE_LOVE">
+			<Text>Валадару падабаюцца цывілізацыі з ядзернай зброяй</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_NUKE_LOVE">
+			<Text>Валадару не падабаюцца цывілізацыі без ядзернай зброяй</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_FAITH">
+			<Text>Валадару падабаюцца рэлігійныя цывілізацыі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_FAITH">
+			<Text>Валадару не падабаюцца свецкія цывілізацыі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_EXPLORATION">
+			<Text>Валадару не падабаюцца цывілізацыі якія выведалі карту лепш за яго</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_EXPLORATION">
+			<Text>Валадару падабаюцца цывілізацыі якія выведалі карту горш за яго</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_AIRPOWER">
+			<Text>Валадару падабаюцца цывілізацыі з моцнымі паветранымі сіламі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_AIRPOWER">
+			<Text>Валадару не падабаюцца цывілізацыі са слабымі паветранымі сіламі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_CITY_STATE_PROTECTION">
+			<Text>Валадару вельмі падабаюцца цывілізацыі якія ўвесь час бароняць шмат гарадоў дзяржаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_MED_CITY_STATE_PROTECTION">
+			<Text>Валадару падабаюцца цывілізацыі якія бароняць гарады дзяржавы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_MED_CITY_STATE_AGGRESSION">
+			<Text>Валадару не падабаюцца цывілізацыі якія накідваюцца на гарады дзяржавы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_CITY_STATE_AGGRESSION">
+			<Text>Валадар ў лютасці ад цывілізацыі якія ўвесь час накідваюцца на шмат гарадоў дзяржаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_WONDERS_COMPETING">
+			<Text>Валадару не падабаюцца цывілізацыі якія пабудавалі болей за яго цудаў света</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_WONDERS_NOT_COMPETING">
+			<Text>Валадару падабаюцца цывілізацыі якія пабудавалі меней за яго цудаў света</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_GREAT_PEOPLE_COMPETING">
+			<Text>Валадару не падабаюцца цывілізацыі якія атрымалі болей за яго выдатных дзеячаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_GREAT_PEOPLE_NOT_COMPETING">
+			<Text>Валадару падабаюцца цывілізацыі якія атрымалі меней за яго выдатных дзеячаў</Text>
+		</Replace>
+
+		<!-- Future modifiers (not yet implemented)-->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_THIRD_PARTY_TRADE_POSITIVE">
+			<Text>Валадару падабаюцца цывілізацыі якія гандлююць з яго сябрамі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_THIRD_PARTY_TRADE_NEGATIVE">
+			<Text>Валадару не падабаюцца цывілізацыі якія гандлююць з яго ворагамі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DOF_WITH_THEIR_FRIENDS">
+			<Text>Валадару падабаюцца цывілізацыі якія сябруюць з яго сябрамі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DOF_WITH_THEIR_ENEMIES">
+			<Text>Валадару не падабаюцца цывілізацыі якія сябруюць з яго ворагамі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_ALLIED_WITH_THEIR_FRIENDS">
+			<Text>Валадару падабаюцца хаўрусныя яго сябру цывілізацыі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_ALLIED_WITH_THEIR_ENEMIES">
+			<Text>Валадару не падабаюцца хаўрусныя яго ворагам цывілізацыі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DEFENSIVE_PACT_WITH_THEIR_FRIENDS">
+			<Text>Валадару падабаюцца цывілізацыі якія склалі абарончую дамову з яго сябрам</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DEFENSIVE_PACT_WITH_THEIR_ENEMIES">
+			<Text>Валадару не падабаюцца цывілізацыі якія склалі абарончую дамову з яго ворагам</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DENOUNCED_THEIR_ENEMIES">
+			<Text>Валадару падабаюцца цывілізацыі якія ганьбуюць яго ворагаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DENOUNCED_THEIR_FRIENDS">
+			<Text>Валадару не падабаюцца цывілізацыі якія ганьбуюць яго сяброў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_UNWANTED_RELIGION">
+			<Text>Валадару не падабаюцца гвалтоўнае насаджэнне нашай рэлігіі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_ALLIANCE_BROKEN">
+			<Text>Валадар ў лютасці ад таго што вы разадралі з ім хаўрус</Text>
+		</Replace>
+
+		<!-- Non-leader specific versions of modifiers (to use in scenarios, etc.) -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_GENERIC_BIG_STICK_CONTINENT_ATTACKED">
+			<Text>Валадару не падабаюцца агрэсары на яго родным кантыненце</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_GENERIC_BIG_STICK_CONTINENT_PEACEFUL">
+			<Text>Валадару падабаюцца мірныя цывілізацыі на яго родным кантыненце</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

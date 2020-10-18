@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- technologies_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:52:52 AM -->
+<GameData>
+	<LocalizedText>
+
+		<Replace Language="en_US" Tag="LOC_TECH_POTTERY_DESCRIPTION">
+			<Text>Дазваляе паглынаць [ICON_RESOURCE_WHEAT] пшаніцу і [ICON_RESOURCE_RICE] рыс.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_ANIMAL_HUSBANDRY_DESCRIPTION">
+			<Text>Дазваляе паглынаць [ICON_RESOURCE_CATTLE] скаціну, [ICON_RESOURCE_SHEEP] авечак і [ICON_RESOURCE_DEER] аленяў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_MINING_DESCRIPTION">
+			<Text>Дазваляе секчы лес і паглынаць [ICON_RESOURCE_Copper] медзь.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_SAILING_DESCRIPTION">
+			<Text>Дазваляе будаўнікам плаваць па плыткаводдзю.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_IRRIGATION_DESCRIPTION">
+			<Text>Дазваляе асушваваць багны і паглынаць [ICON_RESOURCE_BANANAS] бананы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_MASONRY_DESCRIPTION">
+			<Text>Дазваляе паглынаць [ICON_RESOURCE_STONE] каменне.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_BRONZE_WORKING_DESCRIPTION">
+			<Text>Дазваляе секчы джунглі. Адкрывае [ICON_RESOURCE_IRON] жалеза.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_SHIPBUILDING_DESCRIPTION">
+			<Text>Дазваляе адзінкам плаваць па плыткаводдзю.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_CELESTIAL_NAVIGATION_DESCRIPTION">
+			<Text>Дазваляе ствараць марскія гандлёвыя шляхі і паглынаць [ICON_RESOURCE_FISH] рыбу і [ICON_RESOURCE_CRABS] крабаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_MATHEMATICS_DESCRIPTION">
+			<Text>+1 да [ICON_Movement] руху ўсім марскіх адзінкам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_APPRENTICESHIP_DESCRIPTION">
+			<Text>Рудні пачынаюць дадаткова даваць +1 [ICON_Production] вытворчасць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_CASTLES_DESCRIPTION">
+			<Text>Бонус да [ICON_Culture] культуры за суседства з Вялікім Мурам. Кацярына Медычы атрымлівае дармовага шпіёна.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_CARTOGRAPHY_DESCRIPTION">
+			<Text>Рыбацкія чоўны пачынаюць дадаткова даваць +2 [ICON_Gold] золата. Усе адзінкі атрымліваюць здольнасць плаваць па акіяне.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_SQUARE_RIGGING_DESCRIPTION">
+			<Text>+1 да [ICON_Movement] руху па мору наземным адзінкам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_BANKING_DESCRIPTION">
+			<Text>Каменяломні пачынаюць дадаткова даваць +2 [ICON_Gold] золата.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_PRINTING_DESCRIPTION">
+			<Text>Дае дадатковы ўзровень шпіянажу супраць усіх цывілізацый. Падвойвае прыбытак [ICON_Tourism] турызму ад усіх [ICON_GreatWork_Writing] літаратурных твораў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_RADIO_DESCRIPTION">
+			<Text>Адкрывае [ICON_RESOURCE_ALUMINUM] алюміній.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_INDUSTRIALIZATION_DESCRIPTION">
+			<Text>Рудні пачынаюць дадаткова даваць +1 [ICON_Production] вытворчасць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_SCIENTIFIC_THEORY_DESCRIPTION">
+			<Text>Дазваляе складаць навуковыя дамовы. Плантацыі пачынаюць дадаткова даваць +1 [ICON_Food] ежу.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_SANITATION_DESCRIPTION">
+			<Text>Вадасховішчы пачынаюць дадаткова даваць +1 [ICON_Housing] жытло.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_STEAM_POWER_DESCRIPTION">
+			<Text>+2 да [ICON_Movement] руху па мору наземным адзінкам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_FLIGHT_DESCRIPTION">
+			<Text>Усе паляпшэнні, якія даюць [ICON_Culture] культуру, пачынаюць вырабляць [ICON_Tourism] турызм роўны [ICON_Culture] культуры, якую яны даюць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_REPLACEABLE_PARTS_DESCRIPTION">
+			<Text>Фермы паляпшаюцца да механізаваных гаспадарак. +1 [ICON_Food] ежа за кожную суседнюю ферму.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_STEEL_DESCRIPTION">
+			<Text>Лесапільні пачынаюць дадаткова даваць +1 [ICON_Production] вытворчасць. Адкрывае Гарадскую Абарону, якая дае гораду 200 фартыфікацыйнай моцы і здольнасць нанясення далёкіх атак. Састарваюцца ўсе папярэднія абараняльныя збудаванні і ўзмацняльныя аблогавыя адзінкі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_COMBUSTION_DESCRIPTION">
+			<Text>+1 да [ICON_Movement] руху па мору наземным адзінкам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_ROCKETRY_DESCRIPTION">
+			<Text>Каменяломні пачынаюць дадаткова даваць +1 [ICON_Production] вытворчасць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_PLASTICS_DESCRIPTION">
+			<Text>Рыбацкія чоўны пачынаюць дадаткова даваць +1 [ICON_Food] ежу.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_COMPUTERS_DESCRIPTION">
+			<Text>Дазваляе наняць дадатковага шпіёна. Увесь прыбытак [ICON_Tourism] турызму падвоены.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_SYNTHETIC_MATERIALS_DESCRIPTION">
+			<Text>Паляўнічыя лагеры пачынаюць дадаткова даваць +1 [ICON_Gold] золата.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_ROBOTICS_DESCRIPTION">
+			<Text>Пашы пачынаюць дадаткова даваць +1 [ICON_Production] вытворчасць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_FUTURE_TECH_DESCRIPTION">
+			<Text>Дадзеную тэхналогію можна даследаваць некалькі разоў. Дае дадатковыя ачкі перамогі.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SAILING">
+			<Text>Пабудуйце горад на ўзбярэжжы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ASTROLOGY">
+			<Text>Адшукайце дзіва прыроды.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_IRRIGATION">
+			<Text>Пабудуйце хату на рэсурсе.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ARCHERY">
+			<Text>Забейце каго-небудзь прашчнікам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_WRITING">
+			<Text>Адшукайце іншую цывілізацыю.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MASONRY">
+			<Text>Пабудуйце каменяломню.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_BRONZE_WORKING">
+			<Text>Забейце 3 варвараў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_THE_WHEEL">
+			<Text>Пабудуйце рудню на рэсурсе.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CELESTIAL_NAVIGATION">
+			<Text>Пабудуйце 2 рыбацкіх чоўна.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CURRENCY">
+			<Text>Стварыце [ICON_TradeRoute] гандлёвы шлях.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_HORSEBACK_RIDING">
+			<Text>Пабудуйце пашу.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_IRON_WORKING">
+			<Text>Пабудуйце жалезную рудню.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SHIPBUILDING">
+			<Text>Валодайце 2 галерамі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MATHEMATICS">
+			<Text>Пабудуйце 3 розныя мястэчкі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CONSTRUCTION">
+			<Text>Пабудуйце вадзяны млын.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ENGINEERING">
+			<Text>Пабудуйце старажытны мур.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MILITARY_TACTICS">
+			<Text>Забейце каго-небудзь дзіднікам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_APPRENTICESHIP">
+			<Text>Пабудуйце 3 рудні.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_STIRRUPS">
+			<Text>Адкрыйце палітыку «Феадалізм».</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MACHINERY">
+			<Text>Валодайце 3 лучнікамі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_EDUCATION">
+			<Text>Атрымайце выдатнага навукоўца.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MILITARY_ENGINEERING">
+			<Text>Пабудуйце акведук.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CASTLES">
+			<Text>Прыйміце ўрад з 6 урадавымі картамі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CARTOGRAPHY">
+			<Text>Пабудуйце 2 гавані.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MASS_PRODUCTION">
+			<Text>Пабудуйце лесапільню.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_BANKING">
+			<Text>Адкрыйце палітыку «Гільдыі».</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_GUNPOWDER">
+			<Text>Пабудуйце збройню.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_PRINTING">
+			<Text>Пабудуйце 2 універсітэта.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SQUARE_RIGGING">
+			<Text>Забейце каго-небудзь мушкецёрам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ASTRONOMY">
+			<Text>Пабудуйце ўніверсітэт каля гары.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_METAL_CASTING">
+			<Text>Валодайце 2 арбалетчыкамі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SIEGE_TACTICS">
+			<Text>Валодайце 2 бамбардамі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_INDUSTRIALIZATION">
+			<Text>Пабудуйце 3 майстэрні.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SCIENTIFIC_THEORY">
+			<Text>Адкрыйце палітыку «Асвета».</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_BALLISTICS">
+			<Text>Валодайце 2 фортамі на вашай тэрыторыі. Іх можа пабудаваць вайсковы інжынер.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MILITARY_SCIENCE">
+			<Text>Забейце каго-небудзь рыцарам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_STEAM_POWER">
+			<Text>Пабудуйце 2 верфі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SANITATION">
+			<Text>Пабудуйце 2 спальных прыгарада.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ECONOMICS">
+			<Text>Пабудуйце 2 банка.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_RIFLING">
+			<Text>Пабудуйце парахавую рудню.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_FLIGHT">
+			<Text>Пабудуйце цуда свету прамысловай альбо пазнейшай эры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_REPLACEABLE_PARTS">
+			<Text>Валодайце 3 мушкецёрамі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_STEEL">
+			<Text>Пабудуйце вугальную рудню і браняносец.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ELECTRICITY">
+			<Text>Валодайце 3 каперамі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_RADIO">
+			<Text>Пабудуйце нацыянальны запаведнік.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CHEMISTRY">
+			<Text>Складзіце навуковую дамову.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_COMBUSTION">
+			<Text>Здабудзьце артэфакт.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ADVANCED_FLIGHT">
+			<Text>Пабудуйце 3 біплана.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ADVANCED_BALLISTICS">
+			<Text>Пабудуйце 2 электроўні.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_COMBINED_ARMS">
+			<Text>Утрымлівайце 3 войскі ці армады.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_PLASTICS">
+			<Text>Пабудуйце нафтавую свідравіну.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_COMPUTERS">
+			<Text>Прыйміце ўрад з 8 урадавымі картамі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SYNTHETIC_MATERIALS">
+			<Text>Пабудуйце 2 лётнішча.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_TELECOMMUNICATIONS">
+			<Text>Пабудуйце 2 цэнтра вяшчання.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_GUIDANCE_SYSTEMS">
+			<Text>Забейце вайскова-паветраны знішчальнік.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_COMPOSITES">
+			<Text>Валодайце 3 танкамі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ROBOTICS">
+			<Text>Адкрыйце палітыку «Глабалізацыя».</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_NANOTECHNOLOGY">
+			<Text>Пабудуйце алюмініевую рудню.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MUST_STEAL">
+			<Text>Атрымайце выдатнага навукоўца альбо шпіёна.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SAILING">
+			<Text>Наяўнасць горада на ўзбярэжжы дазволіць вашай цывілізацыі лепей зразумець марскую навігацыю.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ASTROLOGY">
+			<Text>Адкрыццё дзіва прыроды натхніць ваш народ на ўсведамленне велічы сусвету.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_IRRIGATION">
+			<Text>Вядзенне сельскай гаспадаркі на рэсурсе дапаможа вашаму народу ўсвядоміць важнасць ірыгацыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ARCHERY">
+			<Text>Забойства ворага прашчой прывядзе да імкнення валодаць магутнейшай зброяй далёкага бою.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_WRITING">
+			<Text>Спатканне з іншай цывілізацыяй падпіхне вас да патрэбы валодаць новымі сродкамі камунікавання.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MASONRY">
+			<Text>Будаўніцтва каменяломні пакіне вам сыравіну патрэбную мулярам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_BRONZE_WORKING">
+			<Text>Змаганні з варварамі падпіхнуць вас да патрэбы валодання магутнейшай зброяй.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_THE_WHEEL">
+			<Text>Здабыча карысных выкапняў прывядзе да вынаходства восі. А потым колу?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CELESTIAL_NAVIGATION">
+			<Text>З цягам часу вашы рыбакі навучацца арыентавацца па зорным небе.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CURRENCY">
+			<Text>Вашы [ICON_TradeRoute] гандлёвыя шляхі дазваляюць мяняцца таварамі, зрэшты наяўнасць універсальнага сродку памену зрабіла б гандаль больш гнуткім.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_HORSEBACK_RIDING">
+			<Text>Прыручаныя жывёлы на пашах навучаць ваш народ вярховай яздзе.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_IRON_WORKING">
+			<Text>Доступ да надзейнай крыніцы жалеза дазволіць пабудаваць лепшую зброю ды найтрывалую браню.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SHIPBUILDING">
+			<Text>Будаўніцтва атрада галер навучыць вашу цывілізацыю будаваць буйнейшыя караблі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MATHEMATICS">
+			<Text>Гарадское планаванне навучыць вас асновам геаметрыі. Магчыма хутка вы распрацуеце поўную матэматычную сістэму.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CONSTRUCTION">
+			<Text>Праца над першым вадзяным млынам навучыць вашых будаўнікоў новым метадам будавання.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ENGINEERING">
+			<Text>Будаванне каменнага мура вакол вашага горада, дазволіць зразумець прынцыпы будавання катапульт і акведукаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TACTICS">
+			<Text>Дзіднікі даказалі сваю эфектыўнасць, але вашы ворагі сталі хутчэй і мацней. Магчыма вам патрэбна даўжэйшая зброя?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_APPRENTICESHIP">
+			<Text>Шматлікая сыравіна, якая здабываецца ў вашых шахтах, прывядзе да патрэбнасці абучэння вашых рамеснікаў новым спосабам яе апрацоўкі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_STIRRUPS">
+			<Text>Феадалы вашага каралеўства жадаюць убачыць ваяра, які зможа іх абароніць. Магчыма, гэта атрымацца ў браняванага вярховага ваяра?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MACHINERY">
+			<Text>Механізацыя дапаможа павялічыць эфектыўнасць вашых шматлікіх стралковых атрадаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_EDUCATION">
+			<Text>Уплыў выдатнага навукоўца дапаможа адрадзіць зацікаўленасць да адукацыі ў вашым каралеўстве.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_ENGINEERING">
+			<Text>Вашы генералы ўважліва сочаць за будаўніцтвам акведука. Яны бачаць новыя спосабы ўжывання дасягненняў сучаснай інжынерыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CASTLES">
+			<Text>Новы міністр абароны лічыць, што нам патрэбна пабудаваць мацнейшую абарону для нашай клапатлівай сталіцы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CARTOGRAPHY">
+			<Text>Гавані вашай цывілізацыі перапоўнены караблямі, таму для таго, каб нічога не выпусціць з-пад увагі, вы вырашаеце дакументаваць шматлікія экспедыцыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MASS_PRODUCTION">
+			<Text>Праведзеная стандартызацыя, хутка прывядзе да моцнага развіцця караблебудавання.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_BANKING">
+			<Text>Новым гільдыям патрэбна вялізарная колькасць золата. Магчыма, нам трэба прапанаваць ім крэдыт?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_GUNPOWDER">
+			<Text>Збройнікі вынайшлі новую зброю, якая здольна знішчыць вашых ворагаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_PRINTING">
+			<Text>У выніку неабходнасці вашы настаўнікі вынайшлі новы спосаб хуткага капіявання кніг.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SQUARE_RIGGING">
+			<Text>Поспех парахавой зброі на сушы прывёў вас да ідэі яе выкарыстоўвання на моры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ASTRONOMY">
+			<Text>Вашы навукоўцы бесперапынна падарожнічаюць ў горы, каб лепей убачыць зорнае неба. Магчыма будаўніцтва горнай абсерваторыі дапаможа ім?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_METAL_CASTING">
+			<Text>Дзякуючы велічэзнай колькасці арбалетчыкаў ваш народ добра вывучыў прынцып дзеяння новай дальнабойнай зброі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SIEGE_TACTICS">
+			<Text>Пасля стварэння бамбард ваш народ зразумеў, што замкі больш не змогуць яго абараніць. Яму патрэбна больш надзейная абарона.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_INDUSTRIALIZATION">
+			<Text>З майстэрняў папаўзлі чуткі пра нешта уражвальнае. Магчыма, шпарка пачнецца прамысловая рэвалюцыя.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SCIENTIFIC_THEORY">
+			<Text>У нашай цывілізацыі світанак эпохі асветы прывёў да сур'ёзных дыскусій аб існых навуковых методыках.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_BALLISTICS">
+			<Text>Вашы гарады ўжо абаронены многімі фартыфікацыямі. Імаверна гарматы змогуць зрабіць абарону трывалей.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_SCIENCE">
+			<Text>Ваш мужны рыцар змог перамагчы свайго ворага. З гэтай перамогі можна выняць шмат урокаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_STEAM_POWER">
+			<Text>Прыйшоў час зладзіць індустрыялізацыю на нашых верфях. Параходы будуць кіраваць морамі!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SANITATION">
+			<Text>Нашы гарады вельмі хутка растуць, паглынаючы суседнія мястэчкі. Трэба спешна распрацаваць аздараўленчыя мерапрыемствы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ECONOMICS">
+			<Text>Магутнасць нашых банкаў расце. Трэба вывучыць сілы, што фармуюць нашу эканоміку.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_RIFLING">
+			<Text>Дзякуючы пораху, ваша зброевая галіна квітнее. Наступны крок павінен быць скіраваны на паляпшэнне дакладнасці зброі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_FLIGHT">
+			<Text>Пабудаваўшы сучаснае дзіва інжынернай думцы, нашы інжынеры лічаць, што змогуць дасягнуць усяго. Цікава да чаго прывядуць гэтыя памкненні ў авіябудаўнічай дзейнасці?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_REPLACEABLE_PARTS">
+			<Text>Вашы збройнікі стаміліся шукаць патрэбныя запчасткі да сваіх мушкетаў. Магчыма, прыйшоў час зладзіць стандартызацыю?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_STEEL">
+			<Text>Хутка нашы вугальныя печы з фарсаванай цягай і прататыпы браняносцаў дазволяць вырабляць высакаякасную сталь.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ELECTRICITY">
+			<Text>Вашых хітрых марскіх ваўкоў зацікавіла адкрыццё электрычнасці. Ці змогуць яны скарыстаць яе для ўтойлівага руху флота?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_RADIO">
+			<Text>Нашы нацыянальныя запаведнікі маюць патрэбу ў наведніках. Магчыма, новая форма камунікацыі выдатна падыдзе для рэкламы?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CHEMISTRY">
+			<Text>Аб'яднанне сіл з іншымі краінамі выклікала ланцуговую рэакцыю навуковых дасягненняў. Ці будуць наступныя адкрыцці ў галіне хіміі?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMBUSTION">
+			<Text>Вашы археолагі заўважылі нафту, якая выцякае са скал. Магчыма, гэта зацікавіць геолагаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ADVANCED_FLIGHT">
+			<Text>Шматлікія эксперыменты з удзелам біпланаў прывялі да многіх прарываў у галіне авіябудавання.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ADVANCED_BALLISTICS">
+			<Text>Будаванне электроўняў узмацніла нашу прамысловую моц. Цяпер мы можам лепей вырабляць зброю.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMBINED_ARMS">
+			<Text>Вы ўмацавалі сваё войска. Ці можна ўмацаваць яго яшчэ болей з дапамогай новых рэсурсаў?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_PLASTICS">
+			<Text>Нафтавыя вырабы валодаюць многімі перавагамі. Іх пластычнасць уяўляе асаблівую цікавасць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMPUTERS">
+			<Text>Сучасны ўрад занадта моцна бюракратызаваны. Трэба распрацаваць новыя спосабы апрацоўкі інфармацыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SYNTHETIC_MATERIALS">
+			<Text>Разгалінаваная авіяцыйная інфраструктура ў нашых гарадах прывяла да новых навуковых прарываў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_TELECOMMUNICATIONS">
+			<Text>Дзякуючы першапраходнікам у галінах тэлебачання і радыё, вы навучыліся хутка перадаваць інфармацыю.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_GUIDANCE_SYSTEMS">
+			<Text>Знішчэнне варожага самалёта падпіхнула вас да патрэбы стварэння лепшай супрацьавіяцыйнай абароны.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMPOSITES">
+			<Text>Танкі сталі асновай вашага войска, таму навукоўцы спрабуюць стварыць больш дасканалыя мадэлі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ROBOTICS">
+			<Text>Эксперыменты над рознымі сплавамі металаў дапамогуць вашым навукоўцам зрабіць новыя адкрыцці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_NANOTECHNOLOGY">
+			<Text>Эксперыменты над рознымі сплавамі металаў дапамогуць вашым навукоўцам зрабіць новыя адкрыцці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_TEAM_MEMBER_OWNS_TECH">
+			<Text>Наш хаўруснік падзяліўся сваімі навуковымі адкрыццямі. Гэта дазволіла нам адкрыць новую тэхналогію. Іх інавацый спрыяюць нашаму развіццю.</Text>
+		</Replace>
+
+
+	</LocalizedText>
+</GameData>
+

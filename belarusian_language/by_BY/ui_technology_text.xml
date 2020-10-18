@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ui_technology_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:56:13 AM -->
+<GameData>
+	<LocalizedText>
+
+		<Replace Language="en_US" Tag="LOC_UI_TECHNOLOGY_RESEARCH_COMPLETE">
+			<Text>АДКРЫТА ТЭХНАЛОГІЯ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_TECHNOLOGY_RESEARCH_COMPLETE_BLURB">
+			<Text>Віншуем! Вы даследавалі тэхналогію «{1_TechnologyName}»!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_CIVIC_PROGRESS_COMPLETE">
+			<Text>АДКРЫТА ПАЛІТЫКА</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_USER_WARNING_QUIT">
+			<Text>Ваш народ захоплены палітыкай «{1_CivicName}»! Пагэтаму на гэтым кроку змена палітык і ўрада ДАРМАВЫЯ.</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

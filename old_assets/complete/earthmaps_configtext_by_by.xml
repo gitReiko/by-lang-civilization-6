@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+   <LocalizedText>
+   
+   
+     <Replace Language="by_BY" Tag="LOC_TSLEARTH_NAME">
+      <Text>Гістарычная Карта Землі</Text>
+    </Replace>
+     <Replace Language="by_BY" Tag="LOC_TSLEARTH_DESCRIPTION">
+      <Text>Цывілізацыі пачынаюць гульню на карце Землі з гістарычным размяшчэннем сталіц.</Text>
+    </Replace>	
+     <Replace Language="by_BY" Tag="LOC_EARTH_MAP_STANDARD_NAME">
+      <Text>Карта Землі</Text>
+    </Replace>	
+     <Replace Language="by_BY" Tag="LOC_EARTH_MAP_STANDARD_DESCRIPTION">
+      <Text>Карта мае абрыс падобны на Землю з адпаведным месцаваннем кантынентаў і рэсурсаў.</Text>
+    </Replace>
+ 
+   </LocalizedText>
+</GameData>

@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- leaders_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:46:52 AM -->
+<GameData>
+	<LocalizedText>
+
+		<!--Leader Names-->
+
+		<Replace Language="en_US" Tag="LOC_REPRESENTATIVE">
+			<Text>Валадар|Валадара|Валадару|Валадара|Валадаром|Валадару</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_BARBAROSSA_NAME">
+			<Text>Фрыдрых Барбароса|Фрыдрыха Барбаросы|Фрыдрыху Барбаросу|Фрыдрыха Барбаросу|Фрыдрыхам Барбаросам|Фрыдрыху Барбаросе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_CATHERINE_DE_MEDICI_NAME">
+			<Text>Кацярына Медычы|Кацярыны Медычы|Кацярыне Медычы|Кацярыну Медычы|Кацярынай Медычы|Кацярыне Медычы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_CLEOPATRA_NAME">
+			<Text>Клеапатра|Клеапатры|Клеапатры|Клеапатру|Клеапатрай|Клеапатры</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_GANDHI_NAME">
+			<Text>Гандзі|Гандзі|Гандзі|Гандзі|Гандзі|Гандзі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_GILGAMESH_NAME">
+			<Text>Гільгамеш|Гільгамеша|Гільгамешу|Гільгамеша|Гільгамешам|Гільгамешу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_GORGO_NAME">
+			<Text>Гарго|Гарго|Гарго|Гарго|Гарго|Гарго</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_HARDRADA_NAME">
+			<Text>Харальд Суровы|Харальда Суровага|Харальду Суроваму|Харальда Суровага|Харальдам Суровым|Харальду Суровым</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_HOJO_NAME">
+			<Text>Хадзё Такімунэ|Хадзё Такімунэ|Хадзё Такімунэ|Хадзё Такімунэ|Хадзё Такімунэ|Хадзё Такімунэ</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_MVEMBA_NAME">
+			<Text>Мвемба а Нзінга|Мвембы а Нзінга|Мвембу а Нзінга|Мвембу а Нзінга|Мвембам а Нзінга|Мвембу а Нзінга</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_PEDRO_NAME">
+			<Text>Пэдра II|Пэдра ІІ|Пэдра ІІ|Пэдра ІІ|Пэдра ІІ|Пэдра ІІ</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_PERICLES_NAME">
+			<Text>Перыкл|Перыкла|Перыклу|Перыкла|Перыклам|Перыклу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_PETER_GREAT_NAME">
+			<Text>Пётр Вялікі|Петра Вялікага|Пятру Вялікаму|Петра Вялікага|Пятром Вялікім|Петры Велікам</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_PHILIP_II_NAME">
+			<Text>Піліп II|Піліпа ІІ|Піліпу ІІ|Піліпа ІІ|Піліпам ІІ|Піліпу ІІ</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_QIN_NAME">
+			<Text>Цынь Шыхуандзі|Цыня Шыхуандзі|Цыню Шыхуандзі|Цыня Шыхуандзі|Цынем Шыхуандзі|Цыню Шыхуандзі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_SALADIN_NAME">
+			<Text>Саладзін|Саладзіна|Саладзіну|Саладзіна|Саладзінам|Саладзіну</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TOMYRIS_NAME">
+			<Text>Тамірыс|Тамірыс|Тамірыс|Тамірыс|Тамірыс|Тамірыс</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAJAN_NAME">
+			<Text>Траян|Траяна|Траяну|Траяна|Траянам|Траяну</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_T_ROOSEVELT_NAME">
+			<Text>Тэадор Рузвельт|Тэадора Рузвельта|Тэадору Рузвельту|Тэадора Рузвельта|Тэадорам Рузвельтам|Тэадору Рузвельту</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_VICTORIA_NAME">
+			<Text>Вікторыя|Вікторыі|Вікторыі|Вікторыю|Вікторыяй|Вікторыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!--Agenda Names-->
+
+		<Replace Language="en_US" Tag="LOC_AGENDA_ALLY_OF_ENKIDU_NAME">
+			<Text>Хаўруснік Энкіду</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_AYYUBID_DYNASTY_NAME">
+			<Text>Дынастыя Аюбідаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_BACKSTAB_AVERSE_NAME">
+			<Text>Пагарда да здраднікаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_BIG_STICK_POLICY_NAME">
+			<Text>Палітыка вялікай дубінкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_BLACK_QUEEN_NAME">
+			<Text>Чорная каралева</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_BUSHIDO_NAME">
+			<Text>Бусідо</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_CITY_STATE_ALLY_NAME">
+			<Text>Сюзерэн гарадоў-дзяржаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_COUNTER_REFORMER_NAME">
+			<Text>Контэр-рэфарматар</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_DELIAN_LEAGUE_NAME">
+			<Text>Дэласкі звяз</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_ENTHUSIASTIC_DISCIPLE_NAME">
+			<Text>Натхнённы паслядоўнік</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_GREAT_PERSON_OBSESSED_NAME">
+			<Text>Мецэнат</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_IRON_CROWN_NAME">
+			<Text>Жалезная карона</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_LAST_VIKING_KING_NAME">
+			<Text>Апошні кароль вікінгаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_OPTIMUS_PRINCEPS_NAME">
+			<Text>Оптымус прынцэпс</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_PARANOID_NAME">
+			<Text>Параноік</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_PEACEKEEPER_NAME">
+			<Text>Міратворац</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_QUEEN_OF_THE_NILE_NAME">
+			<Text>Царыца Нілу</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_SUN_NEVER_SETS_NAME">
+			<Text>Сонца ніколі не заходзіць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_TLATOANI_NAME">
+			<Text>Тлатаані</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_WESTERNIZER_NAME">
+			<Text>Захаднік</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_WITH_YOUR_SHIELD_OR_ON_IT_NAME">
+			<Text>Са шчытом ці на шчыце</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_WONDER_OBSESSED_NAME">
+			<Text>Сцяна ў дзесяць тысяч лі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_AIRPOWER_NAME">
+			<Text>Генерал паветраных сіл</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_BARBARIAN_LOVER_NAME">
+			<Text>Сябар варвараў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_CITY_STATE_PROTECTOR_NAME">
+			<Text>Абаронца гарадоў-дзяржаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_CIVILIZED_NAME">
+			<Text>Цывілізаваны</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_CULTURED_NAME">
+			<Text>Культурны</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_DARWINIST_NAME">
+			<Text>Дарвініст</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_DEVOUT_NAME">
+			<Text>Набожны</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_ENVIRONMENTALIST_NAME">
+			<Text>Прыродалюб</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_EXPLOITATIVE_NAME">
+			<Text>Эксплуататар</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_EXPLORER_NAME">
+			<Text>Выведнік</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_FUN_LOVING_NAME">
+			<Text>Альтруіст</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_GREAT_PERSON_ADVOCATE_NAME">
+			<Text>Мецэнат</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_IDEOLOGUE_NAME">
+			<Text>Ідэолаг</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_INDUSTRIALIST_NAME">
+			<Text>Прамысловец</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_MONEY_GRUBBER_NAME">
+			<Text>Капіталіст</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_NATURALIST_NAME">
+			<Text>Натураліст</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_NUKE_LOVER_NAME">
+			<Text>Аматар ядзернай зброі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_POPULOUS_NAME">
+			<Text>Экспансіяніст</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_STANDING_ARMY_NAME">
+			<Text>Генерал</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_TECHNOPHILE_NAME">
+			<Text>Тэхнафіл</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_WONDER_ADVOCATE_NAME">
+			<Text>Выдатны дойлід</Text>
+		</Replace>
+
+		<!--Agenda Description-->
+
+		<Replace Language="en_US" Tag="LOC_AGENDA_ALLY_OF_ENKIDU_DESCRIPTION">
+			<Text>Сімпатызуе цывілізацыям, якія ствараюць доўгатэрміновыя звязы. Варожа ставіцца да тых, хто ганьбуе ці нападае на сваіх сяброў альбо хаўруснікаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_AYYUBID_DYNASTY_DESCRIPTION">
+			<Text>Сімпатызуе цывілізацыям, якія прынялі яго рэлігію і пабудавалі для яе храмы. Варожа ставіцца да прыхільнікаў іншых рэлігій і тых, хто ваюе з прыхільнікамі яго рэлігіі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_BACKSTAB_AVERSE_DESCRIPTION">
+			<Text>Сімпатызуе цывілізацыям, з якімі сябруе. З пагардай ставіцца да здраднікаў, якія аб'яўляюць раптоўныя войны.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_BIG_STICK_POLICY_DESCRIPTION">
+			<Text>Сімпатызуе мірным цывілізацыям, якія пабудавалі гарады на яго родным кантыненце. Не любіць цывілізацыі, якія пачынаюць войны на яго родным кантыненце супраць іншых цывілізацый альбо гарадоў-дзяржаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_BLACK_QUEEN_DESCRIPTION">
+			<Text>У першую чаргу імкнецца выкарыстоўваць шпіёнаў і дыпламатычныя сродкі. Не любіць цывілізацыі, якія ігнаруюць шпіянаж.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_BUSHIDO_DESCRIPTION">
+			<Text>Падабаюцца [ICON_Faith] набожныя цывілізацыі з магутным войскам ды развітай [ICON_Culture] культурай. Не падабаюцца цывілізацыі з магутным войскам, але неразвітай [ICON_Faith] набожнасцю і [ICON_Culture] культурай.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_CITY_STATE_ALLY_DESCRIPTION">
+			<Text>Падабаюцца цывілізацыі, якія не канкуруюць за васалітэт цікавых яму гарадоў-дзяржаў. Не любіць выяўную канкурэнцыю з іншымі цывілізацыямі за гарады-дзяржавы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_COUNTER_REFORMER_DESCRIPTION">
+			<Text>Сімпатызуе прыхільнікам прынятай ім жа рэлігіі ды жадае, каб яго гарады прыналежалі да гэтай жа рэлігіі. Варожа ставіцца да спробы распаўсюджвання іншай рэлігій у сваёй імперыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_DELIAN_LEAGUE_DESCRIPTION">
+			<Text>Сімпатызуе цывілізацыям, якія не канкуруюць за васалітэт цікавых яму гарадоў-дзяржаў. Варожа ставіцца да выяўнай канкурэнцыі за гарады-дзяржавы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_ENTHUSIASTIC_DISCIPLE_DESCRIPTION">
+			<Text>Падабаюцца цывілізацыі, якія распаўсюджваюць сваю рэлігію ў Конга. Не падабаюцца цывілізацыі, якія заснавалі сваю рэлігію, але не распаўсюдзілі яе ў яго імперыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_GREAT_PERSON_OBSESSED_DESCRIPTION">
+			<Text>Сімпатызуе цывілізацыям, якія не канкуруюць за [ICON_GreatPerson] выдатных дзеячаў. Наймае [ICON_GreatPerson] выдатных дзеячаў пры кожнай магчымасці. Не любіць саступаць [ICON_GreatPerson] выдатных дзеячаў іншым цывілізацыям.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_IRON_CROWN_DESCRIPTION">
+			<Text>Сімпатызуе цывілізацыям, якія не маюць стасункаў з гарадамі-дзяржавамі. Варожа ставіцца да сюзерэнаў або захопнікаў гарадоў-дзяржаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_LAST_VIKING_KING_DESCRIPTION">
+			<Text>Імкнецца будаваць магутны флот і паважае тых, хто дзейнічае гэтак жа. Кпіць з цывілізацый са слабым флотам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_OPTIMUS_PRINCEPS_DESCRIPTION">
+			<Text>Імкнецца ўключыць у сваю імперыю як мага болей тэрыторый. Варожа ставіцца да маленькіх цывілізацый.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_PARANOID_DESCRIPTION">
+			<Text>Сімпатызуе цывілізацыям, якія не ўяўляюць пагрозы. Баіцца цывілізацый з моцным войскам альбо з блізка размешчанымі гарадамі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_QUEEN_OF_THE_NILE_DESCRIPTION">
+			<Text>Сімпатызуе цывілізацыям з моцным войскам. Імкнецца складаць з імі звязы, каб пазбегнуць ваенных канфліктаў. З пагардай ставіцца да цывілізацый са слабым войскам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_PEACEKEEPER_DESCRIPTION">
+			<Text>Ніколі не пачынае войны, з-за якіх яго могуць празваць агрэсарам. Імкнецца сябраваць з мірнымі цывілізацыямі. Варожа ставіцца да агрэсараў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_SUN_NEVER_SETS_DESCRIPTION">
+			<Text>Сімпатызуе цывілізацыям, якія размяшчаюцца на яе родным кантыненце. Імкнецца пашырыць сваю імперыю на ўсе кантыненты. З фанабэрыстасцю ставіцца да цывілізацый на іншых кантынентах, дзе няма ангельскіх гарадоў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_TLATOANI_DESCRIPTION">
+			<Text>Сімпатызуе цывілізацыі, якія валодаюць гэткімі ж рэсурсамі асалоды, што і ён. Імкнецца сабраць усе рэсурсы асалоды. Варожа ставіцца да цывілізацый з рэсурсамі асалоды, якіх ў яго няма.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_WESTERNIZER_DESCRIPTION">
+			<Text>Падабаюцца цывілізацыям, якія апераджаюць яго па ўзроўню развіцця [ICON_Science] навукі і [ICON_Culture] культуры. Варожа ставіцца да цывілізацый з неразвітай [ICON_Science] навукай і [ICON_Culture] культурай.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_WITH_YOUR_SHIELD_OR_ON_IT_DESCRIPTION">
+			<Text>Ніколі не ідзе на саступкі пры заключэнні міру ды сімпатызуе тым, хто трапляе гэтак жа. Варожа ставіцца да цывілізацый, якія выплацілі даніну ці не ваявалі зусім.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_WONDER_OBSESSED_DESCRIPTION">
+			<Text>Сімпатызуе цывілізацыям, якія не канкуруюць з ім за будаўніцтва цудаў свету. Будуе цуды свету пры кожнай магчымасці. Варожа ставіцца да цывілізацый, якія будуюць цуды свету хутчэй за яго.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_BARBARIAN_LOVER_DESCRIPTION">
+			<Text>Сімпатызуе варварам. Варожа ставіцца да цывілізацый, якія разбураюць лагеры варвараў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_CIVILIZED_DESCRIPTION">
+			<Text>З пагардай ставіцца да варвараў. Сімпатызуе цывілізацыям, якія знішчаюць лагеры варвараў. Варожа ставіцца да цывілізацый, якія ігнаруюць лагеры варвараў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_CULTURED_DESCRIPTION">
+			<Text>Імкнецца развіваць [ICON_Culture] культуру і сімпатызуе цывілізацыям, якія дзейнічаюць гэтаксама.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_DARWINIST_DESCRIPTION">
+			<Text>Падабаецца, калі цывілізацыі змагаюцца. Лічыць, што жыццё – гэта бесперапыннае змаганне.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_FUN_LOVING_DESCRIPTION">
+			<Text>Імкнецца зрабіць сваіх жыхароў настолькі шчаслівымі, наколькі гэта магчыма. Сімпатызуе цывілізацыям з тымі ж імкненнямі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_INDUSTRIALIST_DESCRIPTION">
+			<Text>Імкнецца развіваць прамысловасць і сімпатызуе цывілізацыям, якія таксама надаюць вялікую ўвагу [ICON_Production] вытворчасці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_MONEY_GRUBBER_DESCRIPTION">
+			<Text>Імкнецца зарабляць максімальны прыбытак [ICON_Gold] золата. Паважае цывілізацыі з вялікім прыбыткам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_NATURALIST_DESCRIPTION">
+			<Text>Імкнецца адшукаць усе цуды прыроды. Сімпатызуе цывілізацыям, якія не высякаюць лясы і джунглі ды ствараюць нацыянальныя паркі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_NUKE_LOVER_DESCRIPTION">
+			<Text>Не хістаючыся выкарыстоўвае ядзерную зброю. Паважае іншыя цывілізацыі, якія маюць ядзерную зброю.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_POPULOUS_DESCRIPTION">
+			<Text>Імкнецца лідараваць па колькасці насельніцтва. Паважае цывілізацыі з вялікім насельніцтвам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_STANDING_ARMY_DESCRIPTION">
+			<Text>Заўсёды імкнецца мець вялікае войска. Паважае цывілізацыі з вялікім войскам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_TECHNOPHILE_DESCRIPTION">
+			<Text>Імкнецца развіваць [ICON_Science] навуку і сімпатызуе цывілізацыям, якія таксама надаюць вялікую ўвагу развіццю [ICON_Science] навукі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_AIRPOWER_DESCRIPTION">
+			<Text>Імкнецца стварыць магутныя вайскова-паветраныя сілы. Паважае цывілізацыямі, якія робяць гэтаксама. Варожа ставіцца да цывілізацый са слабой авіяцыяй.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_CITY_STATE_PROTECTOR_DESCRIPTION">
+			<Text>Любіць ваяваць за пратэктарат гарадоў-дзяржаў. Сімпатызуе цывілізацыям, якія пачынаюць войны за пратэктарат гарадоў-дзяржаў. Варожа ставіцца да цывілізацый, якія нападаюць на гарады-дзяржавы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_EXPLOITATIVE_DESCRIPTION">
+			<Text>Любіць расчышчаць усе мясцовыя асаблівасці (багны, лясы ...) і паляпшаць ўсе магчымыя клеткі. Сімпатызуе цывілізацыям з вялікай колькасцю палепшаных клетак. Варожа ставіцца да цывілізацый з нізкай колькасцю палепшаных клетак і да тых, хто засноўвае нацыянальныя паркі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_ENVIRONMENTALIST_DESCRIPTION">
+			<Text>Любіць будаваць нацыянальныя паркі, захоўваць мясцовыя асаблівасці (багны, джунглі ...) і саджаць лясы. Сімпатызуе цывілізацыям, якія садзяць лясы ці засноўваюць нацыянальныя паркі. Варожа ставіцца да цывілізацый, якія расчышчаюць мясцовыя асаблівасці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_IDEOLOGUE_DESCRIPTION">
+			<Text>Сімпатызуе цывілізацыям з тым жа тыпам урада, што і ў сваёй дзяржаве. Варожа ставіцца да цывілізацый з іншым тыпам урада, асабліва калі яны належыць той жа эпохі, што і яго ўрад.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_DEVOUT_DESCRIPTION">
+			<Text>Імкнецца развіваць [ICON_Faith] рэлігію і сімпатызуе цывілізацыям, якія таксама надаюць вялікую ўвагу [ICON_Faith] рэлігіі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_EXPLORER_DESCRIPTION">
+			<Text>Імкнецца выведаць усю карту. Сімпатызуе цывілізацыям, якія выведалі карту меней за яго. Варожа ставіцца да цывілізацый, якія выведалі карту болей за яго.</Text>
+		</Replace>
+
+		<!-- City-State Traits-->
+
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS">
+			<Text>1 [ICON_Envoy] Амбасадар</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS">
+			<Text>3 [ICON_Envoy] Амбасадара</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS">
+			<Text>6 [ICON_Envoy] Амбасадараў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_NAME">
+			<Text>Навуковы горад-дзяржава</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>[ICON_Capital] Сталіца атрымлівае +2 [ICON_Science] навукі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>Кожнае навуковае мястэчка атрымлівае +2 [ICON_Science] навукі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Кожнае навуковае мястэчка дадаткова атрымлівае +2 [ICON_Science] навукі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_NAME">
+			<Text>Рэлігійны горад-дзяржава</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>[ICON_Capital] Сталіца атрымлівае +2 [ICON_Faith] веры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>Кожнае святое мястэчка атрымлівае +2 [ICON_Faith] веры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Кожнае святое мястэчка дадаткова атрымлівае +2 [ICON_Faith] веры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_TRADE_TRAIT_NAME">
+			<Text>Гандлёвы горад-дзяржава</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>[ICON_Capital] Сталіца атрымлівае +4 [ICON_Gold] золата.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>Кожнае гандлёвае мястэчка атрымлівае +4 [ICON_Gold] золата.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Кожнае гандлёвае мястэчка дадаткова атрымлівае +4 [ICON_Gold] золата.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_NAME">
+			<Text>Культурны горад-дзяржава</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>[ICON_Capital] Сталіца атрымлівае +2 [ICON_Culture] культуры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>Кожны тэатральны сквер атрымлівае +2 [ICON_Culture] культуры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Кожны тэатральны сквер дадаткова атрымлівае +2 [ICON_Culture] культуры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_NAME">
+			<Text>Вайсковы горад-дзяржава</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>Падчас падрыхтоўкі вайсковых адзінак [ICON_Capital] сталіца атрымлівае +2 [ICON_Production] вытворчасці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>Падчас падрыхтоўкі вайсковых адзінак вайсковыя мястэчкі атрымліваюць +2 [ICON_Production] вытворчасці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Падчас падрыхтоўкі вайсковых адзінак вайсковыя мястэчкі дадаткова атрымліваюць +2 [ICON_Production] вытворчасці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_NAME">
+			<Text>Прамысловы горад-дзяржава</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>Падчас будавання цудаў свету, будынкаў альбо мястэчак [ICON_Capital] сталіца атрымлівае +2 [ICON_Production] вытворчасці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>Падчас будавання цудаў свету, будынкаў альбо мястэчак прамысловыя мястэчкі атрымліваюць +2 [ICON_Production] вытворчасці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Падчас будавання цудаў свету, будынкаў альбо мястэчак прамысловыя мястэчкі дадаткова атрымліваюць +2 [ICON_Production] вытворчасці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_AMSTERDAM_NAME">
+			<Text>Бонус сюзерэну Амстэрдама</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_AMSTERDAM_DESCRIPTION">
+			<Text>[ICON_TradeRoute] Гандлёвыя шляхі да замежных гарадоў прыносяць +1 [ICON_Gold] золата за кожны рэсурс асалоды у месцы прызначэння.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_BANDAR_BRUNEI_NAME">
+			<Text>Бонус сюзерэну Бандар Брунэя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_BRUSSELS_NAME">
+			<Text>Бонус сюзерэну Брусэля</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_BRUSSELS_DESCRIPTION">
+			<Text>Падчас будаўніцтва цуда света [ICON_Production] вытворчасць ў гораде павялічваецца на 15%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_BUENOS_AIRES_NAME">
+			<Text>Бонус сюзерэну Буэнас-Айрэса</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_BUENOS_AIRES_DESCRIPTION">
+			<Text>Бонусныя рэсурсы працуюць падобна рэсурсам асалоды: яны павялічваюць [ICON_Amenities] задаволенне на 1 за кожны тып рэсурса.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_CARTHAGE_NAME">
+			<Text>Бонус сюзерэну Карфагена</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_CARTHAGE_DESCRIPTION">
+			<Text>Кожны вайсковы лагер дае +1 [ICON_TradeRoute] гандлёвы шлях.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_GENEVA_NAME">
+			<Text>Бонус сюзерэну Жэнэвы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_GENEVA_DESCRIPTION">
+			<Text>У мірны час [ICON_Science] навука вашых гарадоў павялічваецца +15%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_HATTUSA_NAME">
+			<Text>Бонус сюзерэну Хатусы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_HATTUSA_DESCRIPTION">
+			<Text>Дае 1 адзінку кожнага стратэгічнага рэсурса, якога ў вас няма (ў адпаведнасці з вашым тэхналагічным узроўнем).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_HONG_KONG_NAME">
+			<Text>Бонус сюзерэну Ганконга</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_HONG_KONG_DESCRIPTION">
+			<Text>[ICON_Production] Вытворчасць падчас будаўніцтва якога-небудзь праекта у горадзе павялічваецца на 20%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_JAKARTA_NAME">
+			<Text>Бонус сюзерэну Джакарты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_JAKARTA_DESCRIPTION">
+			<Text>[ICON_TradingPost] Гандлёвыя пасты ў замежных гарадах прыносяць +1 [ICON_Gold] золата, калі праз іх праходзяць вашы [ICON_TradeRoute] гандлёвыя шляхі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_JERUSALEM_NAME">
+			<Text>Бонус сюзерэну Ерусаліма</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_JERUSALEM_DESCRIPTION">
+			<Text>Аўтаматычна абарачаецца ў заснаваную вамі рэлігію ды стварае рэлігійны ціск дзеля гэтай рэлігіі, як ў Святога горада.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_KABUL_NAME">
+			<Text>Бонус сюзерэну Кабула</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_KABUL_DESCRIPTION">
+			<Text>Ваяры атрымліваюць падвоены досвед падчас атакі ворагаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_KANDY_NAME">
+			<Text>Бонус сюзерэну Кандзі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_KANDY_DESCRIPTION">
+			<Text>Адкрыццё кожнага новага дзіва прыроды дае [ICON_GreatWork_Relic] рэліквію. У дадатак [ICON_Faith] вера ад усіх [ICON_GreatWork_Relic] рэліквій павялічваецца на +50%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_KUMASI_NAME">
+			<Text>Бонус сюзерэну Кумасі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_KUMASI_DESCRIPTION">
+			<Text>[ICON_TradeRoute] Гандлёвыя шляхі накірованыя да горадоў-дзяржаў даюць +2 [ICON_Culture] культуры і +1 [ICON_Gold] золата за кожнае мястэчка ў зыходным пункце.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_LA_VENTA_NAME">
+			<Text>Бонус сюзерэну Ла-Венты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_LA_VENTA_DESCRIPTION">
+			<Text>Будаўнікі могуць ствараць гіганцкія галовы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_LISBON_NAME">
+			<Text>Бонус сюзерэну Лісабона</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_LISBON_DESCRIPTION">
+			<Text>Гандлёвыя шляхі немагчыма разрабаваць на вадзяных клетках.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_MOHENJO_DARO_NAME">
+			<Text>Бонус сюзерэну Махенджа-Дара</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_MOHENJO_DARO_DESCRIPTION">
+			<Text>Марскія гарады атрымліваюць гэтулькі ж [ICON_Housing] жытла, колькі і рачныя.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_NAN_MADOL_NAME">
+			<Text>Бонус сюзерэну Нан-Мадола</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_NAN_MADOL_DESCRIPTION">
+			<Text>На ўзбярэжжы ці каля яго мястэчкі атрымліваюць +2 [ICON_Culture] культуры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_PRESLAV_NAME">
+			<Text>Бонус сюзерэну Праслаўля</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_PRESLAV_DESCRIPTION">
+			<Text>Лёгкая і цяжкая кавалерыя атрымвае +5 да [ICON_Strength] баявой моцы падчас бою на ўзгорках.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_SEOUL_NAME">
+			<Text>Бонус сюзерэну Сеула</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_SEOUL_DESCRIPTION">
+			<Text>Пры пераходзе ў новую эру дае 1 выпадковую [ICON_TechBoosted] эўрыку гэтай эры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_STOCKHOLM_NAME">
+			<Text>Бонус сюзерэну Стакгольма</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_STOCKHOLM_DESCRIPTION">
+			<Text>Мястэчкі даюць +1 [ICON_GreatPerson] АВД свайго тыпу (тэатральны пляц дае ачкі вялікага [ICON_GreatWriter] пісьменніка, [ICON_GreatArtist] мастака і [ICON_GreatMusician] музыкі).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_TORONTO_NAME">
+			<Text>Бонус сюзерэну Таронта</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_TORONTO_DESCRIPTION">
+			<Text>Прамысловыя мястэчкі і забаўляльныя цэнтры шыраць свой уплыў на 3 клеткі далей.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_VALLETTA_NAME">
+			<Text>Бонус сюзерэну Валеты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_VALLETTA_DESCRIPTION">
+			<Text>Будынкі ў гарадскім цэнтру і ў вайсковым мястэчку можна набываць за [ICON_Faith] веру. Зніжаны кошт мура Старажытнасці, Сярэднявечча і Адраджэння, але яго можна набыць толькі за [ICON_Faith] веру.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_VILNIUS_NAME">
+			<Text>Бонус сюзерэну Вільнюса</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_VILNIUS_DESCRIPTION">
+			<Text>Пры пераходзе ў новую эру дае 1 выпадковае [ICON_CivicBoosted] натхненне палітыкі гэтай эры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_YEREVAN_NAME">
+			<Text>Бонус сюзерэну Ерэвана</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_YEREVAN_DESCRIPTION">
+			<Text>Дае апосталам дадактковы варыянт павышэння.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_ZANZIBAR_NAME">
+			<Text>Бонус сюзерэну Занзыбара</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_ZANZIBAR_DESCRIPTION">
+			<Text>Дае рэсурсы асалоды: [ICON_RESOURCE_CINNAMON] карыцу і [ICON_RESOURCE_CLOVES] гваздзіку, якія немагчыма атрымаць іншым шляхам. Кожны рэсурс дае 6 [ICON_Amenities] здаволення.</Text>
+		</Replace>
+
+		<!--Leader Trait Names-->
+
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_THERMOPYLAE_NAME">
+			<Text>Фермапілы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_NAME">
+			<Text>Прыгоды Энкіду</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_NAME">
+			<Text>Міжземнаморская нявеста</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_DIVINE_WIND_NAME">
+			<Text>Боскі вецер</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_NAME">
+			<Text>Эль эскарыял</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_GRAND_EMBASSY_NAME">
+			<Text>Вялікая амбасада</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_HOLY_ROMAN_EMPEROR_NAME">
+			<Text>Імператар Свяшчэннай Рымскай Імперыі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_PAX_BRITANNICA_NAME">
+			<Text>Брытанскі свет</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH_NAME">
+			<Text>Праведнасць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_RELIGIOUS_CONVERT_NAME">
+			<Text>Зварот у веру</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_NAME">
+			<Text>Папраўка Рузвельта</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_SATYAGRAHA_NAME">
+			<Text>Сацьяграха</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_THUNDERBOLT_NAME">
+			<Text>Гром поўначы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_FIRST_EMPEROR_NAME">
+			<Text>Першы імператар</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_FLYING_SQUADRON_NAME">
+			<Text>Лятучы эскадрон</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_TRAJANS_COLUMN_NAME">
+			<Text>Калона Траяна</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_KILLER_OF_CYRUS_NAME">
+			<Text>Забойца Кіра</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_MAGNANIMOUS_NAME">
+			<Text>Добразычлівы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_SURROUNDED_BY_GLORY_NAME">
+			<Text>У асяроддзі славы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_UNIT_ENGLISH_REDCOAT_NAME">
+			<Text>Унікальная адзінка Вікторыі: Чырвоны мундзір</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_UNIT_NORWEGIAN_LONGSHIP_NAME">
+			<Text>Унікальная адзінка Харальда Суровага: Дракар</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_UNIT_AMERICAN_ROUGH_RIDER_NAME">
+			<Text>Унікальная адзінка Тэадора Рузвельта: Мужны вершнік</Text>
+		</Replace>
+
+		<!--Leader Trait Descriptions-->
+
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_THERMOPYLAE_DESCRIPTION">
+			<Text>Знішчэнне варожай адзінкі дае ачкі [ICON_Culture] культуры роўныя 50% яе [ICON_Strength] баявой моцы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_DESCRIPTION">
+			<Text>Здольны пачынаць вайну з усімі, хто ваюе з іх хаўруснікамі, не атрымліваючы штрафу за мілітарызм. Падчас супольнай вайны дзеляць трафеі ад рабавання і баявы дослед з найблізкім хаўруснікам ў радыусе 5 клетак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_DESCRIPTION">
+			<Text>[ICON_TradeRoute] Гандлёвыя шляхі да іншых цывілізацый дадаткова прыносяць Егіпту +4 [ICON_Gold] золата. Калі наадварот [ICON_TradeRoute] замежныя гандлёвыя шляхі накірованы ў Егіпет, то яны прыносяць іншай цывілізацыі +2 [ICON_Food] ежы, а Егіпет мае з іх +2 [ICON_Gold] золата.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_DIVINE_WIND_DESCRIPTION">
+			<Text>На ўзбярэжжы адзінкі атрымліваюць +5 да [ICON_Strength] баявой моцы; на плыткаводдзе флот гэтаксама атрымлівае +5 да [ICON_Strength] баявой моцы. У дадатак да гэтага вайсковыя, святыя мястэчкі ды тэатральныя скверы будуюцца ўдвойчы хутчэй звычайнага.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_DESCRIPTION">
+			<Text>Інквізітары атрымліваюць дадатковы «зарад» знішчэння ерасі. Гэтаксама адзінкі атрымліваюць +4 да [ICON_Strength] баявой моцы супраць цывілізацый з іншай рэлігіяй.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_GRAND_EMBASSY_DESCRIPTION">
+			<Text>[ICON_TradeRoute] Гандлёвыя шляхі да больш развітых цывілізацый, чым Расея даюць [ICON_Science] навуку ці [ICON_Culture] культуру (+1 у крок за кожныя 3 тэхналогіі ці 3 палітыкі, якіх няма ў Расеі).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_HOLY_ROMAN_EMPEROR_DESCRIPTION">
+			<Text>Атрымліваюць дадатковы вайсковы інстытут урада. Апроч таго атрымліваюць +7 да [ICON_Strength] баявой моцы супраць гарадоў-дзяржаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_PAX_BRITANNICA_DESCRIPTION">
+			<Text>Усе гарады, пабудаваныя на чужым кантыненце, даюць дармавога ваяра. Пабудова верфяў Каралеўскага флота ў гэтых гарадах дае яшчэ аднаго дармовага ваяра. Апроч таго пасля даследавання тэхналогіі «Вайсковая навука» атрымліваюць ўнікальную адзінку «Чырвоны мундзір».</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH_DESCRIPTION">
+			<Text>Усе цывілізацыі, якія прынялі рэлігію Саладзіна, здольны набываць храмы ў гарадах за адну дзясятую патрэбнай веры. Гэтаксама храмы даюць арабскім гарадам +10% да [ICON_Science] навукі, [ICON_Faith] веры і [ICON_Culture] культуры.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_RELIGIOUS_CONVERT_DESCRIPTION">
+			<Text>Не маюць магчымасці будаваць святыя мястэчкі, атрымліваць выдатных прарокаў альбо засноўваць рэлігію. Але атрымліваюць ўсе вераванні рэлігіі, пашыранай у большасці гарадоў. Апроч таго кожны раз пасля будаўніцтва мбанзы альбо тэатральнага сквера атрымліваюць дармавога апостала дамінантнай у гэтым горадзе рэлігіі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_DESCRIPTION">
+			<Text>Адзінкі атрымліваюць +5 да [ICON_Strength] баявой моцы на родным кантыненце. Пасля даследавання тэхналогіі «Наразныя ствалы» атрымліваюць ўнікальную адзінку «Мужны вершнік». Апроч таго ўсе клеткі горада, у межах якога пабудаваны нацыянальны запаведнік, атрымліваюць +1 да прэстыжу.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_SATYAGRAHA_DESCRIPTION">
+			<Text>Індыя атрымлівае +5 [ICON_Faith] веры за кожную вядомую цывілізацыю (улучаючы сябе), якая заснавала рэлігію ды не ваюе ў гэты час. У дадатак да гэтага, цывілізацыі, якія ваююць з Гандзі, атрымліваюць удвойчы больш стомленасці ад вайны.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_THUNDERBOLT_DESCRIPTION">
+			<Text>Усе вайсковыя караблі атрымліваюць здольнасць ужыццяўляць рэйды на ўзбярэжныя тэрыторыі. У дадатак да гэтага падрыхтоўка усіх марскіх адзінак бліжняга бою адбываецца хутчэй на 50%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_FIRST_EMPEROR_DESCRIPTION">
+			<Text>Будаўнікі атрымліваюць дадатковы «зарад» і здольнасць выкарыстоўваць «зарады» для паскарэння будаўніцтва цудаў света Старажытнасці і Антычнасці на 15%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_FLYING_SQUADRON_DESCRIPTION">
+			<Text>Адпачатку маюць дадактковы [ICON_VisLimited] узровень шпіянажу. Акрамя таго, ўсе шпіёны атрымліваюць дармовае павышэнне. Пасля даследавання тэхналогіі «Замкі» атрымліваюць дадатковага дармавога шпіёна.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_TRAJANS_COLUMN_DESCRIPTION">
+			<Text>Усе гарады атрымліваюць дармавы будынак у гарадскім цэнтры. (У Старажытнай эры помнік).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_KILLER_OF_CYRUS_DESCRIPTION">
+			<Text>Падчас атакі пашкоджаных ворагаў адзінкі атрымліваюць +5 да [ICON_Strength] баявой моцы. У дадатак да гэтага знішчэнне ворага аднаўляе 30 АЗ.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_MAGNANIMOUS_DESCRIPTION">
+			<Text>Пасля найму альбо покупкі [ICON_GreatPerson] выдатнага дзеяча вяртаецца 20% выдаткаваных на яго [ICON_GreatPerson] АВД.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_SURROUNDED_BY_GLORY_DESCRIPTION">
+			<Text>Атрымліваюць +5% да [ICON_Culture] культуры за кожны горад-дзяржаву, сюзерэнам якога з'яўляюцца.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

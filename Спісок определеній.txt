@@ -1,0 +1,39 @@
+yield - прыбытак
+Production - вытворчасць
+faith - вера
+housing - жытло
+unit - адзінка
+great people - выдатны дзеяч
+great general - выдатны генерал
+great trader - выдатны гандляр
+great scientist - выдатны навуковец
+great admiral - выдатны адмірал
+great writer - выдатны пісьменнік
+great artist - выдатны мастак
+great musician - выдатны музыка
+civic - палітыка
+district - мястэчка
+terrain feature - мясцовыя асаблівасці
+GreatWork Writing - літаратурны твор
+unique - адметны
+host - арганізатар гульні
+
+ок - добра
+Room - пакой
+
+belief - звычай
+CHARGES - Атакуе
+SPREADS - звароты
+Melee - (Моц) сутыкнення
+RANGE - (Моц) абстрэла
+Terrain - мясцовасць
+
+plot - пляцоўку
+formation - пабудова
+Amenities - дабрабыт
+Citizen - жыхар // Поіск по всему документу !!!
+CUSTOM = Уласны
+SPECIALIST = адмысловец
+
+wonder = Цуда свету
+Appeal = прэстіж

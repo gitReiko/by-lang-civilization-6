@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- diplomacypanel_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:34:21 AM -->
+<GameData>
+	<LocalizedText>
+
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DISCUSS">
+			<Text>Абгутарыць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_CASUS_BELLI">
+			<Text>Казус Бэлі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_CASUS_BELLI_TT">
+			<Text>Казусы Бэлі (падставы для пачатка вайны) зменшваюць альбо цалкам не налічваюць ачкі мілітарызму за вайну альбо захоп гарадоў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_TITLE">
+			<Text>ДАКЛАД ШПІЁНАЎ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_GOSSIP_COLON">
+			<Text>Чуткі:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_GOSSIP_NAME">
+			<Text>ЧУТКІ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_ACCESS_LEVEL_COLON">
+			<Text>Узровень шпіянажу:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_ACCESS_LEVEL">
+			<Text>Узровень шпіянажу:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_ACCESS_LEVEL_HEADER">
+			<Text>УЗРОВЕНЬ ШПІЯНАЖУ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_OUR_RELATIONSHIP">
+			<Text>Нашы стасункі:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_OUR_RELATIONSHIP_HEADER">
+			<Text>НАШЫ СТАСУНКІ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_TO_RAISE_RELATIONSHIP">
+			<Text>Для [COLOR_Civ6Green]паляпшэння[ENDCOLOR] стасункаў патрэбна:[NEWLINE]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_TO_LOWER_RELATIONSHIP">
+			<Text>Для [COLOR_Civ6Red]пагаршэння[ENDCOLOR] стасункаў патрэбна:[NEWLINE]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_AGREEMENTS">
+			<Text>Дамовы:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_ADGENDAS">
+			<Text>Рысы характару:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_GOVERNMENT">
+			<Text>Урад:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_RELATIONSHIPS">
+			<Text>Стасункі:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_RELATIONSHIP">
+			<Text>Стасункі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_RELATIONSHIP_REASONS">
+			<Text>ПРЫЧЫНЫ ІСНЫХ СТАСУНКАЎ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_RELATIONSHIP_NOTHING_ABJECT">
+			<Text>Пакуль што, нішто не ўплывае на вашы стасункі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_INFORMATION_SHARED_HEADER">
+			<Text>Выяўленая інфармацыя:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_NEXT_ACCESS_LEVEL_HEADER">
+			<Text>Наступны ўзровень шпіянажу:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_GAIN_ACCESS_LEVEL_HEADER">
+			<Text>Каб [COLOR_Civ6Green]павялічыць[ENDCOLOR] узровень шпіянажу трэба:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_LAST_TEN_TURNS">
+			<Text>АПОШНІЯ 10 КРОКАЎ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_OLDER">
+			<Text>РАНЕЙ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_GOSSIP_ITEM_NONE">
+			<Text>Няма</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_GOSSIP_ITEM_COUNT">
+			<Text>+{1_Value} {1_Value : plural 1?Новае Паведамленне; 2?Новых Паведамлення; other?Новых Паведамленняў;}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_GOSSIP_ITEM_NONE_THIS_TURN">
+			<Text>Няма новых чутак</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_GOSSIP_ITEM_NO_RECENT">
+			<Text>[COLOR_Grey] Апошнія 10 крокаў новых чутак не чутна.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_HISTORICAL_AGENDA">
+			<Text>Гістарычная рыса характару:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_RANDOM_AGENDA">
+			<Text>Выпадковая рыса характару:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_AGENDA_NOT_REVEALED">
+			<Text>Выпадковая рыса характару схавана. Атрымайце таёмны узровень шпіянажу, каб выявіць яе.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_HISTORICAL_AGENDA_NONE">
+			<Text>Няма гістарычнай рысы характару</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_RANDOM_AGENDA_NONE">
+			<Text>Няма выпадковай рысы характару</Text>
+		</Replace>
+
+		<!-- Used in titles -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_OF">
+			<Text>КРЫНІЦА:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ADVISOR_OFFER">
+			<Text>Прапануйце лепшую дамову.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ADVISOR_DENOUNCE">
+			<Text>Зганьце тую ж цывілізацыю, якую зганіла {1_Civ[4]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ADVISOR_TRADE_ROUTE">
+			<Text>Пачніце [ICON_TradeRoute] гандляваць з {1_Civ[5]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ADVISOR_OPEN_BORDERS">
+			<Text>Адчыніце межы з {1_Civ[5]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ADVISOR_DELEGATION_EMBASSY">
+			<Text>Адпраўце амбасадараў альбо пабудуйце амбасаду.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ADVISOR_POSITIVE_AGENDA">
+			<Text>Падыграйце яго характару.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ADVISOR_NEGATIVE_AGENDA">
+			<Text>Дзейнічайце супраць яго характара.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ADVISOR_DENOUNCE_FRIEND">
+			<Text>Зганьце яго сябра {1_Civ[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ADVISOR_DECLARE_FRIENDSHIP">
+			<Text>Сябруйце з ворагамі {1_Civ[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_MAKE_DEAL_EQUITABLE">
+			<Text>Зрабіце дамову сумленней</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_MAKE_DEAL_EQUITABLE_TOOLTIP">
+			<Text>Пагандлюйце з валадаром, каб палепшыць умовы дамовы.[NEWLINE]Мажліва змяняць умовы дамовы абапал.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_MY_OFFER">
+			<Text>МАЯ ПРАПАНОВА:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_THEIR_OFFER">
+			<Text>ІХНЯЯ ПРАПАНОВА:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_WHAT_IT_WILL_TAKE_TOOLTIP">
+			<Text>Спытайце у валадара, што ён жадае атрымаць за прапанаваную дамову.[NEWLINE]Гэта дзеянне дадасць умовы дамовы для вашага боку.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_OVERVIEW_COLON_TOOLTIP">
+			<Text>Агляд</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_GOSSIP_COLON_TOOLTIP">
+			<Text>Праглядзець усе чуткі, якія вы атрымалі, дзякуючы ўзроўню шпіянажу.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_ACCESS_LEVEL_COLON_TOOLTIP">
+			<Text>Праглядзець істотную інфармацыю пра ўзровень шпіянажу альбо чуткі аб гэтым валадару.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_OUR_RELATIONSHIP_TOOLTIP">
+			<Text>Праглядзець падрабязнасці і прычыны стасункаў з гэтым валадаром. Павялічце узровень шпіянажу, каб атрымаць дадатковую інфармацыю.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_ADGENDAS_TOOLTIP">
+			<Text>Рысы характару валадара галоўная сіла, якая уплывае на вашы стасункі. Валадары маюць гістарычныя і таёмныя (выпадковыя) рысы характару. Даведацца пра таёмную рысу характара вельмі важна, каб лепей разумець учынкі валадара.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_GOVERNMENT_TOOLTIP">
+			<Text>Урад, які зараз кіруе гэтай цывілізацыяй.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_OVERVIEW_GOSSIP">
+			<Text>Чуткі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_OVERVIEW_ACCESS_LEVEL">
+			<Text>Узровень шпіянажу</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_OVERVIEW_GOVERNMENT">
+			<Text>Урад</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_OVERVIEW_AGENDAS">
+			<Text>Рысы характару</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_OVERVIEW_AGREEMENTS">
+			<Text>Дамовы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_OVERVIEW_OUR_RELATIONSHIP">
+			<Text>Нашы стасункі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_OVERVIEW_OTHER_RELATIONSHIPS">
+			<Text>Стасункі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_REPORT_OVERVIEW">
+			<Text>Справаздача: Агульная</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_REPORT_GOSSIP">
+			<Text>Справаздача: Чуткі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_REPORT_ACCESS_LEVEL">
+			<Text>Справаздача: Узровень шпіянажу</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_INTEL_REPORT_RELATIONSHIP">
+			<Text>Справаздача: Стасункі</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_GOVERNMENT_ANARCHY_TURNS">
+			<Text>Анархія ({1_num} {1_Num : plural 1?крок; plural 2?крока; plural 3?крока; plural 4?крока; other?крокаў;})</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_GOVERNMENT_NONE">
+			<Text>Няма</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DENOUNCED_TOOLTIP">
+			<Text>{1_CivName} {1: plural 1?{1: gender masculine?зганіў; feminine?зганіла; neuter?зганіла;}; 2?зганілі; other?зганіў;} злыя справы {2_CivName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DECLARED_FRIENDSHIP_TOOLTIP">
+			<Text>{1_CivName} {1: plural 1?{1: gender masculine?абвясціў; feminine?абвясціла; neuter?абвясціла;}; 2?абвясцілі; other?абвясціў;} аб сяброўстве з {2_CivName}. [{3_RemainingTurns} {3_RemainingTurns : plural 1?крок; plural 2?крока; plural 3?крока; plural 4?крока; other?крокаў;}]</Text>
+		</Replace>
+
+
+	</LocalizedText>
+</GameData>

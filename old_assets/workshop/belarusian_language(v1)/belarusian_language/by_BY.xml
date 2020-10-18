@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- by_BY -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 11:01:40 AM -->
+<GameData>
+	<Languages>
+		<InsertOrIgnore>
+			<Locale>by_BY</Locale>
+			<Name>Belarus</Name>
+			<PluralRule>2</PluralRule>
+			<SupportsSmallCaps>1</SupportsSmallCaps>
+		</InsertOrIgnore>
+	</Languages>
+</GameData>

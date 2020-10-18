@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- diplomacystatements_makedemand_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:43:31 AM -->
+<GameData>
+	<LocalizedText>
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_AI_REFUSE_DEMAND_ANY_ANY">
+			<Text>Мяне не хвалююць вашы патрабаванні!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_AI_ACCEPT_DEMAND_ANY_ANY">
+			<Text>Я выканаю вашы патрабаванні.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_HUMAN_ACCEPT_DEMAND_FROM_AI_ANY_ANY">
+			<Text>Вы праявілі мудрасць, выканаўшы мае патрабаванні.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_USER_WARNING_QUIT">
+			<Text>Не жадаеце чуць мяне? Магчыма мне варта звярнуцца да іншых сродкаў!</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

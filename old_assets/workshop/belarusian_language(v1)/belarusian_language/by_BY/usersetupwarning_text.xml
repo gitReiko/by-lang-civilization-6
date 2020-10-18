@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- usersetupwarning_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:58:07 AM -->
+<GameData>
+	<LocalizedText>
+
+		<Replace Language="en_US" Tag="LOC_KNOWN_GRAPHICS_CARD_ISSUES">
+			<Text>Запуск Civilization VI з DirectX 12 на вашым кампутары  можа прывесці да збояў у працы гульні. Для таго каб гуляць у Civilization VI на версіі DirectX 12, трэба мець графічны працэсар AMD альбо Nvidia, які падтрымлівае дадзеную тэхналогію.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_USER_WARNING_PROCEED_ANYWAY">
+			<Text>Усё адно працягнуць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_USER_WARNING_QUIT">
+			<Text>Выйсці</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

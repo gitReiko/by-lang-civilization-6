@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- diplomacystatements_declarefriendship_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:35:54 AM -->
+<GameData>
+	<LocalizedText>
+
+		<!-- AI accepts from human -->
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_ANY_ANY">
+			<Text>Добра! Я згоден сябраваць з вамі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Ад імя народа Конга, я згоден з вашай добразычлівай прапановай сяброўства.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Я згодна сябраваць з вамі. І зразумела, вы запрошаны на наступнае каралеўскае вяселле.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Цудоўна. Спадзяюсь, што вы болей падобны на Марка Антонія, чым на Брута.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Магутны хаўруснік - лепшы сябар. Давайце жыць у згодзе.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Я згоден сябраваць з вамі. Няхай наша сяброўства будзе благаслаўлено.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Гільгамеш рад бачыць вас сваім сябрам. Хай увесь свет ведае, што мы шчырыя сябры!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Вы ўжо даказалі, што будзеце добрым сябрам Спарце. Ад імя свайго народа, я згодна.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Сяброўства? Так я ваш сябар!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Вы валодаеце спакоем і разважлівасцю ваяра, таму я згоден сябраваць з вамі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>Добра! Я згоден сябраваць з вамі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Імём Дэмакратыі, мы згодны сябраваць з вамі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Шчырая прапанова. Я прыймаю яе на карысць нашых народаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Вы благаслаўлены самім Богам на сяброўства з намі. Хай увесь свет ведае, што вас бароніць яго моц.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Вы даказалі сваю годнасць сябраваць з Сярэдней Імперыяй, я згоден на вашую прапанову.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Зараз я разумею, што вы сябар майго народа. Давайце абвясцім усяму свету аб гэтым.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>Я не магу адказаць «не» гэтай прапанове.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Я згодна сябраваць з вамі, але не здрадзьце мне.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Няхай весь свет ведае, што ваша Імперыя сябар нашай, і што з гэтага моманта мы злучаны сяброўствам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Так, гэтая прапанова падабаецца нам. Нашы нацыі, несумненна, атрымаюць карысць ад сяброўства.</Text>
+		</Replace>
+
+		<!-- AI Rejects from human -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_ANY_ANY">
+			<Text>Зараз мяне ваша прапанова сябраваць не цікавіць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Конга не падрыхтаваны да сяброўства з вамі. Хай нашы стасункі спачатку паспеюць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Прабачце, але ваша прапанова занадта раптоўная. Можа, іншым разам?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Ха! Маімі сябрамі былі цэзары ды фараоны. Няўжо вы мяркуеце, што варты сябраваць са мной?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Не, я не буду сябраваць з вамі на карысць сваёй Імперыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Прабачыце, але я не магу пагадзіцца на гэтую дамову. Калі ласка, зразумейце, што гэта толькі к лепшаму.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Гільгамеш табе не сябар.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Спарта не мае патрэбы ў тваім сяброўстве.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Не, нават за ўсе скарбы Асгарда.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Я павінен адмовіць цябе, дзеля зацікаўленасцяў Сягуната і ад імя Імператара.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>Зараз мяне ваша прапанова сябраваць не цікавіць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Не, мы не будзем сябраваць, пакуль вы не дакажыце сваю шчырасць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Я вымушаны адмовіць вам. Стары сябар лепей новых дзвюх.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Не, я не прыйму вашу прапанову. Грэшнік не можа быць сябрам Гішпаніі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Вы пакуль што не варты нашага сяброўства.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Мы вымушаны ўхіліцца ад вашай шляхетнай і шчодрай прапановы, датуль пакуль не пераканаемся ў вашых намерах.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>У дадзены момант мяне не цікавіць сяброўства з вамі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Сяброўства са мной складана дамагчысь. Найперш, вы павінны заслужыць маё давер'е.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Рым павінен заставацца Рымам: сябрам самаму сабе і больш нікому.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Для гэтага абавязка яшчэ не прыйшоў час. Магчыма ў будучыні, мы перагледзім сваё меркаванне. Вы зразумелі мяне?</Text>
+		</Replace>
+
+		<!-- AI Requests friendship from human -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_ANY_ANY">
+			<Text>Давайце абвясцім усяму свету аб нашым сяброўстве.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Я падаю вам руку сяброўства. Хай нашы народы ператворацца перад тварам Бога ў братоў ды сясцёр.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Я падаю вам каралеўскую руку сяброўства. Ці прыйміце вы яе?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Многія гатовы забіць за сяброўства са мной. Гэта шчодрая прапанова, але ўсё ж я прапаноўваю яе вам. Які ваш адказ?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>І зноў мы падаём вам руку, але ў гэты раз сяброўскую. Ці згодны вы прыняць яе?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Я мяркую, што раней улада азначала гвалт, але цяпер яна мае на ўвазе супрацоўніцтва. Такім чынам... давайце сябраваць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Увесь свет ведае, які я шчодры да сваіх сяброў. Давайце будзем сябраваць, а не варагаваць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Такім чынам Спарта прапаноўвае вам сяброўства. Вы згодны?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>За ўсе свае вандраванні я нідзе не сустракаў гэткага выдатнага валадара, як я сам датуль, пакуль не сустрэў вас. Давайце сябраваць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Вы гарманічны ды мудры. Таму мы прапаноўваем вам сваю адданасць і гонар у памен на ваша сяброўства.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Давайце абвясцім усяму свету аб нашым сяброўстве.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Давайце, на момант, адложым убок нашы супярэчнасці. Таму шта сяброўства важней дробнай палітыкі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Я маю гонар прапанаваць вам і вашаму народу сяброўства. Вы згодны?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Я ведаю, што вы зразумелі мудрасць у святле Бога. Давайце раздзелім яго дабраславенне ў сяброўстве.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ANY">
+			<Text>Калі ласка, адкажыце нам сяброўствам на наша сяброўства.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Вы даказалі сваю мудрасць і сумленнасць. Прыйміце маю прапанову сяброўства.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Вы дамаглісь маёй павагі. Давайце абвясцім сяброўства паміж нашы дзяржавамі?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Сяброўства - гэта самы каштоўны стасунак паміж народамі. Давайце сябраваць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Славуты Рым прапаноўвае вам сяброўства. Вы згодны?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Нам падабаецца бачыць вас у ролі шаноўнага сябра. Мы спадзяёмся, што гэта пачуццё ўзаемнае...</Text>
+		</Replace>
+
+		<!-- Human accepts AI requests, AI responds -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ANY_ANY">
+			<Text>Цудоўна.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Вялікі дзякуй.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Дзякуй.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Як мне вас аддзякаваць?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Дзякуй, сябар.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Дзякуй, сябар.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Дзякуй!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Дзякуй.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Дзякуй, сябар.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Дзякуй, сябар.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Цудоўна.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Дзякуй.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Выказваю вам сваю падзяку.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Хай Бог благаславіць вас.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ANY">
+			<Text>Мы ўдзячны вам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Няхай Алах благаславіць вас.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Дзякую вас.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Дзякуй, сябар.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Вялікі дзякуй.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Ваш адказ вельмі прыемны і паважлівы.</Text>
+		</Replace>
+
+		<!-- Human rejects AI requests, AI responds -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ANY_ANY">
+			<Text>Няўдалая спроба.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Няўдалы учынак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Якое расчараванне!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Вы абняславілі мяне.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Тады, магчыма, у наступны раз.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Няўдалы крок.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Звар'яцелі?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Беспаспяхова.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>На вочы б вас не бачыць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Ганьба...</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Няўдалая спроба.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Няўдалы развязак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Як бяздумна.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Няўдалы выбрык.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ANY">
+			<Text>Дрэнны поспех.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Перад тым як адказаць, трэба было трошкі падумаць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Гэта вельмі дрэнна.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Вам трэба пераглядзець свой адказ.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Вы пасаромілі мяне.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Беспаспяховая спроба.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_CHOICE_NEGATIVE">
+			<Text>Прабачыце, але ў дадзены момант мы не можам сябраваць з вамі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_CHOICE_POSITIVE">
+			<Text>Няхай увесь свет ведае, што нас згуртавала сяброўства.</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

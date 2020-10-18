@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- FrontEnd Text -->
+		<Replace Language="en_US" Tag="LOC_EXPANSION1_NAME">
+			<Text>Laajennos: Nousu ja tuho</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_EXPANSION1_DESCRIPTION">
+			<Text>Peli käyttää Nousu ja tuho -laajennosta, joka tuo peliin kansakuntien vaihtuvat kaudet, uskollisuuden, kuvernöörit ja hätätilat. Kykenetkö johtamaan kansasi kultakauden kukoistukseen? Tai kohtaako kansasi synkän kauden tuomat haasteet?</Text>
+		</Replace>
+		<!-- Map Config Text -->
+		<Replace Language="en_US" Tag="LOC_MAP_ARCHIPELAGO_NAME">
+			<Text>Saaristo</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TSLEUROPE_NAME">
+			<Text>Oikeiden alkukotien Eurooppa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TSLEUROPE_DESCRIPTION">
+			<Text>Kansakunnat aloittavat historiallisen pääkaupunkinsa paikalta Euroopan kartalla.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_EUROPE_NAME">
+			<Text>Eurooppa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_EUROPE_DESCRIPTION">
+			<Text>Mukaelma Euroopasta, jonka luonnonvarat, maasto ja maastonpiirteet kuvastavat historiallisia vastaavuuksiaan.</Text>
+		</Replace>
+		<!-- Player Config Text -->
+		<!-- District Config Text -->
+		<Replace Language="en_US" Tag="LOC_DISTRICT_WATER_STREET_CARNIVAL_NAME">
+			<Text>Copacabana|copacabana|cobacabanan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_WATER_STREET_CARNIVAL_DESCRIPTION">
+			<Text>Brasilian oma kaupunkialue. Korvaa vesipuiston ja tarjoaa +2 [ICON_Amenities] elintasoa. Mahdollistaa myös karnivaaliprojektin, joka tarjoaa +1 [ICON_Amenities] elintasoa ollessaan työn alla sekä monenlaisia [ICON_GreatPerson] merkittävien henkilöiden pisteitä valmistuessaan. Ei voi rakentaa kaupunkiin, jossa on katukarnevaali. Ei voi rakentaa riutalle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_STREET_CARNIVAL_EXPANSION1_DESCRIPTION">
+			<Text>Brasilian oma kaupunkialue. Korvaa viihdekompleksin ja tarjoaa +2 [ICON_Amenities] elintasoa. Mahdollistaa myös karnivaaliprojektin, joka tarjoaa +1 [ICON_Amenities] elintasoa ollessaan työn alla sekä monenlaisia [ICON_GreatPerson] merkittävien henkilöiden pisteitä valmistuessaan. Ei voi rakentaa kaupunkiin, jossa on copacabana.</Text>
+		</Replace>
+		<!-- Unit Config Text -->
+		<Replace Language="en_US" Tag="LOC_UNIT_SPEC_OPS_NAME">
+			<Text>Erikoisjoukot|erikoisjoukot|erikoisjoukkojen|erikoisjoukoiksi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_SPEC_OPS_DESCRIPTION">
+			<Text>Atomiajan tiedusteluyksikkö. Laskuvarjohyppy mahdollistaa hypyn ystävällisestä ruudusta seitsemän ruudun päähän (kahdentoista yksikön aloittaessa lentoasemasta tai kiitoradalta). Kykenee iskemään tukiyksiköihin suoraan, joten suojelevaa yksikköä ei tarvitse tuhota ensin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_DRONE_NAME">
+			<Text>Liidokki|liidokki|liidokin|liidokiksi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_DRONE_DESCRIPTION">
+			<Text>Atomiajan tukiyksikkö. Antaa +1 [ICON_Range] kantamaa ja +5 [ICON_Bombard] pommitusvoimaa läheisille tulituskykyisille piiritysluokan yksiköille.</Text>8
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_PIKE_AND_SHOT_NAME">
+			<Text>Musketti ja piikki|musketti ja piikki|musketin ja piikin|musketiksi ja piikiksi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_PIKE_AND_SHOT_DESCRIPTION">
+			<Text>Myöhäinen renessanssin ratsuluokan torjuja.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_SUPPLY_CONVOY_NAME">
+			<Text>Huoltorekka|huoltorekka|huoltorekan|huoltorekaksi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_SUPPLY_CONVOY_DESCRIPTION">
+			<Text>Modernin ajan tukiyksikkö. Kohentaa läheisten yksiköiden hoivausta. Antaa läheisille yksiköille +1 [ICON_Movement] liikkuvuutta niiden aloittaessa vuoroa huoltorekan läheltä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_ZULU_IMPI_NAME">
+			<Text>Impi|impi|impin|impiksi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_ZULU_IMPI_DESCRIPTION">
+			<Text>Zulujen oma keskiaikainen yksikkö, joka korvaa piikkimiehen. Korotettu sivustaetu, alhainen hinta ja alhaiset ylläpitokustannukset. Kerää kokemusta nopeammin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_KOREAN_HWACHA_NAME">
+			<Text>Hwacha|hwacha|hwachan|hwachaksi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_KOREAN_HWACHA_DESCRIPTION">
+			<Text>Korean oma renessanssin yksikkö. Korkea [ICON_Ranged] tulituksen hyökkäysvoima. Ei kykene liikkumaan ja hyökkäämään saman vuoron aikana.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_SCOTTISH_HIGHLANDER_NAME">
+			<Text>Ylämaalainen|ylämaalainen|ylämaalaisen|ylämaalaiseksi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_SCOTTISH_HIGHLANDER_DESCRIPTION">
+			<Text>Skottien oma teollisen ajan yksikkö, joka korvaa samoojan. Vahva tiedusteluyksikkö. +5 [ICON_Strength] taisteluvoimaa kamppailtaessa mäellä ja metsissä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_DE_ZEVEN_PROVINCIEN_NAME">
+			<Text>De Zeven Provinciën|De Zeven Provinciën|De Zeven Provinciënin|De Zeven Provinciëniksi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_DE_ZEVEN_PROVINCIEN_DESCRIPTION">
+			<Text>Hollannin oma renessanssin yksikkö. +7 [ICON_Strength] taisteluvoimaa puolustuskelpoisia kaupunkialueita vastaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_MONGOLIAN_KESHIG_NAME">
+			<Text>Keshik|keshik|keshikin|keshikiksi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_MONGOLIAN_KESHIG_DESCRIPTION">
+			<Text>Monholien oma keskiajan heittoasetta käyttävä ratsuluokan yksikkö. Voi saattaessaan nopeuttaa siviili- ja tukiyksiköt omalle nopeammalle [ICON_Movement] liikkumisnopeudelleen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_GEORGIAN_KHEVSURETI_NAME">
+			<Text>Khevsur|khevsur|khevsurin|khevsuriksi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_GEORGIAN_KHEVSURETI_DESCRIPTION">
+			<Text>Georgian oma keskiajan yksikkö. +7 [ICON_Strength] taisteluvoimaa kamppailtaessa mäkisessä maastossa. Ei haittaa [ICON_Movement] liikkumiselle mäkisestä maastosta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_MAPUCHE_MALON_RAIDER_NAME">
+			<Text>Malón|malón|malónin|malóniksi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_MAPUCHE_MALON_RAIDER_DESCRIPTION">
+			<Text>Mapuchejen oma renessanssin yksikkö. +5 [ICON_Strength] taisteluvoimaa oltaessa neljän ruudun sisällä ystävällisistä alueista. Ryövääminen maksaa yhden [ICON_Movement] liikepisteen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_CREE_OKIHTCITAW_NAME">
+			<Text>Okihtcitaw|okihtcitaw|okihtcitawin|okihtcitawiksi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_CREE_OKIHTCITAW_DESCRIPTION">
+			<Text>Cree-intiaanien oma antiikin yksikkö, joka korvaa tiedustelijan. Vahva tiedusteluyksikkö. Saa heti ilmaisen ylennyksen.</Text>
+		</Replace>
+		<!-- America -->
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_EXPANSION1_DESCRIPTION">
+			<Text>Kaikki hallitusmuodon diplomaattisten linjausten paikat ovatkin villien korttien paikkoja.</Text>
+		</Replace>
+		<!-- China -->
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_EXPANSION1_DESCRIPTION">
+			<Text>[ICON_TechBoosted] Heurekat ja [ICON_CivicBoosted] inspiraatiot tarjoavat 50% tehosteen normeille tai tekniikoille 40% sijasta.</Text>
+		</Replace>
+		<!-- Cleopatra -->
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_EXPANSION1_DESCRIPTION">
+			<Text>Egyptin [ICON_TradeRoute] kauppareitit muihin kansakuntiin saavat +4 [ICON_Gold] kultaa. Muiden kansakuntien [ICON_TradeRoute] kauppareitit Egyptiin tarjoavat +2 [ICON_Food] ruokaa heille ja +2 [ICON_Gold] kultaa Egyptille. Kaupankäynti liittolaisten kanssa antaa tuplasti liittolaispisteitä.</Text>
+		</Replace>
+		<!-- Chandragupta -->
+		<Replace Language="en_US" Tag="LOC_LEADER_CHANDRAGUPTA_NAME">
+			<Text>Chandragupta|Chandraguptan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_ARTHASHASTRA_NAME">
+			<Text>Arthaśāstra</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_ARTHASHASTRA_DESCRIPTION">
+			<Text>Kykenee julistamaan maidenlaajennussodan sotilaskoulutuksen kehittämisen myötä. Saa kymmenen vuoron ajaksi +2 [ICON_Movement] liikkuvuutta ja +5 [ICON_Strength] taisteluvoimaa maidenlaajennussodan julistamisen jälkeen.</Text>
+		</Replace>
+		<!-- England -->
+		<Replace Language="en_US" Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_EXPANSION1_DESCRIPTION">
+			<Text>Englannin oma sataman korvaava kaupunkialue. Poistaa ruudussaan uittoon siirtymisestä aiheutuvan [ICON_Movement] liikehaitan. Tulee rakentaa maan vierustamaan rannikko- tai järviruutuun.[NEWLINE][NEWLINE]+1 [ICON_Movement] liikkuvuutta kaikille telakalla valmistetuille laivoille[NEWLINE]+2 [ICON_Gold] kultaa ja +4 uskollisuutta vuorossa muilla kuin kotimantereella. Ei voi rakentaa riutalle.</Text>
+		</Replace>
+		<!-- Lautaro-->
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MAPUCHE_NAME">
+			<Text>Mapuchet|mapuchejen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MAPUCHE_ADJECTIVE">
+			<Text>Mapuchejen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MAPUCHE_DESCRIPTION">
+			<Text>Mapuchevaltakunta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_MAPUCHE_TOQUI_NAME">
+			<Text>Toqui (kirveenkantaja)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_MAPUCHE_TOQUI_DESCRIPTION">
+			<Text>Kaikki [ICON_Governor] kuvernöörin omaavat kaupungit antavat niissä koulutetuille yksiköille +25% kokemusetua taisteluista. +10 [ICON_Strength] taisteluvoimaa kultakaudella olevia kansakuntia vastaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_TOQUI_COMBAT_BONUS_VS_GOLDEN_AGE_CIV_DESCRIPTION">
+			<Text>+{1_Amount} etu kultakaudella olevia kansoja vastaan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_LAUTARO_NAME">
+			<Text>Lautaro|Lautaron</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_LAUTARO_ABILITY_NAME">
+			<Text>Nopea haukka</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_LAUTARO_ABILITY_DESCRIPTION">
+			<Text>Viholliskaupunki menettää 5 uskollisuutta mikäli saman kansan yksikkö tuhotaan kaupungin alueella mapucheyksikön toimesta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_LAUTARO_ABILITY_DESCRIPTION_ALT">
+			<Text>Viholliskaupunki menettää 20 uskollisuutta mikäli saman kansan yksikkö tuhotaan kaupungin alueella mapucheyksikön toimesta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CHEMAMULL_NAME">
+			<Text>Chemamüll</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CHEMAMULL_DESCRIPTION">
+			<Text>Mahdollistaa mapucherakentajille kyvyn rakentaa chemamüllin.[NEWLINE][NEWLINE]Tarjoaa [ICON_CULTURE] kulttuuria 75% ruudun houkuttelevuuden edestä. Tarjoaa myös [ICON_TOURISM] turismia lentämisen kehittämisen jälkeen. Houkuttelevuuden tulee olla vähintään henkeäsalpaava.</Text>
+		</Replace>
+		<!-- Gilgamesh-->
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_EXPANSION1_DESCRIPTION">
+			<Text>Voi julistaa sodan liittolaista vastaan sotivaa vastaan ilman sodanlietsojan haittoja. Yhteistä vihollista vastaan sotiessa liitossa olevat yksiköt jakavat ryöväilyn tuotot ja taistelukokemuksen ollessaan viiden ruudun sisällä toisistaan. Liittolaiset saavat liittolaispisteitä sodasta yhteistä vihollista vastaan.</Text>
+		</Replace>
+		<!-- Poundmaker-->
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CREE_NAME">
+			<Text>Cree-intiaanit|cree-intiaanien</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CREE_ADJECTIVE">
+			<Text>Cree-intiaanien</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CREE_DESCRIPTION">
+			<Text>Creevaltakunta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_CREE_TRADE_GAIN_TILES_NAME">
+			<Text>Nîhithaw</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_CREE_TRADE_GAIN_TILES_DESCRIPTION">
+			<Text>+1 [ICON_TradeRoute] kauppareittien kapasiteettiin sekä ilmainen kauppuri keramiikan kehittämisen myötä. Omistamattomat ruudut kolmen ruudun sisällä cree-intiaanien kaupungista tulee heidän hallintaansa kauppurin kulkiessa ruutuun.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_POUNDMAKER_NAME">
+			<Text>Ansantekijä|Ansantekijän</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_POUNDMAKER_ABILITY_NAME">
+			<Text>Suotuisat ehdot</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_POUNDMAKER_ABILITY_DESCRIPTION">
+			<Text>Kaikki liittolaisuustyypit antavat jaetun näkyvyyden.[NEWLINE]Ansantekijä saa [ICON_TradeRoute] kauppareiteilleen +1 [ICON_Food] ruokaa jokaisesta leiristä ja laitumesta kohdekaupunkissa.[NEWLINE]Ansantekijä saa [ICON_TradeRoute] kauppareiteistä +1 [ICON_Gold] kultaa jokaisesta leiristä ja laitumesta kohdekaupungissa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MEKEWAP_NAME">
+			<Text>Mekewap</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MEKEWAP_DESCRIPTION">
+			<Text>Mahdollistaa creerakentajille kyvyn rakentaa mekewapin.[NEWLINE][NEWLINE]Tarjoaa +1 [ICON_PRODUCTION] tuotantoa ja +1 [ICON_Housing] asumuksia. +1 [ICON_GOLD] kultaa ylellisen luonnonvaran vieressä. +1 [ICON_FOOD] ruokaa joka toisesta vierekkäisestä hyödyllisestä luonnonvarasta. Etu [ICON_PRODUCTION] tuotantoon, [ICON_GOLD] kultaan, [ICON_FOOD] ruokaan ja [ICON_HOUSING] asumuksiin kohenee normien ja tekniikoiden kehittämisen myötä. Tulee sijoittaa hyödyllisen tai ylellisen luonnonvaran viereen. Ei voi rakentaa toisen mekewapin viereen.</Text>
+		</Replace>
+		<!-- Robert the Bruce -->
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SCOTLAND_NAME">
+			<Text>Skotlanti|skottien</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SCOTLAND_ADJECTIVE">
+			<Text>Skotlannin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SCOTLAND_DESCRIPTION">
+			<Text>Skotlannin valtakunta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_SCOTTISH_ENLIGHTENMENT_NAME">
+			<Text>Skottien valistuneisuus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_SCOTTISH_ENLIGHTENMENT_DESCRIPTION">
+			<Text>Tyytyväiset kaupungit saavat +5%  [ICON_SCIENCE] tiedettä ja +5%  [ICON_PRODUCTION] tuotantoa. Ne myös antavat +1 [ICON_GreatScientist] merkittävien tieteentekijöiden pistettä jokaista kampusta kohden ja +1 [ICON_GreatEngineer] merkittävien insinöörien pistettä jokaista teollisuusaluetta kohden. Ekstaasissa olevat kaupungit tuplaavat mainitut luvut.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_ROBERT_THE_BRUCE_NAME">
+			<Text>Robert Bruce</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_BANNOCKBURN_NAME">
+			<Text>Bannockburn</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_BANNOCKBURN_DESCRIPTION">
+			<Text>Kykenee julistamaan vapautussodan puolustustaktiikoiden kehittämisen myötä. Vapautussodan julistamisen jälkeen +100% [ICON_Production] tuotantoa ja +2 [ICON_Movement] liikkuvuutta ensimmäisten kymmenen vuoron ajan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_GOLF_COURSE_NAME">
+			<Text>Golfkenttä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_GOLF_COURSE_DESCRIPTION">
+			<Text>Mahdollistaa skottirakentajille kyvyn rakentaa golfkentän.[NEWLINE][NEWLINE]+1 [ICON_AMENITIES] elintasoa ja +2 [ICON_GOLD] kultaa. +1 [ICON_CULTURE] kulttuuria kaupungin keskustan vieressä ja +1 [ICON_CULTURE] kulttuuria viihdekompleksin vieressä. Etuja [ICON_TOURISM] turismiin ja [ICON_HOUSING] asumuksiin normien ja tekniikoiden kehittämisen myötä. Ei voi sijoittaa aavikolle tai mäkiselle aavikolle. Golfkenttiä ei voi poistaa. +1 houkuttelevuutta.</Text>
+		</Replace>
+		<!-- Seondeok -->
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KOREA_NAME">
+			<Text>Korea|korealaisten</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KOREA_ADJECTIVE">
+			<Text>Korean</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KOREA_DESCRIPTION">
+			<Text>Korean valtakunta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_THREE_KINGDOMS_NAME">
+			<Text>Kolme kuningaskuntaa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_THREE_KINGDOMS_DESCRIPTION">
+			<Text>Kaivokset saavat +1 [ICON_SCIENCE] tiedettä jos vieressä on seowon. Maatilat saavat +1 [ICON_FOOD] ruokaa jos vieressä on seowon.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_SEONDEOK_NAME">
+			<Text>Seondeok|Seondeokin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_HWARANG_NAME">
+			<Text>Hwarang (kukkaisritarit)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_HWARANG_DESCRIPTION">
+			<Text>+10% [ICON_Culture] kulttuuria ja +10% [ICON_Science] tiedettä kaikissa asettuneen [ICON_Governor] kuvernöörin kaupungeissa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_SEOWON_NAME">
+			<Text>Seowon|seowon|seowonin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_SEOWON_DESCRIPTION">
+			<Text>Korean oma kampus. +4 [ICON_SCIENCE] tiedettä. Tulee rakentaa mäelle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_SEOWON_DESCRIPTION_ADJACENCY">
+			<Text>Läheisyys: -1 [ICON_SCIENCE] tiedettä jokaisesta vieressä olevasta kaupunkialueesta.</Text>
+		</Replace>
+		<!-- Genghis Khan -->
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MONGOLIA_NAME">
+			<Text>Mongolia|mongolien</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MONGOLIA_ADJECTIVE">
+			<Text>Mongolien</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MONGOLIA_DESCRIPTION">
+			<Text>Mongolivaltakunta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_MONGOLIAN_ORTOO_NAME">
+			<Text>Örtöö</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_MONGOLIAN_ORTOO_DESCRIPTION">
+			<Text>Uudet [ICON_TradeRoute] kauppareitit luovat välittömästi [ICON_TradingPost] kauppapaikan kohdekaupunkiin. Kasvanut [ICON_VisLimited] diplomaattinen näkyvyys, mikäli toisen kansakunnan missä tahansa kaupungissa on mongolien [ICON_TradingPost] kauppapaikka. Kaikki mongolien yksiköt saavat korkeammasta [ICON_VisLimited] diplomaattisesta näkyvyydestä aiheutuvan [ICON_Strength] taisteluedun kaksinkertaisena.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_GENGHIS_KHAN_NAME">
+			<Text>Tšingis-kaani|Tšingis-kaanin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_GENGHIS_KHAN_ABILITY_NAME">
+			<Text>Mongolijoukkio</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_GENGHIS_KHAN_ABILITY_DESCRIPTION">
+			<Text>Kaikki ratsuluokan yksiköt saavat +3 [ICON_Strength] taisteluvoimaa ja ovat kykeneviä kaappaamaan päihitetyn ratsuluokan yksikön.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_CAVALRY_COMBAT_BONUS_PREVIEW_TEXT">
+			<Text>+{1_Amount} mongolijoukkiosta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_ORDU_NAME">
+			<Text>Ordu|ordu|ordun</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_ORDU_DESCRIPTION">
+			<Text>Mongolien oma rakennus. Antaa kaikille tässä kaupungissa koulutetuille raskaan ja kevyen ratsuluokan yksiköille +1 [ICON_MOVEMENT] liikkuvuutta. +25% etua taistelukokemuksen kertymiseen kaikille tässä kaupungissa koulutetuille ratsuluokan yksiköille. Ei voi rakentaa varuskuntaan, josta löytyy jo parakit.</Text>
+		</Replace>
+		<!-- Shaka Zulu -->
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ZULU_NAME">
+			<Text>Zulut|zulujen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ZULU_ADJECTIVE">
+			<Text>Zulujen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ZULU_DESCRIPTION">
+			<Text>Zuluvaltakunta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ZULU_ISIBONGO_NAME">
+			<Text>Isibongo</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ZULU_ISIBONGO_DESCRIPTION">
+			<Text>Kaupunkiin asettuneet yksiköt antavat +3 uskollisuutta vuorossa, tai 5 mikäli yksikkö on asettunut joukko-osastoksi tai armeijaksi. Kaupungin valtaaminen päivittää yksikön joukko-osastoksi tai armeijaksi, mikäli vaaditut normit on kehitetty.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_SHAKA_NAME">
+			<Text>Shaka|Shakan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_AMABUTHO_NAME">
+			<Text>Amabutho-rykmentti</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_AMABUTHO_DESCRIPTION">
+			<Text>Voi muodostaa muita aiemmin joukko-osastoja (palkkasoturit) ja armeijoja (nationalismi). Joukko-osastot ja armeijat saavat lisäksi +5 [ICON_STRENGTH] perustaisteluvoimaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_IKANDA_NAME">
+			<Text>Ikanda|ikanda|ikandan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_IKANDA_DESCRIPTION">
+			<Text>Varuskunnan korvaava zulujen oma kaupunkialue. Tarjoaa +1 [ICON_Housing] asumuksia. Vaadittujen normien tai tekniikoiden kehittämisen jälkeen voi saman tien kouluttaa joukko-osastoja ja armeijoja. Joukko-osastoja ja armeijoja on nopeampi kouluttaa.</Text>
+		</Replace>
+		<!-- Spain -->
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_EXPANSION1_DESCRIPTION">
+			<Text>Voi muodostaa laivastoja ja armadoja tavanomaista aiemmin (merkantilismi). [ICON_TradeRoute] Kauppareitit useamman mantereen välillä saavat lisää [ICON_Gold] kultaa reiteistä muihin kansakuntiin ja lisää [ICON_Food] ruokaa ja [ICON_Production] tuotantoa reiteistä omien kaupunkien välillä. +2 uskollisuutta vuorossa kaupungeille joiden kaupungin keskustan vieressä on lähetystö, mikäli kaupunki sijaitsee muulla kuin alkuperäisen [ICON_Capital] pääkaupungin mantereella.</Text>
+		</Replace>
+		<!-- Tamar-->
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_GEORGIA_NAME">
+			<Text>Georgia|georgialaisten</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_GEORGIA_ADJECTIVE">
+			<Text>Georgian</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_GEORGIA_DESCRIPTION">
+			<Text>Georgian valtakunta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_NAME">
+			<Text>Yhtenäisyyden voima</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_DESCRIPTION">
+			<Text>Kultakauden alussa valittu antaumus antaa kultakauden edun lisäksi myös tavanomaisen kauden kausipisteet.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TAMAR_NAME">
+			<Text>Tamar|Tamarin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_RELIGION_CITY_STATES_NAME">
+			<Text>Maailman, kuningaskunnan ja uskon kunnia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_RELIGION_CITY_STATES_DESCRIPTION">
+			<Text>+100% [ICON_FAITH] uskoa kymmenen vuoron ajaksi suojelusodan julistamisesta. Kukin valtauskontoasi noudattavaan kaupunkivaltioon lähetetty [ICON_ENVOY] edustaja lasketaan kahtena. (Kansallasi tulee olla valtauskonto).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_TSIKHE_NAME">
+			<Text>Tsikhe|tsikhe|tsihken</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_TSIKHE_DESCRIPTION">
+			<Text>Georgian oma rakennus. Edullisemmat [ICON_Production] tuotantokustannukset kuin renessanssin muurilla. Kasvattaa ulkoisen puolustuksen voiman korkeimmalle mahdolliselle tasolle. Tarjoaa 3 [ICON_TOURISM] turismia ympäristönsuojelun kehittämisen jälkeen. Tarjoaa 3 [ICON_Faith] uskoa.</Text>
+		</Replace>
+		<!-- Wilhemina -->
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NETHERLANDS_NAME">
+			<Text>Alankomaat|hollantilaisten</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NETHERLANDS_ADJECTIVE">
+			<Text>Hollannin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NETHERLANDS_DESCRIPTION">
+			<Text>Hollannin valtakunta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_GROTE_RIVIEREN_NAME">
+			<Text>Grote rivieren</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_GROTE_RIVIEREN_DESCRIPTION">
+			<Text>Merkittävä läheisyysetu kampuksille, teatteriaukioille ja teollisuusalueille joen varrella. Sataman valmistuminen kulttuuripommittaa sataman viereiset ruudut pelaajan omistukseen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_WILHELMINA_NAME">
+			<Text>Vilhelmiina|Vilhelmiinan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_RADIO_ORANJE_NAME">
+			<Text>Radio Oranje</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_RADIO_ORANJE_DESCRIPTION">
+			<Text>Omiin kaupunkeihin suunnatut [ICON_TradeRoute] kauppareittimme tarjoavat +1 uskollisuutta vuorossa lähtökaupungille. Ulkomailta tulevat ja sinne menevät [ICON_TradeRoute] kauppareitit tarjoavat +1 [ICON_Culture] kulttuuria meille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_POLDER_NAME">
+			<Text>Polderi|polderi|polderin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_POLDER_DESCRIPTION">
+			<Text>Mahdollistaa hollantilaisrakentajille kyvyn rakentaa polderin.[NEWLINE][NEWLINE]+1 [ICON_FOOD] ruokaa ja +1 [ICON_Production] tuotantoa. +1 [ICON_FOOD] ruokaa mikäli polderin vieressä. Etuja [ICON_PRODUCTION] tuotantoon, [ICON_GOLD] kultaan ja [ICON_FOOD] ruokaan normien ja tekniikoiden kehittämisen myötä. Tulee sijoittaa kolmen tai useamman tasaisen maan vierustamaan rannikko- tai järviruutuun. Kasvattaa ruudun [ICON_Movement] liikkumiskulun kolmeen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_FISHERY_NAME">
+			<Text>Kalastamo|kalastamo|kalastamon</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_FISHERY_DESCRIPTION">
+			<Text>A [ICON_Governor] Governor unique improvement that can be built in a city with a Surveyor Governor with the Aquaculture promotion. Tuottaa 1 [ICON_Food] ruokaa, +1 [ICON_Food] ruokaa lisää mikäli meriluonnonvaran vieressä. Tulee rakentaa rannikkoruutuun.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CITY_PARK_NAME">
+			<Text>Kaupunkipuisto|kaupunkipuisto|kaupunkipuiston</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CITY_PARK_DESCRIPTION">
+			<Text>A [ICON_Governor] Governor unique improvement that can be built in a city with a Surveyor Governor with the Parks and Recreation promotion. Tuottaa 2 houkuttelevuutta ja 1 [ICON_Culture] kulttuuria. +1 [ICON_Amenities] elintasoa mikäli veden vieressä. Ei voi rakentaa toisen kaupunkipuiston viereen.</Text>
+		</Replace>
+		<!-- Jerusalem -->
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_JERUSALEM_NAME_EXPANSION">
+			<Text>Jerusalemin valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_JERUSALEM_DESCRIPTION_EXPANSION">
+			<Text>Pyhän paikan omaavat kaupunkimme puskevat painetta kuten pyhät kaupungit (nelinkertainen uskonnon paine kaikkiin kymmenen ruudun sisällä oleviin kaupunkeihin).</Text>
+		</Replace>
+		<!-- Free Cities -->
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_FREE_CITIES_NAME">
+			<Text>Vapaa kaupunki|vapaiden kaupunkilaisten</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_FREE_CITIES_DESCRIPTION">
+			<Text>Vapaat kaupungit</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>Belarusian language</Name>
+    <Guid>89d14483-2c19-4efc-8477-4b58c9517a7d</Guid>
+    <ProjectGuid>382712b1-e77b-4fa9-aba4-357ca86e55c5</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>This is a translation of the game into Belarusian language.</Teaser>
+    <Description>This is a translation of the game into Belarusian language.</Description>
+    <Authors>Reiko</Authors>
+    <SpecialThanks>Merri</SpecialThanks>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <AssemblyName>belarusian_language</AssemblyName>
+    <RootNamespace>belarusian_language</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="by_BY" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="by_BY.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\aztec_montezuma_packagetext.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\benchmarktext.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\buildings_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\citynames_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\civics_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\civilizations_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\difficulties_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\diplomacydeals_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\diplomacymodifiers_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\diplomacynotifications_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\diplomacypanel_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\diplomacystatements_common_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\diplomacystatements_declarefriendship_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\diplomacystatements_declarewar_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\diplomacystatements_defeat_text_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\diplomacystatements_delegation_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\diplomacystatements_denounce_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\diplomacystatements_embassy_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\diplomacystatements_firstmeet_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\diplomacystatements_greeting_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\diplomacystatements_kudosandwarnings_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\diplomacystatements_makealliance_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\diplomacystatements_makedeal_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\diplomacystatements_makedemand_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\diplomacystatements_makepeace_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\diplomacystatements_openborders_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\diplomacystatements_warning_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\earthmaps_configtext.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\FrontEndText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\improvements_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\leaders_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\modifiers_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\notifications_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\nubia_packagetext.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\poland_packagetext.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\projects_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\promotions_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\quests_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\religion_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\religiouscombatscenario_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\routes_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\technologies_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\types_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\ui_endgame_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\ui_mods_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\ui_options_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\ui_technology_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\unitnames_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\units_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\unit_abilities_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\usersetupwarning_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\vikings_packagetext.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\worldbuilder_text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="belarusian_language.modinfo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="LocalizationDatabase_Data.sql">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>

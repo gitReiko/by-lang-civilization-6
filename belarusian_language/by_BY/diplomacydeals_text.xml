@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- diplomacydeals_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:32:11 AM -->
+<GameData>
+	<LocalizedText>
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_GOLD_PER_TURN">
+			<Text>ЗОЛАТА КОЖНЫ КРОК</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_GOLD_PER_TURN_WITH_TURNS">
+			<Text>ЗОЛАТА КОЖНЫ КРОК[NEWLINE]{1_number} {1:plural 1?КРОК; 2?КРОКА; other?КРОКАЎ;}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_LUXURY_RESOURCES">
+			<Text>РЭСУРСЫ АСАЛОДЫ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_STRATEGIC_RESOURCES">
+			<Text>СТРАТЭГІЧНЫЯ РЭСУРСЫ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_AGREEMENTS">
+			<Text>ДАМОВЫ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_CITIES">
+			<Text>ГАРАДЫ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_OTHER_PLAYERS">
+			<Text>ІНШЫЯ ВАЛАДАРЫ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_CAPTIVES">
+			<Text>ПАЛОННЫЯ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_GREAT_WORKS">
+			<Text>ВЯЛІКІЯ ВЫРАБЫ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_TECHNOLOGIES">
+			<Text>ТЭХНАЛОГІІ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_ACCEPT_DEAL">
+			<Text>Пагадзіцца</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_REFUSE_DEAL">
+			<Text>Адхіліць прапанову</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_PROPOSE_DEAL">
+			<Text>Прапанаваць дамову</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_DEMAND_DEAL">
+			<Text>Запатрабаваць даніну</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_ACCEPT_DEMAND">
+			<Text>Выплаціць даніну</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_REFUSE_DEMAND">
+			<Text>Адмовіць патрабаванне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_GIFT_DEAL">
+			<Text>Падарыць падарунак</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_EXIT_DEAL">
+			<Text>Выйсці</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_CANCEL_DEAL">
+			<Text>Скасаваць дамову</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_CANCEL_DEMAND">
+			<Text>Скасаваць патрабаванне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_RESUME_GAME">
+			<Text>Працягнуць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_YOUR_ITEMS">
+			<Text>Вашыя прапановы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_THEIR_ITEMS">
+			<Text>Іх прапановы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_WHAT_WOULD_YOU_GIVE_ME">
+			<Text>Што вы мне дасцё за гэта?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_WHAT_WOULD_IT_TAKE">
+			<Text>Што вы жадаеце атрымаць за гэта?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_CLICK_TO_CHANGE_DEAL_PARAMETER">
+			<Text>Змяніць умовы пагаднення...</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_SELECT_DEAL_PARAMETER">
+			<Text>Змяніць умовы пагаднення...</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_PARAMETER_WITH_TURNS">
+			<Text>{1_DisplayName} ({2_Turns} {2: plural 1?крок; 2?крока; other?крокаў;})</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_OTHER_PLAYER_SAYS">
+			<Text>{1_LeaderName} кажа:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_RETURN_CITY">
+			<Text>Вярнуць {1_Name}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_RETURN_CITY_TOOLTIP">
+			<Text>Вярнуць {1_Name} горад {1_LeaderName[3]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_CEDE_CITY">
+			<Text>Саступіць {1_Name}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_CEDE_CITY_TOOLTIP">
+			<Text>Саступіць {1_Name} горад {1_LeaderName[3]}.</Text>
+		</Replace>
+
+		<!--Deal Error Messages-->
+
+		<Replace Language="en_US" Tag="LOC_DEAL_CITY_NOT_FOUND">
+			<Text>Горад не знойдзены.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DEAL_CITY_DUPLICATE">
+			<Text>Лёс гэтага горада ўжо абумоўлены ў дамове.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DEAL_GOLD_NOT_ENOUGH_IN_TREASURY">
+			<Text>Нехапае золата.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DEAL_GOLD_NOT_ENOUGH_YIELD">
+			<Text>Нехапае золата.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DEAL_GREAT_WORK_NOT_FOUND">
+			<Text>Вялікі выраб не знойдзен.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DEAL_INVALID_PLAYER">
+			<Text>Не той валадар.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DEAL_NO_SLOT_TO_RECEIVE_WORK">
+			<Text>Вялікі выраб няма дзе змясціць.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DEAL_RESOURCES_NOT_ENOUGH">
+			<Text>Не хапае гэтага рэсурса.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DEAL_SPY_NOT_FOUND">
+			<Text>Шпіён не знойдзены.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DEAL_CITY_POPULATION_TOOLTIP">
+			<Text>Насельніцтва: {1_number}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DEAL_CITY_DISTRICTS_TOOLTIP">
+			<Text>Мястэчкі:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DEAL_CITY_RESOURCES_TOOLTIP">
+			<Text>Рэсурсы:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DEAL_CITY_GREAT_WORKS_TOOLTIP">
+			<Text>Вялікія вырабы:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DEAL_ITEM_TRANSFERRED_WITH_CITY_TOOLTIP">
+			<Text>Перададзена з горадам {1_CityName[5]}</Text>
+		</Replace>
+
+		<!-- Diplomactic Actions -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_RESIDENT_EMBASSY_NAME">
+			<Text>Пабудаваць амбасаду</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_DEMAND_TRIBUTE_NAME">
+			<Text>Запатрабаваць даніну</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_OPEN_BORDERS_NAME">
+			<Text>Адчыніць мяжу</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_REQUEST_ASSISTANCE_NAME">
+			<Text>Запрасіць дапамогу</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_DENOUNCE_NAME">
+			<Text>Зганіць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_DECLARE_SURPRISE_WAR_NAME">
+			<Text>Нечакана пачаць вайну</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_MAKE_PEACE_NAME">
+			<Text>Памірыцца</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_DIPLOMATIC_DELEGATION_NAME">
+			<Text>Даслаць амбасадараў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_ALLIANCE_NAME">
+			<Text>Скласці хаўрус</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_DECLARE_FRIENDSHIP_NAME">
+			<Text>Абвясціць сяброўства</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_GRANT_INFLUENCE_TOKEN_NAME">
+			<Text>Падарыць уплывовы падарунак</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_GIFT_UNIT_NAME">
+			<Text>Падарыць адзінку</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_MILITARY_REQUEST_NAME">
+			<Text>Запытаць вайсковую дапамогу</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_DECLARE_WAR_MINOR_CIV_NAME">
+			<Text>Пачаць вайну з горадам-дзяржавай</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_DECLARE_FORMAL_WAR_NAME">
+			<Text>Пачаць афіцыйную вайну</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_DECLARE_HOLY_WAR_NAME">
+			<Text>Пачаць святую вайну</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_DECLARE_LIBERATION_WAR_NAME">
+			<Text>Пачаць вызваленчую вайну</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_DECLARE_RECONQUEST_WAR_NAME">
+			<Text>Пачаць рэканкісту</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_DECLARE_PROTECTORATE_WAR_NAME">
+			<Text>Пачаць вайну за пратэктарат</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_DECLARE_COLONIAL_WAR_NAME">
+			<Text>Пачаць каланіяльную вайну</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_DECLARE_TERRITORIAL_WAR_NAME">
+			<Text>Пачаць вайну для пашырэння тэрыторыі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_DEFENSIVE_PACT_NAME">
+			<Text>Абарончая дамова</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_JOINT_WAR_NAME">
+			<Text>Супольная вайна</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_RESEARCH_AGREEMENT_NAME">
+			<Text>Навуковая дамова</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_KEEP_PROMISE_DONT_SPY_NAME">
+			<Text>Паабяцаць не шпіёніць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_KEEP_PROMISE_DONT_CONVERT_NAME">
+			<Text>Паабяцаць не распаўсюджваць рэлігію</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_KEEP_PROMISE_DONT_DIG_ARTIFACTS_NAME">
+			<Text>Паабяцаць не раскопваць археалагічныя артэфакты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_KEEP_PROMISE_DONT_SETTLE_TOO_NEAR_NAME">
+			<Text>Паабяцаць не будаваць гарады побач</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_INVALID">
+			<Text>Я ніколі не пагаджусь на гэтую дамову</Text>
+		</Replace>
+
+		<!-- Diplomactic Action Tooltips-->
+
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_RESEARCH_AGREEMENT_DESCRIPTION">
+			<Text>Скласці навуковую дамову. Навуковую дамову можна скласці толькі з сябрам альбо хаўруснікам. Навуковая дамова дазваляе супольна даследаваць, азначаную ў дамове, тэхналогію. Чым складаней тэхналогія, тым даўжэй яна даследуецца. Пасля завяршэння даследавання абодва валадара атрымліваюць адпаведную эўрыку.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_JOINT_WAR_DESCRIPTION">
+			<Text>Пачаць супольную вайну супраць іншай цывілізацыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_DEFENSIVE_PACT_DESCRIPTION">
+			<Text>Скласці абарончую дамову. Калі якога-небудзь ўдзельніка дамовы атакуюць, то астатнія ўдзельнікі дамовы аўтаматычна пачнуць вайну супраць агрэсара.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_ALLIANCE_DESCRIPTION">
+			<Text>Скласці хаўрус з сябрам. Хаўруснікі не аб'яўляюць вайну аўтаматычна, калі на каго-небудзь нападаюць, але захоп хаўруснага горада дае падставу для вайны. Апроч гэтага ў хаўруснікаў увесь час адкрытыя межы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_RESIDENT_EMBASSY_DESCRIPTION">
+			<Text>Пабудаваць амбасаду. Гэта крыху палепшыць адносіны паміж цывілізацыямі. Гэтаксама дасць дадатковы ўзровень шпіянажу і адлюструе месцаванне [ICON_Capital] сталіцы цівілізацыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_DEMAND_TRIBUTE_DESCRIPTION">
+			<Text>Запатрабаваць даніну ў гэтай цывілізацыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_OPEN_BORDERS_DESCRIPTION">
+			<Text>Дазваляе вашым адзінкам перасоўвацца па тэрыторыі іншай цывілізацыі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_REQUEST_ASSISTANCE_DESCRIPTION">
+			<Text>Папрасіць у гэтай цывілізацыі падарунак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_DENOUNCE_DESCRIPTION">
+			<Text>Зганіць цывілізацыю. Праз 5 крокаў дазваляе пачаць вайну з падставай ці без яе.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_DECLARE_SURPRISE_WAR_DESCRIPTION">
+			<Text>Неадкладна пачаць вайну. Штрафы за мілітарызм павялічваюцца на 50%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_MAKE_PEACE_DESCRIPTION">
+			<Text>Абмеркаваць умовы мірнай дамовы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_DIPLOMATIC_DELEGATION_DESCRIPTION">
+			<Text>Адправіць амбасадараў з падарункамі. Калі іх прымуць, то адносіны паміж цывілізацыямі крыху палепшацца, ды таксама вы атрымаеце дадатковы ўзровень шпіянажу. Дадзенае дзеянне працягваецца да адкрыцця магчымасці будаўніцтва сталых амбасад.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_DECLARE_FRIENDSHIP_DESCRIPTION">
+			<Text>Афіцыйна заявіць пра сяброўства з гэтай цывілізацыяй. Пасля гэтага дзеянне з'явіцца магчымасць складання хаўрусу з гэтай цывілізацыяй, але вы не зможаце пачаць з ёй вайну.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_DECLARE_FORMAL_WAR_DESCRIPTION">
+			<Text>Пачаць вайну з цывілізацыі, якую зганілі не раней 5 крокаў назад. Магчымасць захопа гарадоў не абмежавана.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_DECLARE_HOLY_WAR_DESCRIPTION">
+			<Text>Пачаць вайну з цывілізацыяй, якая звярнула ваш горад у сваю веру. Штрафы за мілітарызм зменшаны ўдвойчы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_DECLARE_LIBERATION_WAR_DESCRIPTION">
+			<Text>Пачаць вайну з цывілізацыяй, якая захапіла горад у вашага сябра ці хаўрусніка. Няма мілітарысцкіх штрафаў за вызваленне гэтага горада.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_DECLARE_RECONQUEST_WAR_DESCRIPTION">
+			<Text>Пачаць войну з цывілізацыяй, якая захапіла ваш горад. Няма штрафаў за мілітарызм.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_DECLARE_PROTECTORATE_WAR_DESCRIPTION">
+			<Text>Пачаць вайну з цывілізацыяй, якая напала на ваш васальны горад-дзяржаву. Няма мілітарысцкіх штрафаў за вызваленне гэтага горада.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_DECLARE_COLONIAL_WAR_DESCRIPTION">
+			<Text>Пачаць вайну з цывілізацыяй, якая тэхналагічна адстае ад вас на дзве эпохі. Штрафы за мілітарызм зменшаны ўдвойчы.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_DECLARE_TERRITORIAL_WAR_DESCRIPTION">
+			<Text>Пачаць вайну з цывілізацыяй, якая мяжуе з вамі. Для аб'яўлення вайны ў вас і вашага ворага павінна быць 2 межавых гарады ў радыусе 10 клетак. Штрафы за мілітарызм зменшаны на 25%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_PROPOSE_TRADE_DESCRIPTION">
+			<Text>Пачаць гандаль з гэтай цывілізацыяй.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_PROPOSE_PEACE_DEAL_DESCRIPTION">
+			<Text>Прапанаваць скласці мірную дамову.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_SELECT_TECH">
+			<Text>Абярыце тэхналогію</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_SELECT_ALLIANCE">
+			<Text>Абярыце хаўрус</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_SELECT_TARGET">
+			<Text>Абярыце мэту</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEAL_HOW_MANY">
+			<Text>Колькі?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEAL_LEADER_GIFT">
+			<Text>Дзякуй за падарунак.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEAL_LEADER_GIFT_EFFECT">
+			<Text>Падарунак палепшыць стасункі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEAL_LEADER_DEMAND">
+			<Text>Мы ж маглі дамовіцца!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEAL_LEADER_DEMAND_EFFECT">
+			<Text>Патрабаванне даніны сапсуе стасункі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEAL_UNFAIR">
+			<Text>На вашу прапанову нельга пагадзіцца. Яна не сумленная!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEAL_WHAT_WOULD_YOU_GIVE_ME_TOOLTIP">
+			<Text>Спытайце ў валадара, што ён гатоў прапанаваць вам за вашу дамову. [NEWLINE] Гэта дзеянне толькі дадасць умовы да яго боку.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEAL_UNACCEPTABLE_DEAL">
+			<Text>Я не пагаджусь на гэтую дамову ні пры якіх абставінах.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEAL_UNACCEPTABLE_ITEM_TOOLTIP">
+			<Text>Нельга выбраць гэтую ўмову.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEAL_LEADER_EQUALIZE_SUCCEEDED">
+			<Text>Ці падабаецца вам новая дамова?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEAL_LEADER_EQUALIZE_FAILED">
+			<Text>Я не жадаю гандляваць гэтым.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEAL_LEADER_GIFT_EQUALIZE_FAILED">
+			<Text>Мне няма чым заплаціць за гэта.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_FRIENDLY_1">
+			<Text>Пэўна ў будучыні, мы складзём прымальную дамову.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_FRIENDLY_2">
+			<Text>Магчыма ў будучыні.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_FRIENDLY_3">
+			<Text>Дзіўна, што мы не можам дамовіцца.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_NEUTRAL_1">
+			<Text>Гэта ганьба.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_NEUTRAL_2">
+			<Text>Я не смею патрабаваць ад Вас большага.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_NEUTRAL_3">
+			<Text>Як сумна.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_AGGRESSIVE_1">
+			<Text>Я не атрымаю ніякай карысці ад вашых скарбаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_AGGRESSIVE_2">
+			<Text>Так ці інакш, вы аддасце мне сваё багацце.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_AGGRESSIVE_3">
+			<Text>Пакуль што, я прымаю вашу адмову.</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

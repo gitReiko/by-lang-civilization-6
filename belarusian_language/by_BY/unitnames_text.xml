@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- unitnames_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:57:10 AM -->
+<GameData>
+	<LocalizedText>
+
+		<Replace Language="en_US" Tag="LOC_UNITNAME_BASE_TEMPLATE">
+			<Text>{1_Prefix} {2_Suffix}</Text>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_RANDOMIZE_BUTTON_TEXT">
+			<Text>Згенераваць назву</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_CHOOSE_NAME">
+			<Text>Прыдумаць назву гэтай адзінке</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_CONFIRM">
+			<Text>Замацаваць назву</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_RANDOM_FIRST">
+			<Text>Згенераваць назву-прэфікс</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_RANDOM_SECOND">
+			<Text>Згенераваць назву-канчатак</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_1ST">
+			<Text>Першыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_2ND">
+			<Text>Другія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_3RD">
+			<Text>Трэція</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_4TH">
+			<Text>Чацвёртыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_AIMED">
+			<Text>Нацэленыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_ALPHA">
+			<Text>Бурштынавыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_ALPINE">
+			<Text>Альпінісцкія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_ANGEL">
+			<Text>Анёльскія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_ARMORED">
+			<Text>Браняваныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_BIG_RED">
+			<Text>Чырвоныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_BLACK">
+			<Text>Чорныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_BLOOD">
+			<Text>Крывавыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_BLOODY">
+			<Text>Крыважэрныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_BRAVE">
+			<Text>Адважныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_BULL">
+			<Text>Мужныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_CELESTIAL">
+			<Text>Нябесныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_COLONIAL">
+			<Text>Каланіяльныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_CRAZY">
+			<Text>Шалёныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_DEAD_CENTER">
+			<Text>Цэнтральныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_DEADLY">
+			<Text>Смяротныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_DEATHS">
+			<Text>Смяртэльныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_DELTA">
+			<Text>Блакітныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_DESERT">
+			<Text>Пустэльныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_DIRTY">
+			<Text>Брудныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_DRAGON">
+			<Text>Цмачыныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_DRAWN">
+			<Text>Паўшыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_ELITE">
+			<Text>Элітныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_FIGHTING">
+			<Text>Баявыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_FLYING">
+			<Text>Лятучыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_GALLOPING">
+			<Text>Хуткія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_GHOST">
+			<Text>Прывідныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_GLORY">
+			<Text>Славутыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_GOLDEN">
+			<Text>Залатыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_GREAT">
+			<Text>Вялікія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_GREEN">
+			<Text>Зялёныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_GRIM">
+			<Text>Злавесныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_HADES">
+			<Text>Аідавы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_HELLISH">
+			<Text>Д'ябальскія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_HELLS">
+			<Text>Пякельныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_HOLY">
+			<Text>Святыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_INVINCIBLE">
+			<Text>Непераможныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_IRON">
+			<Text>Жалезныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_JUNGLE">
+			<Text>Лясныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_KINGS">
+			<Text>Каралеўскія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_LAVA">
+			<Text>Вулканічныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_LIGHT">
+			<Text>Светлыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_LIGHTNING">
+			<Text>Маланкавыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_LION">
+			<Text>Ільвіныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_LONG">
+			<Text>Кідкія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_MAGNIFICENT">
+			<Text>Выдатныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_MOUNTAIN">
+			<Text>Горныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_MOUNTED">
+			<Text>Пакораныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_NOMADIC">
+			<Text>Качавыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_OLD">
+			<Text>Старадаўнія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_ORPHAN">
+			<Text>Сіроцкія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_PARTISAN">
+			<Text>Партызанскія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_PRESIDENTS">
+			<Text>Прэзідэнцкія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_QUEENS">
+			<Text>Шляхетныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_RAGGED">
+			<Text>Абадраныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_RAINING">
+			<Text>Дажджлівыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_REVOLUTIONARY">
+			<Text>Рэвалюцыйныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_RIVER">
+			<Text>Рачныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_ROCK">
+			<Text>Каменныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_ROYAL">
+			<Text>Царскія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_SACRED">
+			<Text>Свяшчэнныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_SALTY">
+			<Text>Разбэшчаныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_SCREAMING">
+			<Text>Крыклівыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_SEA">
+			<Text>Марскія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_SHARP">
+			<Text>Вострыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_SILENT">
+			<Text>Бязгучныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_SOARING">
+			<Text>Луналыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_STONE">
+			<Text>Абсідыянавыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_STONEWALL">
+			<Text>Мармуровыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_STORM">
+			<Text>Штармавыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_TALL">
+			<Text>Ганарлівыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_TEN">
+			<Text>Дзесятыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_TERRIBLE">
+			<Text>Жудасныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_THUNDERING">
+			<Text>Грамавыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_TIMBER">
+			<Text>Інжынерныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_TROPIC">
+			<Text>Трапічныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_TUNDRA">
+			<Text>Тундравыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_WALKING">
+			<Text>Вандроўныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_WAR">
+			<Text>Ваяўнічыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_WHITE">
+			<Text>Белыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_WILD">
+			<Text>Дзікія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_WINDING">
+			<Text>Паветраныя</Text>
+		</Replace>
+
+
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_ARTISTS">
+			<Text>мастакі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_BANNER">
+			<Text>сцяганосцы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_BASTARDS">
+			<Text>вырадкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_BATTALION">
+			<Text>салдаты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_BERETS">
+			<Text>берэты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_BODYGUARDS">
+			<Text>ахоўнікі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_BOOTS">
+			<Text>прайдзісветы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_BOYS">
+			<Text>хлопцы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_BRAVES">
+			<Text>храбрацы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_BRIGADE">
+			<Text>брыгада</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_BROTHERS">
+			<Text>браты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_BUTCHERS">
+			<Text>мяснікі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_CAPS">
+			<Text>фуражкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_CHAMPIONS">
+			<Text>чэмпіёны</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_CIRCUS">
+			<Text>цыркачы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_COMPANY">
+			<Text>сябры</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_COMRADES">
+			<Text>таварышы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_CROSSES">
+			<Text>крыжакі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_CROWS">
+			<Text>крумкачы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_DEAD">
+			<Text>мерцвякі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_DEMONS">
+			<Text>дэманы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_DEVILS">
+			<Text>д'яблы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_DOGS">
+			<Text>псы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_DOZEN">
+			<Text>мядзведзі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_DRAGONS">
+			<Text>цмокі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_EAGLES">
+			<Text>арлы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_EXCELLERS">
+			<Text>выдатнікі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_FORCE">
+			<Text>сілы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_FUSILIERS">
+			<Text>фузілёры</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_GAMBLERS">
+			<Text>гамбіты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_GANG">
+			<Text>бандыты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_GARDE">
+			<Text>вартаўнікі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_GIANTS">
+			<Text>волаты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_GOONS">
+			<Text>грамілы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_GRENADIERS">
+			<Text>грэнадзёры</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_GUARD">
+			<Text>рэкруты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_GUARDIANS">
+			<Text>гвардзейцы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_HATS">
+			<Text>каскі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_HELMETS">
+			<Text>шаломы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_HORDE">
+			<Text>ардынцы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_HOUNDS">
+			<Text>гончыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_HUNTERS">
+			<Text>паляўнічыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_IMMORTALS">
+			<Text>бессмяротныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_INFANTRY">
+			<Text>пяхотнікі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_IRONS">
+			<Text>ланцугі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_KILLERS">
+			<Text>забойцы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_KINGS">
+			<Text>каралі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_LADS">
+			<Text>наглядчыкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_LAMBS">
+			<Text>ягняты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_LEGION">
+			<Text>легіянеры</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_LIBERATORS">
+			<Text>вызваліцелі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_LINE">
+			<Text>рысі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_LIONS">
+			<Text>ільвы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_MARTYRS">
+			<Text>пакутнікі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_ONE">
+			<Text>абраныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_OWN">
+			<Text>валадары</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_PANTHERS">
+			<Text>пантэры</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_PEACEMAKERS">
+			<Text>міратворцы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_PHANTOMS">
+			<Text>прывіды</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_PROFESSIONALS">
+			<Text>прафесіяналы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_RAIDERS">
+			<Text>налётчыкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_RAMPAGERS">
+			<Text>задзіракі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_REDS">
+			<Text>грабежнікі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_REGIMENT">
+			<Text>вяпрукі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_RELIABLES">
+			<Text>бугаі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_SAINTS">
+			<Text>святошы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_SAVAGES">
+			<Text>дзікуны</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_SEEKERS">
+			<Text>шукальнікі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_SHIELDS">
+			<Text>шчыты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_SHIRTS">
+			<Text>мундзіры</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_SONS">
+			<Text>сыны</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_TIGERS">
+			<Text>тыгры</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_TIMBERWOLVES">
+			<Text>ваўкалакі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_TOUGHS">
+			<Text>хуліганы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_TROOP">
+			<Text>дзіды</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_VOLUNTEERS">
+			<Text>самаахвотнікі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_WARLORDS">
+			<Text>ваяводы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_WATCH">
+			<Text>дазорныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_WIDOWMAKERS">
+			<Text>знішчальнікі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_WOLFHOUNDS">
+			<Text>ваўкадавы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_WOLVES">
+			<Text>ваўкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_APES">
+			<Text>прыматы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_BLADES">
+			<Text>клінкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_COMMANDOS">
+			<Text>дыверсанты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_EYES">
+			<Text>вочы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_JACKETS">
+			<Text>шаблі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_KNIVES">
+			<Text>кінжалы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_MARAUDERS">
+			<Text>марадзёры</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_NOMADS">
+			<Text>качэўнікі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_OUTLAWS">
+			<Text>злачынцы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_PATHFINDERS">
+			<Text>следапыты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_RANGERS">
+			<Text>рэйнджары</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_RECON">
+			<Text>выведнікі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_RUNNERS">
+			<Text>беглякі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_SCOUTS">
+			<Text>скаўты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_SNAKES">
+			<Text>змеі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_WANDERERS">
+			<Text>тулягі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_ARROWS">
+			<Text>стрэлы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_ARTILLERY">
+			<Text>артылерысты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_BATTERY">
+			<Text>гадзюкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_BLAZERS">
+			<Text>блэйзары</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_BOMBARDIERS">
+			<Text>бамбардзіры</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_BOWS">
+			<Text>лукі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_DEATH">
+			<Text>смерці</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_FIRE_BREATHERS">
+			<Text>агнядышцы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_GUNNERS">
+			<Text>збройнікі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_KNOCKERS">
+			<Text>кувалды</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_MARKSMEN">
+			<Text>стралкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_RAIN">
+			<Text>бегемоты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_SHARPS">
+			<Text>ашуканцы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_SHARPSHOOTERS">
+			<Text>стральцы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_SNIPERS">
+			<Text>снайперы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_STRIKERS">
+			<Text>штурмавікі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_DRAGOONS">
+			<Text>драгуны</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_FEATHERS">
+			<Text>пёры</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_FOXES">
+			<Text>лісы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_HAMMER">
+			<Text>молаты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_HORSE">
+			<Text>мустангі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_HORSEMEN">
+			<Text>вершнікі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_HUSSARS">
+			<Text>гусары</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_KNIGHTS">
+			<Text>рыцары</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_KORPS">
+			<Text>пінгвіны</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_LANCERS">
+			<Text>уланы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_PONIES">
+			<Text>поні</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_RIDERS">
+			<Text>наезнікі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_STEEDS">
+			<Text>жарабцы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_VANGUARD">
+			<Text>абаронцы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_WARHORSES">
+			<Text>ветэраны</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_ARMADA">
+			<Text>крыжаносцы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_BOUNTY">
+			<Text>найміты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_BUCCANEERS">
+			<Text>буканьеры</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_CONQUEROR">
+			<Text>заваёўнікі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_DREADNOUGHT">
+			<Text>дрэдноўты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_EEL">
+			<Text>гады</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_ENDEAVOR">
+			<Text>лорды</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_FLAGSHIP">
+			<Text>флагманы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_FLOTILLA">
+			<Text>флатыліі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_INTREPID">
+			<Text>смельчакі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_INVINCIBLE">
+			<Text>манахі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_IRONSIDES">
+			<Text>големы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_NARWHAL">
+			<Text>аднарогі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_ORCA">
+			<Text>касаткі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_REDOUBTABLE">
+			<Text>героі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_RESOLUTION">
+			<Text>адважнікі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_REVENGE">
+			<Text>помснікі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_SEAWOLVES">
+			<Text>піраты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_SHARK">
+			<Text>акулы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_STRIKE_GROUP">
+			<Text>хаўруснікі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_TRIDENT">
+			<Text>трызубцы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_VICTORY">
+			<Text>пераможцы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_WHALE">
+			<Text>кіты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_ACES">
+			<Text>асы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_AIRMEN">
+			<Text>пілоты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_ANGELS">
+			<Text>анёлы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_BIRDS">
+			<Text>сініцы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_FALCONS">
+			<Text>сокалы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_FLYERS">
+			<Text>кажаны</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_GUNFIGHTERS">
+			<Text>аркебузіры</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_GUNS">
+			<Text>гарматы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_HAWKS">
+			<Text>каршакі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_HORNETS">
+			<Text>шэршні</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_INTERCEPTORS">
+			<Text>перахопнікі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_INTRUDERS">
+			<Text>парушальнікі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_NIGHTSTALKERS">
+			<Text>пугачы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_SQUADRON">
+			<Text>князі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_THUNDERBOLTS">
+			<Text>маланкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_VAMPIRES">
+			<Text>вампіры</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_WARHAWKS">
+			<Text>беркуты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_WING">
+			<Text>крылы</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_HEAVENLY">
+			<Text>Райскія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_BRIGHT">
+			<Text>Азараючыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_HIDDEN">
+			<Text>Утоеныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_JADE">
+			<Text>Нефрытавыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_CRIMSON">
+			<Text>Барвяныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_SPIRIT">
+			<Text>Духоўныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_ETERNAL">
+			<Text>Вечныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_NORTHERN">
+			<Text>Паўночныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_SOUTHERN">
+			<Text>Паўднёвыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_EASTERN">
+			<Text>Усходнія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_WESTERN">
+			<Text>Заходнія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_EARTHEN">
+			<Text>Зямныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_GALE">
+			<Text>Навальнічныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_FIRE">
+			<Text>Агнявыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_METAL">
+			<Text>Металічныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_WATER">
+			<Text>Вадзяныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_BOXING">
+			<Text>Абароненыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_OPEN">
+			<Text>Адкрытыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_RAGING">
+			<Text>Лютыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_CALM">
+			<Text>Спакойныя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_PREFIX_SLEEPING">
+			<Text>Спячыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_FLAMES">
+			<Text>агні</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_WINDS">
+			<Text>вятры</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_FLOODS">
+			<Text>павадкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_MONKEYS">
+			<Text>малпы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_CRANES">
+			<Text>жоравы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_MANTIS">
+			<Text>багамолы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_PANDAS">
+			<Text>панды</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_ORDER">
+			<Text>парадкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_HAND">
+			<Text>рукі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_FIST">
+			<Text>кулакі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_CLAW">
+			<Text>капцюры</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_STARS">
+			<Text>зоркі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_PALM">
+			<Text>далоні</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_MENDICANTS">
+			<Text>жабракі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_PILGRIMS">
+			<Text>пілігрымы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_TEACHERS">
+			<Text>настаўнікі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_MASTERS">
+			<Text>майстры</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_SWEEPERS">
+			<Text>чысцільшчыкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_FOOT">
+			<Text>ногі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_SUFFIX_GRASSHOPPERS">
+			<Text>конікі</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

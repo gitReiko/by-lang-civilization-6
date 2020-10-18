@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- projects_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:49:32 AM -->
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_PROJECT_REPAIR_OUTER_DEFENSES_DESCRIPTION">
+			<Text>Рамонт абарончых умацаванняў. Можна ажыццявіць пасля 3 крокаў з моманту атакі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_ENHANCE_DISTRICT_ENCAMPMENT_DESCRIPTION">
+			<Text>Праэкт мястэчка, які прыносіць [ICON_Gold] золата кожны крок і дае ачкі [ICON_GreatGeneral] выдатнага генерала ў момант завяршэння.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_ENHANCE_DISTRICT_HARBOR_DESCRIPTION">
+			<Text>Праэкт мястэчка, які прыносіць [ICON_Gold] золата кожны крок і дае ачкі [ICON_GreatAdmiral] выдатнага адмірала ў момант завяршэння.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_ENHANCE_DISTRICT_INDUSTRIAL_ZONE_DESCRIPTION">
+			<Text>Праэкт мястэчка, які прыносіць [ICON_Gold] золата кожны крок і дае ачкі [ICON_GreatEngineer] выдатнага інжынера ў момант завяршэння.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_ENHANCE_DISTRICT_COMMERCIAL_HUB_DESCRIPTION">
+			<Text>Праэкт мястэчка, які прыносіць шмат [ICON_Gold] золата кожны крок і дае ачкі [ICON_GreatMerchant] выдатнага гандляра ў момант завяршэння.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_ENHANCE_DISTRICT_HOLY_SITE_DESCRIPTION">
+			<Text>Праэкт мястэчка, які прыносіць [ICON_Faith] веру кожны крок і дае ачкі [ICON_GreatProphet] выдатнага прарока ў момант завяршэння.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_ENHANCE_DISTRICT_CAMPUS_DESCRIPTION">
+			<Text>Праэкт мястэчка, які прыносіць [ICON_Science] навуку кожны крок і дае ачкі [ICON_GreatScientist] выдатнага навукоўца ў момант завяршэння.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_ENHANCE_DISTRICT_THEATER_DESCRIPTION">
+			<Text>Праэкт мястэчка, які прыносіць [ICON_Culture] культуру кожны крок і дае трохі ачкоў [ICON_GreatWriter] выдатнага пісьменніка, [ICON_GreatArtist] выдатнага мастака ды [ICON_GreatMusician] выдатнага музыкі ў момант завяршэння.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_CARNIVAL_DESCRIPTION">
+			<Text>Праэкт мястэчка, які дае +1 [ICON_Amenities] дабрабыт падчас выканання і дае [ICON_GreatPerson] ачкі выдатных дзеячаў для [ICON_GreatEngineer] выдатных інжынераў, [ICON_GreatMerchant] выдатных гандляроў, [ICON_GreatWriter] выдатных пісьменнікаў, [ICON_GreatArtist] выдатных мастакоў ды [ICON_GreatMusician] выдатных музык ў момант завяршэння.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_EARTH_SATELLITE_DESCRIPTION">
+			<Text>Праект касмічнай гонкі, які запускае невялікі спадарожнік на арбіту Зямлі. Адкрывае ўсе недаследаваныя кавалкі карты свету і з'яўляецца першым крокам на шляху да навуковай перамогі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_MOON_LANDING_DESCRIPTION">
+			<Text>Праект касмічнай гонкі, які запускае вялікую ракету, якая высаджвае чалавека на Месяц. Адначасова дае бонус да [ICON_Culture] культуры роўны ачкам [ICON_Science] навукі за 10 крокаў. З'яўляецца другім крокам на шляху да навуковай перамогі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_MARS_REACTOR_DESCRIPTION">
+			<Text>Праект касмічнай гонкі, які запускае рэактарны модуль на арбіту для марсіянскай калоніі. Запуск усіх трох марсіянскіх модуляў прыводзіць да навуковай перамогі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_MARS_HABITATION_DESCRIPTION">
+			<Text>Праект касмічнай гонкі, які запускае жылы модуль на арбіту для марсіянскай калоніі. Запуск усіх трох марсіянскіх модуляў прыводзіць да навуковай перамогі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_MARS_HYDROPONICS_DESCRIPTION">
+			<Text>Праект касмічнай гонкі, які запускае модуль гідрапонікі на арбіту для марсіянскай калоніі. Запуск усіх трох марсіянскіх модуляў прыводзіць да навуковай перамогі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_MANHATTAN_PROJECT_DESCRIPTION">
+			<Text>Дазваляе ствараць ядзерныя прылады.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_OPERATION_IVY_DESCRIPTION">
+			<Text>Дазваляе ствараць тэрмаядзерныя прылады.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_BUILD_NUCLEAR_DEVICE_DESCRIPTION">
+			<Text>Дае адну ядзерную прыладу. Патрабуе [ICON_Resource_Uranium] уран. Абслугоўванне каштуе 14 [ICON_Gold] золата кожны крок.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_BUILD_THERMONUCLEAR_DEVICE_DESCRIPTION">
+			<Text>Дае адну тэрмаядзерную прыладу. Патрабуе [ICON_Resource_Uranium] уран. Абслугоўванне каштуе 16 [ICON_Gold] золата кожны крок.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_EARTH_SATELLITE_POPUP">
+			<Text>Спадарожнік паспяхова запушчаны на арбіту Зямлі. Адкрыта ўся карта свету. Зроблен першы крок да навуковай перамогі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_MOON_LANDING_POPUP">
+			<Text>Чалавек паспяхова высаджаны на Месяц. Атрыманы бонус да [ICON_Culture] культуры роўны ачкам [ICON_Science] навукі за 10 крокаў. Зраблен другі крок на шляху да навуковай перамогі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_MARS_REACTOR_POPUP">
+			<Text>Паспяхова запушчаны рэактарны модуль марсіянскай калоніі. Запуск трох частак марсіянскай калоніі прывядзе да навуковай перамогі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_MARS_HABITATION_POPUP">
+			<Text>Паспяхова запушчаны жылы модуль марсіянскай калоніі. Запуск трох частак марсіянскай калоніі прывядзе да навуковай перамогі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_MARS_HYDROPONICS_POPUP">
+			<Text>Паспяхова запушчаны модуль гідрапонікі марсіянскай калоніі. Запуск трох частак марсіянскай калоніі прывядзе да навуковай перамогі.</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

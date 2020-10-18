@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- diplomacynotifications_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:33:46 AM -->
+<GameData>
+	<LocalizedText>
+
+		<!-- Default -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEFAULT_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Паведамленне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEFAULT_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} даслаў паведамленне.</Text>
+		</Replace>
+
+		<!-- Declare Friend -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Прапанова сяброўства</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} прапануе абвясціць сяброўства паміж цывілізацыямі.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Сяброўства абвешчана</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} пагадзіўся абвясціць сяброўства паміж цывілізацыямі.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Сяброўства адмоўлена</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} не пагадзіўся абвясціць сяброўства паміж цывілізацыямі.</Text>
+		</Replace>
+
+		<!-- Send Delegation -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Замежныя амбасадары</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} даслаў амбасадараў з падарункамі ў вашу [Icon_Capital] сталіцу.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Амбасадары прыняты</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} прыняў вашых амбасадараў.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Амбасадары выгнаны</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} выгнаў прэч вашых амбасадараў.</Text>
+		</Replace>
+
+		<!-- Declare War -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DECLARE_WAR_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Пачынаецца вайна</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DECLARE_WAR_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} пачаў з вамі вайну.</Text>
+		</Replace>
+
+		<!-- Denounce -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DENOUNCE_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Вас зганілі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DENOUNCE_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} зганіў вас ды вашу цывілізацыю.</Text>
+		</Replace>
+
+		<!-- Embassy -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Прапанова будаўніцтва амбасады</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} жадае пабудаваць амбасаду ў вашай сталіцы.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Амбасада пабудавана</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} дазваліў вам пабудаваць амбасаду ў сваёй сталіцы.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Амбасада не пабудавана</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} адмовіў прапанову будаўніцтва вашай амбасады ў сваёй сталіцы.</Text>
+		</Replace>
+
+		<!-- Make Alliance -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Прапанова хаўруса</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} жадае скласці хаўрус з вамі.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Хаўрус складзены</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} пагадзіўся скласці хаўрус з вамі.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Хаўрус не складзены</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} не пагадзіўся скласці хаўрус з вамі.</Text>
+		</Replace>
+
+		<!-- Make Peace -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Прапанова мірнай дамовы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} жадае скласці мірную дамову з вашай цывілізацыяй.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Мірная дамова складзена</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} пагадзіўся скласці мірную дамову.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Вайна працягваецца</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_BACKSTAB_AVERSE_FRIEND">
+			<Text>{1_name} не пагадзіўся скласці мірную дамову на азначаных умовах.</Text>
+		</Replace>
+
+		<!-- Open Borders -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Прапанова адчыніць межы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} прапаноўвае цывілізацыям адчыніць межы.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Межы адчынены</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} пагадзіўся адчыніць межы паміж цівілізацыямі.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Дамова аб межах адмоўлена</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} не жадае адчыняць межы паміж цівілізацыямі.</Text>
+		</Replace>
+
+		<!-- Warning -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_WARNING_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Папярэджанне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_WARNING_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} даслаў вам папярэджанне.</Text>
+		</Replace>
+
+		<!-- Defeat -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_DEFEAT_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Цывілізацыя знішчана</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_WONDER_OBSESSED_LEADING">
+			<Text>{1_name} не змог выратаваць сваю цывілізацыю ад ворагаў.</Text>
+		</Replace>
+
+		<!-- Kudo -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_KUDO_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Паведамленне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_KUDO_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} даслаў вам паведамленне.</Text>
+		</Replace>
+
+		<!-- First Meet -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_FIRST_MEET_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Спатканне іншай цывілізацыі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_FIRST_MEET_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>Вы сустрэлі {1_Civ[4]}.</Text>
+		</Replace>
+
+		<!-- Make Deal -->
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Прапанова дамовы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} прапаноўвае вашай цывілізацыі дамову.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Дамова складзена</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} пагадзіўся скласці дамову.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Дамова адмоўлена</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} не пагадзіўся скласці дамову.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_ADJUSTED">
+			<Text>Зменены ўмовы дамовы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_ADJUSTED">
+			<Text>{1_name} змяніў умовы складзенай вамі дамовы.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_DEMANDED">
+			<Text>Патрабаванне даніны</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_DEMANDED">
+			<Text>{1_name} патрабуе ад вас даніну.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_PROPOSED">
+			<Text>Прапанова дамовы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_PROPOSED">
+			<Text>{1_name} прапаноўвае вашай цывілізацыі дамову.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_EQUALIZE">
+			<Text>Несумленная дамова</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_EQUALIZE">
+			<Text>{1_name} жадае зрабіць умовы дамовы сумленней.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_CLOSED">
+			<Text>Дамова адмоўлена</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_CLOSED">
+			<Text>{1_name} не пагаджаецца на вашую дамову.</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

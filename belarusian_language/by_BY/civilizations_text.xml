@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- civilizations_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/17/2018 10:30:31 AM -->
+<GameData>
+	<LocalizedText>
+
+		<!-- Empire Names-->
+
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AMERICA_DESCRIPTION">
+			<Text>Амерыканская імперыя|Амерыканскай імперыі|Амерыканскай імперыі|Амерыканскую імперыю|Амерыканскай імперыяй|Амерыканскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ARABIA_DESCRIPTION">
+			<Text>Аравійская імперыя|Аравійскай імперыі|Аравійскай імперыі|Аравійскую імперыю|Аравійскай імперыяй|Аравійскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BARBARIAN_DESCRIPTION">
+			<Text>Варвары|варвараў|варварам|варвараў|варварамі|варварах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BRAZIL_DESCRIPTION">
+			<Text>Бразільская імперыя|Бразільскай імперыі|Бразільскай імперыі|Бразільскую імперыю|Бразільскай імперыяй|Бразільскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CHINA_DESCRIPTION">
+			<Text>Кітайская імперыя|Кітайскай імперыі|Кітайскай імперыі|Кітайскую імперыю|Кітайскай імперыяй|Кітайскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_EGYPT_DESCRIPTION">
+			<Text>Егіпецкая імперыя|Егіпецкай імперыі|Егіпецкай імперыі|Егіпецкую імперыю|Егіпецкай імперыяй|Егіпецкай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ENGLAND_DESCRIPTION">
+			<Text>Ангельская імперыя|Ангельскай імперыі|Ангельскай імперыі|Ангельскую імперыю|Ангельскай імперыяй|Ангельскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_FRANCE_DESCRIPTION">
+			<Text>Французская імперыя|Французскай імперыі|Французскай імперыі|Французскую імперыю|Французскай імперыяй|Французскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_GERMANY_DESCRIPTION">
+			<Text>Нямецкая імперыя|Нямецкай імперыі|Нямецкай імперыі|Нямецкую імперыю|Нямецкай імперыяй|Нямецкай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_GREECE_DESCRIPTION">
+			<Text>Грэцкая імперыя|Грэцкай імперыі|Грэцкай імперыі|Грэцкую імперыю|Грэцкай імперыяй|Грэцкай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_INDIA_DESCRIPTION">
+			<Text>Індыйская імперыя|Індыйскай імперыі|Індыйскай імперыі|Індыйскую імперыю|Індыйскай імперыяй|Індыйскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_JAPAN_DESCRIPTION">
+			<Text>Японская імперыя|Японскай імперыі|Японскай імперыі|Японскую імперыю|Японскай імперыяй|Японскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KONGO_DESCRIPTION">
+			<Text>Імперыя Конга|Імперыі Конга|Імперыі Конга|Імперыю Конга|Імперыяй Конга|Імперыі Конга</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NORWAY_DESCRIPTION">
+			<Text>Нарвежская імперыя|Нарвежскай імперыі|Нарвежскай імперыі|Нарвежскую імперыю|Нарвежскай імперыяй|Нарвежскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ROME_DESCRIPTION">
+			<Text>Рымская імперыя|Рымскай імперыі|Рымскай імперыі|Рымскую імперыю|Рымскай імперыяй|Рымскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_RUSSIA_DESCRIPTION">
+			<Text>Расейская імперыя|Расейскай імперыі|Расейскай імперыі|Расейскую імперыю|Расейскай імперыяй|Расейскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SCYTHIA_DESCRIPTION">
+			<Text>Скіфская імперыя|Скіфскай імперыі|Скіфскай імперыі|Скіфскую імперыю|Скіфскай імперыяй|Скіфскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SPAIN_DESCRIPTION">
+			<Text>Гішпанская імперыя|Гішпанскай імперыі|Гішпанскай імперыі|Гішпанскую імперыю|Гішпанскай імперыяй|Гішпанскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SUMERIA_DESCRIPTION">
+			<Text>Шумерская імперыя|Шумерскай імперыі|Шумерскай імперыі|Шумерскую імперыю|Шумерскай імперыяй|Шумерскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!-- City-State Empire Names-->
+
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AMSTERDAM_DESCRIPTION">
+			<Text>Горад-дзяржава Амстэрдам|горада-дзяржавы Амстэрдама|гораду-дзяржаве Амстэрдаму|горад-дзяржаву Амстэрдам|горадам-дзяржавай Амстэрдамам|горадзе-дзяржаве Амстэрдаме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BANDAR_BRUNEI_DESCRIPTION">
+			<Text>Горад-дзяржава Бандар Брунэй|горада-дзяржавы Бандара Брунэя|гораду-дзяржаве Бандару Брунэю|горад-дзяржаву Бандар Брунэй|горадам-дзяржавай Бандарам Брунэем|горадзе-дзяржаве Бандары Брунэі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BRUSSELS_DESCRIPTION">
+			<Text>Горад-дзяржава Брусэль|горада-дзяржавы Брусэля|гораду-дзяржаве Брусэлю|горад-дзяржаву Брусэль|горадам-дзяржавай Брусэлем|горадзе-дзяржаве Брусэлю</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BUENOS_AIRES_DESCRIPTION">
+			<Text>Горад-дзяржава Буэнас-Айрэс|горада-дзяржавы Буэнас-Айрэса|гораду-дзяржаве Буэнас-Айрэсу|горад-дзяржаву Буэнас-Айрэс|горадам-дзяржавай Буэнас-Айрэсам|горадзе-дзяржаве Буэнас-Айрэсе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CARTHAGE_DESCRIPTION">
+			<Text>Горад-дзяржава Карфаген|горада-дзяржавы Карфагена|городу-дзяржаве Карфагену|горад-дзяржаву Карфаген|горадам-дзяржавай Карфагенам|горадзе-дзяржаве Карфагене</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_GENEVA_DESCRIPTION">
+			<Text>Горад-дзяржава Жэнева|горада-дзяржавы Жэневы|городу-дзяржаве Жэневе|горад-дзяржаву Жэнэву|горадам-дзяржавай Жэневай|горадзе-дзяржаве Жэневе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_HATTUSA_DESCRIPTION">
+			<Text>Горад-дзяржава Хатуса|горада-дзяржавы Хатусы|городу-дзяржаве Хатусе|горад-дзяржаву Хатусу|горадам-дзяржавай Хатусай|горадзе-дзяржаве Хатусе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_HONG_KONG_DESCRIPTION">
+			<Text>Горад-дзяржава Ганконг|горада-дзяржавы Ганконга|городу-дзяржаве Ганконгу|горад-дзяржаву Ганконг|горадам-дзяржавай Ганконгам|горадзе-дзяржаве Ганконгу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_JAKARTA_DESCRIPTION">
+			<Text>Горад-дзяржава Джакарта|горада-дзяржавы Джакарты|городу-дзяржаве Джакарце|горад-дзяржаву Джакарту|горадам-дзяржавай Джакартай|горадзе-дзяржаве Джакарце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_JERUSALEM_DESCRIPTION">
+			<Text>Горад-дзяржава Ерусалім|горада-дзяржавы Ерусаліма|городу-дзяржаве Ерусаліму|горад-дзяржаву Ерусалім|горадам-дзяржавай Ерусалімам|горадзе-дзяржаве Ерусаліме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KABUL_DESCRIPTION">
+			<Text>Горад-дзяржава Кабул|горада-дзяржавы Кабула|городу-дзяржаве Кабулу|горад-дзяржаву Кабул|горадам-дзяржавай Кабулам|горадзе-дзяржаве Кабуле</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KANDY_DESCRIPTION">
+			<Text>Горад-дзяржава Кандзі|горада-дзяржавы Кандзі|городу-дзяржаве Кандзі|горад-дзяржаву Кандзі|горадам-дзяржавай Кандзі|горадзе-дзяржаве Кандзі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KUMASI_DESCRIPTION">
+			<Text>Горад-дзяржава Кумасі|горада-дзяржавы Кумасі|городу-дзяржаве Кумасі|горад-дзяржаву Кумасі|горадам-дзяржавай Кумасі|горадзе-дзяржаве Кумасі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_LA_VENTA_DESCRIPTION">
+			<Text>Горад-дзяржава Ла-Вента|горада-дзяржавы Ла-Венты|городу-дзяржаве Ла-Венце|горад-дзяржаву Ла-Венту|горадам-дзяржавай Ла-Вентай|горадзе-дзяржаве Ла-Венце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_LISBON_DESCRIPTION">
+			<Text>Горад-дзяржава Лісабон|горада-дзяржавы Лісабона|городу-дзяржаве Лісабону|горад-дзяржаву Лісабон|горадам-дзяржавай Лісабонам|горадзе-дзяржаве Лісабоне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MOHENJO_DARO_DESCRIPTION">
+			<Text>Горад-дзяржава Махенджа-Дара|горада-дзяржавы Махенджа-Дара|городу-дзяржаве Махенджа-Дара|горад-дзяржаву Махенджа-Дара|горадам-дзяржавай Махенджа-Дара|горадзе-дзяржаве Махенджа-Дара</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PRESLAV_DESCRIPTION">
+			<Text>Горад-дзяржава Праслаў|горада-дзяржавы Праслава|городу-дзяржаве Праславу|горад-дзяржаву Праслаў|горадам-дзяржавай Праславам|горадзе-дзяржаве Праславе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NAN_MADOL_DESCRIPTION">
+			<Text>Горад-дзяржава Нан-Мадол|горада-дзяржавы Нан-Мадола|городу-дзяржаве Нан-Мадолу|горад-дзяржаву Нан-Мадол|горадам-дзяржавай Нан-Мадолам|горадзе-дзяржаве Нан-Мадоле</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SEOUL_DESCRIPTION">
+			<Text>Горад-дзяржава Сеул|горада-дзяржавы Сеула|городу-дзяржаве Сеулу|горад-дзяржаву Сеул|горадам-дзяржавай Сеулам|горадзе-дзяржаве Сеуле</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_STOCKHOLM_DESCRIPTION">
+			<Text>Горад-дзяржава Стакгольм|горада-дзяржавы Стакгольма|городу-дзяржаве Стакгольму|горад-дзяржаву Стакгольм|горадам-дзяржавай Стакгольмам|горадзе-дзяржаве Стакгольме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_TORONTO_DESCRIPTION">
+			<Text>Горад-дзяржава Таронта|горада-дзяржавы Таронта|городу-дзяржаве Таронта|горад-дзяржаву Таронта|горадам-дзяржавай Таронта|горадзе-дзяржаве Таронта</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_VALLETTA_DESCRIPTION">
+			<Text>Горад-дзяржава Валета|горада-дзяржавы Валеты|городу-дзяржаве Валеце|горад-дзяржаву Валету|горадам-дзяржавай Валетай|горадзе-дзяржаве Валеце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_VILNIUS_DESCRIPTION">
+			<Text>Горад-дзяржава Вільня|горада-дзяржавы Вільні|городу-дзяржаве Вільне|горад-дзяржаву Вільню|горадам-дзяржавай Вільняй|горадзе-дзяржаве Вільне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_YEREVAN_DESCRIPTION">
+			<Text>Горад-дзяржава Ерэван|горада-дзяржавы Ерэвана|городу-дзяржаве Ерэвану|горад-дзяржаву Ерэван|горадам-дзяржавай Ерэванам|горадзе-дзяржаве Ерэване</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ZANZIBAR_DESCRIPTION">
+			<Text>Горад-дзяржава Занзыбар|горада-дзяржавы Занзыбара|городу-дзяржаве Занзыбару|горад-дзяржаву Занзыбар|горадам-дзяржавай Занзыбарам|горадзе-дзяржаве Занзыбары</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!-- Adjectives -->
+
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AMERICA_ADJECTIVE">
+			<Text>Амерыканскі|амерыканскага|амерыканскаму|амерыканскага|амерыканскім|амерыканскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ARABIA_ADJECTIVE">
+			<Text>Аравійскі|аравійскага|аравійскаму|аравійскага|аравійскім|аравійскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BARBARIAN_ADJECTIVE">
+			<Text>Варварскі|варварскага|варварскаму|варварскага|варварскім|варварскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BRAZIL_ADJECTIVE">
+			<Text>Бразільскі|бразільскага|бразільскаму|бразільскага|бразільскім|бразільскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CHINA_ADJECTIVE">
+			<Text>Кітайскі|кітайскага|кітайскаму|кітайскага|кітайскім|кітайскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_EGYPT_ADJECTIVE">
+			<Text>Егіпецкі|егіпецкага|егіпецкаму|егіпецкага|егіпецкім|егіпецкім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ENGLAND_ADJECTIVE">
+			<Text>Ангельскі|ангельскага|ангельскаму|ангельскага|ангельскім|ангельскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_FRANCE_ADJECTIVE">
+			<Text>Французскі|французскага|французскаму|французскага|французскім|французскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_GERMANY_ADJECTIVE">
+			<Text>Германскі|германскага|германскаму|германскага|германскім|германскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_GREECE_ADJECTIVE">
+			<Text>Грэцкі|грэцкага|грэцкаму|грэцкага|грэцкім|грэцкім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_INDIA_ADJECTIVE">
+			<Text>Індыйскі|індыйскага|індыйскаму|індыйскага|індыйскім|індыйскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_JAPAN_ADJECTIVE">
+			<Text>Японскі|японскага|японскаму|японскага|японскім|японскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KONGO_ADJECTIVE">
+			<Text>Конгійскі|конгійскага|конгійскаму|конгійскага|конгійскім|конгійскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NORWAY_ADJECTIVE">
+			<Text>Нарвежскі|нарвежскага|нарвежскаму|нарвежскага|нарвежскім|нарвежскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ROME_ADJECTIVE">
+			<Text>Рымскі|рымскага|рымскаму|рымскага|рымскім|рымскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_RUSSIA_ADJECTIVE">
+			<Text>Расейскі|расейскага|расейскаму|расейскага|расейскім|расейскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SCYTHIA_ADJECTIVE">
+			<Text>Скіфскі|скіфскага|скіфскаму|скіфскага|скіфскім|скіфскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SPAIN_ADJECTIVE">
+			<Text>Гішпанскі|гішпанскага|гішпанскаму|гішпанскага|гішпанскім|гішпанскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SUMERIA_ADJECTIVE">
+			<Text>Шумерскі|шумерскага|шумерскаму|шумерскага|шумерскім|шумерскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AMSTERDAM_ADJECTIVE">
+			<Text>Амстэрдамскі|амстэрдамскага|амстэрдамскаму|амстэрдамскага|амстэрдамскім|амстэрдамскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BANDAR_BRUNEI_ADJECTIVE">
+			<Text>Бандар Брунэйскі|бандар брунэйскага|бандар брунэйскаму|бандар брунэйскага|бандар брунэйскім|бандар брунэйскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BUENOS_AIRES_ADJECTIVE">
+			<Text>Буэнас-айрэскі|буэнас-айрэскага|буэнас-айрэскаму|буэнас-айрэскага|буэнас-айрэскім|буэнас-айрэскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CARTHAGE_ADJECTIVE">
+			<Text>Карфагенскі|карфагенскага|карфагенскаму|карфагенскага|карфагенскім|карфагенскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_GENEVA_ADJECTIVE">
+			<Text>Жэнеўскі|жэнеўскага|жэнеўскаму|жэнеўскага|жэнеўскім|жэнеўскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_HATTUSA_ADJECTIVE">
+			<Text>Хатускі|хатускага|хатускаму|хатускага|хатускім|хатускім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_HONG_KONG_ADJECTIVE">
+			<Text>Ганконскі|ганконскага|ганконскаму|ганконскага|ганконскім|ганконскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_JAKARTA_ADJECTIVE">
+			<Text>Джакарцкі|джакарцкага|джакарцкаму|джакарцкага|джакарцкім|джакарцкім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_JERUSALEM_ADJECTIVE">
+			<Text>Ерусалімскі|ерусалімскага|ерусалімскаму|ерусалімскага|ерусалімскім|ерусалімскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KABUL_ADJECTIVE">
+			<Text>Кабульскі|кабульскага|кабульскаму|кабульскага|кабульскім|кабульскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KANDY_ADJECTIVE">
+			<Text>Кандзійскі|кандзійскага|кандзійскаму|кандзійскага|кандзійскім|кандзійскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KUMASI_ADJECTIVE">
+			<Text>Кумасійскі|кумасійскага|кумасійскаму|кумасійскага|кумасійскім|кумасійскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_LA_VENTA_ADJECTIVE">
+			<Text>Ла-Венцкі|ла-венцкага|ла-венцкаму|ла-венцкага|ла-венцкім|ла-венцкім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_LISBON_ADJECTIVE">
+			<Text>Лісабонскі|лісабонскага|лісабонскаму|лісабонскага|лісабонскім|лісабонскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MOHENJO_DARO_ADJECTIVE">
+			<Text>Махенджа-Дарскі|махенджа-дарскага|махенджа-дарскаму|махенджа-дарскага|махенджа-дарскім|махенджа-дарскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PRESLAV_ADJECTIVE">
+			<Text>Праслаўскі|праслаўскага|праслаўскаму|праслаўскага|праслаўскім|праслаўскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NAN_MADOL_ADJECTIVE">
+			<Text>Нан-Мадольскі|нан-мадольскага|нан-мадольскаму|нан-мадольскага|нан-мадольскім|нан-мадольскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SEOUL_ADJECTIVE">
+			<Text>Сеульскі|сеульскага|сеульскаму|сеульскага|сеульскім|сеульскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_STOCKHOLM_ADJECTIVE">
+			<Text>Стакгольмскі|стакгольмскага|стакгольмскаму|стакгольмскага|стакгольмскім|стакгольмскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_TORONTO_ADJECTIVE">
+			<Text>Таронцкі|таронцкага|таронцкаму|таронцкага|таронцкім|таронцкім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_VALLETTA_ADJECTIVE">
+			<Text>Валецкі|валецкага|валецкаму|валецкага|валецкім|валецкім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_VILNIUS_ADJECTIVE">
+			<Text>Віленскі|віленскага|віленскаму|віленскага|віленскім|віленскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_YEREVAN_ADJECTIVE">
+			<Text>Ерэванскі|ерэванскага|ерэванскаму|ерэванскага|ерэванскім|ерэванскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ZANZIBAR_ADJECTIVE">
+			<Text>Занзібарскі|занзібарскага|занзібарскаму|занзібарскага|занзібарскім|занзібарскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+
+		<!-- Civ Traits-->
+
+		<Replace Language="en_US" Tag="LOC_TRAIT_PLACEHOLDER">
+			<Text>[PLACEHOLDER] Не існуе ніводнай адметнасці.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_AMAZON_NAME">
+			<Text>Джунглі Амазонкі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_AMAZON_DESCRIPTION">
+			<Text>Кожны трапічны лес павялічвае на +1 бонус за суседства для навуковых, гандлёвых і святых мястэчкаў, ды тэатральных сквераў. Апроч таго, кожны гекс з джунглямі дае +1 да [ICON_Housing] жылля суседнім спальным прыгарадам.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_NAME">
+			<Text>Дынастычныя цыклы</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_DESCRIPTION">
+			<Text>[ICON_TechBoosted]Эўрыкі паскараюць даследаванні тэхналогій на 60%. [ICON_CivicBoosted] Натхненні паскараюць даследаванні палітык на 60%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_INEXPENSIVE_BUILDERS_NAME">
+			<Text>Танная працоўная моц</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_INEXPENSIVE_BUILDERS_DESCRIPTION">
+			<Text>Падрыхтоўка будаўнікоў адбываецца ўдвойчы хутчэй звычайнага.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ADJACENT_DISTRICTS_NAME">
+			<Text>Рэстаўрацыя Мэйдзі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ADJACENT_DISTRICTS_DESCRIPTION">
+			<Text>Усе мястэчкі атрымліваюць дадатковы бонус за суседства з іншымы мястэчкамі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DOUBLE_ARCHAEOLOGY_SLOTS_NAME">
+			<Text>Брытанскія музеі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DOUBLE_ARCHAEOLOGY_SLOTS_DESCRIPTION">
+			<Text>Археалагічныя музеі змяшчаюць па 6 [ICON_GreatWork_Artifact] артэфактаў замест 3 ды аўтаматычна робяцца тэматычнымі, калі ў іх захоўваецца 6 [ICON_GreatWork_Artifact] артэфактаў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_EXTRA_LIGHT_CAVALRY_NAME">
+			<Text>Качэўнікі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_EXTRA_LIGHT_CAVALRY_DESCRIPTION">
+			<Text>Пасля падрыхтоўкі вершнікаў альбо сакі атрымліваюць адпаведную дадатковую адзінку.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BONUS_AGAINST_BARBS_NAME">
+			<Text>Варвары</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BONUS_AGAINST_BARBS_DESCRIPTION">
+			<Text>Бонус супраць варвараў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_NAME">
+			<Text>Эпічныя прыгоды</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_DESCRIPTION">
+			<Text>Знішчэнне лагера варвараў дае ўзнагароду плямённага селішча ў дадатак да звычайнага [ICON_Gold] золата. Апроч таго мабілізацыя войска горада-дзяржавы каштуе напалову менш золата.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ITERU_NAME">
+			<Text>Ітэру</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ITERU_DESCRIPTION">
+			<Text>Дае +15% да [ICON_Production] вытворчасці падчас будавання мястэчак і цудаў свету каля рэк. Рачныя поплавы не перешкаджаюць будаванню мястэчак ды цудаў свету.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_PLATOS_REPUBLIC_NAME">
+			<Text>Рэспубліка Платона</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_PLATOS_REPUBLIC_DESCRIPTION">
+			<Text>Дадатковая шалёная карта палітычнага інстытута.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_NAME">
+			<Text>Матухна-Расея</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_DESCRIPTION">
+			<Text>Пабудованыя гарады падначальваюць сабе дадатковую тэрыторыю. [ICON_Faith] Вера ды [ICON_Production] вытворчасць у тундры павялічваюцца на +1.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_LAST_PROPHET_NAME">
+			<Text>Апошні прарок</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_LAST_PROPHET_DESCRIPTION">
+			<Text>Пасля з'яўлення перадапошняга [ICON_GreatProphet] выдатнага прарока, атрымліваюць апошняга (пры ўмове яго адсутнасці). Гэтаксама атрымліваюць +1 да [ICON_Science] навукі за кожны замежны горад, які спавядае іх рэлігію.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_NKISI_NAME">
+			<Text>Нкісі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_NKISI_DESCRIPTION">
+			<Text>Атрымліваюць кожны крок +2 [ICON_Food] ежы, +2 [ICON_Production] вытворчасці і +4 [ICON_Gold] золата ў дадатак да [ICON_Culture] культуры за кожную [ICON_GreatWork_Relic] рэліквію, [ICON_GreatWork_Sculpture] скульптуру, [ICON_GreatWork_Artifact] артэфакт. Палац можа змясціць 5 вялікіх вырабаў. У дадатак да гэтага ачкі [ICON_GreatWriter] выдатных пісьменнікаў, [ICON_GreatArtist] выдатных мастакоў, [ICON_GreatMusician] выдатных музык ды [ICON_GreatMerchant] выдатных гандляроў павялічаны на 50%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_NAME">
+			<Text>Флатылія са скарбамі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_DESCRIPTION">
+			<Text>Могуць ствараць флаты і армады раней звычайнага (патрэбна тэхналогія меркантылізм). Гэтаксама атрымліваюць дадатковае [ICON_Gold] золата ад міжкантынентальных [ICON_TradeRoute] гандлёвых шляхоў накіраваных да іншых цывілізацый, альбо дадатковую [ICON_Food] ежу і [ICON_Production] вытворчасць, калі шляхі накіраваны да уласных гарадоў.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_NAME">
+			<Text>Бацькі-заснавальнікі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_DESCRIPTION">
+			<Text>Усе ўрадавыя бонусы накопліваюцца ўдвойчы хутчэй звычайнага.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DHARMA_NAME">
+			<Text>Дхарма</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DHARMA_DESCRIPTION">
+			<Text>У гарадах дзейнічаюць бонусы ад усіх звычаев кожнай распаўсюджанай рэлігіі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_WONDER_TOURISM_NAME">
+			<Text>Вялікія вандраванні</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_WONDER_TOURISM_DESCRIPTION">
+			<Text>Падчас будаўніцтва цудаў свету Сярэднявечча, Адраджэння і Прамысловага часа [ICON_Production] вытворчасць павялічваецца на 20%. [ICON_Tourism] Турызм ад цудаў света падвоены.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPERIAL_FREE_CITIES_NAME">
+			<Text>Магдэбургскае права</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPERIAL_FREE_CITIES_DESCRIPTION">
+			<Text>Могуць будаваць дадатковае мястэчка ў кожным горадзе (звыш мяжы, вызначанай колькасцю [ICON_Citizen] насельніцтва).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ALL_ROADS_TO_ROME_NAME">
+			<Text>Усе шляхі вядуць у Рым</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ALL_ROADS_TO_ROME_DESCRIPTION">
+			<Text>Кожны горад атрымлівае дармавы гандлёвы пост. Паміж новым горадам і [ICON_Capital] Рымам грунтуецца [ICON_TradeRoute] гандлёвы шлях, пры ўмове, што ён знаходзіцца ў дасяжных межах. Апроч таго гандлёвыя пасты прыносяць +1 [ICON_Gold] золата, калі праз іх праходзяць уласныя [ICON_TradeRoute] гандлёвыя шляхі.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION_NAME">
+			<Text>Кнар</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION_DESCRIPTION">
+			<Text>Пасля даследавання караблебудавання, флот атрымлівае здольнасць руху па акіяне. Апроч гэтага караблі могуць рамантавацца на нейтральнай тэрыторыі, а наземныя адзінкі ігнаруюць расход [ICON_Movement] ачкоў руху на марскую пагрузку і выгрузку.</Text>
+		</Replace>
+
+		<!-- Civilization Info -->
+
+		<Replace Language="en_US" Tag="LOC_CIVINFO_LOCATION">
+			<Text>Месцаванне</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_SIZE">
+			<Text>Памер</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_POPULATION">
+			<Text>Насельніцтва</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_CAPITAL">
+			<Text>Сталіца</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_AMERICA_LOCATION">
+			<Text>Паўночная Амерыка</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_AMERICA_SIZE">
+			<Text>Каля 9,6 млн.кв.км.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_AMERICA_POPULATION">
+			<Text>Каля 318 мільёнаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_AMERICA_CAPITAL">
+			<Text>Розныя (Філадэльфія, Нью-Ёрк, у наш час – Вашынгтон)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_ARABIA_LOCATION">
+			<Text>Азія-Афрыка</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_ARABIA_SIZE">
+			<Text>Меркавана 15 млн.кв.км. (у час Амеядцкага халіфата)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_ARABIA_POPULATION">
+			<Text>Каля 34 млн (у перыяд кіравання Амеядаў)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_ARABIA_CAPITAL">
+			<Text>Розныя (Медына, Куфа, Дамаск, Багдад, Каір)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_BRAZIL_LOCATION">
+			<Text>Паўднёвая Амерыка</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_BRAZIL_SIZE">
+			<Text>Каля 8,5 млн.кв.км</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_BRAZIL_POPULATION">
+			<Text>Каля 193 мільёнаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_BRAZIL_CAPITAL">
+			<Text>Розныя (Сальвадор, Рыа-дэ-Жанэйра, у наш час – Бразіліа)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_CHINA_LOCATION">
+			<Text>Азія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_CHINA_SIZE">
+			<Text>Каля 9,6 млн.кв.км</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_CHINA_POPULATION">
+			<Text>1,1 млрд. у 1990 годзе</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_CHINA_CAPITAL">
+			<Text>Розныя (чатыры самых галоўных: Пекін, Нанкін, Лаян і Чан'ань). У наш час – Пекін</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_ENGLAND_LOCATION">
+			<Text>Еўропа</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_ENGLAND_SIZE">
+			<Text>Прыкладна 243,5 тыс.кв.км</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_ENGLAND_POPULATION">
+			<Text>Каля 64,1 мільёнаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_ENGLAND_CAPITAL">
+			<Text>Лондан (галоўным чынам)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_EGYPT_LOCATION">
+			<Text>Афрыка</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_EGYPT_SIZE">
+			<Text>Прыкладна 1 млн.кв.км</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_EGYPT_POPULATION">
+			<Text>Каля 7,5 мільёнаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_EGYPT_CAPITAL">
+			<Text>Розныя (Мемфіс, Фівы, Александрыя, у наш час – Каір)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_FRANCE_LOCATION">
+			<Text>Еўропа</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_FRANCE_SIZE">
+			<Text>Прыкладна 640,6 тыс.кв.км</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_FRANCE_POPULATION">
+			<Text>Каля 66,6 мільёнаў</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_FRANCE_CAPITAL">
+			<Text>Розныя (Арлеан, Тур, Версаль, Вішы, па большай частцы Парыж)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_GERMANY_LOCATION">
+			<Text>Еўропа</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_GERMANY_SIZE">
+			<Text>Меркавана 1 млн.кв.км. (у 1050 годзе)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_GERMANY_POPULATION">
+			<Text>Меркавана 26,3 млн (у 1789 годзе)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_GERMANY_CAPITAL">
+			<Text>Няма (там, дзе жыў імператар). У наш час – Берлін</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_GREECE_LOCATION">
+			<Text>Еўропа</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_GREECE_SIZE">
+			<Text>Прыкладна (па грубых ацэнках) 131,9 тыс.кв.км</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_GREECE_POPULATION">
+			<Text>Прыкладна 667,5 тыс. (падчас Пелапанэскай вайны)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_GREECE_CAPITAL">
+			<Text>Усе гарады, але пераважна Спарта і Афіны. У наш час – Афіны</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_INDIA_LOCATION">
+			<Text>Азія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_INDIA_SIZE">
+			<Text>Прыкладна 3,3 млн кв.км.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_INDIA_POPULATION">
+			<Text>Прыкладна 1,2 млрд (з кожным годам усё больш)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_INDIA_CAPITAL">
+			<Text>Розныя (Калькута, Дэлі, у наш час – Нью-Дэлі)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_JAPAN_LOCATION">
+			<Text>Азія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_JAPAN_SIZE">
+			<Text>Прыкладна 378 тыс.кв.км.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_JAPAN_POPULATION">
+			<Text>126,4 млн (па апошніх дадзеных)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_JAPAN_CAPITAL">
+			<Text>Розныя (занадта шмат да Кіёта; у наш час – Токіа)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_KONGO_LOCATION">
+			<Text>Афрыка</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_KONGO_SIZE">
+			<Text>129,4 тыс.кв.км (падчас магутнасці)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_KONGO_POPULATION">
+			<Text>Прыкладна 509 тыс. (у 1650 годзе)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_KONGO_CAPITAL">
+			<Text>Мбанза-Конга</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_NORWAY_LOCATION">
+			<Text>Еўропа</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_NORWAY_SIZE">
+			<Text>Прыкладна 385,2 тыс.кв.км.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_NORWAY_POPULATION">
+			<Text>Каля 5,1 млн (па апошніх дадзеных)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_NORWAY_CAPITAL">
+			<Text>Розныя (Тронхейм, Берген, у наш час – Осла)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_ROME_LOCATION">
+			<Text>Еўропа (таксама Анатолія, Афрыка, Бліжні Ўсход і інш.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_ROME_SIZE">
+			<Text>Каля 6,5 млн.кв.км. (падчас кіравання Траяна)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_ROME_POPULATION">
+			<Text>Прыкладна 88 млн (на піку магутнасці)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_ROME_CAPITAL">
+			<Text>Рым</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_RUSSIA_LOCATION">
+			<Text>Еўропа-Азія (у кароткі перыяд і частка Паўночнай Амерыкі)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_RUSSIA_SIZE">
+			<Text>Каля 21,8 млн.кв.км.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_RUSSIA_POPULATION">
+			<Text>Прыкладна 181,5 млн</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_RUSSIA_CAPITAL">
+			<Text>Санкт-Пецярбург, потым Масква</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_SCYTHIA_LOCATION">
+			<Text>Азія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_SCYTHIA_SIZE">
+			<Text>Па грубых ацэнках 994 тыс.кв.км.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_SCYTHIA_POPULATION">
+			<Text>Невядома, каля 40–50 тыс. падчас магутнасці</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_SCYTHIA_CAPITAL">
+			<Text>Няма (адзіны горад, што згадваецца ў хроніках – Неапаль Скіфскі, разбураны готамі ў 3 стагоддзі н.э.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_SPAIN_LOCATION">
+			<Text>Еўропа</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_SPAIN_SIZE">
+			<Text>Прыкладна 504,4 тыс.кв.км.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_SPAIN_POPULATION">
+			<Text>Прыкладна 47,6 млн</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_SPAIN_CAPITAL">
+			<Text>Мадрыд (галоўным чынам)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_SUMERIA_LOCATION">
+			<Text>Азія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_SUMERIA_SIZE">
+			<Text>Немагчыма ацаніць</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_SUMERIA_POPULATION">
+			<Text>Прыкладна ад 1,1 да 1,5 млн</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_SUMERIA_CAPITAL">
+			<Text>Шматлікія (Лагаш, Эрыс, Урук, Кіш, Ур, а таксама тыя, дзе валадарыў правіцель)</Text>
+		</Replace>
+
+		<!-- Uniques -->
+
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_FILM_STUDIO_NAME">
+			<Text>Амерыканскі адметны будынак: Кінастудыя</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_MADRASA_NAME">
+			<Text>Аравійскі адметны будынак: Медрэсэ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_GREAT_WALL_NAME">
+			<Text>Кітайскае адметнае паляпшэнне: Вялікі мур</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_SPHINX_NAME">
+			<Text>Егіпецкае адметнае паляпшэнне: Сфінкс</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_EGYPTIAN_CHARIOT_ARCHER_NAME">
+			<Text>Егіпецкая адметная адзінка: Марыану</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_CHINESE_CROUCHING_TIGER_NAME">
+			<Text>Кітайская адметная адзінка: Затоены тыгр</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_CHATEAU_NAME">
+			<Text>Французскае адметнае паляпшэнне: Шато</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_HANSA_NAME">
+			<Text>Германскае адметнае мястэчка: Ганза</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_ACROPOLIS_NAME">
+			<Text>Грэцкае адметнае мястэчка: Акропаль</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_GREEK_HOPLITE_NAME">
+			<Text>Грэцкая адметная адзінка: Гопліт</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_STEPWELL_NAME">
+			<Text>Індыйскае адметнае паляпшэнне: Вадасховішча</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_ELECTRONICS_FACTORY_NAME">
+			<Text>Японскі адметны будынак: Фабрыка электронікі</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_JAPANESE_SAMURAI_NAME">
+			<Text>Японская адметная адзінка: Самурай</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_MBANZA_NAME">
+			<Text>Адметнае мястэчка Конга: Мбанза</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_STAVE_CHURCH_NAME">
+			<Text>Нарвежскі адметны будынак: Каркасная царква</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_BATH_NAME">
+			<Text>Рымскае адметнае мястэчка: Лазні</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_ROMAN_LEGION_NAME">
+			<Text>Рымская адметная адзінка: Легіён</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_KONGO_SHIELD_BEARER_NAME">
+			<Text>Адметная адзінка Конга: Нгао-мбеба</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_LAVRA_NAME">
+			<Text>Расейскае адметнае мястэчка: Лаўра</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KURGAN_NAME">
+			<Text>Скіфскае адметнае паляпшэнне: Курган</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_SCYTHIAN_HORSE_ARCHER_NAME">
+			<Text>Скіфская адметная адзінка: Сакі </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_MISSION_NAME">
+			<Text>Гішпанскае адметнае паляпшэнне: Місія</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_SPANISH_CONQUISTADOR_NAME">
+			<Text>Гішпанская адметная адзінка: Канкістадор</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_RUSSIAN_COSSACK_NAME">
+			<Text>Расейская адметная адзінка: Казак</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_ZIGGURAT_NAME">
+			<Text>Шумерскае адметнае паляпшэнне: Зікурат</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_SUMERIAN_WAR_CART_NAME">
+			<Text>Шумерская адметная адзінка: Баявая фурманка</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_INDIAN_VARU_NAME">
+			<Text>Індыйская адметная адзінка: Вару</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_ENGLISH_SEADOG_NAME">
+			<Text>Ангельская адметная адзінка: Пірат</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_ARABIAN_MAMLUK">
+			<Text>Аравійская адметная адзінка: Мамлюк</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_FRENCH_GARDE_IMPERIALE_NAME">
+			<Text>Французская адметная адзінка: Гвардзія імператара</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_GERMAN_UBOAT_NAME">
+			<Text>Германская адметная адзінка: Субмарына U-Boat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_AMERICAN_P51_NAME">
+			<Text>Амерыканская адметная адзінка: P-51 Мустанг</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_BRAZILIAN_MINAS_GERAES_NAME">
+			<Text>Бразіская адметная адзінка: Мінас жэрайс</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_NORWEGIAN_BERSERKER_NAME">
+			<Text>Нарвежская адметная адзінка: Берсерк</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_STREET_CARNIVAL_NAME">
+			<Text>Бразільскае адметнае мястэчка: Вулічны карнавал</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ROYAL_NAVY_DOCKYARD_NAME">
+			<Text>Ангельскае адметнае мястэчка: Каралеўскія марскія верфі</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
+

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- improvements_text -->
+<!-- Author: Reiko -->
+<!-- DateCreated: 6/24/2018 5:00:15 PM -->
+<GameData>
+	
+	<!--Improvements Description-->
+	<Replace Language="en_US" Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_DESCRIPTION">
+		<Text>Стварае варвараў. Знішчэнне дае [ICON_Gold] золата. -1 прэстыж.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_IMPROVEMENT_BEACH_RESORT_DESCRIPTION">
+		<Text>Выкарыстаць здольнасць будаўнікоў для будавання марскога курорта.[NEWLINE][NEWLINE]Дае [ICON_Tourism] турызм роўны прэстыжу гекса. Можна пабудаваць толькі на пустэльным узбярэжжы, раўнінным узбярэжжы або сенажатном узбярэжжы. Патрэбен узровень прэстыжу не менш за захапляльны.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_IMPROVEMENT_FARM_DESCRIPTION">
+		<Text>Выкарыстаць здольнасць будаўнікоў для будавання хаты.[NEWLINE][NEWLINE]+1 [ICON_Food] ежа. Можна пабудаваць толькі на раўніне ці сенажаці.[NEWLINE][NEWLINE]Хаты суседнія з іншымі хатамі даюць бонуснае жытло.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MINE_DESCRIPTION">
+		<Text>Выкарыстаць здольнасць будаўнікоў для будавання рудні.[NEWLINE][NEWLINE]+1 [ICON_Production] вытворчасць. -1 Прэстыж. Можна пабудаваць толькі на ўзгорку і адпаведным рэсурсе.[NEWLINE][NEWLINE]Рудня пабудаваная на рэсурсе забяспечвае горад гэтым рэсурсам.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_IMPROVEMENT_QUARRY_DESCRIPTION">
+		<Text>Выкарыстаць здольнасць будаўнікоў для будавання каменяломні.[NEWLINE][NEWLINE]+1 [ICON_Production] вытворчасць. -1 Прэстыж. Можна пабудаваць толькі на адпаведным рэсурсе.[NEWLINE][NEWLINE]Каменяломня пабудаваная на рэсурсе забяспечвае горад гэтым рэсурсам.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_IMPROVEMENT_FISHING_BOATS_DESCRIPTION">
+		<Text>Выкарыстаць здольнасць будаўнікоў для будавання рыбацкага чоўна.[NEWLINE][NEWLINE]+1 [ICON_Food] ежа. Можна пабудаваць толькі на адпаведным рэсурсе.[NEWLINE][NEWLINE]Рыбацкі човен пабудаваны на рэсурсе забяспечвае горад гэтым рэсурсам.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_IMPROVEMENT_PASTURE_DESCRIPTION">
+		<Text>Выкарыстаць здольнасць будаўнікоў для будавання пашы.[NEWLINE][NEWLINE]+1 [ICON_Production] вытворчасць. Можна пабудаваць толькі на адпаведным рэсурсе.[NEWLINE][NEWLINE]Паша пабудаваная на рэсурсе забяспечвае горад гэтым рэсурсам.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_IMPROVEMENT_PLANTATION_DESCRIPTION">
+		<Text>Выкарыстаць здольнасць будаўнікоў для будавання плантацыі.[NEWLINE][NEWLINE]+2 [ICON_Gold] золата. Можна пабудаваць толькі на адпаведным рэсурсе.[NEWLINE][NEWLINE]Плантацыя пабудаваная на рэсурсе забяспечвае горад гэтым рэсурсам.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CAMP_DESCRIPTION">
+		<Text>Выкарыстаць здольнасць будаўнікоў для будавання паляўнічага лагера.[NEWLINE][NEWLINE]+1 [ICON_Gold] золата. Можна пабудаваць толькі на адпаведным рэсурсе.[NEWLINE][NEWLINE]Паляўнічы лагер пабудаваны на рэсурсе забяспечвае горад гэтым рэсурсам.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_IMPROVEMENT_LUMBER_MILL_DESCRIPTION">
+		<Text>Выкарыстаць здольнасць будаўнікоў для будавання лесапільні.[NEWLINE][NEWLINE]+1 [ICON_Production] вытворчасць. +1 [ICON_Production] вытворчасць калі месціцца каля ракі. Можна пабудаваць толькі ў лесе.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_IMPROVEMENT_OIL_WELL_DESCRIPTION">
+		<Text>Выкарыстаць здольнасць будаўнікоў для будавання нафтавай свідравіны.[NEWLINE][NEWLINE]-1 прэстыж. Можна пабудаваць толькі на рэсурсе [ICON_RESOURCE_OIL] нафты.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_IMPROVEMENT_OFFSHORE_OIL_RIG_DESCRIPTION">
+		<Text>Выкарыстаць здольнасць будаўнікоў для будавання марской нафтавай свідравіны.[NEWLINE][NEWLINE]-1 прэстыж. Можна пабудаваць толькі на рэсурсе [ICON_RESOURCE_OIL] нафты.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_IMPROVEMENT_FORT_DESCRIPTION">
+		<Text>Умацаваная адзінка атрымлівае +4 [ICON_Strength] моцы да абароны і +2 крока да ўмацавання.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_IMPROVEMENT_AIRSTRIP_DESCRIPTION">
+		<Text>Выкарыстаць здольнасць вайсковага інжынера для будавання ўзлётнай паласы. Здольна змяшчаць 3 паветраныя адзінкі. Можна пабудаваць толькі на роўнай мясцовасці. -1 прэстыж.</Text>
+	</Replace>
+
+	<!--Unique Improvements Description-->
+	<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CHATEAU_DESCRIPTION">
+		<Text>Выкарыстаць здольнасць будаўнікоў для будавання шато, унікальнага для Францыі.[NEWLINE][NEWLINE]+2 [ICON_Culture] культуры. +1 прэстыж. +2 [ICON_Culture] культуры за суседства з цудам свету. +1 [ICON_Gold] золата за суседства з рэсурсам асалоды. Можна пабудаваць толькі каля ракі.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_IMPROVEMENT_COLOSSAL_HEAD_DESCRIPTION">
+		<Text>Выкарыстаць здольнасць будаўнікоў для будавання гіганцкай галавы.[NEWLINE][NEWLINE]+2 [ICON_Faith] веры. +1 [ICON_Faith] вера за кожнае суседства з 2 джунглямі. +1 [ICON_Faith] вера за кожнае суседства з 2 лясамі. Нельга будаваць у снезе і снежных узгорках.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_IMPROVEMENT_GREAT_WALL_DESCRIPTION">
+		<Text>Выкарыстаць здольнасць будаўнікоў для будавання вялікага мура, унікальнага для Кітая.[NEWLINE][NEWLINE]Павялічвае моц [ICON_Strength] абаронцаў. Бонус [ICON_Gold] золата за суседства з іншым вялікім мурам. Дадатковая [ICON_Culture] культура і [ICON_Tourism] турызм па меры прасоўвання па тэхналагічным дрэве. Павінна быць пабудавана па контуру меж Вашай імперыі.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_IMPROVEMENT_KURGAN_DESCRIPTION">
+		<Text>Выкарыстаць здольнасць будаўнікоў для будавання кургана, унікальнага для Скіфаў.[NEWLINE][NEWLINE]+1 [ICON_Faith] вера. +1 [ICON_Gold] золата. +1 [ICON_Faith] за кожную суседнюю пашу. Нельга будаваць на ўзгорках.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MISSION_DESCRIPTION">
+		<Text>Выкарыстаць здольнасць будаўнікоў для будавання місіі, унікальнай для Гішпаніі.[NEWLINE][NEWLINE]+2 [ICON_Faith] веры. +2 [ICON_Faith] веры на чужым кантыненты. +2 [ICON_Science] навукі за суседства з навуковым мястэчкам.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_IMPROVEMENT_ROMAN_FORT_DESCRIPTION">
+		<Text>Выкарыстаць здольнасць будаўнікоў для будавання рымскага форта, унікальнай для Рыма.[NEWLINE][NEWLINE]Умацаваная адзінка атрымлівае +4 [ICON_Strength] моцы да абароны і +2 крока да ўмацавання.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_IMPROVEMENT_SPHINX_DESCRIPTION">
+		<Text>Выкарыстаць здольнасць будаўнікоў для будавання сфінкса, унікальнага для Егіпта.[NEWLINE][NEWLINE]+1 [ICON_Faith] вера і +1 [ICON_Culture] культура. +1 прэстыж. +2 [ICON_Faith] веры за суседства з цудам свету. Нельга будаваць каля іншага сфінкса. Трэба будаваць на поплаве.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_IMPROVEMENT_STEPWELL_DESCRIPTION">
+		<Text>Выкарыстаць здольнасць будаўнікоў для будавання вадасховішча, унікальнага для Індыі.[NEWLINE][NEWLINE]1 [ICON_Food] ежа і +1 [ICON_Housing] жытло. +1 [ICON_Faith] вера за суседства са святым мястэчкам. +1 [ICON_Food] ежа за суседства з хатай. Нельга будаваць на ўзгорках і поруч з іншым вадасховішчам.</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_IMPROVEMENT_ZIGGURAT_DESCRIPTION">
+		<Text>Выкарыстаць здольнасць будаўнікоў для будавання зікурата, унікальнага для Шумераў.[NEWLINE][NEWLINE]+2 [ICON_Science] навукі. +1 [ICON_Culture] культура за суседства з ракой. Нельга будаваць на ўзгорках.</Text>
+	</Replace>
+
+	<!--Goody Huts -->
+	<Replace Language="en_US" Tag="LOC_GOODYHUT_CULTURE_RELIC_DESCRIPTION">
+		<Text>[COLOR_FLOAT_CULTURE]Узнагарода: рэліквія {1_Relic}[ENDCOLOR]</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_GOODYHUT_MILITARY_GRANT_UNIT_DESCRIPTION">
+		<Text>[COLOR_FLOAT_MILITARY]Узнагарода: выведнік[ENDCOLOR]</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_GOODYHUT_MILITARY_GRANT_UPGRADE_DESCRIPTION">
+		<Text>[COLOR_FLOAT_MILITARY]Ваша адзінка атрымала павышэнне.[ENDCOLOR]</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_GOODYHUT_MILITARY_GRANT_EXPERIENCE_DESCRIPTION">
+		<Text>[COLOR_FLOAT_MILITARY]Ваша адзінка атрымала досвед.[ENDCOLOR]</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_GOODYHUT_MILITARY_HEAL_DESCRIPTION">
+		<Text>[COLOR_FLOAT_MILITARY]Ваша адзінка была вылечана.[ENDCOLOR]</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_GOODYHUT_SCIENCE_ONE_TECH_DESCRIPTION">
+		<Text>[COLOR_FLOAT_SCIENCE]Адна дармовая тэхналогія[ENDCOLOR]</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_GOODYHUT_SURVIVORS_ADD_POP_DESCRIPTION">
+		<Text>+{1_Num} насельніцтва</Text>
+	</Replace>
+	<Replace Language="en_US" Tag="LOC_GOODYHUT_SURVIVORS_GRANT_UNIT_DESCRIPTION">
+		<Text>Узнагарода: {2_Unit} ({1_Num}  {1_Num: plural 1?адзінка; 2?адзінкі; 3?адзінкі; 4?адзінкі; other?адзінак;}).</Text>
+	</Replace>
+
+	<!--Nuclear -->
+	<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MISSILE_SILO_DESCRIPTION">
+		<Text>Выкарыстаць здольнасць вайсковага інжынера для будавання пускавой шахты.[NEWLINE][NEWLINE]Выкарыстоўваецца як пускавая пляцоўка для ядзернай і тэрмаядзернай зброі.</Text>
+	</Replace>
+
+</GameData>
